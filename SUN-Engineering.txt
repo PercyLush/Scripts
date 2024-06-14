@@ -1,0 +1,2711 @@
+Engineering 
+55 
+ In some modules there are outcomes that you must achieve  to pass the module , but that are not part of the 
+formula normally used in a given module to calculate your final mark . To assess your achievement of tho se 
+outcomes,  subminima  are normally used on certain assessments (or parts of assessments) . The outcomes 
+and subminima are made known at the start of the semester (normally in the relevant module framework).  If 
+you do  not satisfy the subminimum  for a certain outcome, it means that you have not met that outcome. In 
+that case, your  final mark for the module may not exceed 45. D uring or after the completion of the 
+semester’s classes it may also become clear that you  can no longer  pass the module because of a 
+subminimum . If that happens,  you will normally not be admitted to further assessment opportunities for the 
+particular module. In examination modules this can lead to your  class mark being limited to 35 or less. 
+4.3  Undergraduate subjects, modules and m odule  
+contents 
+
+
+
+36315 Advanced Design (Civil)  
+
+
+
+446 (15) Design Project (2L; 6P) 
+Each student completes a comprehensive design. The design can be done from any of the three subject 
+areas. The detailed design is done by each student indiv idually. 
+
+Required Modules:  
+P (Hydraulics 354 and Hydraulic Engineering 424) or P (Transportation 364 and Transportation 434) or  
+P (Structural Design 354 and Structural Design 424)  
+
+
+
+20753 Applied Mathematics B 
+
+
+
+124 (15) Statics (4L; 2T)  
+Vectors; forces; sum of forces at a point; direction cosines and direction angles; components and component 
+vectors; scalar products; vector products; moment of a force; force systems on rigid bodies; equivalent force 
+systems; couples; line of action of the resultant; equilibrium of a rigid body; friction; centre of mass; centroid; volumes; definite integration; moment of inertia of areas.  
+
+
+
+
+154 (15) Dynamics ( 3.5L;  3T)  
+Kinematics of particles in o ne and two dimensions : linear and curvilinear motion; Cartesian, polar and 
+cylindrical coordinate systems; normal -tangential coordinates; relative motion; pulley systems. Kinetics of 
+particles : the equations of motion; work and energy; power; impulse and m omentum; impact.  
+
+Required Modules:  
+C Engineering Mathematics 115  
+P Applied Mathematics B 124  
+
+
+
+224 (15) Dynamics of Rigid Bodies (3L; 3T) 
+Planar kine matics of rigid bodies : rotation and translation; absolute motion; relative motion; instantaneous 
+centre of zero velocity; Planar kinetics of rigid bodies: mass moment of inertia; the equations of motion; work and energy; impulse and momentum; angular impulse and angular momentum. Vibrations of particles and rigid bodies.  
+
+Required Modules:  
+P Applied Mathematics 144 or  P Applied Mathematics B 154  Engineering 
+56 
+ 
+
+
+242 (8) Vector Analysis  (2L; 1,5T) 
+The straight line and the plane; space curves, derivatives a nd integrals of vectors, curves, unit tangent 
+vectors, arc length; surfaces, partial derivatives of vectors, the gradient vector, vector fields, vector 
+differential operators; line integrals, gradient fields; surface integrals in the plane, Green’s theorem , surface 
+integrals in space, Stokes’ theorem; volume integrals; Divergence theorem; centres of mass and moments of 
+inertia of 1 -, 2- and 3 -dimensional bodies. 
+
+Required Modules:  
+C Applied Mathematics B 224  
+P Enginee ring Mathematics 145  
+
+
+
+252 (8) Applied Mathematics for Civil Engineers  (2L; 1T) 
+Mathematical modelling: correct identification of problems and specification of assumptions;  formulation of 
+ordinary and partial differential equations; analytical solutions; interpretation of a solution in terms of the 
+initial problem.  
+
+
+
+
+39020 Building Materials  
+
+
+
+254 (15) Basic Building Materials Practice (3 L; 2P; 1T) 
+Composition, manufacturing, mechanical behaviour and durability  of construction materials in civil 
+engineering, including concrete, masonry, polymers, steel and timber; test methods for control and 
+characterisation.  
+
+Required Modules:  
+P Engineering Chemistry 123  or P Engineering Chem istry 143  
+
+
+
+11576 Chemical Engineering 
+
+
+
+224 (15) Principles and Processes of Chemical Engineering (3 L; 3T) 
+Introduction to processes and basic unit operations with their depiction on flow diagrams; principles of mass and energy balancing, phase diagrams; examples of typical chemical manufacturing processes and 
+inherently safer design principles.  
+Home Departmen t: Chemical Engineering 
+Required Modules:  
+P Engineering Chemistry 123  or P Engineering Chemistry 143  
+
+
+
+254 (15) Mass and Energy Balances (3L; 3T) 
+Mass balances, energy balances, heats of reaction and of solution, vapour- liquid and liquid -liquid phase 
+equilibria, ideal solutions, Raoult ’s law, Henry’s constant, energy balances over process systems, combined 
+mass and energy balances.  
+Required Modules:  
+PP Chemical Engineering 224  
+P Thermodynamic s A 224  Engineering 
+57 
+ 
+
+
+264 (15) Fluid Mechanics for Chemical Engineers (3 L; 1P; 2T) 
+2 Practicals per semester  
+Physical properties of liquids and gases; dimensional analysis and related calculations; fluid statics; fluid 
+kinematics; fluid dynamics; continuity, momentum and energy equations; viscous flow in pipes and closed ducts; friction charts; flow in non -round channels; flow measurement; losses in pipe systems, series and 
+parallel pipes; boundary layers; turbomachinery; design of pump and piping systems; compressible flow; 
+pipes and fittings  
+
+Required Module s:  
+P Applied Mathematics B 224  
+P Thermodynamics A 224 
+P Engineering Mathematics 214  
+
+
+
+271 (15) Supplementary Studies A (3 L; 3T) 
+The module content is arranged according to the requirements of individual students.  
+
+
+
+
+316 (15) Reaction Engineering I (3 L; 1P; 2T) 
+1 Practical per semester  
+Mole balance, reaction stoichiometry and conversion; homogeneous reactions; the reaction rate law; 
+principles of reactor design; ideal batch reactors; constant flow reactors: plug flow, continuous stirred tank, 
+packed bed; design for simple and multiple re actions; influence of temperature and pressure; non -ideal flow; 
+residence time distribution; data analysis and modelling of various reaction systems.  
+
+Required Module s:  
+C Chemical Engineering 317  
+P Chemical Engineering 254  
+P Engineering Mathematics 214  
+
+
+
+317 (15) Thermodynamics (3L; 1P; 2T) 
+1 Practical per semester  
+Equations of state for real gases and thermodynamic transformation relationships, thermodynamic 
+properties of pure components, mixing rules for no n-ideal vapour mixtures, vapour liquid equilibria, theory 
+and application of solution thermodynamics  and excess Gibbs energy , chemistry of reaction equilibria, multi-
+component and multi -phase equilibrium. Simulation of selected thermodynamic behaviour , using standard 
+process simulation packages.  
+
+Required Module s:  
+PP Thermodynamics A 224 
+PP Chemical Engineering 254  
+PP Chemical Engineering 264  
+Any two of the above three modules are required.  
+P Thermodynamics A 224 
+P Chemical Engineering 254  
+P Chemical Engineering 264  
+P Engineering Mathematics 214  
+P Engineering Mathematics 242  
+
+
+
+344 (15) Process Modelling and Analysis  (3L; 2T) 
+Dynamic modelling and simulation of single and integrated process units. Laplace domain modelling and block diagram representations. Process data analysis and introduction to machine learning.  
+
+Required Module s:  
+PP En gineering Mathematics 214  
+P Engineering Statistics 243  
+P Numerical Methods 262  
+C Chemical Engineering 316  Engineering 
+58 
+ 
+
+
+354 (15) Reaction Engineering II (3 L; 2T) 
+Reaction mechanisms. Energy balances in reactor design; design of complex homogeneous and/or 
+heterogeneous non -isothermal reaction systems; catalytic reactions; deactivation of catalysts; external and 
+internal mass transfer.  
+
+Required Modules:  
+P Chemical Engineering 316  
+P Heat Transfer A 326  
+
+
+
+367 (15) Mass Transfer Operations (3L; 2T) 
+Distillation: batch and continuous distillation; McCabe -Thiele graphical method; multicomponent, extractive 
+and pressure- swing distillation; plate and packed columns; gas absorption; other mass transfer unit 
+operations consisting of a selection from: cooling towers, drying, liquid- liquid extraction, crystallisation and 
+adsorption.  
+
+Required Modules:  
+P Chemical Engineering 317  
+
+
+
+371 (15) Supplementary Studies (1L ) 
+The module content is arranged according to the requirements of individual students.  
+
+
+
+
+424 (15) Bioprocess Engineering (3 L; 1P; 2T) 
+1 Practical per semester  
+Chemical composition of cells; cellular structure and classification; nutrient requirements; metabolic 
+macromolecules, their structures and functions; energy generation, storage and transfer; basic cellular 
+metabolism; basic recombinant DNA technology; process design equations for batch, fed- batch and 
+continuous bioprocesses; endogenous respiration and energy  of maintenance concepts; measurement and 
+prediction of oxygen transfer rate; bioreactor scale -up; thermal death and degradation kinetics; batch and 
+continuous sterilisation; downstream processing. 
+
+Required Modules:  
+P Chemical Engineering 254 
+C Chemical Engineering 316  
+
+
+
+426 (15) Process Control (3L; 1P; 2T) 
+1 Practical per semester  
+Control objectives, feedback control and dynamic performance of control systems, digital and practical implementation of feedback control, enhancements to single loop feedback control, multivariable control, 
+simulation/design of control design, simulation/design of control systems . 
+
+Required Modules:  
+PP Engineering Mathematics 242  
+P Chemical Engineering 316  
+P Chemical Engineering 344  
+
+
+
+41696 Chemical Engineering D  
+
+
+
+316 (8) Laboratory and Pilot Studies I (2 T; 6P) 
+2 Practicals per semester  
+Introduction to experimental design. Processing, interpretation and reporting of experimental data. Effective technical communication. Appropriate technical writing style and referencing. Structuring and writing of 
+coherent technical reports. Structuring and delivering oral presentations.  
+
+Required Modules:  
+P Chemical Engineering 264  
+P Engineering Statistics 243  Engineering 
+59 
+ 
+
+
+356 (15) Laboratory  and Pilot S tudies  II (1L; 6P) 
+4 Major practicals per semester  
+Design and conduct practical experiments on laboratory and pilot plant scale. Evaluation, interpretation and 
+writing complete technical reports on the experiments. Sampling and practical data interpretation on chemical plants.  
+[Presented by the Department of Chemical Engineering (85%)]  
+Techniques in analytical chemistry: principles of analysis, choice of analytical method, sample preparation. 
+Selected methods, among others UV/vis, AA and mass spectroscopy, chromatography, ICP (8 l , 3 
+demonstrations).  
+[Presented by the Department of Chemistry and Polymer Science (15%)]  
+
+Required Modules:  
+C Heat Transfer A 326  
+C Chemical Engineering 316  
+C Chemical Engineering 367  
+C Mineral Processing 345  
+P Chemical Engineering D 316  
+
+
+
+11479 Chemistry  
+
+
+
+176 (32) Introduction to Chemistry (3L; 3P) 
+For students in the  BSc (Extended Curriculum Programmes) . This module deals with the following themes: 
+classification of matter; atoms, molecules and ions; stoichiometry; reactions in aqueous solutions; atomic structure; chemical bonding and molecular structure; the periodic table; weak acids and weak bases; 
+electrochemistry; introduction to basic organic chemistry. Examples that illustrate the importance and relevance of science as an everyday phenomenon will be highlighted.  
+
+
+
+
+48321 Chemistry C  
+
+
+
+152 (6) Chemistry Laboratory Practicals  (3P) 
+Development of laboratory skills by performing introductory chemistry experiments.  
+
+Required Modules:  
+P Engineering Chemistry 123  or P Engineering Chemistry 143  
+
+
+
+224 (15) Industrial Chemistry I ( 4L; 2P) 
+8 Practicals per semester  
+Bonding models; solid- state chemistry; introduction to coordination chemistry. Chemical thermodynamics, 
+statistical mechanical understanding of entropy, applications of Gibbs free energy, chemical and phase equilibrium, electrochemistry, colligative properties, elementary chemical kinetics.  
+
+Required Modules:  
+PP Engineering Chemistry 123  or PP Engineering Chemistry 143  
+PP Chemistry C 152  
+
+
+
+254 (15) Industrial Chemistry II (4 L; 2P) 
+8 Practicals per semester  
+Organic chemistry: basic nomenclature, introduction to preparation and reactions of alkenes, alkynes, alkyl halides, alcohols, ketones, carboxylic acids and esters, among others; Introduction to polymer chemistry: chemistry of polymerisation reactions, int er alia  polyesters, polyamides. 
+
+Required Modules:  
+P Chemistry C  224 Engineering 
+60 
+ 
+
+
+18481 Civil Engineering  
+
+
+
+224 (15) Measurement, Problem-solving and Communication skills (3 L; 2,5T ) 
+Problem solving theory and practice; outcome prediction and assessment; risk evaluation and mitigation; 
+complexity and uncertainty. Effective written and oral communication; development of s ound argument; 
+synthesis and interpretation; paraphrasing, quoting and referencing.  Utilisation of data: Microsoft Excel  
+functions, data visualisation tools, basic data sets . Introduction to statistics: discrete and continuous random 
+variables, medians, st andard deviation.  
+
+Required Modules:  
+P Engineering Mathematics 115  
+
+
+
+13362 Complementary Studies (Eng)  
+
+
+
+311 (4 ) Community Interaction and Leadership Development (3T) 
+Community interaction in the context of Stellenbosch University and South Africa. Contextual leadership 
+themes, challenges and opportunities.  
+
+Required Modules:  
+Must be in at least the third year of registration in a four -year BEng programme, or in at least the fourth year of 
+registration in a BEng extended curriculum programme . 
+
+
+
+441 (4 ) Community Interaction and Leadership Development (3T) 
+Community interaction in the context of Stellenbosch University and South Africa. Contextual leadership themes, challenges and opportunities . 
+
+Required Modules:  
+Must be in at least the third year of registration in a four -year BEng programme , or in at least the fourt h year of 
+registration in a BEng extended curriculum programme .  
+
+
+
+451 (4) Legal and Safety Aspects of Engineering Practice (2L)  
+Contract and intellectual property aspects of engineering practice. Public liability considerations in product development and production. Safety considerations and implications of the Occupational Health and Safety 
+Act in engineering practice.  
+
+
+
+
+30317 Computer Programming  
+
+
+
+143 (12) Computer Programming (3 L; 2P) 
+Introduction to computer systems. Introduction to a programming environment; expressions; conditional 
+statements; iterative structures; data types; static and dynamic data structures; file handling; abstract data 
+types; objects; structured program design. Emphasis is placed on modular programming for engineering 
+applications.  
+[Presented by the Department of Electrical and Electronic Engineering (75%) and by the Department of Mechanical and Mechatronic Engineering (25%)]  
+
+
+
+
+18139 Computer Science  
+
+
+
+314 (16) Concurrency (3L; 3P) 
+Introduction to programming techniques and principles of concurrent systems, from operating systems to 
+application programs. This includes communication, synchronisation, scheduling and load balancing. Several 
+parallel and distributed architectures will be covered.  
+
+Required modules:  P Computer Science 214  or P Computer Science E 214  
+P Computer Science 244  or P Computer Systems 245  Engineering 
+61 
+ 
+
+
+315 (16) Machine Learning (3L; 3T) 
+Dimension reduction techniques; machine -learning techniques based on maximum- likelihood, maximum-
+posterior and expectation -maximi sation estimates; modelling using logistic regression, Gaussian mixtures 
+and hidden Markov models. 
+
+Required Modules:  
+For programmes in Engineering:  
+P Computer Science 144 or P Computer Science E 214  
+P Mathematics 214 or P Applied Mathematics 214 or P Engineering Mathematics 214  
+P (Mathematical Statistics  245 and Mathematical Statistics 246) or P Systems and Signals 344  
+
+
+
+343 (16) Databases and Web Centric Programming (3L; 3P) 
+Introduction to relational databases. Mapping relational model onto object model. Implementing a database 
+application in the context of the web. Web services.  Server- side scalability. Virtualization. Cloud Computing. 
+
+Required Modules:  
+For programmes in Engineering:  
+P Computer Science E 214  
+P Computer Systems 245  
+For other programmes: please refer to the Yearbook part for the Faculty of Science. 
+
+
+
+344 (16) Program Design (3L; 3P)  
+Program specifications as guidelines for program design; reusable frameworks for program design; testability of program designs; developmen t of a medium -sized system to illustrate the practical application 
+of the principles of program design.  
+
+Required Modules:  
+P Computer Science 214 or P Computer Science E 214  
+
+
+
+59536 Computer Science E  
+
+
+
+214 (15) Object -Oriented Programming (3L; 3P) 
+Formulation and solution of problems by means of computer programming in an object- oriented set-up; 
+principles of testing and debugging; key concepts in object orientation: abstraction, encapsulation, 
+inheritance and polymorphism; design patterns as abstra ctions for the creation of reusable object- oriented 
+designs; searching and sorting algorithms; complexity theory for the analysis of algorithms; fundamental 
+methods in the design of algorithms; dynamic data structures.  
+
+Required Modules:  
+PP Computer Programming 143  
+P Engineering Mathematics 115  
+P Engineering Mathematics 145  
+
+
+
+414 (15) Machine Learning (3L; 3T)  
+This module is identical  to Machine Learning A 742 .  
+Prominent  machine learning concepts and tasks. Selected feature extraction or dimensionality reduction 
+techniques. Introduction to probabilistic modelling and latent variable models. Fundamental paradigms in parameter estimation.  
+
+Required Modules:  
+P Computer Science E 214  or P Computer Science 144  
+P Mathematics 214 or P Applied Mathematics 214 or P Engineering Mathematics 214  
+P (Mathematical Statistics 245 and Mathematical Statistics 246)  or P Systems and Signals 344  Engineering 
+62 
+ 
+
+
+50040 Computer Skills  
+
+
+
+176 (8) Computer Skills  (1L; 4T) 
+This module is taken by students in the BSc (Extended Curriculum Programme s). Utilisation of computers in 
+computer users’ areas on campus. Introduction to an operating system, Internet, E -mail, word processing, 
+spreadsheet and presentation software.  
+Home  Department: Mathematical Sciences  
+
+
+
+36153 Computer Systems  
+
+
+
+214 (15) Introduction to Computer Systems (3 L; 2P; 1T) 
+Boolean algebra; combinational and sequential circuit analysis and design; state machines; central 
+processing unit; assembler language programming . 
+
+Required Modules:  
+P Computer Programming 143  or P (Computer Science 114 and Computer Science 144)  
+
+
+
+245 (15) Microprocessors (3L; 3P) 
+Microprocessor programming; basic microprocessor architecture; bus, memory and input- output systems.  
+
+Required Modules:  
+C Computer Systems 214  
+
+
+
+414 (15) Computer Systems (3 L; 1P; 1T) 
+Programmable logic; hardware description languages; embedded systems; computer networks.  
+
+Required Modules:  
+C Computer Systems 245  
+
+
+
+23965 Control Systems 
+
+
+
+314 (15) Classical Control Systems (3L; 1,5P; 1,5T ) 
+Classical feedback control of dynamic systems; feedback control architecture; dynamic modelling of 
+mechanical, electronic and electro- mechanical systems; transfer functions; block diagrams; stability; 
+transient effects and steady state error; root locus analysis and  
+design; freq uency response analysis and design; PID controllers; lead and lag compensation.  
+
+Required Modules:  
+C Engineering Mathematics 214  
+
+
+
+344 (15) Modern Control Systems (3L; 1,5P; 1,5T ) 
+Continuous state space models, analysis and synthesis; continuous estimators; transient and steady state response of state variable representations; pole placement for finite time responses; Discrete systems, Z -
+transforms; ZOH circuits, difference equations; emulation design; discrete root locus; discrete state space analysis and design; practical issues: A/D and D/A convertors, quantisation effects and anti -aliasing filters.  
+
+Required Modules:  
+C Control Systems 314  Engineering 
+63 
+ 
+
+
+354 (18) Design of Control Systems for Mechanical and Mechatronic Systems  
+(4L; 1P; 2T) 
+Design of control systems: PID controllers; lead and lag compensation; frequency response analysis design. 
+Continuous state space models, analysis and synthesis; continuous estimators; transient and steady state response of state variable representations; pole placement techniques. Discrete control systems, Z-
+transforms; ZOH circuits; difference equations; practical considerations: A/D and  D/A converters and filters. 
+Until 2021: Root locus design; discrete root locus.  
+From 2022 : Bode and polar plot diagrams   
+
+Required Modules:  
+P Modelling 334  
+
+
+
+414 (15) Non -linear Control Systems (3 L; 1P; 1T) 
+Modelling of non- linear systems; analysis and synthesis using describing functions, phase plane and 
+Lyapunov methods. Discrete state -variable models for sampled plants, pole placement feedback and 
+observer analysis and synthesis for regulators and servo  trackers. Optimal LR and Kalman observer analysis 
+and synthesis.  
+
+Required Modules:  
+C Control Systems 344  
+
+
+
+13856  Data Analytics (Eng)  
+
+
+
+324 (15) Statistics and Data Analytics  for Civil Engineers (3L; 2,5T)  
+Offered from 2021.  
+Probability distributions, sampling theory, correlation analysis, statistic al inference, regression . Formal data 
+analytics processes: goal definition, data pre -processing, mining and modelling, validation and evaluation . 
+Data cleaning: filtering, handling of missing data, inconsistency detection, outlier removal, data normalisation, 
+reduction. Introducti on to machine learning: supervised and unsupervised learning.  
+[Presented by: Statistics and Actuarial Science (50%) and Electrical and  Electronic Engineering (50%)] 
+
+Required Modules:  
+P Civil Engineeri ng 224  
+PP Engineering Mathematics 115  
+PP Engineering Mathematics 145  
+
+
+
+344 (15) Data Analytics Applications in Industrial Engineering (3L; 2P; 1T) 
+The need for data analytics; formal data analytics processes , including CRISP -DM and KDD; data cleaning 
+and data transformation with dimension reduction; supervised learning: regression, k -nearest neighbours, 
+decision trees , random forests; unsupervised learning: k -means; data- driven decision -making; group project.  
+[Presented by the Department of Industrial Engineering ( 78%) and the Department of Mechanical and 
+Mechatronic Engineering ( 22%)] 
+
+Required Modules:  
+PP Engineering Mathematics 214  
+P Engineering Statistics 314  or P P robability Theory and Statistics 114 or P Modelling 334 followed  in 2021 or later  
+
+
+
+414 (15)  Data Analytics  Applications in Electrical and  Electronic Engineering  
+(3L; 1P; 1 T) 
+The goal of data analytics and machine learning; data cleaning and preparation; training, validation and test sets; regression: linear regression; classification: K -nearest neighbours, naive Bayes, logistic regression, 
+decision trees; unsupervised learning: K -means; data visualisation: PCA, t -SNE; a brief introduction to neural 
+networks; group project.  
+
+Required Modules:  
+P Engineering Mathematics 214  
+P Systems and Signals 344 or P Mathematical Statistics 214  Engineering 
+64 
+ 
+
+
+14019 Data Engineering  
+
+
+
+245 (12) Big Data Platforms  (3L; 1P; 1T) 
+The various technologies and infrastructure required to support effective decision -making based on big data, 
+including databases for big data, data warehouses, data platforms, data streams, data fusion and data 
+visualisation.  
+
+Required Modules:  
+P Computer Programming 143  or P Computer Science 144  
+
+
+
+414 (15) Fundamentals of Deep Learning (3L; 1,5P; 1,5T) 
+Fundamentals of neural networks and their application in engineering problems. Limitations of neural 
+networks. Design of f eed- forward neural networks, auto -encoders, convolutional neural networks and 
+recurrent neural networks.  Technical report writing. A m ajor design assignment  that also involves 
+experiments for validation, culminating in a report. 
+
+Required Modules:  
+P Engineering Mathematics 214 or P Mathematics 214 or P Applied Mathematics 214  
+P Systems and Signals 344 or P Mathematical Statistics 214  
+
+
+
+424 (15) Probabilistic Graphical Models for Machine Learning (3L; 1P; 1T ) 
+Representation: reasoning patterns, Bayes nets, Markov random fields, templates and temporal models. 
+Inference: elimination, sum product, max product, max sum and junction tree algorithms. Learning: maximum 
+likelihood, maximum posterior, Bayesian learning. Designing algorithms to implement the aforementioned.  
+
+Required Modules:  
+P Systems and Signals 344 or P Mathematical Statistics 245  
+
+
+
+14026  Data Science  
+
+
+
+141 (16) Data Science  (4L; 2P) 
+Fundamental data science concepts; d ata-analytic thinking; t ypes of data; the data cyc le; CRISP data mining 
+process; d escribing a dataset numerically; d escribing a dataset graphically; o rganising data; f ile formats; d ata 
+manipulation in R software; introduction to predictive modelling; o verfitting; data leakage; model evaluation; 
+other data science tasks and techniques; d ata ethics ; communicating results.  
+
+
+
+
+46833 Design (E)  
+
+
+
+314 (15) Digital Design (1 L; 3P) 
+Design philosophy; design techniques; milestones; data interpretation; development of simple software and 
+hardware in order to demonstrate a small functional microprocessor system; debugging of digital circuits; 
+report writing.  
+
+Required Modules:  
+C Computer Systems 245  
+
+
+
+344 (15) Electronic Design (1L; 3P) 
+Design of a complex electronic system with circuit and software components; problem solution; application 
+of scientific and engineering kno wledge; design techniques for software and circuits; experiments; data-
+interpretation; fault diagnosis; use of equipment and software; independent learning; technical report writing. 
+
+Required Modules:  
+C Electronics 315  
+C Computer Science E 214  Engineering 
+65 
+ 
+
+
+47929 Design Project  
+
+
+
+488 (48) Design (9T) 
+Methods of process design (including heuristics), inherently safe design, control, plant layout, process flow 
+sheets, complex plant material and energy balances, piping and instrumentation diagrams, equipment 
+selection, risk management, HAZOP studies, cost estimation and profitability. Application of procedural and 
+non- procedural methods to develop the best process for a major plant design, and factors and criteria 
+invol ved. The identification, formulation, analysis and solution of a complex process -plant design problem 
+through the synthesis of unit operations, including application of mathematical, natural and engineering sciences and appropriate engineering methods and tools.  
+
+Required Modules:  
+Final -year Enrolment  
+
+
+
+11949 Electrical Drive Systems 
+
+
+
+324 (15) Principles of Electrical Machines and Power Electronics (3 L; 1P; 2T) 
+Non- ideal transformer model; introduction to machine principles; alternating current machine principles; 
+basic working in the steady state of synchronous generators, synchronous motors and induction motors; 
+inverter- fed induction machine drives; basic working in the steady state of direct current motors and direct 
+current generators; converter -fed direct current machine drives; basic working of single -phase induction 
+motors ; introduction to electrical energy storage technologies . 
+
+Required Modules:  
+C Electrotechnique  214 
+
+
+
+51357 Electromagnetics  
+
+
+
+314 (15) Electromagnetics (3 L; 1P; 2T) 
+Electrostatics; magnetostatics; Ohmic conduction; Lorentz force law; laws of Coulomb, Ampère, Faraday and 
+Gauss; Maxwell’s equations; capacitance; inductance.  
+
+Required Modules:  
+C Applied Mathematics B 224  
+C Applied Mathematics B 242  
+
+
+
+344 (15) Electromagnetics (3L; 1,5P;  1,5T) 
+Maxwell’s equations; electromagnetic waves; transmission lines; antennas.  
+
+Required Modules:  
+C Electromagnetics 314  
+
+
+
+39802 E lectronic Engineering  
+
+
+
+152 (6) Introduction to Electronic D esign  (3T) 
+Basic structured electronic design and synthesis.  
+
+
+
+
+12491 Electronics  
+
+
+
+245 (15) Electronics (3L; 1P; 2T) 
+Semiconductor physics; pn junctions; diode circuits ; thyristors; bipolar transistors; MOSFETs; DC biasing of 
+transistor circuits; transistor switches; logical gates . 
+
+Required Modules:  
+C Systems and Signals 214 or  C Electrotechnique  214 Engineering 
+66 
+ 
+
+
+315 (15) Electronics (3L; 1,5P; 1,5T) 
+BJT, FET and power amplifiers; frequency response of  transistor amplifiers; current sources ; differential and 
+operational amplifiers . 
+
+Required Modules:  
+C Electronics 245  
+
+
+
+344 (15) Introduction to Elec tronics (3 L; 1,5P; 1,5T) 
+2021: Only offered for students repeating this module.  
+Semi- conductor physics; pn junctions; diode circuits; bipolar transistors; small signal dynamic transistor 
+models.  
+
+
+
+
+414 (15) Electronics (3L; 1P; 1T) 
+The terminal properties of power electronic switches; basic DC- to-DC converters: the buck, boost and buck -
+boost converters; half -bridge  and full-bridge converters; switch -mode power supplies; basic inductor and  
+transformer design; simulation and closed -loop control of converters ; DC-to-AC inverters and control; the 
+converter -fed DC machine system; the converter -fed induction machine system .  
+
+Required Modules:  
+C Electronics 315 
+C Control Systems 314  
+
+
+
+12599 Electrotechnique  
+
+
+
+143 (15) Introduction to Circuit Theory (3,5L; 1P; 2T) 
+Introduction to basic circuit terminology and elements, including  dependent sources; Ohm’s law, Kirchhoff’s 
+laws; node -voltage analysis and mesh -current analysis; superposition; Thévenin and Norton equivalents; 
+basic DC power and energy concepts; introduction to capacitors and inductors; first- order RC and RL circuit 
+steady- state and transient analysis; modelling of physical systems using RL and RC circuits; introduction to 
+magnetic circuits . 
+
+
+
+
+214 (15) Electro technique (3 L; 1P; 2T) 
+Sinusoidal sources; phasors; instant aneous, average , real and reactive power; passive circuit elements in the 
+frequency domain; balanced three -phase circuits; first - and second -order transfer functions; Bode plots; 
+cascade d circuits; resonance; ideal filters; ideal operational amplifiers . 
+
+Required Modules:  
+C Electrotechnique  143 
+
+
+
+43915 Energy Systems  
+
+
+
+244 (15) Electrical Energy Systems (3 L; 0,5P; 2,5T) 
+Introduction to power systems; single and three -phase alternating current theory; power transformers; per-
+unit system; modelling of transmission lines; steady -state operation of transmission lines ; power flow studies .  
+
+Required Modules:  
+C Systems and Signals 214  
+
+
+
+344 (15) E nergy Conversion (3L;  1P; 2T) 
+Introduction to electrical machine systems; DC machine principles; steady- state operation of DC machines; 
+AC machine principles ; steady- state operation of synchronous and induction machines; finite element 
+modelling and analys is of electrical machines; basic control aspects of DC and induction machines; dq0 
+transformation; dq0 AC machine modelling and dynamics.  
+
+Required Modules:  
+C Energy Systems 244  Engineering 
+67 
+ 
+
+
+414 (15) Renewable Energy Systems (3L; 0 ,5P; 1,5T) 
+Introduction to renewable energy resources; principle of renewable energy power conversion; commercially 
+viable renewable energy technologies; renewable energy system sizing and design; maximum power point 
+control  technology; power conditioning and grid integration of renewable energy systems; economic 
+benefits and environmental impact assessment.  
+
+Required Modules:  
+C Energy Systems 344  
+
+
+
+424 (15) Electrical Energy Systems (3 L; 0,5P ; 1,5T) 
+Power systems: symmetrical components; symmetric and asymmetric faults, protection systems; power system stability. High voltage: HV measuring equipment; measuring techniques and tests; insulation 
+coordination; t heory and characteristics of insulating materials; electrical discharges.  
+
+Required Modules:  
+C Energy Systems 244  
+C Energy Systems 344  
+
+
+
+51365 Energy Systems M  
+
+
+
+434 (15) Mechanical Energy Systems (3 L; 1P; 2T) 
+Thermodynamic relationships for ideal and non -ideal gases, Joule -Thompson throttling effect; further 
+applications of air-water- vapour mixtures in the psychrometrics of air conditioning systems and cooling 
+towers; mass and energy balances for react ive systems; the principles of internal combustion engines. Boiler, 
+pump and atmospheric cooling systems; advanced analysis of vapour and combination power cycles; Stirling cycle; high -pressure water and pebble bed modular nuclear reactor -based cycles; introduction to solar 
+energy; analytical determination of available radiant energy; central collector; parabolic trough and solar chimney power station cycles. Wind and ocean energy.  
+
+Required Modules:  
+P Fluid Mechanics 244  
+P Thermodynamics A 214  
+
+
+
+49484 Engineering Chemistry 
+
+
+
+123 (15) Chemistry for Engineering Students ( 4L; 2T) 
+Basic concepts, units and dimensions, significant figures, conversion between unit systems; components of matter, atomic structure, the periodic table and chemical bonding; stoichiometry; chemical reactions (acid-
+base, precipitation and redox); properties of mixtures and solutions; chemical equilibrium; electrochemistry; 
+gas laws,  state functions and the relationships betw een T, P and V ; introduction to basic engineering 
+applications.  
+
+Required Modules:  
+C Engineering Mathematics 115  
+ 
+
+
+
+143 (15) Chemistry for Engineering Students  (Supplementary Module) ( Hybrid Format) 
+Basic concepts, units  and dimensions, significant figures, conversion between unit systems; components of 
+matter, atomic structure, the periodic table and chemical bonding; stoichiometry; chemical reactions (acid -
+base, precipitation and redox); properties of mixtures and solut ions; chemical equilibrium; electrochemistry; 
+gas laws, state functions and the relationships between T, P and V ; introduction to basic engineering 
+applications.  
+
+Required Modules:  
+C Engineering Chemistry 123 (must be completed in the same academic year  as Engineering Chemistry 143. This 
+implies that if you fail Engineering Chemistry 143, you must take Engineering Chemistry  123 again. ) 
+Departmental approval: Registration depends on your overall academic record and the available  capacity.  
+ Engineering 
+68 
+ 
+
+
+46825 Engineering Drawings  
+
+
+
+123 (15) Orthographic Drawings (1L; 3P; 3T) 
+Projection planes; points, lines and planes in space; trace points of lines and trace lines of planes; true 
+lengths and true angles  between lines and planes; true angles between planes; new projection planes; 
+interpenetrations; developments; isometric projections. Works drawings: 1st - and 3rd -angle projections; line 
+alphabet; dimensioning; scale; three -view drawing layout; auxiliary v iews; hidden detail; introduction to 
+sections and cross -hatching. Introduction to 2D CAD and 3D parametric CAD.  
+
+
+
+
+143 (15) Orthographic Drawings ( Supplementary M odule ) (Hybrid Format ) 
+Projection planes; points, lines and planes in space; trace points of lines and trace lines of planes; true lengths and true angles between lines and planes; true angles between planes; new projection planes; 
+interpenetrations; developments; isometric projections. Works drawings: 1st - and 3rd -angle projections; line 
+alphabet; dimensioning; scale; three -view drawing layout; auxiliary views; hidden detail; introduction to 
+sections and cross -hatching . Introduction to 2D CAD and 3D parametric CAD.  
+Home Departm ent: Mechanical and Mechatronic Engineering 
+Required Modules:  C Engineering Drawings 123  (must be completed in the same academic year  as Engineering Drawings 143 . This 
+implies that if you fail Engineering Drawings 143, you must  take Engineering Drawings 1 23 again. ) 
+Departmental approval: Registration  depends on your  overall academic record and the available  capacity.
+ 
+
+
+
+18791 Engineering Econom ics 
+
+
+
+212 (8) Engineering Economics  (2L; 2T) 
+Introduction to accounting: financing, tax and growth of a business. Income, balance sheet and cash flow statements. Financial ratios. 
+
+
+
+
+354 (15) Engineering Economics (3L; 3T) 
+The capital cycle, time value of money, discounted cash flow, equivalence and returns, after tax cas h flow 
+analyses, inflation and exchange rates. Working capital cycles, the cost of capital, cost accounting, budgets. 
+Introduction to the macro economy and the SA budget.  
+
+Required Modules:  
+P Engineering Economics 21 2 
+
+
+
+59552 Engineering Geology  
+
+
+
+214 (15) Geology for Civil Engineers (3L; 3P) 
+This module does not grant admission to Geology 224, 244 and 254.  
+Identification of, classification of and distinguishing between the common rock -forming minerals, based on 
+their ch emistry and crystal structure. Classification of and distinguishing between the various sedimentary, 
+igneous and metamorphic types. The basic processes affecting the earth and how they are interrelated 
+through the paradigm of plate tectonics. Geological time and how the rock record preserves a history of past 
+geological events. The general geological history and stratigraphy of southern Africa. General landscape-
+forming processes, weathering, etc. Engineering geology of South Africa and most common geotechn ical 
+constraints. Surveying techniques, including acquisition and analysis of spatial data; projections, coordinates 
+and mapping; land surveying and 3D measurement utilising GIS, GPS and Total Station techniques.  
+Presented by: Earth Sciences (30%) and Civi l Engineering (70%)  
+
+Required Modules:  
+P Engineering Chemistry 123  or P Engineering Chemistry 143  Engineering 
+69 
+ 
+
+
+59560 Engineering Informatics  
+
+
+
+244 (15) Object -Oriented Programming and Modelling (3L; 2,5T ) 
+Basic concepts of object- oriented programming, illustrated through engineering applications of machine 
+learning, data analytics and discrete simulation models.  
+
+Required Modules:  
+P Computer Programming 143  
+
+
+
+314 (15) Foundation of the Finite Element Method (3L; 2,5T ) 
+Boundary value problems and integral forms of physical problems, Galerkin  finite element methods for the 
+solution of these problems, solution of syst ems of linear equations, implementation of a finite element object 
+model.  
+
+Required Modules:  
+P Engineering Informatics 244  
+P Applied Mathematics B 242  
+P Strength of Materials 254  
+
+
+
+51373 Engineering Management  
+
+
+
+454 (15) Engineering Economics and Professional Practice (5L; 1T) 
+Engineering economics: basic concepts, time value of money; relation between present, future and serial 
+values; cash flow. Economic analysis, comparison and decision -making among alternatives: net p resent 
+value, internal rate of return, cost/benefit models, handling of risk. Life cycle costing, depreciation and replacement decision. Development financing. 
+Professional practice: Engineering Act, ethical code, professional registration and accountability. Practice 
+management and business plans. Design and construction management, the role of the client. Sustainability. 
+Tender documentation. Strategic management. Project safety. Infra structure asset management.  Build ing 
+information  models. Communication skills.  
+
+
+
+
+38571 Engineering Mathematics  
+
+
+
+115 (15) Introductory Differential and Integral Calculus  (5L; 2T) 
+To take this module, you must have a mark of at least 6 (or 70%) for Mathematics on your NSC or your I EB 
+school -leaving certificate or must have successfully completed the first year of a suitable extended 
+curriculum programme . 
+Mathematical induction and the binomial theorem; functions; limits and continuity; derivatives and rules of differentiation; applications of differentiation; the definite and indefinite integral; integration of simple functions.  
+
+
+
+
+145 (15) Further Differential and Integral Calculus (5 L; 2T) 
+Complex numbers; transcendental functions; integration techniques; improper integrals; conic sections; polar coordinates; partial derivatives; introduction to matrices and determinants.  
+
+Required Modules:  
+P Engineering Mathematics 115  
+
+
+
+214 (15) Differential Equations and Linear Algebra (4 L; 2T) 
+Ordinary differential equations of first order; linear differential equations of higher orders; Laplace transforms and applications. Matrices: linear independence, rank, eigenvalues.  
+
+Required Modules:  
+PP Mathematics 114 or PP Engineering Mathematics 115 or PP Mathematics 144 or PP Engineering Mathematics 
+145  
+P Mathematics 144 or P Engineering Mathematics 145  Engineering 
+70 
+ 
+
+
+242 (8) Series and Partial Differential Equations  (2L; 1T) 
+Infinite series and Taylor series; Fourier series; introduction to partial differential equations; Fourier 
+transforms.  
+
+Required Modules:  
+PP Mathematics 144 or PP Engineering Mathematics 145 or  PP Engineering Mathematics  214 
+P Engineering Mathematics 214  
+
+
+
+59420  Engineering Physics  
+
+
+
+113 (8) Physics for Engineering Students  (2L; 0,5P; 0,5T ) 
+Introduction to physics and physical quantities, including introduction to atomic physics; oscillatory motion, 
+introduction to wave motion, superposition and standing waves, sound waves, light, refraction, polarisation; 
+introduction to nuclear physics.  
+
+
+
+
+152 (6) Physics for Engineering Students ( 2L; 1T) 
+Introduction to basic relativity and basic quantum mechanics. Continued study of waves, acoustics and optics based on Engineering Physics 113.  
+
+Required Modules:  
+P Engineering Physics 113  
+
+
+
+59498 Engineering Statistics  
+
+
+
+243 (15) Statistics and Data Processing for Chemical Engineers (3L; 1P; 2,5T ) 
+1 Practical per semester  
+Applied probability theory; applications based on discrete and continuous random variables and their 
+probability distributions. Descriptive statistics and graphical presentations. Simple and multiple linear 
+regression. Hypothesis testing and a nalysis of variance. Experimental design. Error propagation . Applications 
+to chemical engineering experiments and simulations. Technical communication of experimental results and 
+statistical analysis.  
+[Presented by the Department of Chemical Engineering (50%) and by the Department of Statistics and 
+Actuarial Science (50%)] 
+
+Required Modules:  
+C Chemical Engineering 224  
+C Chemical Engineering 264  
+
+
+
+314 (15) Engineering Statistics (3L; 2,5T ) 
+Applied probability theory; applications based on discrete and continuous random variables and their 
+probability distributions, such as the normal, gamma, lognormal, log- Pearson type 3 (LP3), Gumbel (EV1) 
+distributions; queuing processes; joint distributions; descriptive statistics and graphical presentations; moments, averages, median and standard deviations; moment generating functions; variation coefficient; skewness coefficient; peaking coefficient; sampling theory; point and interval estimation; hypothesis testing; 
+μ2 and K- S testing; simple linear and non -linear regression and correlation analyses; introduction to multiple 
+linear regression; introduction to analysis of variance and experimental design.  
+
+Required Modules:  
+PP Engineeri ng Mathematics 115  
+PP Engineering Mathematics 1 45 Engineering 
+71 
+ 
+
+
+59501 Enterprise Design  
+
+
+
+444 (15) Enterprise Design (2L; 2T) 
+Systems engineering, approaches towards enterprise modelling and supply chain management. Concepts 
+like knowledge management, innovation, and different life cycles will be applied through the complete 
+design of an enterprise within formal information, manufacturing and organisational architectures.  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+59455 Entrepreneurship (Eng)  
+
+
+
+444 (15) Entrepreneurship (Eng) (3L; 3T) 
+Business strategy: business as a system; life cycles; competitiveness forecasts; entry into the market; portfolio decisions; long -term profitability; marketing management; int roduction to the theory of organisation. 
+Financial management: time -value of money, basic discounting concepts; economic analysis of investment 
+proposals; introduction to financing and dividend decisions. 
+
+
+
+
+50431 Environmental Engineering  
+
+
+
+414 (15) Environmental Engineering (3L; 2,5T)  
+Environmental engineering principles, including sustainable development; impacts of engineering 
+developments on the broader environment; environmental impact assessments, environmental risk assessments and environmental management.  Workplace risks (OHS Act), HAZOP studies and workplace 
+risk management. Water chemistry and engineering techniques for water treatment and potable water production, including material and energy balances. Aspects and abatement of air pollution. Solid - and 
+hazardous -waste management and immobilisation.  
+
+Required Modules:  
+C Particle Technology 316  
+C Chemical Engineering 316  
+
+
+
+442 (8) Engineering and the Environment  (3L; 2T) 
+Energy and the environment; environmental engineering principles, including sustainable development, ethical elements of environmental management and socio -ecological factors in decision- making; 
+environmental assessments and management , including pollution control and abatement, environmental 
+impact  and risk  assessments, environmental auditing, environmental management systems and ISO 
+
+
+14000 
+standards; environmental governance and related legislation.  
+
+Required Modules:  
+Prerequisite for Engineering students: All the prescribed modules for the first two years of the relevant BEng 
+programme  
+Prerequisite for AgriSciences students: All the modules for the first two years of the Wood Products Science 
+programme  
+
+
+
+452 (8) Environmental Engineering for Civil Engineers (3L; 2,5T)  
+Ecology and the environment. Environmental engineering principles, ethical elements of environmental management . The water environment, including pollution, integrated envi ronmental processes and 
+environmental assessments and management . Environmental governance and related legislation; solid 
+waste management; i ntegrated development planning (IDP), including public participation . Integrated coastal 
+management. Water quality, impacts of pollution on natural waterbodies, water quality considerations for 
+drinking water abstraction. 
+
+Required Modules:  
+All the prescribed modules for the first two years of the relevant four-year BEng programme  Engineering 
+72 
+ 
+
+
+13683 Final -year Project  (C) 
+
+
+
+478 (32) Final-year Project in Chemical Engineering (6P)  
+(2P in Semester 1; 6P in Semester 2)  
+Independent execution of a theoretical and/or experimental investigation in the field of chemical 
+engineering, with formal oral presentations and the submission of a comprehensive final report.  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+41726 Finite Element Methods 
+
+
+
+414 (15) Finite Element Methods (Elective Module) (3L; 1P; 2T) 
+Revision of strength of materials concepts; principle of virtual work; truss/beam elements; plane stress/strain elements; isoparametric formulation; 3D elements; axisymmetric elements; plate and shell 
+elements; structural symmetry; dynamic analysis; buckling analysis; use of finite element software to solve 
+simple problems.  
+
+Required Modules:  
+P Strength of Materials W 334  
+
+
+
+474 (15) Finite Element Methods (Supplementary Module) (Hybrid Format)  
+Revision of strength of materials concepts; principle of virtual work; truss/beam elements; plane 
+stress/strain elements; isoparametric formulation; 3D elements; axisymmetric elements; plate and shell 
+elements; structural symmetry; dynamic analysis; buckling analysis; use of finite element software to solve simple problems.  
+
+Required Modules:  
+C Finite Element Methods 414  
+
+
+
+44415 Flu id Mechanics  
+
+
+
+244 (15) First Course in Fluid Mechanics (3 L; 1P; 2T) 
+Physical properties of liquids and gases; fluid statics and manometers, forces on and stability of buoyant 
+bodies, pressure centre and meta- centre; fluid kinematics; fluid dynamics; integral relations for a control 
+volume; introduction to vector analysis; differential relations; continuity, momentum and energy equations; Bernoulli and Navier- Stokes equations; similarity theory, dimensional analysis; viscous flow in pipes and 
+closed ducts; friction charts; flow in non -round channels; flow measurement; losses in pipe systems, series 
+and parallel pipes; basic theory of turbomachines; pumps; characteristic curves of pumps; pump systems.  
+
+Required Modules:  
+P Applied Mathematics B 224  
+P Thermodynamics A 214  
+P Engineering Mathematics 214  
+
+
+
+13857  Food Process Engineering  
+
+
+
+414 (15) Food Process Engineering Fundamentals (3L; 1P; 2T) 
+Engineering approach to problem- solving; thermodynamic properties of water and an ideal gas; 
+conservation of mass, momentum and energy; thermodynamic processes in closed and open systems; 
+generation, usage and reticulation of steam; pump and pipe systems; steady -state conduction, convection; 
+air-water vapour mixtures and air conditioning processes. 
+
+Required Modules:  
+PP Mathematics (Bio) 124  
+PP Food Science 244  Engineering 
+73 
+ 
+
+
+444 (15) Food Process Engineering Applications  (3L; 2T)  
+Behaviour, pumping and properties of Newtonian and non -Newtonian fluids; the refrigeration cycle and 
+refrigeration components and equipment; storage of food products by cooling and freezing; heat transfer, 
+including the determination of heat transfer coefficients, boiling and condensation; transient heat transfer 
+during heating, freezing and thawing; mass transfer; thermal processing of foodstuffs; evaporation and concentration; drying theory and drying equipment; mixing; process control. 
+
+Required Modules:  
+P Food Process Engineering 414  
+
+
+
+39667 Geotechnique  
+
+
+
+254 (15) Geotechnical Theories (3L; 2,5T ) 
+Geotechnical soil properties: particle size analysis, plasticity, soil classification, phase relationships, 
+compaction. Ground water movement: permeability, seepage theory, flow nets, filter design. Effective stress: 
+theory of effective stress, stress by own weight and seepage effects. Elastic stress theory: stresses and 
+immediate settlement resulting from surface loading. Consolidation settlement: settlement of clay soil, rate of settlement, total and immediate settlement.  
+
+Required Modules:  
+C Engineering Geology 214  
+
+
+
+354 (15) Sliding Resistance, Retaining Walls, Foundations and Slopes  
+(3L; 1,5P; 1T) 
+Shear strength: shear testing, shear behaviour of sand and clay, stress paths, pore pressure coefficients. 
+Lateral earth pressure: earth pressure theory, gravity walls, embedded walls. Bearing capacity: shallow 
+foundations, eccentric loads, settlement on sand, piles. Slope  stability: parallel slips, circular slip, method of 
+slices, safety factors.  
+Practical: consolidation test in the oedometer. 
+
+Required Modules:  
+C Strength of Materials 224  
+C Geotechnique 254  
+
+
+
+33928 Heat Transfer A  
+
+
+
+326 (15) Heat Transfer (3L; 1P; 2T) 
+1 Practical per semester  
+Heat conduction; steady and unsteady conduction. Convection: boundary layer equations, laminar and 
+turbulent flow, natural convection, boiling and condensa tion. Heat exchangers: overall transfer coefficients, 
+parallel, transverse and cross -flow, logarithmic mean temperature difference, effectiveness- NTU 
+calculations, types and design principles. Radiation: absorption and emission, black bodies, emissivity, f orm 
+factors, radiation heat transfer between surfaces, radiating gases. Mass transfer: diffusion processes, 
+transport analogies, Colburn j- factors, combined mass and heat transfer.  
+
+Required Modules:  
+P Thermodynamics A  224 
+P Chemical Engineering 254  
+P Chemical Engineering 264  
+P Engineering Mathematics 242  Engineering 
+74 
+ 
+
+
+414 (15) Heat Transfer (3L; 1P; 2T) 
+Heat conduction; analytical and numerical methods for steady and unsteady conduction. Convection: 
+boundary layer equations, laminar and turbulent flow, natural convection, boiling and condensation. Heat 
+exchangers: overall transfer coefficients, parallel, transverse and cross -flow; logarithmic mean temperature 
+difference, effectiveness- NTU calculations, types and des ign principles. Radiation: absorption and emission, 
+black bodies, emissivity, form factors, radiation heat transfer between surfaces, radiating gases. Mass 
+transfer: diffusion processes, transport analogies, Colburn j- factors, combined mass and heat transf er. 
+Homework assignments in the form of self -study, tutorial problems, designs or seminars form an integral 
+part of the module.  
+
+Required Modules:  
+P Fluid Mechanics 244  
+P Thermodynamics A 214  
+
+
+
+52124 High Frequency Technique  
+
+
+
+414 (15) High-Frequency Technique (3L; 1P; 1T) 
+Smith chart and applications; impedance -matching networks; amplifier design; oscillator design; high -
+frequency systems; electromagnetic compatibility; electro-dynamics and radiation; wire antennas; antenna design; HF metrology.  
+
+Required Modules:  
+C Electromagnetics 344  
+
+
+
+21350 Hydraulic Engineering  
+
+
+
+424 (15) Storm Water Drainage and Hydraulic Structures (3L; 2,5T ) 
+Storm  water hydraulics: general introduction and guidelines; design floods. Storm  water discharge:  run-off 
+over land, roads, parking areas, cu rbs and inlets, storm- water pipe systems; flood attenuation ponds; canals, 
+culverts and bridge damming. Hydraulic structures; sharp - and broad -crested weirs and submergence; dam 
+spillways; energy dissipaters; flow control gates; side channel spillways and outlet structures. Introduction to coastal engineering and sediment transport; theory of ocean waves; wave parameters for practical 
+application in coastal engineering problems; design of basic coastal protection. Application of proven 
+hydraulic and coastal engineering science and techniques , using latest technologies, to design sustainable 
+solutions in collaboration with stakeholders for the benefit of society.  
+
+Required Modules:  
+P Hydraulics 324  
+P Hydraulics 354  
+
+
+
+14400 Hydraulics  
+
+
+
+324 (15) Flow Theory and Pipe Flow (3 L; 2,5T) 
+Hydrostatics; pressure and pressure measurement; pressure forces on submerged bodies; flotation and buoyancy; principles of fluid flow; flow patterns; fundamental equations of fluid dynamics; application of the conservation laws to fluids; application of the energy and momentum equations; velocity and discharge 
+measurement; potential flows; real and ideal fluids; behaviour of real fluids; viscous flow; stability of laminar 
+flow and the onset of turbulence; shearing in turbulent flows; the boundary layer; implications of the boundary layer; cavitation; surface tension; flow in pipes and closed conduits; fundamentals of pipe flow; 
+lamin ar flow; turbulent flow; local head loss; partially full pipes; pipeline systems and design; series, parallel 
+and branched pipe systems; distribution systems; design of pumping mains; hydraulic machines; 
+classification of machines; continuous flow pumps; p ump selection; turbines; cavitation in hydraulic 
+machines; surge in pipelines; surge protection; effects of rapid valve closure; unsteady compressible flow; complex problems. 
+
+Required Modules:  
+PP Applied Mathematics B 154  
+PP Engineering Mathematics 145  
+P Applied Mathematics B 224  Engineering 
+75 
+ 
+
+
+354 (15) Open Channel Flow and Water Treatment (3L; 0,5P; 2T) 
+Open channel flow and flow classification; uniform flow; rapidly varied flow; energy conservation; hydraulic 
+jump.  Momentum principle; critical depth flow measurement; gradually varied flow; flow profile classification; 
+backwater (transitional) curve calculation (direct and standard step methods); unsteady flow; waves in open channel flow. Basic water chemistry; basic  water microbiology; water quality; treatment processes (settling, 
+filtration, coagulation, flocculation); principles of biological treatment; aerobic processes (activated sludge 
+and biological filters); anaerobic processes; disinfection; sewer networks an d sanitation systems.  
+
+Required Modules:  
+P Hydraulics 324  
+
+
+
+14397 Hydrology  
+
+
+
+424 (15) Flood and Resource Hydrology (3 L; 2,5T ) 
+A systematic overview of the different components of the hydrological cycle  and its applicability  in a Smart 
+Engineering environment; variability of the South African climate, hydrological processes, sources of data 
+and the characteristics of South African data.  The analysis of hydrological data, including probabilities, gap 
+filling, regression, excee dance and non- exceedance probabilities and all other basic statistic parameters.  
+Storage yield analysis: philosophy and concepts, time series, human influences on catchments, the 
+adaptation of water demand for a sustainable environment , catchment models. Stochastic data. Low flow 
+analysis, analysis of time series, regionalised data for South Africa and geohydrology, including artificial 
+recharge . Flood design techniques (empiric, deterministic and probabilistic)  and extreme floods , including 
+innovative data use, such as radar data. 
+
+Required Modules:  
+P Hydraulics 354  
+P Data Analytics (Eng) 324  
+
+
+
+31496 Industrial Engineering  
+
+
+
+152 (6) Introduction to Industrial Engineering  (3T) 
+Manufacturing and service systems, introductory production principles with applications, introductory 
+optimisation, system variation, productivity measurement and analysis.   
+
+
+
+
+44792 Industrial Ergonomics  
+
+
+
+414 (15) Industrial Ergonomics (3 L; 2T) 
+Operation analysis, work standards; reduction of setup times, training practices, remuneration, 
+anthropometry, workstation and tool design, man/machine interfaces, work physiology and biomechanics, 
+work  design , cognitive work, connecting the human to the cloud, aspects of occupational health and safety.  
+
+
+
+
+53937 Industrial Management  
+
+
+
+354 (15) Industrial Management (3 L; 3T) 
+Industry dynamics and the value chain, BPR (Business Process Re- engineering); SCM (Supply Chain 
+Management) and logistics management, information technology and e -commerce within the framework of 
+a formal ERP (Enterprise Resource Planning) system.  
+
+Required Modules:  
+P Production Management 314 Engineering 
+76 
+ 
+
+
+10618 Industrial Practice  
+
+
+
+442 (8) Management and Organisational Behaviour  (2L; 1T; 1S) 
+Work and people organisation, organisational culture, motivation principles, motivation methods, building 
+groups into teams, conflict management and negotiation, managing organisational change, overview of 
+labour legislation, guest lectures by engineers from industry.  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+47422 Industrial Programming  
+
+
+
+244 (15) Industrial Programming (2 L; 3T) 
+Use of spreadsheets: data manipulation, numerical methods, graphs, basic financial calculations, planning and analysis of scenarios and optimising. Visual Basic for Applications for spreadsheet use. Basic computer communication. Theory and application of forecasting with emphasis on spreadsheet applications.  
+
+Required Modules:  
+P Engineering Mathematics 145  
+
+
+
+25445 Industrial Project  
+
+
+
+498 (30)  Industrial Project (1S) 
+Independent execution of a theoretical and/or practical investigation in the field of industrial engineering, and the submission of a comprehensive report. (The project runs for the whole final year, with 30% of the 
+project completed in the first semester,  and 70% in the second semester.)  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+48062 Information Systems 
+
+
+
+414 (15) Information Systems (2 L; 1,2P; 2T) 
+Techniques and resources required for the design, development and implementation of information systems; system development life cycle; entity- relationship models; data flow models; normalisation; design 
+of input and output interfaces; quality assurance of the information system; system implementation; design, 
+development an d implementation of an Internet -based information system in group projects.  
+
+Required Modules:  
+P Industrial Programming 244  
+
+
+
+14213  Intercultural Communication (Eng)  
+
+
+
+113 (8) Introduction to Intercultural Communication for Engineers (2L; 3T)  
+Dimensions of culture, such as individualism and collectivism, power distance, uncertainty avoidance, and masculinity and femininity. The “ Describe -Analyse -Evaluate ” framework. Barriers to effective intercultural 
+commun ication, such as stereotyping and prejudice. Writing assignments related to intercultural 
+communication in the engineering context, with introduction to coherence, style and referencing. Introduction to engineering studies. Reading -skills development. Basi c skills in use of Microsoft Word and 
+Excel. 
+
+77 
+ 
+
+
+13363 Internship  (Eng) 
+
+
+
+392 (0) Industrial Experience  (0T) 
+Students experience, or observe first -hand, typical engineering work in an appropriate industry. The work 
+must be performed under the direct supervision of a n engineer from an appropriate discipline . Students are 
+required to, within their discipline: apply fundamental engineering principles to solve practical problems in an 
+industrial context; develop an enhanced unde rstanding of the nature, processes and challenges of industrial 
+practice; and develop their technical and interpersonal skills.  
+The student’ s home department’ s prior approval of the scope and nature of the work is required. The scope 
+of the student’ s work  in this module should be at least 1700 hours Students are required to submit three 
+reports: (a) shortly after commencing the internship, a report on the agreement between the student and 
+employer, detailing the scope and nature of the work; (b) a progress  report halfway through their training; 
+and (c) a final report at the end of their training. The latter two reports must explain the nature and scope of 
+the work conducted, as well as the technical details of work that they experienced or observed. Referen ces 
+by students’ industrial supervisors on their conduct must be submitted with these reports.  
+Students are normally not allowed to register for any other undergraduate module(s) in the year that a student is registered for this module.  
+
+Required Modules:  
+PP All modules of the first two years of a 4 -year BEng  
+Departmental approval  
+
+
+
+393 (0) Industrial Experience and International Exchange (0T) 
+This module  can be offered either in one or in both semesters. If it is offered in both semesters, it  comprises 
+Parts 1 and 2 as described below . If it is offered in only one semester, it comprises only Part 2.  
+Part 1: Students experience, or observe first -hand, typical engineering work  or research  in an appropriate 
+industry or research institution  for least 600 hours. The work must be performed under the direct supervision 
+of an engineer from an appropriate discipline. Students are required to, within their engineering discipline , 
+apply  fundamental engineering principles to solve practical problems in an industrial context and develop 
+their technical and interpersonal skills. The home department’s prior approval of the scope and nature of the 
+work is required. Students are required to submit at least two reports: (a) shortly after commencing the 
+internship, a report on the agreement between the student and host , detailing the scope and nature of the 
+work; (b) a final report at the end of their training. The latter report must explain the nature and scope of the 
+work conducted, as well as the technical details of work that they experienced or observed. References by students’ supervisors on their conduct must be submitted with these reports.  
+Part 2: Students also undertake an exchange to an  engineering faculty  outside South Africa  for at least 600 
+hours of participation in  projects and/or  modules. The host faculty, as well as the combination of the projects 
+and modules , are subject to the prior approval of the student’ s home department  at Stellenbosch University . 
+Students are normally not allowed to register for any other undergraduate module(s) at Stellenbosch University in the semester(s) that a student undertakes Internship 393, unless the modules are part of an 
+exchange agreement between the Engineering Faculty and the host faculty. 
+
+Required Modules:  
+PP All modules of the first two years of a 4 -year BEng  
+Departmental approval  
+
+
+
+39705 Introductory Machine Design  
+
+
+
+244 (15) Design Process, Machine Parts and Machine Drawing (1 L; 3P; 2T) 
+Conceptual design process, human factors in design. Design for assembly. Machine parts: seals, couplings, 
+keys, retaining rings and bearings. Freehand sketches, part models, 2D detail drawings of parts and part lists, 
+3D modelling and interference checking. Drawing standards: measurement instrumentation for 
+manufacturing, surface roughness, tolerancing, geometric tolerancing, shrink fits, welding symbols. Design of 
+belt and chain drives. Working drawings and design project s in which the theory is applied. 
+
+Required Modules:  
+P Engineering Drawings 123  or P Engineering Drawings 143  
+P Strength of Materials 143  Engineering 
+78 
+ 
+
+
+254 (15) Mechanics of Machines and Machine Drawing (2L; 3P; 1T)  
+Modelling of mechanical systems: kinematics of planar mechanisms, velocity and acceleration diagrams, 
+balancing. Machine parts: seals, couplings, keys, retaining rings and bearings. Drawing standards: 
+measurement instrumentation for manufacturing, surface roughness, tolerancing, geometric tolerancing, 
+shrink fits, welding symbols. Working drawings.  
+
+Required Modules:  
+P Engineering Drawings 123  or P Engineering Drawings 143  
+P Applied Mathematic s B 224  
+
+
+
+14212 Intro ductory Systems Eng ineering  
+
+
+
+444 (15) Introductory Systems Engineering (3L; 3 P) 
+Principles of systems engineering. System and system element requirements development. System of systems. Principles of system life cycle management. Develop ment of software to support digitalisation of 
+engineered systems. Contract and intellectual property aspects of engineering practice. Public liability 
+considerations in product development and production. Safety considerations and implications of the Occup ational Health and Safety Act in engineering practice.   
+
+Required Modules:  
+P Mechatronics 424  
+
+
+
+16020 Machine Design A  
+
+
+
+314 (15) Fatigue, Fracture Mechanics and Machine Components (2 L; 2P; 2T) 
+Design for 3D  static and dynamic loads, static failure, fatigue , fracture mechanics , deflection and stiffness, 
+buckling. Design for machining, metal casting, welding, forging and plastic inje ction moulding. Design 
+projects where the theory is applied to the mechanical design of multi -degree- of-freedom mechatronic 
+systems subject to inertial loads due to acceleration, including actuator selection, inertia matching and working drawings that cont ain multiple levels of assemblies.  
+
+Required Modules:  
+P Introductory Machine Design 254   
+P Strength of Materials W 244  
+
+
+
+16039 Machine Design B  
+
+
+
+344 (15) Design of Machine Subsystems (2L; 2P; 2T) 
+Desi gn of lead screws, bolt connections, fasteners, springs, clutches, brakes . Cam analysis and design. 
+Kinematics of gear systems and forces. Gear design. Shaft connections.  Pressure vessel code design.  Design 
+projects where theory is applied.  
+
+Required Modules:  
+P Machine Design A 314  Engineering 
+79 
+ 
+
+
+11745 Maintenance Management  
+
+
+
+414 (15) Maintenance Management (3L; 0,5P; 2,5T) 
+Strategic maintenance planning, plant acquisition policy, business interface, structuring of maintenance 
+objectives, reliability statistics, Reliability Centred Maintenance, plant maintenance life planning and 
+scheduling, preventive maintenance, top -down/b ottom -up approach, managing maintenance resources, 
+maintenance organisation, human factors, maintenance team work, Total Productive Maintenance, 
+maintenance systems, maintenance budgeting, maintenance control, short -term work planning, 
+management of shutdowns, network analysis technique for management of shutdowns, other shutdown 
+methodologies, spare -part management, maintenance management information systems.  
+
+Required Modules:  
+C Mechatronics 424  
+
+
+
+34134 Manufacturin g Processes  
+
+
+
+244 (15) Manufacturing Processes (2L; 1,5P; 1T) 
+Mechanical properties of materials; casting processes; shaping of plastics; powder metallurgy; metal forming; bulk deformation of material; sheet metal working; principles of metal machining; machining operations and 
+equipment; cutting tools for machining; economic considerations for machining; welding processes; 
+mechanical assembly; non -traditional machining; additive manufacturing (3D printing) . Factory visits and 
+process design projects.  
+
+Required Modules:  
+C Material Science A 244  
+
+
+
+45381 Manufacturing Systems  
+
+
+
+314 (15) Manufacturing Systems (2 L; 2T) 
+Introduction to manufacturing systems ; sustainable manufacturing; product design;  reverse engineering; 
+concurrent engineering; additive manufacturing; CNC technology; Internet of Things ( IoT) in manufacturing 
+systems. 
+
+Required Modules:  
+P Manufacturing Processes 244  
+
+
+
+30325 Material Science A  
+
+
+
+244 (15) Materials Science A (3L; 3P) 
+Metals: physical testing; dislocations and strengthening mechanisms; cold work; phase diagrams; micro -
+structure; iron iron -carbide system; cooling curves; thermal processing; properties of ferrous and non -ferrous 
+alloy s; fracture analysis.  Ceramics: introduction to ceramics; mechanical properties; types and application; 
+advanced engineering ceramics; fireproof materials; manufacturing processes; future use of advanced 
+ceramics. Polymers: classification; polymerisation; molecular structure; crystalinity; glass transition; melting 
+point; elasticity; flow viscosity; creeping; yielding; morphologic changes during loading; reinforcing mechanisms; types; advanced fibre -reinforced polymers.  Corrosion: types; corrosion processes  and rate for 
+metals; corrosion control and protection; corrosion -related phenomena; degradation of polymers; material 
+protection. Thermal properties of materials.  Materials selection for engineering applications (project).  
+
+80 
+ 
+
+
+22853 Mathematical Statistics  
+
+
+
+214 (16) Distribution Theory and Introduction to Statistical Inference (4L ; 2P)  
+Continuous stochastic variables; expected value and variance of a continuous stochastic variable; important 
+continuous distributions; uniform, normal, exponential, gamma, beta. Moments and moment -generating 
+functions for discrete and continuous distributions. Bivariate probability distributions; marginal and 
+conditional distributions; the multinomial and bivariate normal distribution; determining the distribution of 
+functions of variables. The central limit theorem (without proof). Samples and sampling distributions: the 
+standard parametric cases. Interval estimation and hypothesis testing: applying these principles in the standard cases of parametric inference. Data representation and description, calculating and interpreting 
+sample measures.  
+
+Required Modules:  
+PP Probability Theory and Statistics 114 or PP Probability Theory and Statistics 144  
+PP (Mathematics 114 or Engineering Mathematics 115 ) and  PP (Mathematics 144 or Engineering Mathematics 145 ) 
+with an average final mark of at least 60% , or PP (Mathematics 214  or Engineering Mathematics 214) with a  final 
+mark of at least 55%. 
+
+
+
+245 (8) Statistical Inference (2L ; 1P)  
+Introduction to statistical inference. Principles of point estimation: efficiency, minimum variance unbiased 
+estimators, consistency. Method of moments estimators. Maximum likelihood estimators. The Neyman -
+Pearson lemma: proof and applications. Likelihood ratio tests. Parametric estimation theory and hypothesis testing. Bayesian inferential statistics.  
+
+Required Modules:  
+PP Mathematical Statistics 214  
+
+
+
+246 (8) Linear Models in Statistics (2L ; 1P)  
+Advanced matrix algebra. Stochastic vectors and matrices. The multivariate normal distribution. Maximum 
+likelihood estimation of parameters in the multivariate normal distribution.  Distributions of quadratic forms. 
+The simple linear regression model. The method of least squares. Inference in the simple linear regression 
+model. Introduction to R software. 
+
+Required Modules:  
+PP Mathematical Statistics 214  
+
+
+
+312 (16) Statistical Inference and Probability T heory (3L ; 1P)  
+Advanced distribution theory, sequences of random variables, limit theory for sequences, generating 
+functions, sampling distributions and approximations. Sufficiency. Different approaches to inference. 
+Goodness -of-fit methods. Bayes inference: Decision theory and Bayes risk using loss functions, Bayesian 
+belief networks and Bayesian classification. Markov Chain Monte Carlo simulation techniq ues: Gibbs 
+sampling and Metropolis -Hasting algorithms.  
+
+Required Modules:  
+PP Mathematical Statistics 245  
+P Mathematical Statistics 246 with a final mark of at least 40%  
+P Mathematics 214  or P Engineering Mathematics 214  
+
+316 ( 16) Regression and Predictive Modelling (3L ; 1P)  
+Fitting regression models by means of matrices. The multiple linear regression model. Inference in the multiple linear regression model. Residual analysis. Variable selection techniques. Ridge regression. Lasso 
+regression. Linear methods for classification . The use of R software to fit models in practice.  
+
+Required Modules:  
+PP Mathematical Statistics 246  
+P Mathematical Statistics 245 with a final mark of at least 40%  
+P Mathematics 214 or P Engineering Mat hematics 214 
+P Mathematics 244 or P Engineering Mathematics 242  Engineering 
+81 
+ 
+
+
+344 (16) Stochastic Processes and Statistical Learning (3L; 1P)  
+Introduction to stochastic processes. Markov processes and their applications. Introduction to martingale 
+theory and applications. Introduction to statistical learning. 
+
+Required Modules:  
+P Mathematical Statistics 312  
+P Mathematical Statistics 316  
+
+
+
+21539 Mathematics 
+
+
+
+186 (32) Introductory Mathematics (3 L; 3T) 
+For BSc (Extended Curriculum Programme) and BEng (Extended Curriculum  Programme) students.  
+To take this module, you must have a mark of at least 5 (or  60%) for Mathematics on your NSC or your IEB 
+school- leaving certificate.  
+An introduction to calculus, linear algebra and mathematical reasoning: different presentations of functions in 
+terms of formulas, graphs, tables and stories; inverse of a function; exponential and logarithmic functions; trigonometric functions and their inverse functions; modelling with functions. Gradual progression from 
+average to instantaneous rate of change; limits; basic integration. Systems of equations; analytic geometry; 
+math ematical induction; binomial theorem.  
+
+
+
+
+39292 Mechanical Engineering  
+
+
+
+152 (6) An introduction to mechanical engineering (3T) 
+Mechanical machines and components ; freehand drawings ; modelling of machines and components ; 
+conceptual design process ; layout and assembly of a mechanical system ; basic experimental investigation.  
+
+
+
+
+414 (15) Specialist Topics in Mechanical Engineering (3 L; 1P; 2T) 
+Topics from specialist areas in mechanical engineering, such as air-conditioning and refrigeration, aeronautical engineering, marine engineering, vehicle engineering and machine design. The exact content of 
+the module is determined annually as dictated by the availability of specialist lecturers and the requirements 
+of students.  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+39179 Mechanical Project 
+
+
+
+478 (45) Capstone Project for Mechanical Engineering Students (2L; 3P) 
+Professional communication: written and oral project presentations, reports. Independent execution of theoretical and/or practical design and/or investigation in the field of mechanical engineering with formal oral presentations and t he submission of a final comprehensive report.  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+10886 Mechatronic Engineering  
+
+
+
+152 (6) An introduction to mechatronic engineering (3T) 
+Mechanical machines and components ; freehand drawings ; modelling of machines and components ; 
+conceptual design process ; layout and assembly of a mechatronic system ; basic experimental investigation . 
+
+82 
+ 
+
+
+56790 Mechatronic Project  
+
+
+
+478 (45) Capstone Project for Mechatronic Engineering Students (2 L; 3P) 
+Professional communication: written and oral project presentations, reports. Independent execution of 
+theoretical and/or practical design and/or investigation in the field of mechatronic engineering with formal 
+oral presentations and the submission of a final comprehensive report.  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+488 (45) Capstone Project for Mechatronic Engineering Students (2 L; 3P) 
+Professional communication: written and oral project presentations, reports. Independent execution of 
+theoretical and/or practical design and/or investigation in the field of mechatronic engineering with formal 
+oral presentations  and the submission of a final comprehensive report.  
+
+Required Modules:  
+Final -year enrolment  
+
+
+
+50458 Mechatronics  
+
+
+
+424 (15) Mechatronic Design (3L; 3P) 
+Sensors, measurement accuracy and uncertainty, actuators; digital and analogue interfaces; sequential control with relay logic, PLCs and PCs. One or more projects in which mechanics, electronics, computer use and control are integrated.  
+Until 2021: The st atistics of measurement and reliability (this section is  presented as a block course before 
+the start of the semester).  
+
+Required Modules:  
+P Control Systems 354  
+
+
+
+47988 Mineral Processing  
+
+
+
+345 (15) Mine ral Processing (3 L; 1P; 2T) 
+Mineral growths and principles of liberation; solid state analysis; population balances; mineral liberation and 
+liberation distributions; classification with sieves and hydrocyclones; empirical models; comminution; 
+density-based separation equipment; surface chemistry and flotation; hydrometallurgical principles and unit 
+operations;  Pourbaix diagrams; introductory mass balance reconciliation.  
+[Presented by Dept Chemical Engineering, 80% of module.]  
+Introduction to mineralogy. Characterisation of materials in the solid state: scanning electron microscopy with 
+energy dispersive spectroscopy (SEM -EDS) and wave length dispersion spectroscopy; X -ray fluorescence 
+(XRF) and X -ray diffraction techniques (XRD); reflectance and transmittance microscopic techniques and 
+image analysis; microscopic techniques based on polarised light and etched materials, sample preparation for solid state characterisation and spectroscopic techniques. Laser ablation, glow discharge and spark 
+discharge optical emission spectra.  
+[Presented by Dept Earth Sciences, 20% of module.]  
+
+Required Modules:  
+P Chemical Engineering 254  
+P Particle Technology 316  Engineering 
+83 
+ 
+
+
+415 (15) Materials Extraction and Selection  (3L; 2T) 
+Process metallurgy of natural raw materials and secondary materials: applied phase and reaction equilibrium 
+thermodynamics relevant to solid and liquid solutions, molten alloys, slag and matte melts. Processing 
+methods relate d to high temperature reactions and related extraction techniques in pyrometallurgy to obtain 
+metals, alloys and solutions containing metallic species , with consideration of thermodynamics. Extraction of 
+metals from ferrous oxides and sulphides with regard to selection and characterisation of pyrometallurgical reactors, including refractory materials at high temperatures. Materials in chemical en gineering with 
+reference to structure, properties and behaviour of metals, ceramics, composites and polymers. Selection of 
+materials for chemical engineering applications with consideration of prediction and prevention of failure and 
+corrosion.  
+
+Required Modules:  
+P Chemical Engineering 317  
+
+
+
+56804 Modelling  
+
+
+
+334 (18) Modelling and Simulation of Mechanical Systems (4 L; 1P; 2 T) 
+Formulation of differential equations  for mechanical, electrical, thermal and fluid systems, solutions using 
+Laplace transforms, block diagrams and transfer functions; state space formulation. Transient and stationary 
+behaviour; frequency response analysis.  Design of a laboratory experiment.  
+The statistics of measurement and reliability, expected values, distributions and probability density functions; 
+operations and transformation of random variables; programming with R.  
+
+Required Modules:  
+P Engineering Mathematics 214  
+P Engineering Mathematics 242  
+
+
+
+53678 Numerical Fluid Dynamics  
+
+
+
+414 (15) Numerical Fluid Dynamics (3 L; 1P; 2T) 
+Modelling of flow: elements of numerical flow software, conservation laws and differential equations for 
+mass, momentum and energy, boundary conditions, equation of state, grid types and generation, 
+linearisation, discretisation, false diffusion, SIMPLE pressure  correction algorithm, stability, relaxation factors, 
+source term linearisation, error calculations, convergence, use of commercial codes; course project.  
+
+Required Modules:  
+P Thermofluid Dynamics 344  
+
+
+
+36323 Numerical Methods  
+
+
+
+262 (8) Numerical Methods  (2L; 1T) 
+Introduction to MATLAB; zeros of functions; solving of systems of linear equations; numerical differentiation and integration; interpolation and curve -fitting; numerical methods for solving ordinary and  partial differential 
+equations. 
+
+Required Modules:  
+P Engineering Mathematics 214  Engineering 
+84 
+ 
+
+
+59528 Operations Research (Eng)  
+
+
+
+345 (15) Operations Research (Deterministic Models) (3L; 3T) 
+The systems approach to problem- solving; problems leading to linear programming, network, integer and 
+non- linear programming models; algorithms for solving such models; tasks, including exercises with 
+computer packages.  
+
+Required Modules:  
+P Engineering Mathematics 214  
+
+
+
+415 (15) Operations Research (Stochastic Models) (3 L; 3T) 
+Analysis of problems leading to a selection of  deterministic and stochastic dynamic programming models , 
+Markov chains and waiting- line models; techniques for solving su ch models; decisions under uncertainty; 
+Bayes’ theorem; multi -criteria decision -making ; local -search and population -based metaheuristics.  
+
+Required Modules:  
+P Engineering Statistics 314  or P Probability Theory and S tatistics 114  
+
+
+
+14020 Optimisation (Eng)  
+
+
+
+414 (15) Non-linear Optimisation (3L; 1,5P; 1,5T)  
+Local vs . global optima, classification of stationary points, the Karush -Kuhn- Tucker conditions, Lagrangian 
+relaxation. Numerical methods: g radient -based methods, the Broyden -Fletcher -Goldfarb -Shanno algorithm, 
+the simplex algorithm, the Nelder -Mead algorithm. Metaheuristic methods: t rajectory based methods (tabu 
+search and simulated annealing), evolutionary algorithms (genetic algorithms and  differential evolution), 
+swarm intelligence (ant colony optimisation and  particle swarm optimisation).  
+
+Required Modules:  
+P Operations Research (Eng) 345  
+P Computer Science E 214  
+
+
+
+47902 Particle Technology  
+
+
+
+316 (15) Particle Technology (3 L; 1P; 2T) 
+1 Practical per semester  
+Characteristics  and mathematical description of particles and their size distributions; determination of the 
+particular characteristics of single particles and powders; the mechanical behaviour and flow patterns of 
+particle systems; sedimentation and thickener design; flow through packed beds; fluidisation and fluidised 
+bed behaviour of particles; hydraulic and pneumatic transport of particles; filtration; gas cyclones; health and 
+safety aspects of fine powders.  
+
+Required Modules:  
+P Chemical Engineering 254  
+P Chemical Engineering 264  Engineering 
+85 
+ 
+
+
+65609 Philosophy and Ethics  
+
+
+
+314 (4 ) Philosophy and Ethics  (3L) 
+Applied ethics; the code of conduct for professional persons of the Engineering Council of SA (ECSA); case 
+studies of typical situations from engineering practice, including the social, workplace and physical 
+environments. 
+Offered for one  term in the semester.  
+The quality assurance of Philosophy and Ethics is handled jointly by the Department of Philosophy and the 
+Faculty of Engi neering.  Consult the module framework for further information.  
+
+
+
+
+414 (4) Philosophy and Ethics  (3L) 
+Applied ethics; the code of conduct for professional persons of the Engineering Council of SA (ECSA); case 
+studies of typical situ ations from engineering practice, including the social, workplace and physical 
+environments . 
+Offered for the one term in the semester.  
+The quality assurance of Philosophy and Ethics is handled jointly by the Department of Philosophy and the Faculty of Eng ineering.  Consult the module framework for further information.  
+
+
+
+
+12998 Physics  
+
+
+
+176 (32) Preparatory Physics (3L; 3P) 
+Students follow this module in the BSc (Extended Curriculum Programme s) in AgriSciences and  Science and 
+for the BEng . The module focuses on the nature of physics with the following themes as content: mechanics, 
+electromagnetism, modern physics.  
+
+
+
+
+40142 Practical Workshop Training  
+
+
+
+211 (0) Practical Workshop Training 
+After their first year o f study, students receive training in workshop practice at a workshop appointed by the 
+University. Students may complete such training at other institutions that have suitable facilities and staff, provided that prior written permission is obtained from th e relevant departmental chair. Such permission 
+must be obtained prior to the commencement of the module.  
+
+Method of Assessment: Attendance  
+
+
+
+241 (0) Practical Workshop Training 
+Students receive, after th eir first study year, training in workshop practice in a workshop appointed by the 
+University. Students may complete such training at other organisations which have the necessary facilities and personnel, provided that written permission is obtained from the relevant departmental chair. Such 
+permission must be obtained prior to the commencement of the module. 
+
+Method of Assessment: Attendance  
+
+
+
+12201 Prepa ratory Technical Drawings  
+
+
+
+146 (16) Prepa ratory Technical Drawings  (3L; 3P) 
+Principles of first - and third -angle projection. Linework and lettering. Isometric projections and drawings. 
+Drawing layouts. Full section  views. Geometric constructions and  tangency. True lengths and auxiliary views. 
+Introduction to descriptive geometry: points and lines in space; new projection planes. Introduction to 
+parametric geometric modelling in computer- aided design (CAD).  
+
+86 
+ 
+
+
+56820 Probability Theory and Statistics  
+
+
+
+114 (16) Probability Theory and Statistics (3L ; 3T)  
+Combinatorial analysis; the basic counting principles; permutations and combinations. Random phenomena; 
+sample spaces and events; the probability axioms; the probability of an event; random s election; probability 
+rules; conditional probability; the rule of Bayes; stochastic independence. Discrete and continuous stochastic 
+variables; expected value and variance of a stochastic variable; important discrete distributions: binomial, 
+Poisson, geometric, hyper -geometric, negative binomial; important continuous distributions : uniform, 
+exponential, normal. 
+Please note:  This module is identical to Probability Theory and Statistics 
+
+
+144(16), which is offered in the 
+second semester by the Department of Statistics and Actuarial Science for BCom students.  
+
+
+
+
+23256 Production Management  
+
+
+
+212 (8) Production and Operational Management (2L; 2T) 
+Introduction to operation s management ; strategy and sustainability ; process analysis  and manufacturing 
+processes; lean supply chains; sales and operations  planning; material s requirements planning (dependent 
+inventory ). 
+
+
+
+
+314 (15) Operations Facilities and Management (3L; 1P; 2T) 
+Process analysis and improvement by combining Lean and Theory of Constraints approaches; facility design  
+with regard to facility location, facility layout and production line design ; demand forecasting and capacity 
+planning; integrated production planning from an aggregate to operational level ; inventory planning and 
+control; scheduling, execution and control of production .  
+
+Required Modules:  
+P Production Management 212  
+C Engineering Statistics 314  
+
+
+
+444 (12) Financial and Production Management (3L; 2T) 
+Introduction to operations management, productivity and competitiveness; the funds flow cycle and the accounting equation; process flow analysis; cost accounting; quality management and statistical process 
+control; budgets and capital expenditure including discounted cash flow techniques; inflation and tax; just- in-
+time management (JIT), th eory of constraints scheduling (TOC); inventory control and MRP; supply chain 
+management (SCM).  
+
+
+
+
+30279 Project (Civil  Engineering) 
+
+
+
+418 (30)  Project (Civil) (1L; 20P ) 
+Each student must complete an approved design or research project  during the final year, after which a 
+comprehensive report on the project is submitted. The project must be of an investigative nature and the ability of the student to work independently will be assessed. Each student will deliver an oral and poster 
+presentation on the project. This module may be done only instead of Project (Civil) 458 in the semester that 
+the students can complete their programme. 
+
+Required Modules:  
+Departmental approval  
+
+
+
+458 (30)  Projec t (Civil) (1L; 20P ) 
+Each student must complete an approved design or research project  during their final year, after which a  
+comprehensive report on the project is submitted. The project must be of an investigative nature and the 
+ability of the student to work independently will be assessed. Each student will deliver an oral and poster presentation on the project.  
+
+Required Modules:  
+Departmental approval  Engineering 
+87 
+ 
+
+
+46795 Project (E)  
+
+
+
+448 (45) Project (E) (20P) 
+Thesis project: Each student must do an independent project on an approved topic and submit a full report. 
+An oral examination is required where the professional communication skill s of each student is assessed.  
+
+Required Modules:  
+Final -year Enrolment  
+
+
+
+51993 Project Management  
+
+
+
+412 (12) Project Management (3 L; 1T) 
+Project management framework: integration, scope, time, cost, human resources, communication, risk, safety and procurement. Project management processes:  initiating, planning, execution, control and commissioning.  
+Principles of business management and leader ship. Multidisciplinary teamwork and project management.  
+
+
+
+
+46167 Quality Assurance  
+
+
+
+344 (15) Quality Assurance (2L; 3T) 
+Definition of quality, methods and techniques of quality assurance, statistical process design, sampling. 
+Principles of robust design. Formulation of measures of system performance and quality. Identification of 
+quality noise factors. Formulation and implementation of techniques to reduce effects of noise. Synthesis 
+and selection of design concepts for robustness.  
+
+Required Modules:  
+P Engineering Statistics 314  
+
+
+
+59471 Quality Management  
+
+
+
+444 (15) Quality Management (3 L; 3T) 
+Definition of reliability and maintainability; reliability management; methods and techniques for reliability modelling, data analysis, prediction and maintainability assurance; quality management; methods and 
+techniques for qu ality management; quality improvement; quality planning; quality control; leadership for 
+quality management ; cost of (poor) quality. 
+
+Required Modules:  
+P Engineering Statistics 314  
+
+
+
+64866 Scientific Communication Ski lls 
+
+
+
+116 (12) Scientific Communication Skills (3L; 3T) 
+For students in the BSc (Extended Curriculum  Programme s). This module focuses on the development of 
+speaking, listening, and reading skills in the academic environment in general and specifically in the natural sciences. Aspects such as engaging with and understanding relevant academic and natural science texts, understanding text components, the use of fluent, correct and proper language, and the interpretation of 
+graphic data, will be addressed.  
+
+
+
+
+146 (6) Scientific Communication Skills  (3L) 
+For BSc students in the BSc (Extended Curriculum  Programme s). This module focuses on the development 
+of writing skills in the academic environment in general and spe cifically in the natural sciences. Aspects such 
+as engaging with and understanding relevant academic and natural science texts, understanding text 
+components, presenting data in an edited and coherent text, the use of correct and proper language, the Engineering 
+88 
+ emplo yment of accurate language, correct referencing technique and using graphics to clarify data will be 
+addressed. 
+
+
+
+
+53945 Simulation  
+
+
+
+442 (12) Simulation  (3L; 1P; 2T) 
+Principles of discrete -event simulation of stochastic processes; generation of random numbers and values 
+for random variables; Monte -Carlo principle; simulation methodology; concept models; theory, techniques 
+and resources required for the analysis of input- and output data of simulation models; applications with a 
+software package.  
+Required Modules:  
+PP Engineering Statistics 314  
+
+
+
+19712 Strength of Materials  
+
+
+
+143 (12) Introduction: Mechanics of Deformable Bodies (3 L; 2T) 
+Introduction to mechanics, internal forces and stresses, deformations and strain, material response: material 
+law, axially loaded elements, torsion elements with circular cross section, symmetrical ben ding of beams, 
+thin walled pressure vessels.  
+
+Required Modules:  
+C Engineering Mathematics 115  
+C Applied Mathematics B 124  
+
+
+
+224 (15) Stress Analysis (3 L; 2,5T ) 
+Stress and strain analysis; relation between stress and strain for materials; transformation of stress and strain, 
+principal stress and principal strain; elastic and plastic material behaviour for axially loaded members, stability of axially loaded members (Euler theory), torsion, bending and skew bending elements w ith solid 
+and thin- walled sections; shear stress in bending; composite stress – axial, torsion, shear and bending; stress 
+concentrations, failure theories and fatigue; elastic design of members.  
+
+Required Modules:  
+P Strength of Materials 143  
+
+
+
+254 (15) Structural Analysis (3 L; 2,5T) 
+Theory and application of classic structural analysis techniques. E nergy methods and virtual work. Flexibility, 
+stiffness and matrix methods. Equilibrium, reactions and section forces in structures with axial, torsional and bending members.  Linear elastic constitutive relation and differential equations for strain and displacement.  
+
+Required Modules:  
+P Strength of Materials 224  
+
+
+
+19739 Strength of Materials W 
+
+
+
+244 (15) Displacements, Failure Criteria, Stress and Strain Transformations (3 L; 1P; 2T) 
+Displacements and deflection of beams. Energy methods. Stress and strain transformations. Mohr circles. Von Mises, Tresca and  Mohr -Coulomb failure theories. The relationship between stress and strain and the 
+application to thick -walled cylinders, curved beams, press and shrink fits, rotating discs and rings, etc. 
+Experimental stress analysis using strain gauges.  
+
+Required Modules:  
+P Engineering Mathematics 214  
+P Strength of Materials 224  Engineering 
+89 
+ 
+
+
+334 (15) Strength of  Materials (3 L; 1P; 2T) 
+Complex strains and stresses; generalised Hook’s law, anisotropic materials (composites); failure criterions; 
+introduction to plasticity; fracture mechanics (stress singularities); time dependent failure (material creep); 
+non- destructive testing (NDT) and failure analysis.  
+
+Required Modules:  
+P Engineering Mat hematics 214  
+P Engineering Mathematics 242  
+P Strength of Materials W 244  
+
+
+
+36307 Structural Design  
+
+
+
+354 (15) Concrete Construction (3L; 2,5T ) 
+Conceptual understanding of reinforced concrete structures: limit states approach and loads according to 
+the relevant design codes of practice (gravitational loads). Material behaviour of concrete (shrinkage, creep 
+and applications according to the relevant codes of practice). Short column analysis:  stresses, areas of steel 
+and concrete, basic detailing. Slender colum ns (uni -axial and bi- axial bending).  Beam analysis:  bending, 
+redistribution of moments, shear forces, basic detailing, displacement control (L/d ratio according to design codes of practice). Slab design: beam and slab with application of tables in codes of  practice, flat slab design 
+and punching shear, basic detailing.  Simplified frames as allowed by codes of practice (application of 
+commercial frame analysis software packages).  Introduction to pre -stressed concrete (statically determinate 
+beams): choice of  tendon force and tendon profile, losses, details (anchor zone). Anchorage of reinforcement: 
+laps and bond of reinforced concrete. Furthermore, continuously as part of the above:  quality control during 
+design and construction, specifications, representatio n of a physical structure by theoretical modelling.  
+
+Required Modules:  
+C Building Materials 254  
+P Strength of Materials 254  
+
+
+
+424 (15) Steel Construction (3 L; 2,5T ) 
+Description of the basis of design. Determination of structural loading according to the relevant code of 
+practice: review of general prescriptions, focus on wind loading as applied to steel structures. Conceptual 
+design of steel structures. Determination of the response of steel structures in terms of function, stability and 
+load effects (element forces and deflections). Determination of the function, response and capacity of structural steel elements, tension elements, compression elements, beams, beam -columns, connections 
+and foot plates i n terms of the relevant code of practice. Design of basic steel structure.  
+
+Required Modules:  
+P Strength of Materials 254  
+C Structural Design 354  
+
+
+
+46779 Systems and Signals  
+
+
+
+214 (15) Introduction to Systems and Signals (3L; 1P; 2T) 
+Sinusoidal steady- state analysis; phasors; sinusoidal power and energy concepts; transient and phasor 
+analysis of second- order RLC circuits; instantaneous  and average power; ideal operational amplifiers; two -
+port parameters.  
+
+Required Modules:  
+C Electrotechnique  143 Engineering 
+90 
+ 
+
+
+244 (15) Frequency Domain Techniques (3L; 1,5P; 1,5T) 
+The Laplace transform and its application to dynamic circuits;  impulse and step response; convolution;  
+transfer functions; Bode plots;  basic passive filters; basic active filters; Fourier series  and its application to 
+circuits ; Fourier transform and its applications to circuits; filters.  
+
+Required Modules:  
+C Electrotechnique 143  
+C Engineering Mathematics 214 
+C Engineering Mathematics 242  
+
+
+
+315 (15) Signal Theory and Analogue Modulation (3L; 1,5P; 1,5T) 
+Time/frequency transformations as underlying principle; the Fourier transform and the discrete Fourier 
+transform (DFT); LTI systems; modulation as building block for telecommunication systems; application of transforms in AM, SSB, FM, FDM and TDM; (de)modulation circuits with theoretical verification.  
+Home Department : Electrical and Electronic Engineering 
+Required Modules:  
+C Systems and Signals 214  
+C Systems and Signals 244  
+
+
+
+344 (15) Stochastic Signals (3 L; 1P; 2T) 
+One - and multi -dimensional random variables; expected values, moments, distribution functions and 
+probability density functions; operations on and transformations of random variables; random signals, auto - 
+and cross -correlation, stationary and spectral characteristics; behaviour with linear systems.  
+
+Required Modules:  
+C Systems and Signals 315  
+
+
+
+414 (15) Digital Signal Processing (3 L; 1P; 1T) 
+Sampling and time/frequency duality; Fourier transforms and series of discrete -time signals, the discrete 
+Fourier transform (DFT), the fast Fourier transform (FFT), convolution by means of the FFT; describing and 
+characterising discrete -time systems using the z- transform, impulse responses, frequency responses; 
+difference equations; elementary filters, FIR and IIR filter design; using auto -correlations and cross -
+correlations.  
+
+Required Modules:  
+C Systems and Signals 344  
+
+
+
+14215  Technical Communication  
+
+
+
+311 (4) Technical Communication (2L) 
+Effective communication in a professional environment, specifically in the form of technical reports and 
+correspondence . Text skills, such as coherence, appropriate style and structure . Appropriate referencing 
+methods . Appropriate assimilation of information from various sources of knowledge to create a lit erature 
+review. P resentation skills.  
+Offered  for half of the semester in tandem with Philosophy and Ethics 314  
+
+
+
+
+20419 Telecommunication  
+
+
+
+414 (15) Introduction to Telecommunications (3 L; 1P; 1T) 
+Channel capacity; baseband data transmission: intersymbol interference and error probabilities; signal -to-
+noise ratios; probability of error for digital modulation schemes (ASK, PSK, FSK); digital transmission of 
+analogue signals (PCM) and quantisation noise; forward error correction codes.  
+
+Required Modules:  
+C Systems and Signals 344  Engineering 
+91 
+ 
+
+
+19984 Theory of Structures  
+
+
+
+354 (15) Implementation of the Finite Element Method (3 L; 2,5T ) 
+Computer implementation of the finite element method for structural components, membranes, thin plates 
+and frames.  Building information models (BIM) for digital twinning in construction.   
+
+Required Modules:  
+P Strength of Materials 254  
+P Engineering Informatics 314  
+
+
+
+33863 Thermodynamics A  
+
+
+
+214 (15) Applied Thermodynamics A (3 L; 3T) 
+Specific heat, C p and C v; vapours; gas -vapour mixtures, saturation; use of steam tables, phase diagrams; ideal 
+and non- ideal gases; compressibility charts, improvements to the state equation; mass balances (steady and 
+unsteady); energy, mechanical work, first law of thermodynamics; applications to closed and open systems: processes and cycles; method of problem solving; state changes for ideal gases; isochoric, isobaric, 
+isotherm al, adiabatic and polytropic changes; enthalpy and technical work; entropy and the second law; 
+temperature -entropy diagram; maximum available energy. Applications of thermodynamics; technical cycle 
+processes; power generation; cooling cycles.  
+
+Required Modules:  
+P Engineering Mathematics 145  
+C Applied Mathematics B 154  
+P Engineering Chemistry 123  or P Engineering Chemistry 143  
+
+
+
+224 (15) Applied Chemical Thermodynamics A (3 L; 1P; 2,5T) 
+1 Practical per semester  
+Specific heat, C p and C v; vapours; gas -vapour mixtures, saturation; use of steam tables and phase diagrams; 
+ideal and non -ideal gases; compressibility charts; inter- molecular forces and potential functions; basic 
+equations of state; energy, mechanical  work and first law of thermodynamics; applications to closed and 
+open systems; state changes for ideal gases; isochoric, isobaric, isotherm al, adiabatic and polytropic 
+changes; enthalpy and technical work; entropy and the second law; temperature entropy diagram; maximum available energy; irreversible processes; basic cycles and refrigeration.  
+
+Required Modules:  
+P Engineering Mathematics 145  
+C Applied Mathematics B 154  
+P Engineering Chemistry 123  or P Engineering Chemistry 143  
+
+
+
+59544 Thermofluid Dynamics  
+
+
+
+214 (15) Introductory Thermofluid Dynamics (3L; 3P) 
+Engineering approach to problem solving; thermodynamic properties of water and an ideal gas; conservation 
+of mass, momentum and energy; entropy;  thermodynamic processes in closed and open systems; ideal 
+thermodynamics cycles; pump and pipe systems; fans; ducts; steady conduction, convection and radiation 
+heat transfer; air- vapour mixtures and air- conditioning processes.  
+
+Required Modules:  
+C Engineering Chemistry 123  or C Engineering Chemistry 143  
+C Engineering Mathematics 145  Engineering 
+92 
+ 
+
+
+344 (15) Thermodynamics and Fluid Dynamics (3 L; 1P; 2T) 
+External flow: introduction to fluid flow over bodies; Reynolds number and geometric effects; momentum -
+integral approach; boundary layer equations: flat plate with and without pressure gradients; lift and drag 
+forces. Compressible flow: compressibility and the Mach number; stagnation conditions; isentropic flow; flow 
+with heat addition and with friction; shock wave phenomena; the application of compressible flow; the effect of area change. Introduction to turbomachinery, pumps, axial fans; compressible flow through fluid 
+machinery, dimensional analysis; rothalpy; centrifugal and axial compressors; gas turbines; steam turbines. 
+Introduction to Numerical Fluid Dynamics (NFD).  
+
+Required Modules:  
+P Thermodynamics A 214  
+P Fluid Mechanics 244  
+
+
+
+21040 Transport Science  
+
+
+
+324 (15) Transportation Engineering (3 L; 1P; 1,5 T) 
+Traffic flow theory: travel patterns, traffic flow variables and their relationships (speed, volume, travel time, delay). Urban transport networks: network development, road classification , access management  and 
+universal accessibility.  Traffic engineering: speed studies, parking, capacity and l evel of service, intersection 
+control. Transportation planning: stakeholders, travel demand forecasting. T raffic impact assessments. Public 
+transport: modes and intermodal transport, operational planning. Transport economics: evaluation of 
+projects, user pricing and payment.  
+
+Required Modules:  
+C Civil  Engineering 224  
+
+
+
+364 (15) Transportation Engineering (3L; 1P; 1,5T) 
+Road geometric design: human factors and vehicle movements, movement equations ; alignment design ; 
+route determination ; parking design; intersection design; international standards. Transport safety; safety 
+standards ; forgiving road ; safe systems approach. Sustainability: transport justice ; sustainable transport ; 
+public transport and mini- bus taxis. Non- motorised traffic; NMT facilities . Smart E ngineering:  ITS applications ; 
+infrastructure ; communications ; trends. Rail transport . Traffic analysis using floating car d ata; data 
+visualisation.  
+
+Required Modules:  
+P Civil Engineering 224  
+P Data Analytics (Eng) 324  
+P Transport Science 324  
+PP Applied Mathematics B 154  
+
+
+
+434 (15) Pavement Design (3 L; 1P; 1,5T) 
+Overview of pavements; elastic layer theory; stresses and strain development ; behaviour of granular, 
+asphaltic and cementitious materials , as well as transfer functions . Alternative pavemen t design methods 
+including CBR design, mechanistic design and low- volume road design. Flexible and rigid pavements . 
+Sustainability: environmental influences; designing for climate change; use of recycled and secondary materials.  Construction, rehabilitatio n and maintenance . Present worth of costs for roads. 
+
+Required Modules:  
+P Transport Science 324  
+
+
+
+64007 University Practice in the Natural Sciences  
+
+
+
+176 (8) University Practice in the Natural Sciences  (3L) 
+Study load: 78 lectures in total, presented as 5L per week in the first semester and 1L per week in the second 
+semester.  
+For students in the BSc (Extended Curriculum Programme s). It is followed up during the second semester in 
+the different subject- specific modules of Mathematics 176, Physics 176 , Chemistry 176 and Biology 146. Basic 
+terminology and concepts are addressed. Study and life skills receive attention. The natural sciences and 
+specifically the subjects taken by the students serve as a context.  
+
+93 
+ 
+
+
+40150 Vacation Training  
+
+
+
+241 (0) Vacation Training (Civil)  
+A block of a minimum of four weeks’ vacation training must be completed. A report, complying with the 
+Department’s requirements, must be submitted as examination script. The student must make his/her  own 
+arrangements for vacation training. The Department is willing to assist with the arrangements. Students that do not succeed in arranging vacation work must, before the particular holiday, formulate a project of 
+equivalent scope and submit it to the Chair of the Department for approval. Vacation Training 241 may be done  at any time after the commencement of the second academic year, but students may only submit a 
+report from the commencement of the third year of study. 
+
+Method of Assessment: Attendance  
+
+
+
+341 (0) Vacation Training (Mechanical and Mechatronic)  
+Students must complete at least four uninterrupted w eeks, or six weeks with no more than one interruption 
+of up to four weeks, of vacation training on which a report that complies with the Department’s requirements 
+is submitted as examination script. Students must make their own arrangements for vacation training. The 
+Department is prepared to assist them in this regard. In cases where employment cannot be found, st udents 
+must formulate a project of equivalent scope and submit it to the Chair of the Department for approval. 
+Vacation Training 341 may be done  at any time after commencement of the second year of study, but 
+students may only submit a report from the commencement of the third year of study .  
+
+Method of Assessment: Attendance  
+
+
+
+342 (0) Vacation Training (Civil)  
+A block of a minimum of four weeks’ vacation training must be completed. A report, complying with the 
+Department’s requirements, must be submitted as examination script. The student must make his/her  own 
+arrangements for vacation training. The Department is willing to assist with the arrangements. Students that do not succeed in arranging vacation work must, before the particular holiday, formulate a project of equivalent scope and submit it to the Chair of the Department for approval. Vacation Training 342 may be 
+done at any time after the commencement of the second academic year, but students may only submit a 
+report from the commencement of the fourth year of study. 
+
+Method of Assessment: Attendance  
+
+
+
+351 (0) Vacation Training (Industrial)  
+A period of at least three weeks of vacation training must be completed, supported by a report in 
+accordance with departmental requirements. The report will be subject to examination. While students are 
+expected to arrange their own vacation employment, the Department is prepared to provide assistance in 
+this regard. In cases where employment cannot be found, students are required to complete a project or 
+task as agreed upon with the Chair of the Department.  Vacation training (Industrial) 351 may be completed at 
+any time after the start of the second academic year of study. Students may also apply for permission to do a single session of vacation training. This session must be of at least six weeks duration ( uninterrupted), and a 
+single report is required which must cover the complete session. This alternative allows the student to 
+complete Vacation Training 351 (Industrial) as well as Vacation Training 451 (Industrial) simultaneously, and 
+may be done  at any time after the start of the third academic year. 
+
+Method of Assessment: Attendance  
+
+
+
+361 (0) Vacation Training (Chemical)  
+At least six weeks’ vacation training should be done in total, of which at least three weeks must be uninterrupted. Preferably the students should do work in the chemical and mineral process industries and 
+gain exposure to the large -scale equipment used in  industry which is not available at the University. The 
+work should be of engineering or scientific nature, and preferably be done under the guidance of a graduate 
+chemical or metallurgical engineer.  
+
+Method of Assessment: Attendance  Engineering 
+94 
+ 
+
+
+441 (0) Vacation Training (Mechanical and Mechatronic)  
+The same particulars as Vacation Training 341, except that Vacation Training 441 can be completed any time 
+after the start of the third academic year, but students may only submit a report from the commencement of 
+the fourth year of study.  
+
+Method of Assessment: Attendance  
+
+
+
+451 (0) Vacation Training (Industrial)  
+Refer to Vacation Training (Industrial) 351 for details. Vacation Training (Industrial) 451 may be completed at any time after the start of the third academic year of study, but students may only submit a report from the commencement of the fourth year of study.  
+
+Method of Assessment: Attendance  
+
+
+
+23477 Vibration and Noise  
+
+
+
+354 (12) Vibration and Noise of Mechanical Systems (3L;  1P; 1T) 
+Vibration of systems with a single degree of freedom: formulation of mathematical models, free and forced vibration of undamped and damped systems. Systems with two and more degrees of freedom: natural frequencies and modes of undamped systems, free and forced vibrations, and frequency response 
+functions. Vibration of continuous systems. Control of vibration: balancing, isolation, absorbers, and vibration 
+measurement. Vibration monitoring for maintenance purposes.  Fundamentals of sound and noise; measuring 
+and standards of industrial noise; influence of noise on the environment. The control of noise by damping 
+and shielding.  
+
+Required Modules:  
+P Applied Mathematics B 224  
+P Modelling 334  
+
+
+
+13184 Water Treatment  
+
+
+
+324 (15) Fundamentals of wastewater treatment (3 L; 2,5T) 
+Objectives of wastewater treatment; wastewater laboratory testing methods; physical characterisation, 
+settleable, non -settleable and dissolved constituents; primary sedimentation; unit operations,  biodegradable 
+and unbiodegradable organics, biological growth and death behaviour; biological process kinetic equations; the steady state activated sludge model; oxygen demand and sludge production.  
+Home department: Civil Engineering  
+Required modules:  
+PP Engineering Chemistry 123 or PP Engineering Chemistry 143 
+P Engineering Mathematics 115  
+C Hydraulics 324  
+ 
+  

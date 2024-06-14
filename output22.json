@@ -1,0 +1,542 @@
+[
+  {
+    "Subject": "36315 Advanced Design (Civil)",
+    "SubjectName": "Advanced Design (Civil)",
+    "Code": "36315"
+  },
+  {
+    "Subject": "20753 Applied Mathematics B",
+    "SubjectName": "Applied Mathematics B",
+    "Code": "20753"
+  },
+  {
+    "Subject": "39020 Building Materials",
+    "SubjectName": "Building Materials",
+    "Code": "39020"
+  },
+  {
+    "Subject": "11576 Chemical Engineering",
+    "SubjectName": "Chemical Engineering",
+    "Code": "11576"
+  },
+  {
+    "Subject": "41696 Chemical Engineering D",
+    "SubjectName": "Chemical Engineering D",
+    "Code": "41696"
+  },
+  {
+    "Subject": "11479 Chemistry",
+    "SubjectName": "Chemistry",
+    "Code": "11479"
+  },
+  {
+    "Subject": "48321 Chemistry C",
+    "SubjectName": "Chemistry C",
+    "Code": "48321"
+  },
+  {
+    "Subject": "18481 Civil Engineering",
+    "SubjectName": "Civil Engineering",
+    "Code": "18481"
+  },
+  {
+    "Subject": "13362 Complementary Studies (Eng)",
+    "SubjectName": "Complementary Studies (Eng)",
+    "Code": "13362"
+  },
+  {
+    "Subject": "30317 Computer Programming",
+    "SubjectName": "Computer Programming",
+    "Code": "30317"
+  },
+  {
+    "Subject": "18139 Computer Science",
+    "SubjectName": "Computer Science",
+    "Code": "18139"
+  },
+  {
+    "Subject": "59536 Computer Science E",
+    "SubjectName": "Computer Science E",
+    "Code": "59536"
+  },
+  {
+    "Subject": "50040 Computer Skills",
+    "SubjectName": "Computer Skills",
+    "Code": "50040"
+  },
+  {
+    "Subject": "36153 Computer Systems",
+    "SubjectName": "Computer Systems",
+    "Code": "36153"
+  },
+  {
+    "Subject": "23965 Control Systems",
+    "SubjectName": "Control Systems",
+    "Code": "23965"
+  },
+  {
+    "Subject": "13856  Data Analytics (Eng)",
+    "SubjectName": "Data Analytics (Eng)",
+    "Code": "13856"
+  },
+  {
+    "Subject": "14019 Data Engineering",
+    "SubjectName": "Data Engineering",
+    "Code": "14019"
+  },
+  {
+    "Subject": "14026  Data Science",
+    "SubjectName": "Data Science",
+    "Code": "14026"
+  },
+  {
+    "Subject": "46833 Design (E)",
+    "SubjectName": "Design (E)",
+    "Code": "46833"
+  },
+  {
+    "Subject": "47929 Design Project",
+    "SubjectName": "Design Project",
+    "Code": "47929"
+  },
+  {
+    "Subject": "11949 Electrical Drive Systems",
+    "SubjectName": "Electrical Drive Systems",
+    "Code": "11949"
+  },
+  {
+    "Subject": "51357 Electromagnetics",
+    "SubjectName": "Electromagnetics",
+    "Code": "51357"
+  },
+  {
+    "Subject": "39802 E lectronic Engineering",
+    "SubjectName": "E lectronic Engineering",
+    "Code": "39802"
+  },
+  {
+    "Subject": "12491 Electronics",
+    "SubjectName": "Electronics",
+    "Code": "12491"
+  },
+  {
+    "Subject": "12599 Electrotechnique",
+    "SubjectName": "Electrotechnique",
+    "Code": "12599"
+  },
+  {
+    "Subject": "43915 Energy Systems",
+    "SubjectName": "Energy Systems",
+    "Code": "43915"
+  },
+  {
+    "Subject": "51365 Energy Systems M",
+    "SubjectName": "Energy Systems M",
+    "Code": "51365"
+  },
+  {
+    "Subject": "49484 Engineering Chemistry",
+    "SubjectName": "Engineering Chemistry",
+    "Code": "49484"
+  },
+  {
+    "Subject": "46825 Engineering Drawings",
+    "SubjectName": "Engineering Drawings",
+    "Code": "46825"
+  },
+  {
+    "Subject": "18791 Engineering Econom ics",
+    "SubjectName": "Engineering Econom ics",
+    "Code": "18791"
+  },
+  {
+    "Subject": "59552 Engineering Geology",
+    "SubjectName": "Engineering Geology",
+    "Code": "59552"
+  },
+  {
+    "Subject": "59560 Engineering Informatics",
+    "SubjectName": "Engineering Informatics",
+    "Code": "59560"
+  },
+  {
+    "Subject": "51373 Engineering Management",
+    "SubjectName": "Engineering Management",
+    "Code": "51373"
+  },
+  {
+    "Subject": "38571 Engineering Mathematics",
+    "SubjectName": "Engineering Mathematics",
+    "Code": "38571"
+  },
+  {
+    "Subject": "59420  Engineering Physics",
+    "SubjectName": "Engineering Physics",
+    "Code": "59420"
+  },
+  {
+    "Subject": "59498 Engineering Statistics",
+    "SubjectName": "Engineering Statistics",
+    "Code": "59498"
+  },
+  {
+    "Subject": "59501 Enterprise Design",
+    "SubjectName": "Enterprise Design",
+    "Code": "59501"
+  },
+  {
+    "Subject": "59455 Entrepreneurship (Eng)",
+    "SubjectName": "Entrepreneurship (Eng)",
+    "Code": "59455"
+  },
+  {
+    "Subject": "50431 Environmental Engineering",
+    "SubjectName": "Environmental Engineering",
+    "Code": "50431"
+  },
+  {
+    "Subject": "14000 ",
+    "SubjectName": "",
+    "Code": "14000"
+  },
+  {
+    "Subject": "13683 Final -year Project  (C)",
+    "SubjectName": "Final -year Project  (C)",
+    "Code": "13683  -"
+  },
+  {
+    "Subject": "41726 Finite Element Methods",
+    "SubjectName": "Finite Element Methods",
+    "Code": "41726"
+  },
+  {
+    "Subject": "44415 Flu id Mechanics",
+    "SubjectName": "Flu id Mechanics",
+    "Code": "44415"
+  },
+  {
+    "Subject": "13857  Food Process Engineering",
+    "SubjectName": "Food Process Engineering",
+    "Code": "13857"
+  },
+  {
+    "Subject": "39667 Geotechnique",
+    "SubjectName": "Geotechnique",
+    "Code": "39667"
+  },
+  {
+    "Subject": "33928 Heat Transfer A",
+    "SubjectName": "Heat Transfer A",
+    "Code": "33928"
+  },
+  {
+    "Subject": "52124 High Frequency Technique",
+    "SubjectName": "High Frequency Technique",
+    "Code": "52124"
+  },
+  {
+    "Subject": "21350 Hydraulic Engineering",
+    "SubjectName": "Hydraulic Engineering",
+    "Code": "21350"
+  },
+  {
+    "Subject": "14400 Hydraulics",
+    "SubjectName": "Hydraulics",
+    "Code": "14400"
+  },
+  {
+    "Subject": "14397 Hydrology",
+    "SubjectName": "Hydrology",
+    "Code": "14397"
+  },
+  {
+    "Subject": "31496 Industrial Engineering",
+    "SubjectName": "Industrial Engineering",
+    "Code": "31496"
+  },
+  {
+    "Subject": "44792 Industrial Ergonomics",
+    "SubjectName": "Industrial Ergonomics",
+    "Code": "44792"
+  },
+  {
+    "Subject": "53937 Industrial Management",
+    "SubjectName": "Industrial Management",
+    "Code": "53937"
+  },
+  {
+    "Subject": "10618 Industrial Practice",
+    "SubjectName": "Industrial Practice",
+    "Code": "10618"
+  },
+  {
+    "Subject": "47422 Industrial Programming",
+    "SubjectName": "Industrial Programming",
+    "Code": "47422"
+  },
+  {
+    "Subject": "25445 Industrial Project",
+    "SubjectName": "Industrial Project",
+    "Code": "25445"
+  },
+  {
+    "Subject": "48062 Information Systems",
+    "SubjectName": "Information Systems",
+    "Code": "48062"
+  },
+  {
+    "Subject": "14213  Intercultural Communication (Eng)",
+    "SubjectName": "Intercultural Communication (Eng)",
+    "Code": "14213"
+  },
+  {
+    "Subject": "13363 Internship  (Eng)",
+    "SubjectName": "Internship  (Eng)",
+    "Code": "13363"
+  },
+  {
+    "Subject": "39705 Introductory Machine Design",
+    "SubjectName": "Introductory Machine Design",
+    "Code": "39705"
+  },
+  {
+    "Subject": "14212 Intro ductory Systems Eng ineering",
+    "SubjectName": "Intro ductory Systems Eng ineering",
+    "Code": "14212"
+  },
+  {
+    "Subject": "16020 Machine Design A",
+    "SubjectName": "Machine Design A",
+    "Code": "16020"
+  },
+  {
+    "Subject": "16039 Machine Design B",
+    "SubjectName": "Machine Design B",
+    "Code": "16039"
+  },
+  {
+    "Subject": "11745 Maintenance Management",
+    "SubjectName": "Maintenance Management",
+    "Code": "11745"
+  },
+  {
+    "Subject": "34134 Manufacturin g Processes",
+    "SubjectName": "Manufacturin g Processes",
+    "Code": "34134"
+  },
+  {
+    "Subject": "45381 Manufacturing Systems",
+    "SubjectName": "Manufacturing Systems",
+    "Code": "45381"
+  },
+  {
+    "Subject": "30325 Material Science A",
+    "SubjectName": "Material Science A",
+    "Code": "30325"
+  },
+  {
+    "Subject": "22853 Mathematical Statistics",
+    "SubjectName": "Mathematical Statistics",
+    "Code": "22853"
+  },
+  {
+    "Subject": "21539 Mathematics",
+    "SubjectName": "Mathematics",
+    "Code": "21539"
+  },
+  {
+    "Subject": "39292 Mechanical Engineering",
+    "SubjectName": "Mechanical Engineering",
+    "Code": "39292"
+  },
+  {
+    "Subject": "39179 Mechanical Project",
+    "SubjectName": "Mechanical Project",
+    "Code": "39179"
+  },
+  {
+    "Subject": "10886 Mechatronic Engineering",
+    "SubjectName": "Mechatronic Engineering",
+    "Code": "10886"
+  },
+  {
+    "Subject": "56790 Mechatronic Project",
+    "SubjectName": "Mechatronic Project",
+    "Code": "56790"
+  },
+  {
+    "Subject": "50458 Mechatronics",
+    "SubjectName": "Mechatronics",
+    "Code": "50458"
+  },
+  {
+    "Subject": "47988 Mineral Processing",
+    "SubjectName": "Mineral Processing",
+    "Code": "47988"
+  },
+  {
+    "Subject": "56804 Modelling",
+    "SubjectName": "Modelling",
+    "Code": "56804"
+  },
+  {
+    "Subject": "53678 Numerical Fluid Dynamics",
+    "SubjectName": "Numerical Fluid Dynamics",
+    "Code": "53678"
+  },
+  {
+    "Subject": "36323 Numerical Methods",
+    "SubjectName": "Numerical Methods",
+    "Code": "36323"
+  },
+  {
+    "Subject": "59528 Operations Research (Eng)",
+    "SubjectName": "Operations Research (Eng)",
+    "Code": "59528"
+  },
+  {
+    "Subject": "14020 Optimisation (Eng)",
+    "SubjectName": "Optimisation (Eng)",
+    "Code": "14020"
+  },
+  {
+    "Subject": "47902 Particle Technology",
+    "SubjectName": "Particle Technology",
+    "Code": "47902"
+  },
+  {
+    "Subject": "65609 Philosophy and Ethics",
+    "SubjectName": "Philosophy and Ethics",
+    "Code": "65609"
+  },
+  {
+    "Subject": "12998 Physics",
+    "SubjectName": "Physics",
+    "Code": "12998"
+  },
+  {
+    "Subject": "40142 Practical Workshop Training",
+    "SubjectName": "Practical Workshop Training",
+    "Code": "40142"
+  },
+  {
+    "Subject": "12201 Prepa ratory Technical Drawings",
+    "SubjectName": "Prepa ratory Technical Drawings",
+    "Code": "12201"
+  },
+  {
+    "Subject": "56820 Probability Theory and Statistics",
+    "SubjectName": "Probability Theory and Statistics",
+    "Code": "56820"
+  },
+  {
+    "Subject": "23256 Production Management",
+    "SubjectName": "Production Management",
+    "Code": "23256"
+  },
+  {
+    "Subject": "30279 Project (Civil  Engineering)",
+    "SubjectName": "Project (Civil  Engineering)",
+    "Code": "30279"
+  },
+  {
+    "Subject": "46795 Project (E)",
+    "SubjectName": "Project (E)",
+    "Code": "46795"
+  },
+  {
+    "Subject": "51993 Project Management",
+    "SubjectName": "Project Management",
+    "Code": "51993"
+  },
+  {
+    "Subject": "46167 Quality Assurance",
+    "SubjectName": "Quality Assurance",
+    "Code": "46167"
+  },
+  {
+    "Subject": "59471 Quality Management",
+    "SubjectName": "Quality Management",
+    "Code": "59471"
+  },
+  {
+    "Subject": "64866 Scientific Communication Skills",
+    "SubjectName": "Scientific Communication Skills",
+    "Code": "64866"
+  },
+  {
+    "Subject": "53945 Simulation",
+    "SubjectName": "Simulation",
+    "Code": "53945"
+  },
+  {
+    "Subject": "19712 Strength of Materials",
+    "SubjectName": "Strength of Materials",
+    "Code": "19712"
+  },
+  {
+    "Subject": "19739 Strength of Materials W",
+    "SubjectName": "Strength of Materials W",
+    "Code": "19739"
+  },
+  {
+    "Subject": "36307 Structural Design",
+    "SubjectName": "Structural Design",
+    "Code": "36307"
+  },
+  {
+    "Subject": "46779 Systems and Signals",
+    "SubjectName": "Systems and Signals",
+    "Code": "46779"
+  },
+  {
+    "Subject": "14215  Technical Communication",
+    "SubjectName": "Technical Communication",
+    "Code": "14215"
+  },
+  {
+    "Subject": "20419 Telecommunication",
+    "SubjectName": "Telecommunication",
+    "Code": "20419"
+  },
+  {
+    "Subject": "19984 Theory of Structures",
+    "SubjectName": "Theory of Structures",
+    "Code": "19984"
+  },
+  {
+    "Subject": "33863 Thermodynamics A",
+    "SubjectName": "Thermodynamics A",
+    "Code": "33863"
+  },
+  {
+    "Subject": "59544 Thermofluid Dynamics",
+    "SubjectName": "Thermofluid Dynamics",
+    "Code": "59544"
+  },
+  {
+    "Subject": "21040 Transport Science",
+    "SubjectName": "Transport Science",
+    "Code": "21040"
+  },
+  {
+    "Subject": "64007 University Practice in the Natural Sciences",
+    "SubjectName": "University Practice in the Natural Sciences",
+    "Code": "64007"
+  },
+  {
+    "Subject": "40150 Vacation Training",
+    "SubjectName": "Vacation Training",
+    "Code": "40150"
+  },
+  {
+    "Subject": "23477 Vibration and Noise",
+    "SubjectName": "Vibration and Noise",
+    "Code": "23477"
+  },
+  {
+    "Subject": "13184 Water Treatment",
+    "SubjectName": "Water Treatment",
+    "Code": "13184"
+  }
+]
