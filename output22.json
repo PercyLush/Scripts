@@ -1,542 +1,607 @@
 [
   {
-    "Subject": "36315 Advanced Design (Civil)",
-    "SubjectName": "Advanced Design (Civil)",
-    "Code": "36315"
+    "Subject": "49638 Basic Xhosa",
+    "SubjectCode": "Basic Xhosa",
+    "Code": "49638"
   },
   {
-    "Subject": "20753 Applied Mathematics B",
-    "SubjectName": "Applied Mathematics B",
-    "Code": "20753"
+    "Subject": "21687 Xhosa",
+    "SubjectCode": "Xhosa",
+    "Code": "21687"
   },
   {
-    "Subject": "39020 Building Materials",
-    "SubjectName": "Building Materials",
-    "Code": "39020"
+    "Subject": "39373 Afrikaans and Dutch",
+    "SubjectCode": "Afrikaans and Dutch",
+    "Code": "39373"
   },
   {
-    "Subject": "11576 Chemical Engineering",
-    "SubjectName": "Chemical Engineering",
-    "Code": "11576"
+    "Subject": "15504 Agricultural Economics",
+    "SubjectCode": "Agricultural Economics",
+    "Code": "15504"
   },
   {
-    "Subject": "41696 Chemical Engineering D",
-    "SubjectName": "Chemical Engineering D",
-    "Code": "41696"
+    "Subject": "15644 Latin",
+    "SubjectCode": "Latin",
+    "Code": "15644"
   },
   {
-    "Subject": "11479 Chemistry",
-    "SubjectName": "Chemistry",
-    "Code": "11479"
+    "Subject": "48550 Business Management",
+    "SubjectCode": "Business Management",
+    "Code": "48550"
   },
   {
-    "Subject": "48321 Chemistry C",
-    "SubjectName": "Chemistry C",
-    "Code": "48321"
+    "Subject": "58335 Entrepreneurship and Innovation Management",
+    "SubjectCode": "Entrepreneurship and Innovation Management",
+    "Code": "58335"
   },
   {
-    "Subject": "18481 Civil Engineering",
-    "SubjectName": "Civil Engineering",
-    "Code": "18481"
+    "Subject": "13353 Exchange Semester",
+    "SubjectCode": "Exchange Semester",
+    "Code": "13353"
   },
   {
-    "Subject": "13362 Complementary Studies (Eng)",
-    "SubjectName": "Complementary Studies (Eng)",
-    "Code": "13362"
+    "Subject": "51047 Financial Management",
+    "SubjectCode": "Financial Management",
+    "Code": "51047"
   },
   {
-    "Subject": "30317 Computer Programming",
-    "SubjectName": "Computer Programming",
-    "Code": "30317"
+    "Subject": "59765 Financial Planning",
+    "SubjectCode": "Financial Planning",
+    "Code": "59765"
   },
   {
-    "Subject": "18139 Computer Science",
-    "SubjectName": "Computer Science",
-    "Code": "18139"
+    "Subject": "55344 Investment Management",
+    "SubjectCode": "Investment Management",
+    "Code": "55344"
   },
   {
-    "Subject": "59536 Computer Science E",
-    "SubjectName": "Computer Science E",
-    "Code": "59536"
+    "Subject": "11286 Management of Corporate Social Responsibility",
+    "SubjectCode": "Management of Corporate Social Responsibility",
+    "Code": "11286"
   },
   {
-    "Subject": "50040 Computer Skills",
-    "SubjectName": "Computer Skills",
-    "Code": "50040"
+    "Subject": "23795 Marketing Management",
+    "SubjectCode": "Marketing Management",
+    "Code": "23795"
   },
   {
-    "Subject": "36153 Computer Systems",
-    "SubjectName": "Computer Systems",
-    "Code": "36153"
+    "Subject": "59587 Strategic Management",
+    "SubjectCode": "Strategic Management",
+    "Code": "59587"
   },
   {
-    "Subject": "23965 Control Systems",
-    "SubjectName": "Control Systems",
-    "Code": "23965"
+    "Subject": "14377 Behavioural Economics",
+    "SubjectCode": "Behavioural Economics",
+    "Code": "14377"
   },
   {
-    "Subject": "13856  Data Analytics (Eng)",
-    "SubjectName": "Data Analytics (Eng)",
-    "Code": "13856"
+    "Subject": "14696  Data Science Research in Behavioural Economics",
+    "SubjectCode": "Data Science Research in Behavioural Economics",
+    "Code": "14696"
   },
   {
-    "Subject": "14019 Data Engineering",
-    "SubjectName": "Data Engineering",
-    "Code": "14019"
+    "Subject": "10430 Econometrics",
+    "SubjectCode": "Econometrics",
+    "Code": "10430"
   },
   {
-    "Subject": "14026  Data Science",
-    "SubjectName": "Data Science",
-    "Code": "14026"
+    "Subject": "12084 Economics",
+    "SubjectCode": "Economics",
+    "Code": "12084"
   },
   {
-    "Subject": "46833 Design (E)",
-    "SubjectName": "Design (E)",
-    "Code": "46833"
+    "Subject": "10595 Macroeconomics",
+    "SubjectCode": "Macroeconomics",
+    "Code": "10595"
   },
   {
-    "Subject": "47929 Design Project",
-    "SubjectName": "Design Project",
-    "Code": "47929"
+    "Subject": "10605 Microeconomics",
+    "SubjectCode": "Microeconomics",
+    "Code": "10605"
   },
   {
-    "Subject": "11949 Electrical Drive Systems",
-    "SubjectName": "Electrical Drive Systems",
-    "Code": "11949"
+    "Subject": "53880 English Studies",
+    "SubjectCode": "English Studies",
+    "Code": "53880"
   },
   {
-    "Subject": "51357 Electromagnetics",
-    "SubjectName": "Electromagnetics",
-    "Code": "51357"
+    "Subject": "64165 Geo -Environmental Science",
+    "SubjectCode": "Geo-Environmental Science",
+    "Code": "64165"
   },
   {
-    "Subject": "39802 E lectronic Engineering",
-    "SubjectName": "E lectronic Engineering",
-    "Code": "39802"
+    "Subject": "14221 Human Capital Metrics",
+    "SubjectCode": "Human Capital Metrics",
+    "Code": "14221"
   },
   {
-    "Subject": "12491 Electronics",
-    "SubjectName": "Electronics",
-    "Code": "12491"
+    "Subject": "10553 Industrial Psychology",
+    "SubjectCode": "Industrial Psychology",
+    "Code": "10553"
   },
   {
-    "Subject": "12599 Electrotechnique",
-    "SubjectName": "Electrotechnique",
-    "Code": "12599"
+    "Subject": "36846 Industrial Psychology (Occupational Therapy)",
+    "SubjectCode": "Industrial Psychology (Occupational Therapy)",
+    "Code": "36846"
   },
   {
-    "Subject": "43915 Energy Systems",
-    "SubjectName": "Energy Systems",
-    "Code": "43915"
+    "Subject": "44776 Industrial Psychology (Special)",
+    "SubjectCode": "Industrial Psychology (Special)",
+    "Code": "44776"
   },
   {
-    "Subject": "51365 Energy Systems M",
-    "SubjectName": "Energy Systems M",
-    "Code": "51365"
+    "Subject": "13351 Introduction to Intercultural Communication",
+    "SubjectCode": "Introduction to Intercultural Communication",
+    "Code": "13351"
   },
   {
-    "Subject": "49484 Engineering Chemistry",
-    "SubjectName": "Engineering Chemistry",
-    "Code": "49484"
+    "Subject": "14689  Organisational Informatics",
+    "SubjectCode": "Organisational Informatics",
+    "Code": "14689"
   },
   {
-    "Subject": "46825 Engineering Drawings",
-    "SubjectName": "Engineering Drawings",
-    "Code": "46825"
+    "Subject": "58173  Socio-Informatics",
+    "SubjectCode": "Socio-Informatics",
+    "Code": "58173"
   },
   {
-    "Subject": "18791 Engineering Econom ics",
-    "SubjectName": "Engineering Econom ics",
-    "Code": "18791"
+    "Subject": "10906 Advanced Line ar Programming",
+    "SubjectCode": "Advanced Line ar Programming",
+    "Code": "10906"
   },
   {
-    "Subject": "59552 Engineering Geology",
-    "SubjectName": "Engineering Geology",
-    "Code": "59552"
+    "Subject": "14023 Business Analytics",
+    "SubjectCode": "Business Analytics",
+    "Code": "14023"
   },
   {
-    "Subject": "59560 Engineering Informatics",
-    "SubjectName": "Engineering Informatics",
-    "Code": "59560"
-  },
-  {
-    "Subject": "51373 Engineering Management",
-    "SubjectName": "Engineering Management",
-    "Code": "51373"
-  },
-  {
-    "Subject": "38571 Engineering Mathematics",
-    "SubjectName": "Engineering Mathematics",
-    "Code": "38571"
-  },
-  {
-    "Subject": "59420  Engineering Physics",
-    "SubjectName": "Engineering Physics",
-    "Code": "59420"
-  },
-  {
-    "Subject": "59498 Engineering Statistics",
-    "SubjectName": "Engineering Statistics",
-    "Code": "59498"
-  },
-  {
-    "Subject": "59501 Enterprise Design",
-    "SubjectName": "Enterprise Design",
-    "Code": "59501"
-  },
-  {
-    "Subject": "59455 Entrepreneurship (Eng)",
-    "SubjectName": "Entrepreneurship (Eng)",
-    "Code": "59455"
-  },
-  {
-    "Subject": "50431 Environmental Engineering",
-    "SubjectName": "Environmental Engineering",
-    "Code": "50431"
-  },
-  {
-    "Subject": "14000 ",
-    "SubjectName": "",
-    "Code": "14000"
-  },
-  {
-    "Subject": "13683 Final -year Project  (C)",
-    "SubjectName": "Final -year Project  (C)",
-    "Code": "13683  -"
-  },
-  {
-    "Subject": "41726 Finite Element Methods",
-    "SubjectName": "Finite Element Methods",
-    "Code": "41726"
-  },
-  {
-    "Subject": "44415 Flu id Mechanics",
-    "SubjectName": "Flu id Mechanics",
-    "Code": "44415"
-  },
-  {
-    "Subject": "13857  Food Process Engineering",
-    "SubjectName": "Food Process Engineering",
-    "Code": "13857"
-  },
-  {
-    "Subject": "39667 Geotechnique",
-    "SubjectName": "Geotechnique",
-    "Code": "39667"
-  },
-  {
-    "Subject": "33928 Heat Transfer A",
-    "SubjectName": "Heat Transfer A",
-    "Code": "33928"
-  },
-  {
-    "Subject": "52124 High Frequency Technique",
-    "SubjectName": "High Frequency Technique",
-    "Code": "52124"
-  },
-  {
-    "Subject": "21350 Hydraulic Engineering",
-    "SubjectName": "Hydraulic Engineering",
-    "Code": "21350"
-  },
-  {
-    "Subject": "14400 Hydraulics",
-    "SubjectName": "Hydraulics",
-    "Code": "14400"
-  },
-  {
-    "Subject": "14397 Hydrology",
-    "SubjectName": "Hydrology",
-    "Code": "14397"
-  },
-  {
-    "Subject": "31496 Industrial Engineering",
-    "SubjectName": "Industrial Engineering",
-    "Code": "31496"
-  },
-  {
-    "Subject": "44792 Industrial Ergonomics",
-    "SubjectName": "Industrial Ergonomics",
-    "Code": "44792"
-  },
-  {
-    "Subject": "53937 Industrial Management",
-    "SubjectName": "Industrial Management",
-    "Code": "53937"
-  },
-  {
-    "Subject": "10618 Industrial Practice",
-    "SubjectName": "Industrial Practice",
-    "Code": "10618"
-  },
-  {
-    "Subject": "47422 Industrial Programming",
-    "SubjectName": "Industrial Programming",
-    "Code": "47422"
-  },
-  {
-    "Subject": "25445 Industrial Project",
-    "SubjectName": "Industrial Project",
-    "Code": "25445"
+    "Subject": "14695  Data Science Research in Analytics and Optimisation",
+    "SubjectCode": "Data Science Research in Analytics and Optimisation",
+    "Code": "14695"
   },
   {
     "Subject": "48062 Information Systems",
-    "SubjectName": "Information Systems",
+    "SubjectCode": "Information Systems",
     "Code": "48062"
   },
   {
-    "Subject": "14213  Intercultural Communication (Eng)",
-    "SubjectName": "Intercultural Communication (Eng)",
-    "Code": "14213"
+    "Subject": "13350 Introduction to Transport and Logistics Systems",
+    "SubjectCode": "Introduction to Transport and Logistics Systems",
+    "Code": "13350"
   },
   {
-    "Subject": "13363 Internship  (Eng)",
-    "SubjectName": "Internship  (Eng)",
-    "Code": "13363"
+    "Subject": "14219 Logistics and Supply Chain Management",
+    "SubjectCode": "Logistics and Supply Chain Management",
+    "Code": "14219"
   },
   {
-    "Subject": "39705 Introductory Machine Design",
-    "SubjectName": "Introductory Machine Design",
-    "Code": "39705"
+    "Subject": "12318 Metaheuristics",
+    "SubjectCode": "Metaheuristics",
+    "Code": "12318"
   },
   {
-    "Subject": "14212 Intro ductory Systems Eng ineering",
-    "SubjectName": "Intro ductory Systems Eng ineering",
-    "Code": "14212"
+    "Subject": "11907 Methods of Operations Research",
+    "SubjectCode": "Methods of Operations Research",
+    "Code": "11907"
   },
   {
-    "Subject": "16020 Machine Design A",
-    "SubjectName": "Machine Design A",
-    "Code": "16020"
-  },
-  {
-    "Subject": "16039 Machine Design B",
-    "SubjectName": "Machine Design B",
-    "Code": "16039"
-  },
-  {
-    "Subject": "11745 Maintenance Management",
-    "SubjectName": "Maintenance Management",
-    "Code": "11745"
-  },
-  {
-    "Subject": "34134 Manufacturin g Processes",
-    "SubjectName": "Manufacturin g Processes",
-    "Code": "34134"
-  },
-  {
-    "Subject": "45381 Manufacturing Systems",
-    "SubjectName": "Manufacturing Systems",
-    "Code": "45381"
-  },
-  {
-    "Subject": "30325 Material Science A",
-    "SubjectName": "Material Science A",
-    "Code": "30325"
-  },
-  {
-    "Subject": "22853 Mathematical Statistics",
-    "SubjectName": "Mathematical Statistics",
-    "Code": "22853"
-  },
-  {
-    "Subject": "21539 Mathematics",
-    "SubjectName": "Mathematics",
-    "Code": "21539"
-  },
-  {
-    "Subject": "39292 Mechanical Engineering",
-    "SubjectName": "Mechanical Engineering",
-    "Code": "39292"
-  },
-  {
-    "Subject": "39179 Mechanical Project",
-    "SubjectName": "Mechanical Project",
-    "Code": "39179"
-  },
-  {
-    "Subject": "10886 Mechatronic Engineering",
-    "SubjectName": "Mechatronic Engineering",
-    "Code": "10886"
-  },
-  {
-    "Subject": "56790 Mechatronic Project",
-    "SubjectName": "Mechatronic Project",
-    "Code": "56790"
-  },
-  {
-    "Subject": "50458 Mechatronics",
-    "SubjectName": "Mechatronics",
-    "Code": "50458"
-  },
-  {
-    "Subject": "47988 Mineral Processing",
-    "SubjectName": "Mineral Processing",
-    "Code": "47988"
-  },
-  {
-    "Subject": "56804 Modelling",
-    "SubjectName": "Modelling",
-    "Code": "56804"
-  },
-  {
-    "Subject": "53678 Numerical Fluid Dynamics",
-    "SubjectName": "Numerical Fluid Dynamics",
-    "Code": "53678"
-  },
-  {
-    "Subject": "36323 Numerical Methods",
-    "SubjectName": "Numerical Methods",
-    "Code": "36323"
-  },
-  {
-    "Subject": "59528 Operations Research (Eng)",
-    "SubjectName": "Operations Research (Eng)",
-    "Code": "59528"
-  },
-  {
-    "Subject": "14020 Optimisation (Eng)",
-    "SubjectName": "Optimisation (Eng)",
-    "Code": "14020"
-  },
-  {
-    "Subject": "47902 Particle Technology",
-    "SubjectName": "Particle Technology",
-    "Code": "47902"
-  },
-  {
-    "Subject": "65609 Philosophy and Ethics",
-    "SubjectName": "Philosophy and Ethics",
-    "Code": "65609"
-  },
-  {
-    "Subject": "12998 Physics",
-    "SubjectName": "Physics",
-    "Code": "12998"
-  },
-  {
-    "Subject": "40142 Practical Workshop Training",
-    "SubjectName": "Practical Workshop Training",
-    "Code": "40142"
-  },
-  {
-    "Subject": "12201 Prepa ratory Technical Drawings",
-    "SubjectName": "Prepa ratory Technical Drawings",
-    "Code": "12201"
-  },
-  {
-    "Subject": "56820 Probability Theory and Statistics",
-    "SubjectName": "Probability Theory and Statistics",
-    "Code": "56820"
-  },
-  {
-    "Subject": "23256 Production Management",
-    "SubjectName": "Production Management",
-    "Code": "23256"
-  },
-  {
-    "Subject": "30279 Project (Civil  Engineering)",
-    "SubjectName": "Project (Civil  Engineering)",
-    "Code": "30279"
-  },
-  {
-    "Subject": "46795 Project (E)",
-    "SubjectName": "Project (E)",
-    "Code": "46795"
+    "Subject": "55336 Operations Research",
+    "SubjectCode": "Operations Research",
+    "Code": "55336"
   },
   {
     "Subject": "51993 Project Management",
-    "SubjectName": "Project Management",
+    "SubjectCode": "Project Management",
     "Code": "51993"
   },
   {
-    "Subject": "46167 Quality Assurance",
-    "SubjectName": "Quality Assurance",
-    "Code": "46167"
+    "Subject": "14372 Systems Dynamics",
+    "SubjectCode": "Systems Dynamics",
+    "Code": "14372"
   },
   {
-    "Subject": "59471 Quality Management",
-    "SubjectName": "Quality Management",
-    "Code": "59471"
+    "Subject": "21008 Transport Economics",
+    "SubjectCode": "Transport Economics",
+    "Code": "21008"
   },
   {
-    "Subject": "64866 Scientific Communication Skills",
-    "SubjectName": "Scientific Communication Skills",
-    "Code": "64866"
+    "Subject": "20710 Applied Mathematics",
+    "SubjectCode": "Applied Mathematics",
+    "Code": "20710"
   },
   {
-    "Subject": "53945 Simulation",
-    "SubjectName": "Simulation",
-    "Code": "53945"
+    "Subject": "18139 Computer Science",
+    "SubjectCode": "Computer Science",
+    "Code": "18139"
   },
   {
-    "Subject": "19712 Strength of Materials",
-    "SubjectName": "Strength of Materials",
-    "Code": "19712"
+    "Subject": "56847 Financial M athematics",
+    "SubjectCode": "Financial M athematics",
+    "Code": "56847"
   },
   {
-    "Subject": "19739 Strength of Materials W",
-    "SubjectName": "Strength of Materials W",
-    "Code": "19739"
+    "Subject": "11788  Machine Learning",
+    "SubjectCode": "Machine Learning",
+    "Code": "11788"
   },
   {
-    "Subject": "36307 Structural Design",
-    "SubjectName": "Structural Design",
-    "Code": "36307"
+    "Subject": "21539 Mathematics",
+    "SubjectCode": "Mathematics",
+    "Code": "21539"
   },
   {
-    "Subject": "46779 Systems and Signals",
-    "SubjectName": "Systems and Signals",
-    "Code": "46779"
+    "Subject": "35998 Mercantile Law (Commerce)",
+    "SubjectCode": "Mercantile Law (Commerce)",
+    "Code": "35998"
   },
   {
-    "Subject": "14215  Technical Communication",
-    "SubjectName": "Technical Communication",
-    "Code": "14215"
+    "Subject": "13352 Legal Aspects of International Transactions",
+    "SubjectCode": "Legal Aspects of International Transactions",
+    "Code": "13352"
   },
   {
-    "Subject": "20419 Telecommunication",
-    "SubjectName": "Telecommunication",
-    "Code": "20419"
+    "Subject": "58432 Mercantile Law (Acc)",
+    "SubjectCode": "Mercantile Law (Acc)",
+    "Code": "58432"
   },
   {
-    "Subject": "19984 Theory of Structures",
-    "SubjectName": "Theory of Structures",
-    "Code": "19984"
+    "Subject": "11302 Chinese",
+    "SubjectCode": "Chinese",
+    "Code": "11302"
   },
   {
-    "Subject": "33863 Thermodynamics A",
-    "SubjectName": "Thermodynamics A",
-    "Code": "33863"
+    "Subject": "13145 French",
+    "SubjectCode": "French",
+    "Code": "13145"
   },
   {
-    "Subject": "59544 Thermofluid Dynamics",
-    "SubjectName": "Thermofluid Dynamics",
-    "Code": "59544"
+    "Subject": "26107 German",
+    "SubjectCode": "German",
+    "Code": "26107"
   },
   {
-    "Subject": "21040 Transport Science",
-    "SubjectName": "Transport Science",
-    "Code": "21040"
+    "Subject": "12882 Philosophy",
+    "SubjectCode": "Philosophy",
+    "Code": "12882"
   },
   {
-    "Subject": "64007 University Practice in the Natural Sciences",
-    "SubjectName": "University Practice in the Natural Sciences",
-    "Code": "64007"
+    "Subject": "44687 Political Science",
+    "SubjectCode": "Political Science",
+    "Code": "44687"
   },
   {
-    "Subject": "40150 Vacation Training",
-    "SubjectName": "Vacation Training",
-    "Code": "40150"
+    "Subject": "18414 Psychology",
+    "SubjectCode": "Psychology",
+    "Code": "18414"
   },
   {
-    "Subject": "23477 Vibration and Noise",
-    "SubjectName": "Vibration and Noise",
-    "Code": "23477"
+    "Subject": "54186 Social Anthropology",
+    "SubjectCode": "Social Anthropology",
+    "Code": "54186"
   },
   {
-    "Subject": "13184 Water Treatment",
-    "SubjectName": "Water Treatment",
-    "Code": "13184"
+    "Subject": "19003 Sociology",
+    "SubjectCode": "Sociology",
+    "Code": "19003"
+  },
+  {
+    "Subject": "43214 Actuarial Science",
+    "SubjectCode": "Actuarial Science",
+    "Code": "43214"
+  },
+  {
+    "Subject": "10394 Bayesian Statistics",
+    "SubjectCode": "Bayesian Statistics",
+    "Code": "10394"
+  },
+  {
+    "Subject": "14026 Data Science",
+    "SubjectCode": "Data Science",
+    "Code": "14026"
+  },
+  {
+    "Subject": "14697  Data Science Research in Statistical Learning",
+    "SubjectCode": "Data Science Research in Statistical Learning",
+    "Code": "14697"
+  },
+  {
+    "Subject": "59498 Engineering Statistics",
+    "SubjectCode": "Engineering Statistics",
+    "Code": "59498"
+  },
+  {
+    "Subject": "54690 Financial Risk Management",
+    "SubjectCode": "Financial Risk Management",
+    "Code": "54690"
+  },
+  {
+    "Subject": "14289 Introduction to Statistical Learning",
+    "SubjectCode": "Introduction to Statistical Learning",
+    "Code": "14289"
+  },
+  {
+    "Subject": "22853 Mathematical Statistics",
+    "SubjectCode": "Mathematical Statistics",
+    "Code": "22853"
+  },
+  {
+    "Subject": "14373 Multivariate Statistical Analysis A",
+    "SubjectCode": "Multivariate Statistical Analysis A",
+    "Code": "14373"
+  },
+  {
+    "Subject": "14374 Multivariate Statistical Analysis B",
+    "SubjectCode": "Multivariate Statistical Analysis B",
+    "Code": "14374"
+  },
+  {
+    "Subject": "56820 Probability Theory and Statistics",
+    "SubjectCode": "Probability Theory and Statistics",
+    "Code": "56820"
+  },
+  {
+    "Subject": "19658 Statistics",
+    "SubjectCode": "Statistics",
+    "Code": "19658"
+  },
+  {
+    "Subject": "14223 Statistics and Data Science",
+    "SubjectCode": "Statistics and Data Science",
+    "Code": "14223"
+  },
+  {
+    "Subject": "65250 Stochastics Simulation",
+    "SubjectCode": "Stochastics Simulation",
+    "Code": "65250"
+  },
+  {
+    "Subject": "38784 Theory of Interest",
+    "SubjectCode": "Theory of Interest",
+    "Code": "38784"
+  },
+  {
+    "Subject": "14309 Time Series Analysis",
+    "SubjectCode": "Time Series Analysis",
+    "Code": "14309"
+  },
+  {
+    "Subject": "17426 Auditing",
+    "SubjectCode": "Auditing",
+    "Code": "17426"
+  },
+  {
+    "Subject": "59277 Business Ethics",
+    "SubjectCode": "Business Ethics",
+    "Code": "59277"
+  },
+  {
+    "Subject": "14523 Digital and Leadership Acumen for A ccountants",
+    "SubjectCode": "Digital and Leadership Acumen for A ccountants",
+    "Code": "14523"
+  },
+  {
+    "Subject": "26883 Financial Accounting",
+    "SubjectCode": "Financial Accounting",
+    "Code": "26883"
+  },
+  {
+    "Subject": "10812 Management Accounting",
+    "SubjectCode": "Management Accounting",
+    "Code": "10812"
+  },
+  {
+    "Subject": "18287 Taxation",
+    "SubjectCode": "Taxation",
+    "Code": "18287"
+  },
+  {
+    "Subject": "14130 Applied Compliance and Control",
+    "SubjectCode": "Applied Compliance and Control",
+    "Code": "14130"
+  },
+  {
+    "Subject": "14124 Applied Institutional Capacity Management",
+    "SubjectCode": "Applied Institutional Capacity Management",
+    "Code": "14124"
+  },
+  {
+    "Subject": "14127 Applied Institutional Collaboration",
+    "SubjectCode": "Applied Institutional Collaboration",
+    "Code": "14127"
+  },
+  {
+    "Subject": "14126 Applied Managing Institutional Performance",
+    "SubjectCode": "Applied Managing Institutional Performance",
+    "Code": "14126"
+  },
+  {
+    "Subject": "14128 Applied Public Accountability",
+    "SubjectCode": "Applied Public Accountability",
+    "Code": "14128"
+  },
+  {
+    "Subject": "14129 Applied Public Financial Accounting",
+    "SubjectCode": "Applied Public Financial Accounting",
+    "Code": "14129"
+  },
+  {
+    "Subject": "13782 Building Sustainable Cities",
+    "SubjectCode": "Building Sustainable Cities",
+    "Code": "13782"
+  },
+  {
+    "Subject": "14526  Business Plans and Strategies",
+    "SubjectCode": "Business Plans and Strategies",
+    "Code": "14526"
+  },
+  {
+    "Subject": "13787 Communication, PR and Journalism Studies",
+    "SubjectCode": "Communication, PR and Journalism Studies",
+    "Code": "13787"
+  },
+  {
+    "Subject": "13205 Compliance and Control",
+    "SubjectCode": "Compliance and Control",
+    "Code": "13205"
+  },
+  {
+    "Subject": "13777 Compliance and Control: Asset and Procurement Management",
+    "SubjectCode": "Compliance and Control: Asset and Procurement Management",
+    "Code": "13777"
+  },
+  {
+    "Subject": "13776 Compliance and Control: Budgeting",
+    "SubjectCode": "Compliance and Control: Budgeting",
+    "Code": "13776"
+  },
+  {
+    "Subject": "14513 Ecoliteracy",
+    "SubjectCode": "Ecoliteracy",
+    "Code": "14513"
+  },
+  {
+    "Subject": "14528 Entrepreneurship Incubator",
+    "SubjectCode": "Entrepreneurship Incubator",
+    "Code": "14528"
+  },
+  {
+    "Subject": "14519 Green Economy",
+    "SubjectCode": "Green Economy",
+    "Code": "14519"
+  },
+  {
+    "Subject": "13209 Institutional Conduct",
+    "SubjectCode": "Institutional Conduct",
+    "Code": "13209"
+  },
+  {
+    "Subject": "14521  Internship",
+    "SubjectCode": "Internship",
+    "Code": "14521"
+  },
+  {
+    "Subject": "13206 Managing Institutional Capacity",
+    "SubjectCode": "Managing Institutional Capacity",
+    "Code": "13206"
+  },
+  {
+    "Subject": "13207 Managing Institutional Collaboration",
+    "SubjectCode": "Managing Institutional Collaboration",
+    "Code": "13207"
+  },
+  {
+    "Subject": "13208 Managing Institutional Performance",
+    "SubjectCode": "Managing Institutional Performance",
+    "Code": "13208"
+  },
+  {
+    "Subject": "13780 Mentorship and Facilitation",
+    "SubjectCode": "Mentorship and Facilitation",
+    "Code": "13780"
+  },
+  {
+    "Subject": "14123 Personal Conduct and Integrity",
+    "SubjectCode": "Personal Conduct and Integrity",
+    "Code": "14123"
+  },
+  {
+    "Subject": "13210 Public Accountability",
+    "SubjectCode": "Public Accountability",
+    "Code": "13210"
+  },
+  {
+    "Subject": "48003 Public and Development Management",
+    "SubjectCode": "Public and Development Management",
+    "Code": "48003"
+  },
+  {
+    "Subject": "13211 Public Financial Accounting",
+    "SubjectCode": "Public Financial Accounting",
+    "Code": "13211"
+  },
+  {
+    "Subject": "14515  Regenerative Leadership",
+    "SubjectCode": "Regenerative Leadership",
+    "Code": "14515"
+  },
+  {
+    "Subject": "14527  Research Approaches",
+    "SubjectCode": "Research Approaches",
+    "Code": "14527"
+  },
+  {
+    "Subject": "14518 Social Change",
+    "SubjectCode": "Social Change",
+    "Code": "14518"
+  },
+  {
+    "Subject": "13786 Social Entrepreneurship",
+    "SubjectCode": "Social Entrepreneurship",
+    "Code": "13786"
+  },
+  {
+    "Subject": "13785 Social Innovation and Entrepreneurship",
+    "SubjectCode": "Social Innovation and Entrepreneurship",
+    "Code": "13785"
+  },
+  {
+    "Subject": "60771 Strategic Communication",
+    "SubjectCode": "Strategic Communication",
+    "Code": "60771"
+  },
+  {
+    "Subject": "14525 Sustainability in the Digital Age",
+    "SubjectCode": "Sustainability in the Digital Age",
+    "Code": "14525"
+  },
+  {
+    "Subject": "14514 Sustainability Perspectives",
+    "SubjectCode": "Sustainability Perspectives",
+    "Code": "14514"
+  },
+  {
+    "Subject": "14520 Sustainability Reporting",
+    "SubjectCode": "Sustainability Reporting",
+    "Code": "14520"
+  },
+  {
+    "Subject": "13763 Sustainable Design",
+    "SubjectCode": "Sustainable Design",
+    "Code": "13763"
+  },
+  {
+    "Subject": "13783 Sustainable Development Internship",
+    "SubjectCode": "Sustainable Development Internship",
+    "Code": "13783"
+  },
+  {
+    "Subject": "13784 Sustainable Reporting, Monitoring and Evaluation",
+    "SubjectCode": "Sustainable Reporting, Monitoring and Evaluation",
+    "Code": "13784"
+  },
+  {
+    "Subject": "14517 Worldviews",
+    "SubjectCode": "Worldviews",
+    "Code": "14517"
+  },
+  {
+    "Subject": "14220 Professional Communicatio n for EMS",
+    "SubjectCode": "Professional Communicatio n for EMS",
+    "Code": "14220"
+  },
+  {
+    "Subject": "11569 Academic Lit eracy for Economic and Management Sciences",
+    "SubjectCode": "Academic Lit eracy for Economic and Management Sciences",
+    "Code": "11569"
+  },
+  {
+    "Subject": "12298 Introduction to Economics",
+    "SubjectCode": "Introduction to Economics",
+    "Code": "12298"
+  },
+  {
+    "Subject": "11580 Mathematics for EMS",
+    "SubjectCode": "Mathematics for EMS",
+    "Code": "11580"
   }
 ]

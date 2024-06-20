@@ -30,7 +30,7 @@ def extract_key_value_pairs(file_path):
     return extracted_data_list
 
 # Provide the path to your text file
-file_path = 'C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\testing.txt'
+file_path = 'C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\SUN-EMS.txt'
 
 # Call the function to extract key-value pairs
 result_list = extract_key_value_pairs(file_path)

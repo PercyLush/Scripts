@@ -1215,7 +1215,7 @@ C Finite Element Methods 414
 
 
 
-44415 Flu id Mechanics  
+44415 Fluid Mechanics  
 
 
 
@@ -1577,7 +1577,7 @@ Conceptual design process, human factors in design. Design for assembly. Machine
 keys, retaining rings and bearings. Freehand sketches, part models, 2D detail drawings of parts and part lists, 
 3D modelling and interference checking. Drawing standards: measurement instrumentation for 
 manufacturing, surface roughness, tolerancing, geometric tolerancing, shrink fits, welding symbols. Design of 
-belt and chain drives. Working drawings and design project s in which the theory is applied. 
+belt and chain drives. Working drawings and design projects in which the theory is applied. 
 
 Required Modules:  
 P Engineering Drawings 123  or P Engineering Drawings 143  
@@ -1598,7 +1598,7 @@ P Applied Mathematic s B 224
 
 
 
-14212 Intro ductory Systems Eng ineering  
+14212 Introductory Systems Engineering  
 
 
 
@@ -2129,7 +2129,7 @@ second semester by the Department of Statistics and Actuarial Science for BCom s
 212 (8) Production and Operational Management (2L; 2T) 
 Introduction to operation s management ; strategy and sustainability ; process analysis  and manufacturing 
 processes; lean supply chains; sales and operations  planning; material s requirements planning (dependent 
-inventory ). 
+inventory). 
 
 
 
@@ -2138,7 +2138,7 @@ inventory ).
 Process analysis and improvement by combining Lean and Theory of Constraints approaches; facility design  
 with regard to facility location, facility layout and production line design ; demand forecasting and capacity 
 planning; integrated production planning from an aggregate to operational level ; inventory planning and 
-control; scheduling, execution and control of production .  
+control; scheduling, execution and control of production.  
 
 Required Modules:  
 P Production Management 212  

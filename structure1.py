@@ -1,6 +1,6 @@
 import re
 
-path = "C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\SUN-Engineering.txt"
+path = "C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\SUN-EMS.txt"
 
 def separate():
     with open(path, "r", encoding="utf-8") as file1:
@@ -16,7 +16,7 @@ def make_data_representable():
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
 
-        pattern = r"(\d{3}\((.+))"
+        pattern = r"(\d{3}\s*\((.+))"
         new_data = re.sub(pattern, r"\n\n\n\1", data)
 
     with open("C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\testing.txt", "w", encoding="utf-8") as file2:

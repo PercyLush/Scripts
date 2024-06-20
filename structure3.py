@@ -5,7 +5,7 @@ path1 = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\Stellenbosch U
 path2 = "C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\output22.json"
 
 
-with open(path1, "r") as file1, open(path2, "r", encoding="utf-8") as file2:
+with open(path1, "r", encoding="utf-8") as file1, open(path2, "r", encoding="utf-8") as file2:
     data1 = json.load(file1)
     data2 = json.load(file2)
 
@@ -16,12 +16,12 @@ with open(path1, "r") as file1, open(path2, "r", encoding="utf-8") as file2:
                 new_name = re.sub(remove_number, r"", item1["Name"])
                 new_name = new_name.strip()
 
-                if new_name == item2["SubjectName"]:
+                if new_name == item2["SubjectCode"]:
                     get_number = r"(\d+)"
-                    match = re.search(get_number, item1["Code"])
+                    match = re.search(get_number, item1["Name"])
                     if match:
                         code = item2["Code"] + f"-{match.group()}"
                         item1["Code"] = code
 
-with open("Testing.json", "w", encoding="utf-8") as file:
+with open(path1, "w", encoding="utf-8") as file:
     json.dump(data1, file, indent=2)
