@@ -14,10 +14,10 @@ if existing_database:
         },
         {
             "$set": {
-                "password": "***"
+                "password": "FlexxyGoddy_2"
             }
         }
         )
-    print("Password Deleted")
+    print("Password Updated")
 else:
     print("Could not find service")
