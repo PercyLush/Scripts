@@ -1,0 +1,158 @@
+[
+    {
+        "UserId": "668684e95c744906118750d8",
+        "Name": "Franck",
+        "Courses": [
+            {
+                "CourseCode": "MAT01B2",
+                "CourseName": "Multivariable and Vector Calculus 2B1"
+            },
+            {
+                "CourseCode": "CSC01B1",
+                "CourseName": "Introduction to data structures (C++)"
+            },
+            {
+                "CourseCode": "STA01B1",
+                "CourseName": "Statistical Inference"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Monday",
+                "Time": "2pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Wednesday",
+                "Time": "7pm",
+                "Status": "Available"
+            }
+        ]
+    },
+    {
+        "UserId": "668690f6265914508d3c2d05",
+        "Name": "Menzi",
+        "Courses": [
+            {
+                "CourseCode": "CEM1CA1",
+                "CourseName": "Chemistry 1C"
+            },
+            {
+                "CourseCode": "MATENB1",
+                "CourseName": "Applied Mathematics Engineering 1B"
+            },
+            {
+                "CourseCode": "MAT01B2",
+                "CourseName": "Multivariable and Vector Calculus 2B1"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Saturday",
+                "Time": "11am",
+                "Status": "Available"
+            },
+            {
+                "Day": "Saturday",
+                "Time": "7pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Sunday",
+                "Time": "13pm",
+                "Status": "Available"
+            }
+        ]
+    },
+    {
+        "UserId": "6686916c8270a42b069735fd",
+        "Name": "Sharlene",
+        "Courses": [
+            {
+                "CourseCode": "SOHCHB1",
+                "CourseName": "Sociology of Health and Health Care"
+            },
+            {
+                "CourseCode": "CLPHSY4",
+                "CourseName": "Clinical Practice 4"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Wednesday",
+                "Time": "16pm",
+                "Status": "Available"
+            }
+        ]
+    },
+    {
+        "UserId": "6686916c8270a42b069735fd", 
+        "Name": "Patrick",
+        "Courses": [
+            {
+                "CourseCode": "ECO11B1",
+                "CourseName": "Economics 1B"
+            },
+            {
+                "CourseCode": "BMA21B1",
+                "CourseName": "Business Management 1B"
+            },
+            {
+                "CourseCode": "ACC100",
+                "CourseName": "Accounting 100"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Friday",
+                "Time": "2pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Monday",
+                "Time": "7pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Monday",
+                "Time": "8pm",
+                "Status": "Available"
+            }
+        ]
+    },
+    {
+        "UserId": "6686916c8270a42b069735fd",
+        "Name": "Happiness",
+        "Courses": [
+            {
+                "CourseCode": "MAT01B2",
+                "CourseName": "Multivariable and Vector Calculus 2B1"
+            },
+            {
+                "CourseCode": "MFSPMY4",
+                "CourseName": "Mathematics 4"
+            },
+            {
+                "CourseCode": "STA01B1",
+                "CourseName": "Statistical Inference"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Monday",
+                "Time": "5pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Tuesday",
+                "Time": "6pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Saturday",
+                "Time": "12pm",
+                "Status": "Available"
+            }
+        ]
+    }
+]

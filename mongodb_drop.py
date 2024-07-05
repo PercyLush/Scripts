@@ -2,22 +2,16 @@ from pymongo import MongoClient
 
 Client = MongoClient("mongodb+srv://percybheki3:8cGbRGgs9FCPOwdA@isitthou.agweefv.mongodb.net/")
 db = Client["RocketScience"]
-collection = db["ItIsNot"]
+collection = db["course"]
 
-service = "Gmail"
-existing_database = collection.find_one({"service": service})
+delete = ["", "TO BE UPDATED", ["N/A"]]
+keys = ["Corequisite", "Prequisite", "Assessments"]
 
-if existing_database:
-
-    result = collection.update_one({
-        "service": service
-        },
-        {
-            "$set": {
-                "password": "FlexxyGoddy_2"
-            }
-        }
+for dele in delete:
+    for key in keys:
+        result = collection.update_many(
+            {key: dele},
+            {"$unset": {key: ""}}
         )
-    print("Password Updated")
-else:
-    print("Could not find service")
+        if result.modified_count > 0:
+            print(f"{key} with Value '{dele}' dropped! ({result.modified_count} documents updated)")
