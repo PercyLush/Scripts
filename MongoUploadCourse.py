@@ -19,7 +19,7 @@ if existing_database > 0:
 
         for item in data:
             if "Code" in item:
-                # Construct the regex pattern
+                
                 pattern = f"^{item['Code']}$"
                 
                 # Find the document with the matching code (case-insensitive)
