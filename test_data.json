@@ -1,0 +1,132 @@
+[
+      {
+        "UserId": "6686a401fa45ce72c0f8548a",
+        "Name": "Manu Akanji",
+        "Courses": [
+            {
+                "CourseCode": "BME0YB1",
+                "CourseName": "Business Management 1B"
+            },
+            {
+                "CourseCode": "SOHCHB1",
+                "CourseName": "Sociology of Health and Health Care"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Tuesday",
+                "Time": "12pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Thursday",
+                "Time": "16pm",
+                "Status": "Available"
+            }
+        ]
+      },
+      {
+        "UserId": "6686a4db265914508d3c2d16",
+        "Name": "Stefan Ortega",
+        "Courses": [
+            {
+                "CourseCode": "MFSPMY4",
+                "CourseName": "Mathematics 4"
+            },
+            {
+                "CourseCode": "BMA21B1",
+                "CourseName": "Business Management 1B"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Tuesday",
+                "Time": "15pm",
+                "Status": "Available"
+            },
+            {
+                "Day": "Thursday",
+                "Time": "13pm",
+                "Status": "Available"
+            }
+        ]
+      },
+      {
+        "UserId": "6686a543fa45ce72c0f8548c",
+        "Name": "Jeremy Doku",
+        "Courses": [
+            {
+                "CourseCode": "MAT01B2",
+                "CourseName": "Multivariable and Vector Calculus 2B1"
+            },
+            {
+                "CourseCode": "CDDCMB4",
+                "CourseName": "Compounding and Dispensing Complementary Medicine"
+            }   
+        ],
+        "Availablility": [
+            {
+                "Day": "Tuesday",
+                "Time": "17:00:00 PM",
+                "Status": "Available"
+            },
+            {
+                "Day": "Thursday",
+                "Time": "14:00:00 PM",
+                "Status": "Available"
+            }
+        ]
+      },
+      {
+        "UserId": "6686a59ffa45ce72c0f8548d",
+        "Name": "Bruno Mango",
+        "Courses": [
+            {
+                "CourseCode": "CLPHSY4",
+                "CourseName": "Clinical Practice 4 (Practical)"
+            },
+            {
+                "CourseCode": "CSC01B1",
+                "CourseName": "Introduction to data structures (C++)"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Tuesday",
+                "Time": "9:00:00 AM",
+                "Status": "Available"
+            },
+            {
+                "Day": "Thursday",
+                "Time": "13:00:00 AM",
+                "Status": "Available"
+            }
+        ]
+      },
+      {
+        "UserId": "6686a5edfa45ce72c0f8548f",
+        "Name": "Savio Melo",
+        "Courses": [
+            {
+                "CourseCode": "STA01B1",
+                "CourseName": "Statistical Inference"
+            },
+            {
+                "CourseCode": "MFSPMY4",
+                "CourseName": "Mathematics 4"
+            }
+        ],
+        "Availablility": [
+            {
+                "Day": "Tuesday",
+                "Time": "2:00:00 PM",
+                "Status": "Available"
+            },
+            {
+                "Day": "Thursday",
+                "Time": "14:00:00 AM",
+                "Status": "Available"
+            }
+        ]
+      }
+]
