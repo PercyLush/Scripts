@@ -13,23 +13,18 @@ def text_file():
     with open(path, "w", encoding="utf-8") as file2:
         file2.write(new_file)
 
-path = "C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\UFS_Names+Codes.json"    
+path = "C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\UFS_Names+CodesFinal.json"    
 
 with open(path, "r", encoding="utf-8") as file1:
     data = json.load(file1)
 
     for item in data:
         if "Code" in item:
-            pattern = r"([A-Z]+\s*\d{4})"
-            Code = item["Code"]
-            code = re.search(pattern, code)
-            if code:
-                item["Code"] = code.group()
-
-            pattern_name = r"\d+\s*(.+)"
-            name = re.search(pattern_name, code)
-            if name:
-                item["Name"] = name.group()
+            item["Code"] = item["Code"].replace(" ", "")
+        
+        if "Name" in item:
+            pattern = r"(\d{4}\s*)"
+            item["Name"] = re.sub(pattern, r"", item["Name"])
                 
 with open("C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\UFS_Names+CodesFinal.json" , "w", encoding="utf-8") as file2:
     json.dump(data, file2, indent=2)

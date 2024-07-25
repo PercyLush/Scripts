@@ -1,0 +1,2810 @@
+[
+  {
+    "Code": "BLGY1513",
+    "Name": "Introduction to Biology"
+  },
+  {
+    "Code": "CLNS3702",
+    "Name": "Natural Science Education Community Service Learning"
+  },
+  {
+    "Code": "MATD1400",
+    "Name": "Introduction to Mathematics"
+  },
+  {
+    "Code": "MATD1544",
+    "Name": "Introduction to University Mathematics"
+  },
+  {
+    "Code": "MTDA1508",
+    "Name": "Mathematics Literacy in Agriculture"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH1508",
+    "Name": "Mathematical Literacy"
+  },
+  {
+    "Code": "MTDL1508",
+    "Name": "Mathematical Literacy for Law Students"
+  },
+  {
+    "Code": "QALC1513",
+    "Name": "Academic Literacy, Language and Communication"
+  },
+  {
+    "Code": "QCIV3624",
+    "Name": "Civil Engineering"
+  },
+  {
+    "Code": "QCLO3714",
+    "Name": "Computer Logic"
+  },
+  {
+    "Code": "QEDR1524",
+    "Name": "Engineering Drawings"
+  },
+  {
+    "Code": "QEFO1520",
+    "Name": "Engineering Forum"
+  },
+  {
+    "Code": "QELT2723",
+    "Name": "Electrotechnique"
+  },
+  {
+    "Code": "QENV3724",
+    "Name": "Holistic Engineering Design"
+  },
+  {
+    "Code": "QFLO3714",
+    "Name": "Fluid Mechanics"
+  },
+  {
+    "Code": "QMAD3623",
+    "Name": "Machine Design"
+  },
+  {
+    "Code": "QMAT2613",
+    "Name": "Engineering Materials"
+  },
+  {
+    "Code": "QMPR3724",
+    "Name": "Microprocessors"
+  },
+  {
+    "Code": "QMSC2613",
+    "Name": "Material Science"
+  },
+  {
+    "Code": "QPOW3724",
+    "Name": "Electrical Power Systems"
+  },
+  {
+    "Code": "QSIG3714",
+    "Name": "Signal Theory"
+  },
+  {
+    "Code": "QSTR2624",
+    "Name": "Strength of Materials I"
+  },
+  {
+    "Code": "QSTR3714",
+    "Name": "Strength of Materials II"
+  },
+  {
+    "Code": "QSTR3724",
+    "Name": "Strength of Materials III"
+  },
+  {
+    "Code": "QTHE3724",
+    "Name": "Engineering Thermodynamics"
+  },
+  {
+    "Code": "QVAC3520",
+    "Name": "Practical Engineering Experience"
+  },
+  {
+    "Code": "SCNS1508",
+    "Name": "Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "BIOL2674",
+    "Name": "Biostatistics"
+  },
+  {
+    "Code": "MATD1534",
+    "Name": "Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD1554",
+    "Name": "Basic Mathematics"
+  },
+  {
+    "Code": "MATD1564",
+    "Name": "Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD1584",
+    "Name": "Mathematics for Ems"
+  },
+  {
+    "Code": "MTDA1508",
+    "Name": "Mathematics Literacy in Agriculture"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH1508",
+    "Name": "Mathematical Literacy"
+  },
+  {
+    "Code": "SCNS1508",
+    "Name": "Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "MTDH1508",
+    "Name": "Mathematical Literacy"
+  },
+  {
+    "Code": "MATD1554",
+    "Name": "Basic Mathematics"
+  },
+  {
+    "Code": "MATD1584",
+    "Name": "Mathematics for Ems"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MATD1554",
+    "Name": "Basic Mathematics"
+  },
+  {
+    "Code": "MATD1584",
+    "Name": "Mathematics for Ems"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH1508",
+    "Name": "Mathematical Literacy"
+  },
+  {
+    "Code": "MATD1554",
+    "Name": "Basic Mathematics"
+  },
+  {
+    "Code": "MATD1564",
+    "Name": "Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD1584",
+    "Name": "Mathematics for Ems"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH1508",
+    "Name": "Mathematical Literacy"
+  },
+  {
+    "Code": "SCNS1508",
+    "Name": "Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "BLGY1513",
+    "Name": "Introduction to Biology"
+  },
+  {
+    "Code": "MATD1400",
+    "Name": "Introduction to Mathematics"
+  },
+  {
+    "Code": "MATD1534",
+    "Name": "Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD1544",
+    "Name": "Introduction to University Mathematics"
+  },
+  {
+    "Code": "MATD1554",
+    "Name": "Basic Mathematics"
+  },
+  {
+    "Code": "MATD1564",
+    "Name": "Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD1584",
+    "Name": "Mathematics for Ems"
+  },
+  {
+    "Code": "MTDA1508",
+    "Name": "Mathematics Literacy in Agriculture"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH1508",
+    "Name": "Mathematical Literacy"
+  },
+  {
+    "Code": "MTDL1508",
+    "Name": "Mathematical Literacy for Law Students"
+  },
+  {
+    "Code": "SCNS1508",
+    "Name": "Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "MATD1544",
+    "Name": "Introduction to University Mathematics"
+  },
+  {
+    "Code": "MATD1554",
+    "Name": "Basic Mathematics"
+  },
+  {
+    "Code": "MATD1564",
+    "Name": "Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD1584",
+    "Name": "Mathematics for EMS"
+  },
+  {
+    "Code": "MTDE1508",
+    "Name": "Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH1508",
+    "Name": "Mathematical Literacy"
+  },
+  {
+    "Code": "SCNS1508",
+    "Name": "Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "AGEC1514",
+    "Name": "Introduction to Agricultural Economics"
+  },
+  {
+    "Code": "AGEC1624",
+    "Name": "Agricultural Finance"
+  },
+  {
+    "Code": "AGEC1634",
+    "Name": "Business Functions for Agribusiness"
+  },
+  {
+    "Code": "AGEC2614",
+    "Name": "Farm Planning and Management"
+  },
+  {
+    "Code": "AGEC2624",
+    "Name": "Introduction to Agricultural Marketing"
+  },
+  {
+    "Code": "AGEC3714",
+    "Name": "Managerial Economics"
+  },
+  {
+    "Code": "AGEC3721",
+    "Name": "Agricultural Economics Seminar"
+  },
+  {
+    "Code": "AGEC3724",
+    "Name": "Resource Economics"
+  },
+  {
+    "Code": "AGEC3734",
+    "Name": "Agribusiness Management"
+  },
+  {
+    "Code": "AGEC3744",
+    "Name": "Agricultural Policy and Development"
+  },
+  {
+    "Code": "AGMA3714",
+    "Name": "Business Management and Entrepreneurship"
+  },
+  {
+    "Code": "AGMA3724",
+    "Name": "Innovation Management"
+  },
+  {
+    "Code": "AGMA3734",
+    "Name": "Farm Tax"
+  },
+  {
+    "Code": "AGMA3744",
+    "Name": "Strategic Agricultural Management"
+  },
+  {
+    "Code": "AGMA3762",
+    "Name": "Seminar: Integrated Agricultural Management"
+  },
+  {
+    "Code": "AGEC1514",
+    "Name": "Introduction to Agricultural Economics"
+  },
+  {
+    "Code": "AGEC1624",
+    "Name": "Agricultural Finance"
+  },
+  {
+    "Code": "AGRI1664",
+    "Name": "Microbiological Principles in Agriculture"
+  },
+  {
+    "Code": "AGRI1514",
+    "Name": "Biological Principles in Agriculture"
+  },
+  {
+    "Code": "AGRI1624",
+    "Name": "Mathematical and Biometrical Principles in Agriculture"
+  },
+  {
+    "Code": "ANIB2624",
+    "Name": "Introduction to Animal and Plant Breeding"
+  },
+  {
+    "Code": "ANIB3714",
+    "Name": "Theory of Animal Breeding"
+  },
+  {
+    "Code": "ANIB3724",
+    "Name": "Molecular Animal Breeding"
+  },
+  {
+    "Code": "ANIB4814",
+    "Name": "Animal Breeding: Mixed Model Theory"
+  },
+  {
+    "Code": "ANIB6814",
+    "Name": "Animal Breeding: Mixed Model Theory"
+  },
+  {
+    "Code": "ANIB4824",
+    "Name": "Animal Breeding: Practical Application"
+  },
+  {
+    "Code": "ANIB6824",
+    "Name": "Animal Breeding: Practical Application"
+  },
+  {
+    "Code": "ANIF2624",
+    "Name": "Animal Fibre Production"
+  },
+  {
+    "Code": "ANIG1624",
+    "Name": "Introduction to Animal, Wildlife and Grassland Science"
+  },
+  {
+    "Code": "ANIG2602",
+    "Name": "Animal Production Practical"
+  },
+  {
+    "Code": "ANIG2613",
+    "Name": "Introductory Ruminant Production"
+  },
+  {
+    "Code": "ANIG2623",
+    "Name": "Introductory Monogastric Production"
+  },
+  {
+    "Code": "ANIG3713",
+    "Name": "Cattle Production Systems"
+  },
+  {
+    "Code": "ANIG3723",
+    "Name": "Sheep and Goat Production Systems"
+  },
+  {
+    "Code": "ANIG3733",
+    "Name": "Poultry Production Systems"
+  },
+  {
+    "Code": "ANIG3743",
+    "Name": "Pig Production Systems"
+  },
+  {
+    "Code": "ANIG4808",
+    "Name": "Research Project Animal Sciences"
+  },
+  {
+    "Code": "ANIG6808",
+    "Name": "Research Project Animal Sciences"
+  },
+  {
+    "Code": "ANIN3734",
+    "Name": "Fundamental and Experimental Animal Nutrition"
+  },
+  {
+    "Code": "ANIN3744",
+    "Name": "Properties of Feeds Balancing Rations and Fodder Flow Planning"
+  },
+  {
+    "Code": "ANIN4834",
+    "Name": "Applied Monogastric Nutrition"
+  },
+  {
+    "Code": "ANIN6834",
+    "Name": "Applied Monogastric Nutrition"
+  },
+  {
+    "Code": "ANIN4864",
+    "Name": "Applied Ruminant Nutrition"
+  },
+  {
+    "Code": "ANIN6864",
+    "Name": "Applied Ruminant Nutrition"
+  },
+  {
+    "Code": "ANIP2614",
+    "Name": "Anatomy and Physiology of Body Compartments"
+  },
+  {
+    "Code": "ANIP3714",
+    "Name": "Animal Anatomy and Physiology of Growth in Farm Animals"
+  },
+  {
+    "Code": "ANIP3724",
+    "Name": "Animal Health"
+  },
+  {
+    "Code": "ANIP4814",
+    "Name": "Applied Reproduction Physiology in Farm Animals"
+  },
+  {
+    "Code": "ANIP6814",
+    "Name": "Applied Reproduction Physiology in Farm Animals"
+  },
+  {
+    "Code": "ANIP4824",
+    "Name": "Meat, Dairy and Egg Science"
+  },
+  {
+    "Code": "ANIP6824",
+    "Name": "Meat, Dairy and Egg Science"
+  },
+  {
+    "Code": "DATA2614",
+    "Name": "Agricultural Datametry"
+  },
+  {
+    "Code": "DATA2624",
+    "Name": "Agricultural Datametry"
+  },
+  {
+    "Code": "DATA3712",
+    "Name": "Statistical Analysis"
+  },
+  {
+    "Code": "GRAS2614",
+    "Name": "Grassland Ecology"
+  },
+  {
+    "Code": "GRAS3724",
+    "Name": "Intensive Pasture Production"
+  },
+  {
+    "Code": "GRAS4808",
+    "Name": "Research Project Grassland Science"
+  },
+  {
+    "Code": "GRAS4814",
+    "Name": "Production and Utilisation Ecology"
+  },
+  {
+    "Code": "GRAS4824",
+    "Name": "Advanced Veld Management"
+  },
+  {
+    "Code": "GRAS4834",
+    "Name": "Defoliation Phenology and Physiology"
+  },
+  {
+    "Code": "GRAS4844",
+    "Name": "Advanced Fodder Plant Evaluation"
+  },
+  {
+    "Code": "WDMT2624",
+    "Name": "Game and Natural Environment Interaction"
+  },
+  {
+    "Code": "WDMT3714",
+    "Name": "Applied Game Farm Management"
+  },
+  {
+    "Code": "WILD3723",
+    "Name": "Wildlife Research and Monitoring"
+  },
+  {
+    "Code": "WILD3764",
+    "Name": "Applied Nutrition of  Wild Herbivores and Carnivores"
+  },
+  {
+    "Code": "WILD4826",
+    "Name": "Integrated Planning and Practical Environmental Management Practices"
+  },
+  {
+    "Code": "AGRI1514",
+    "Name": "Biological Principles in Agriculture"
+  },
+  {
+    "Code": "ANIG1624",
+    "Name": "Introducing to Animal, Wildlife and Grassland Science"
+  },
+  {
+    "Code": "ANIB4823",
+    "Name": "Animal Breeding: Practical Application"
+  },
+  {
+    "Code": "ANIF4824",
+    "Name": "Meat Science"
+  },
+  {
+    "Code": "ANIF4864",
+    "Name": "Dairy Science"
+  },
+  {
+    "Code": "ANIG3754",
+    "Name": "Monogastric Production Systems"
+  },
+  {
+    "Code": "ANIG3754",
+    "Name": "Monogastric Production Systems"
+  },
+  {
+    "Code": "ANIG4808",
+    "Name": "Research Project Animal Sciences"
+  },
+  {
+    "Code": "ANIN4834",
+    "Name": "Applied monogastric nutrition"
+  },
+  {
+    "Code": "ANIN4864",
+    "Name": "Applied runimant nutrition"
+  },
+  {
+    "Code": "ANIP4814",
+    "Name": "Applied Reproduction Physiology of Farm Animals"
+  },
+  {
+    "Code": "CROP3744",
+    "Name": "Small grain, industrial and diverse crops"
+  },
+  {
+    "Code": "GRAS3763",
+    "Name": "Applied rangeland and pasture management"
+  },
+  {
+    "Code": "GRAS4814",
+    "Name": "Production and Utilisation Ecology"
+  },
+  {
+    "Code": "GRAS4808",
+    "Name": "Research Project Grassland Sciences"
+  },
+  {
+    "Code": "GRAS4824",
+    "Name": "Advanced Veld Management"
+  },
+  {
+    "Code": "WDMT3723",
+    "Name": "Applied Game Farm Management"
+  },
+  {
+    "Code": "WILD4814",
+    "Name": "Veld and Game Ecology"
+  },
+  {
+    "Code": "WILD6814",
+    "Name": "Veld and Game Ecology"
+  },
+  {
+    "Code": "ARCR2602",
+    "Name": "Architectural Representation 2"
+  },
+  {
+    "Code": "CONS1506",
+    "Name": "Construction I"
+  },
+  {
+    "Code": "CONS2600",
+    "Name": "Construction II"
+  },
+  {
+    "Code": "CONS3700",
+    "Name": "Construction III"
+  },
+  {
+    "Code": "DESN1500",
+    "Name": "Design I"
+  },
+  {
+    "Code": "DESN2600",
+    "Name": "Design II"
+  },
+  {
+    "Code": "DESN3700",
+    "Name": "Design III"
+  },
+  {
+    "Code": "HTRC1506",
+    "Name": "Histories and Theories of Architecture I"
+  },
+  {
+    "Code": "HTRC2606",
+    "Name": "Histories and Theories of Architecture II"
+  },
+  {
+    "Code": "HTRC3706",
+    "Name": "Histories and Theories of Architecture III"
+  },
+  {
+    "Code": "ARCR1506",
+    "Name": "Architectural Representation I"
+  },
+  {
+    "Code": "AGEX2614",
+    "Name": "Extension With The Agricultural Innovation System"
+  },
+  {
+    "Code": "AGEX2624",
+    "Name": "Communication for Innovation"
+  },
+  {
+    "Code": "AGEX3714",
+    "Name": "Facilitation for Development"
+  },
+  {
+    "Code": "AGEX3724",
+    "Name": "Extension Programme Management"
+  },
+  {
+    "Code": "AGEX3734",
+    "Name": "Community Mobilization and Local Organizational Development"
+  },
+  {
+    "Code": "AGEX3744",
+    "Name": "Management of Change and Adaptation"
+  },
+  {
+    "Code": "AGEX3754",
+    "Name": "Agricultural Entrepreneurship and Value Chains"
+  },
+  {
+    "Code": "AGEX3764",
+    "Name": "Adult Learning, Behavioural Change & Gender"
+  },
+  {
+    "Code": "CNCC1612",
+    "Name": "Clothing Construction I"
+  },
+  {
+    "Code": "CNCC1622",
+    "Name": "Clothing Construction Ii"
+  },
+  {
+    "Code": "CNCC2612",
+    "Name": "Clothing Construction Iii"
+  },
+  {
+    "Code": "CNCC2622",
+    "Name": "Clothing Construction Iv"
+  },
+  {
+    "Code": "CNCC3712",
+    "Name": "Clothing Construction V"
+  },
+  {
+    "Code": "CNCC3722",
+    "Name": "Clothing Construction Vi"
+  },
+  {
+    "Code": "CNCD3732",
+    "Name": "Community Development"
+  },
+  {
+    "Code": "CNSF1614",
+    "Name": "Introductory Food I"
+  },
+  {
+    "Code": "CNSF2624",
+    "Name": "Food Preparation I"
+  },
+  {
+    "Code": "CNSF3724",
+    "Name": "Food Preservation"
+  },
+  {
+    "Code": "CNSF2613",
+    "Name": "Food Security I"
+  },
+  {
+    "Code": "CNFS2623",
+    "Name": "Food Security Ii"
+  },
+  {
+    "Code": "CNFS3714",
+    "Name": "Food Security Iii"
+  },
+  {
+    "Code": "CNFS3724",
+    "Name": "Food Security Iv"
+  },
+  {
+    "Code": "CNOT2614",
+    "Name": "Skills"
+  },
+  {
+    "Code": "CNSB1614",
+    "Name": "Consumer Behaviour I"
+  },
+  {
+    "Code": "CNSB1624",
+    "Name": "Consumer Behaviour II"
+  },
+  {
+    "Code": "CNSB2614",
+    "Name": "Cosumer Behaviour III"
+  },
+  {
+    "Code": "CNSB2624",
+    "Name": "Consumer Behaviour IV"
+  },
+  {
+    "Code": "CNSB3714",
+    "Name": "Consumer Behaviour V"
+  },
+  {
+    "Code": "CNSB3724",
+    "Name": "Consumer Behaviour VI"
+  },
+  {
+    "Code": "CNSF2614",
+    "Name": "Food III"
+  },
+  {
+    "Code": "CNSF3714",
+    "Name": "Food V"
+  },
+  {
+    "Code": "CNSF3724",
+    "Name": "Food VVIi"
+  },
+  {
+    "Code": "CNSI1612",
+    "Name": "Interior I"
+  },
+  {
+    "Code": "CNSI1622",
+    "Name": "Interior II"
+  },
+  {
+    "Code": "CNSI2612",
+    "Name": "Interior III"
+  },
+  {
+    "Code": "CNSI2622",
+    "Name": "Interior IV"
+  },
+  {
+    "Code": "CNSI3712",
+    "Name": "Interior V"
+  },
+  {
+    "Code": "CNSI3722",
+    "Name": "Interior VI"
+  },
+  {
+    "Code": "FSCS2634",
+    "Name": "Food systems for consumer science"
+  },
+  {
+    "Code": "CHEM1513",
+    "Name": "Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM1551",
+    "Name": "Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM1623",
+    "Name": "Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM1643",
+    "Name": "Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM1661",
+    "Name": "Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM2611",
+    "Name": "Physical Chemistry Practicals"
+  },
+  {
+    "Code": "CHEM2613",
+    "Name": "Physical Chemistry Theory"
+  },
+  {
+    "Code": "CHEM2621",
+    "Name": "Organic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM2623",
+    "Name": "Organic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM2631",
+    "Name": "Analytical Chemistry Practical II"
+  },
+  {
+    "Code": "CHEM2633",
+    "Name": "Analytical Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM2641",
+    "Name": "Inorganic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM2643",
+    "Name": "Inorganic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM3711",
+    "Name": "Analytical Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM3713",
+    "Name": "Analytical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM3721",
+    "Name": "Inorganic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM3723",
+    "Name": "Inorganic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM3731",
+    "Name": "Physical Chemistry Practical"
+  },
+  {
+    "Code": "CHEM3733",
+    "Name": "Physical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM3741",
+    "Name": "Organic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM3743",
+    "Name": "Organic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM1513",
+    "Name": "Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM1562",
+    "Name": "Organic Chemistry"
+  },
+  {
+    "Code": "CHEM1551",
+    "Name": "Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM1552",
+    "Name": "Introduction to Chemistry - Development Module"
+  },
+  {
+    "Code": "CHEM1622",
+    "Name": "Physical Chemistry"
+  },
+  {
+    "Code": "CHEM1623",
+    "Name": "Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM1632",
+    "Name": "Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM1643",
+    "Name": "Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM1661",
+    "Name": "Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM2611",
+    "Name": "Physical Chemistry Practicals"
+  },
+  {
+    "Code": "CHEM2613",
+    "Name": "Physical Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM2621",
+    "Name": "Organic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM2623",
+    "Name": "Organic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM2631",
+    "Name": "Analytical Chemistry Practical II"
+  },
+  {
+    "Code": "CHEM2633",
+    "Name": "Analytical Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM2641",
+    "Name": "Inorganic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM2643",
+    "Name": "Inorganic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM3711",
+    "Name": "Analytical Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM3713",
+    "Name": "Analytical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM3721",
+    "Name": "Inorganic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM3723",
+    "Name": "Inorganic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM3731",
+    "Name": "Physical Chemistry Practical III"
+  },
+  {
+    "Code": "CHEM3733",
+    "Name": "Physical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM3741",
+    "Name": "Organic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM3743",
+    "Name": "Organic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM1562",
+    "Name": "Organic Chemistry I"
+  },
+  {
+    "Code": "CHEM1551",
+    "Name": "Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM1552",
+    "Name": "Introduction to Chemistry - Development Module"
+  },
+  {
+    "Code": "CHEM1622",
+    "Name": "Physical Chemistry I"
+  },
+  {
+    "Code": "CHEM1632",
+    "Name": "Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM1661",
+    "Name": "Physical and Organic Chemistry"
+  },
+  {
+    "Code": "BCIS1513",
+    "Name": "Introduction to Information Systems"
+  },
+  {
+    "Code": "BCIS1623",
+    "Name": "Introduction to Software Design"
+  },
+  {
+    "Code": "BCIS2614",
+    "Name": "Systems Analysis & Design"
+  },
+  {
+    "Code": "BCIS2624",
+    "Name": "Systems Infrastructure & Integration"
+  },
+  {
+    "Code": "BCIS3714",
+    "Name": "Information Systems in Organisations"
+  },
+  {
+    "Code": "CSIE2613",
+    "Name": "Data Structures and Algorithms for Engineers"
+  },
+  {
+    "Code": "CSIE1606",
+    "Name": "Object Oriented Programming for Engineers"
+  },
+  {
+    "Code": "CSIL1511",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL1521",
+    "Name": "Computer Literacy: Part 2"
+  },
+  {
+    "Code": "CSIS1534",
+    "Name": "Introduction to Programming: Part 1"
+  },
+  {
+    "Code": "CSIS1553",
+    "Name": "Introduction to Computer Hardware"
+  },
+  {
+    "Code": "CSIS1614",
+    "Name": "Programming and Problem Solving: Part 1"
+  },
+  {
+    "Code": "CSIS1624",
+    "Name": "Programming and Problem Solving: Part 2"
+  },
+  {
+    "Code": "CSIS1644",
+    "Name": "Introduction to Programming: Part 2"
+  },
+  {
+    "Code": "CSIS1664",
+    "Name": "Introduction to The Internet and Web Page Development"
+  },
+  {
+    "Code": "CSIS1683",
+    "Name": "Visual Basic for Applications (Vba) With The Focus On Excel"
+  },
+  {
+    "Code": "CSIS2614",
+    "Name": "Data Structures and Advanced Programming"
+  },
+  {
+    "Code": "CSIS2624",
+    "Name": "Human-Computer Interaction"
+  },
+  {
+    "Code": "CSIS2634",
+    "Name": "Introduction to Databases and Database Management Systems: Part 1"
+  },
+  {
+    "Code": "CSIS2642",
+    "Name": "Information Technology Service Learning"
+  },
+  {
+    "Code": "CSIS2664",
+    "Name": "Software Design"
+  },
+  {
+    "Code": "CSIS3714",
+    "Name": "Introduction to Databases and Database Management Systems: Part 2"
+  },
+  {
+    "Code": "CSIS3724",
+    "Name": "Software Engineering"
+  },
+  {
+    "Code": "CSIS3734",
+    "Name": "Internet Programming"
+  },
+  {
+    "Code": "CSIS3744",
+    "Name": "Computer Networks"
+  },
+  {
+    "Code": "CSIS3754",
+    "Name": "Data Science"
+  },
+  {
+    "Code": "CSIS3784",
+    "Name": "Computer Science and Informatics Work Integrated Learning"
+  },
+  {
+    "Code": "CSIQ1512",
+    "Name": "Computer Literacy for Computer Science"
+  },
+  {
+    "Code": "CSIQ1531",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIQ1533",
+    "Name": "Introduction to Software Development Concepts"
+  },
+  {
+    "Code": "CSIQ1541",
+    "Name": "Computer Literacy: Part 2"
+  },
+  {
+    "Code": "CSIQ1553",
+    "Name": "Introduction to Computer Hardware"
+  },
+  {
+    "Code": "CSIQ1614",
+    "Name": "Programming and Problem Solving: Part 1"
+  },
+  {
+    "Code": "CSIQ1623",
+    "Name": "Introduction to Computer Networks"
+  },
+  {
+    "Code": "CSIQ1624",
+    "Name": "Programming and Problem Solving: Part 2"
+  },
+  {
+    "Code": "CSIQ1681",
+    "Name": "Introduction to Software Development Part 2"
+  },
+  {
+    "Code": "CSIQ2614",
+    "Name": "Data Structures and Advanced Programming"
+  },
+  {
+    "Code": "CSIQ2624",
+    "Name": "Human-Computer Interaction"
+  },
+  {
+    "Code": "CSIQ2634",
+    "Name": "Introduction to Databases and Database Management Systems: Part 1"
+  },
+  {
+    "Code": "CSIQ2642",
+    "Name": "Information Technology Service Learning"
+  },
+  {
+    "Code": "CSIQ2644",
+    "Name": "Mobile Development"
+  },
+  {
+    "Code": "CSIQ2654",
+    "Name": "Introduction to Website Development"
+  },
+  {
+    "Code": "CSIQ3714",
+    "Name": "Introduction to Databases and Database Management Systems: Part 2"
+  },
+  {
+    "Code": "CSIQ3724",
+    "Name": "Software Engineering"
+  },
+  {
+    "Code": "CSIQ3734",
+    "Name": "Internet Programming"
+  },
+  {
+    "Code": "CSIQ3784",
+    "Name": "Software Development Project"
+  },
+  {
+    "Code": "CSIL1511",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL1561",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL1561",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL1561",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL1501",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL1561",
+    "Name": "Computer Literacy: Part 1"
+  },
+  {
+    "Code": "GEOH1614",
+    "Name": "Introduction to Human Geography"
+  },
+  {
+    "Code": "GERS1624",
+    "Name": "Introduction to Geoinformatics Systems and Remote Sensing"
+  },
+  {
+    "Code": "GEOH2614",
+    "Name": "Urban Geography"
+  },
+  {
+    "Code": "GEOH3714",
+    "Name": "Applied Urban Development and Spatial Transformation"
+  },
+  {
+    "Code": "GEOH3724",
+    "Name": "Rural Geography"
+  },
+  {
+    "Code": "GEOP1624",
+    "Name": "Introduction to Physical Geography"
+  },
+  {
+    "Code": "GEOP2614",
+    "Name": "Process Geomorphology"
+  },
+  {
+    "Code": "GEOP2624",
+    "Name": "Environment and Climate Studies"
+  },
+  {
+    "Code": "GEOP3714",
+    "Name": "Environmental Geomorphology"
+  },
+  {
+    "Code": "GEOP3724",
+    "Name": "Environmental Management and Analysis"
+  },
+  {
+    "Code": "GERS2624",
+    "Name": "Introduction to Geographical Information Science"
+  },
+  {
+    "Code": "GISC3704",
+    "Name": "Professional Practice, Ethics and Legal Aspects of Geographical Information Science"
+  },
+  {
+    "Code": "GISC3724",
+    "Name": "Introduction to Geographical Information Science"
+  },
+  {
+    "Code": "GEOE1514",
+    "Name": "Introduction to Physical Geography"
+  },
+  {
+    "Code": "GEOE1624",
+    "Name": "Introduction to Human Geography"
+  },
+  {
+    "Code": "GEOG1512",
+    "Name": "Essential Skills For Geographers"
+  },
+  {
+    "Code": "GEOG1513",
+    "Name": "Essential Skills For Geographers"
+  },
+  {
+    "Code": "GEOG1514",
+    "Name": "Introduction to Physical Geography"
+  },
+  {
+    "Code": "GEOG1624",
+    "Name": "Introduction to Human Geography"
+  },
+  {
+    "Code": "GEOG2614",
+    "Name": "Process Geomorpholgy"
+  },
+  {
+    "Code": "GEOG2624",
+    "Name": "Environment and Climate Studies"
+  },
+  {
+    "Code": "GEOG2634",
+    "Name": "Housing and Urban Development"
+  },
+  {
+    "Code": "GEOG2644",
+    "Name": "Biogeography and Climate of Southern Africa"
+  },
+  {
+    "Code": "GEOG3714",
+    "Name": "Environmental Geomorphology"
+  },
+  {
+    "Code": "GEOG3724",
+    "Name": "Rural Geography"
+  },
+  {
+    "Code": "GEOG3734",
+    "Name": "Applied Urban Development and Spatial Transformation"
+  },
+  {
+    "Code": "GEOG3744",
+    "Name": "Environmental Management and Analysis"
+  },
+  {
+    "Code": "GEOG3754",
+    "Name": "Economic Geography"
+  },
+  {
+    "Code": "GEOG3764",
+    "Name": "Ethical Debates in Geography"
+  },
+  {
+    "Code": "GISS2614",
+    "Name": "Introduction to Remote Sensing"
+  },
+  {
+    "Code": "GISS2624",
+    "Name": "Introduction to Geographical Information Science"
+  },
+  {
+    "Code": "GISS3724",
+    "Name": "Geographic Information Science"
+  },
+  {
+    "Code": "GLGY1614",
+    "Name": "Introduction to Geology"
+  },
+  {
+    "Code": "GLGY1624",
+    "Name": "General Geology and South African Stratigraphy"
+  },
+  {
+    "Code": "GLGY2612",
+    "Name": "Practical Mineralogy"
+  },
+  {
+    "Code": "GLGY2614",
+    "Name": "Mineralogy"
+  },
+  {
+    "Code": "GLGY2626",
+    "Name": "Sedimentology Principles and Applications"
+  },
+  {
+    "Code": "GLGY2632",
+    "Name": "Geological  Field Techniques"
+  },
+  {
+    "Code": "GLGY2641",
+    "Name": "Geology for Engineers"
+  },
+  {
+    "Code": "GLGY2643",
+    "Name": "Environmental Geology"
+  },
+  {
+    "Code": "GLGY2646",
+    "Name": "Environmental Geology: Principles and Practical"
+  },
+  {
+    "Code": "GLGY2652",
+    "Name": "Geological Structures and Maps"
+  },
+  {
+    "Code": "GLGY2662",
+    "Name": "Field School"
+  },
+  {
+    "Code": "GLGY3714",
+    "Name": "Igneous Petrology"
+  },
+  {
+    "Code": "GLGY3724",
+    "Name": "Economic Geology"
+  },
+  {
+    "Code": "GLGY3734",
+    "Name": "Structural Geology"
+  },
+  {
+    "Code": "GLGY3744",
+    "Name": "Metamorphic Petrology"
+  },
+  {
+    "Code": "GLGY3754",
+    "Name": "Introduction to Geochemistry"
+  },
+  {
+    "Code": "GLGY3764",
+    "Name": "Exploration Geology"
+  },
+  {
+    "Code": "GLGY3774",
+    "Name": "Analytical Geochemistry"
+  },
+  {
+    "Code": "GLGY3784",
+    "Name": "Environmental Geochemistry"
+  },
+  {
+    "Code": "MATA1684",
+    "Name": "Engineering Statics"
+  },
+  {
+    "Code": "MATA2674",
+    "Name": "Engineering Dynamics"
+  },
+  {
+    "Code": "MATA2684",
+    "Name": "Dynamics of Rigid Bodies"
+  },
+  {
+    "Code": "MATA2664",
+    "Name": "Introduction to Mathematical Modeling"
+  },
+  {
+    "Code": "MATA2654",
+    "Name": "Ordinary Differential Equations"
+  },
+  {
+    "Code": "MATA2754",
+    "Name": "Scientific Computing"
+  },
+  {
+    "Code": "MATA3764",
+    "Name": "Industrial Mathematics"
+  },
+  {
+    "Code": "MATA3774",
+    "Name": "Numerical Analysis"
+  },
+  {
+    "Code": "MATA3784",
+    "Name": "Dynamical Systems"
+  },
+  {
+    "Code": "MATM1534",
+    "Name": "Calculus"
+  },
+  {
+    "Code": "MATM1542",
+    "Name": "Introductory Calculus and Statics"
+  },
+  {
+    "Code": "MATM1644",
+    "Name": "Calculus and Algebra"
+  },
+  {
+    "Code": "MATM1622",
+    "Name": "Introduction to Advanced Mathematics"
+  },
+  {
+    "Code": "MATM2614",
+    "Name": "Vector Analysis"
+  },
+  {
+    "Code": "MATM2624",
+    "Name": "Linear Algebra"
+  },
+  {
+    "Code": "MATM2664",
+    "Name": "Sequences and Series"
+  },
+  {
+    "Code": "MATM3714",
+    "Name": "Complex Analysis"
+  },
+  {
+    "Code": "MATM3724",
+    "Name": "Real Analysis"
+  },
+  {
+    "Code": "MATM3734",
+    "Name": "Discrete Mathematics"
+  },
+  {
+    "Code": "MATM3744",
+    "Name": "Algebra"
+  },
+  {
+    "Code": "MATR1534",
+    "Name": "Calculus"
+  },
+  {
+    "Code": "MATM1502",
+    "Name": "Introductory Calculus and Statics"
+  },
+  {
+    "Code": "MATA2634",
+    "Name": "Ordinary Differential Equations"
+  },
+  {
+    "Code": "MATM1534",
+    "Name": "Calculus"
+  },
+  {
+    "Code": "MATM1644",
+    "Name": "Calculus and Algebra"
+  },
+  {
+    "Code": "MATM2614",
+    "Name": "Vector Analysis"
+  },
+  {
+    "Code": "MATM2624",
+    "Name": "Linear Algebra"
+  },
+  {
+    "Code": "MATM2664",
+    "Name": "Sequences and Series"
+  },
+  {
+    "Code": "MATM3764",
+    "Name": "Complex Analysis"
+  },
+  {
+    "Code": "MATM3754",
+    "Name": "Real Analysis"
+  },
+  {
+    "Code": "MATM3734",
+    "Name": "Discrete Mathematics"
+  },
+  {
+    "Code": "MATM3744",
+    "Name": "Algebra"
+  },
+  {
+    "Code": "BLGY1683",
+    "Name": "Introductory Biochemistry and Microbiology"
+  },
+  {
+    "Code": "BOCB2616",
+    "Name": "Biochemistry of Biological Compounds"
+  },
+  {
+    "Code": "BOCE2626",
+    "Name": "Enzymology and Introductory Metabolism"
+  },
+  {
+    "Code": "BOCE3714",
+    "Name": "Advanced Enzyme Kinetics and Metabolism"
+  },
+  {
+    "Code": "BOCH2614",
+    "Name": "Biochemistry for Agriculture and Health Sciences"
+  },
+  {
+    "Code": "BOCM3714",
+    "Name": "Molecular Biology"
+  },
+  {
+    "Code": "BOCP3724",
+    "Name": "Protein Biochemistry"
+  },
+  {
+    "Code": "BOCS3724",
+    "Name": "Cell Membranes, Signal Transduction and Immunology"
+  },
+  {
+    "Code": "MCBC3724",
+    "Name": "Microbial Genomics, Genetics and Biotechnology"
+  },
+  {
+    "Code": "MCBE3714",
+    "Name": "Microbial Ecology and Environmental Microbiology"
+  },
+  {
+    "Code": "MCBG3714",
+    "Name": "Growth, Nutrition and Death of Microoganisms"
+  },
+  {
+    "Code": "MCBH2614",
+    "Name": "Introduction to Microbiology for Health and Consumer Sciences"
+  },
+  {
+    "Code": "MCBH2624",
+    "Name": "Introduction to Microbial Pathogenicity for Health and Consumer Sciences"
+  },
+  {
+    "Code": "MCBP2616",
+    "Name": "The Basic Principles of Microbiology"
+  },
+  {
+    "Code": "MCBP2626",
+    "Name": "Microbial Evolution and Diversity"
+  },
+  {
+    "Code": "MCBP3724",
+    "Name": "Pathogens and Immunity"
+  },
+  {
+    "Code": "PHYA1554",
+    "Name": "Introductory Astronomy"
+  },
+  {
+    "Code": "PHYA1664",
+    "Name": "Principles and Practice of Observational Astronomy"
+  },
+  {
+    "Code": "PHYA2614",
+    "Name": "Astrophysics"
+  },
+  {
+    "Code": "PHYA2624",
+    "Name": "Astrophysics"
+  },
+  {
+    "Code": "PHYA3709",
+    "Name": "Astronomy Practical"
+  },
+  {
+    "Code": "PHYA3772",
+    "Name": "Radiative Processes I"
+  },
+  {
+    "Code": "PHYA3782",
+    "Name": "Radiative Processes Ii"
+  },
+  {
+    "Code": "PHYC2623",
+    "Name": "Introduction to Numerical Analysis and Quantitative Methods"
+  },
+  {
+    "Code": "PHYM2613",
+    "Name": "Analytical Mechanics for Physicists and Engineers"
+  },
+  {
+    "Code": "PHYS1512",
+    "Name": "Physics for Building Science Students"
+  },
+  {
+    "Code": "PHYS1514",
+    "Name": "Mechanics, Optics and Electricity"
+  },
+  {
+    "Code": "PHYS1534",
+    "Name": "Mechanics, Optics, Electricity and Biological and Medical Relevant Topics"
+  },
+  {
+    "Code": "PHYS1543",
+    "Name": "Physics for Physiotherapists"
+  },
+  {
+    "Code": "PHYS1624",
+    "Name": "Mechanics, Thermodynamics, Electricity and Magnetism"
+  },
+  {
+    "Code": "PHYS1644",
+    "Name": "Electricity, Magnetism, Biologically and Medically Relevant Topics"
+  },
+  {
+    "Code": "PHYS2614",
+    "Name": "Mechanics, Waves and Optics"
+  },
+  {
+    "Code": "PHYS2624",
+    "Name": "Electronics"
+  },
+  {
+    "Code": "PHYS2632",
+    "Name": "Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS2642",
+    "Name": "Electromagnetism"
+  },
+  {
+    "Code": "PHYS2654",
+    "Name": "Ophthalmic Optics/Visual Optics"
+  },
+  {
+    "Code": "PHYS2664",
+    "Name": "Special Ophthalmic Optics"
+  },
+  {
+    "Code": "PHYS3714",
+    "Name": "Modern Physics"
+  },
+  {
+    "Code": "PHYS3724",
+    "Name": "Solid State Physics"
+  },
+  {
+    "Code": "PHYS3732",
+    "Name": "Statistical Physics I"
+  },
+  {
+    "Code": "PHYS3742",
+    "Name": "Statistical Physics Ii"
+  },
+  {
+    "Code": "PHYS3752",
+    "Name": "Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS3762",
+    "Name": "Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS1502",
+    "Name": "Physics for Building Science Students"
+  },
+  {
+    "Code": "PHYS1512",
+    "Name": "Physics for Building Science Students"
+  },
+  {
+    "Code": "PHYS1514",
+    "Name": "Mechanics, Optics and Electricity"
+  },
+  {
+    "Code": "PHYS1534",
+    "Name": "Mechanics, Optics, Electricity and Biological and Medical Relevant Topics"
+  },
+  {
+    "Code": "PHYS1624",
+    "Name": "Mechanics, Thermodynamics, Electricity and Magnetism"
+  },
+  {
+    "Code": "PHYS1644",
+    "Name": "Electricity, Magnetism, Biologically and Medically Relevant Topics"
+  },
+  {
+    "Code": "PHYS2614",
+    "Name": "Mechanics, Waves and Optics"
+  },
+  {
+    "Code": "PHYS2624",
+    "Name": "Electronics"
+  },
+  {
+    "Code": "PHYS2632",
+    "Name": "Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS2642",
+    "Name": "Electromagnetism"
+  },
+  {
+    "Code": "PHYS3714",
+    "Name": "Modern Physics"
+  },
+  {
+    "Code": "PHYS3724",
+    "Name": "Solid State Physics"
+  },
+  {
+    "Code": "PHYS3732",
+    "Name": "Statistical Physics I"
+  },
+  {
+    "Code": "PHYS3742",
+    "Name": "Statistical Physics Ii"
+  },
+  {
+    "Code": "PHYS3752",
+    "Name": "Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS3762",
+    "Name": "Practical Work: Physics"
+  },
+  {
+    "Code": "BLGY1643",
+    "Name": "The Interdependence of Plants and Life On Earth"
+  },
+  {
+    "Code": "BTNY2616",
+    "Name": "Plant Adaptations for Survival On Land"
+  },
+  {
+    "Code": "BTNY2621",
+    "Name": "Field Excursion 1"
+  },
+  {
+    "Code": "BTNY2626",
+    "Name": "Introductory Plant Development and Biotechnology"
+  },
+  {
+    "Code": "BTNY3712",
+    "Name": "Field Excursion 2"
+  },
+  {
+    "Code": "BTNY3714",
+    "Name": "Diversity and Systematics of Higher Plants"
+  },
+  {
+    "Code": "BTNY3724",
+    "Name": "Carbon Metabolism in Plants"
+  },
+  {
+    "Code": "BTNY3734",
+    "Name": "Vegetation Science and Environmental Management"
+  },
+  {
+    "Code": "BTNY3744",
+    "Name": "Plant Defence and Biotechnology"
+  },
+  {
+    "Code": "BTNY3754",
+    "Name": "Plant Molecular Biotechnology"
+  },
+  {
+    "Code": "BTNY3764",
+    "Name": "Ecophysiology: Soil-Plant-Water Interactions"
+  },
+  {
+    "Code": "PLTB2613",
+    "Name": "Theoretical Principles of Plant Breeding"
+  },
+  {
+    "Code": "PLTB2623",
+    "Name": "Applied Principles of Plant Breeding"
+  },
+  {
+    "Code": "PLTB3714",
+    "Name": "Principles of Quantitative Genetics in Plant Breeding"
+  },
+  {
+    "Code": "PLTB3724",
+    "Name": "Breeding for Abiotic Stress Tolerance"
+  },
+  {
+    "Code": "PLTB3744",
+    "Name": "Advanced Breeding Techniques"
+  },
+  {
+    "Code": "PLTB4808",
+    "Name": "Research Project Plant Breeding"
+  },
+  {
+    "Code": "PLTB4814",
+    "Name": "Advanced Quantitative Genetics in Plant Breeding"
+  },
+  {
+    "Code": "PLTB4816",
+    "Name": "Literature Review Plant Breeding"
+  },
+  {
+    "Code": "PLTB4824",
+    "Name": "Quality and Stress Tolerance Breeding"
+  },
+  {
+    "Code": "PLTB4834",
+    "Name": "Marker-Assisted Plant Breeding"
+  },
+  {
+    "Code": "PLTB4854",
+    "Name": "Statistics in Plant Sciences"
+  },
+  {
+    "Code": "PPLG2624",
+    "Name": "Principles of Plant Pathology"
+  },
+  {
+    "Code": "PPLG3714",
+    "Name": "Mycological Plant Pathology"
+  },
+  {
+    "Code": "PPLG3724",
+    "Name": "Plant Disease Management"
+  },
+  {
+    "Code": "PPLG3734",
+    "Name": "Bacterial and Viral Diseases of Plants"
+  },
+  {
+    "Code": "PPLG3744",
+    "Name": "Ecology of Plant Pathogens"
+  },
+  {
+    "Code": "PPLG4808",
+    "Name": "Plant Pathology Research Report"
+  },
+  {
+    "Code": "PPLG4816",
+    "Name": "Literature Review Plant Pathology"
+  },
+  {
+    "Code": "PPLG4824",
+    "Name": "Plant-Pathogen Interactions"
+  },
+  {
+    "Code": "PPLG4834",
+    "Name": "Epidemiology and control of plant diseases"
+  },
+  {
+    "Code": "PPLG4844",
+    "Name": "Molecular Plant Pathology"
+  },
+  {
+    "Code": "BIOL1624",
+    "Name": "Plant Biology"
+  },
+  {
+    "Code": "BIOL2644",
+    "Name": "The Physical Environment: Natural Resources, Ecology and Sustainability"
+  },
+  {
+    "Code": "BOTA2654",
+    "Name": "Introduction to Plant Anatomy and Morphology"
+  },
+  {
+    "Code": "BOTA2684",
+    "Name": "Plant Physiology and Biotechnology"
+  },
+  {
+    "Code": "BOTA3724",
+    "Name": "Plant Metabolism and The Environment"
+  },
+  {
+    "Code": "BOTA3734",
+    "Name": "Introduction to Plant Systematics"
+  },
+  {
+    "Code": "BOTA3744",
+    "Name": "Ethnobotany and Plant Defence"
+  },
+  {
+    "Code": "BOTA3754",
+    "Name": "Vegetation Ecology"
+  },
+  {
+    "Code": "BLGY1643",
+    "Name": "The Interdependence of Plants and Life On Earth"
+  },
+  {
+    "Code": "BARR1512",
+    "Name": "Architecture"
+  },
+  {
+    "Code": "BBER1524",
+    "Name": "Building Economics 1"
+  },
+  {
+    "Code": "BBER2612",
+    "Name": "Building Economics"
+  },
+  {
+    "Code": "BBER2622",
+    "Name": "Building Economics"
+  },
+  {
+    "Code": "BBSD2614",
+    "Name": "Building Sciences 2"
+  },
+  {
+    "Code": "BBSD3712",
+    "Name": "Building Science 3"
+  },
+  {
+    "Code": "BBSR2614",
+    "Name": "Building Sciences 2"
+  },
+  {
+    "Code": "BCSR2612",
+    "Name": "Construction Science"
+  },
+  {
+    "Code": "BCSR2622",
+    "Name": "Construction Science 2"
+  },
+  {
+    "Code": "BDQR1504",
+    "Name": "Descriptive Quantification 1"
+  },
+  {
+    "Code": "BDQR2604",
+    "Name": "Descriptive Quantification"
+  },
+  {
+    "Code": "BPDR1522",
+    "Name": "Property Development 1"
+  },
+  {
+    "Code": "BPDR2614",
+    "Name": "Property Development Economics"
+  },
+  {
+    "Code": "BPDR2624",
+    "Name": "Property Development"
+  },
+  {
+    "Code": "SURV2622",
+    "Name": "Land Surveying"
+  },
+  {
+    "Code": "BARD1522",
+    "Name": "Architecture"
+  },
+  {
+    "Code": "BBED1524",
+    "Name": "Building Economics I"
+  },
+  {
+    "Code": "BBSD1504",
+    "Name": "Building Science I"
+  },
+  {
+    "Code": "BCCR3712",
+    "Name": "Construction Law"
+  },
+  {
+    "Code": "BCCR3722",
+    "Name": "Construction Law"
+  },
+  {
+    "Code": "BDQD1504",
+    "Name": "Descriptive Quantification I"
+  },
+  {
+    "Code": "BPDD1522",
+    "Name": "Property Development I"
+  },
+  {
+    "Code": "BBSD2604",
+    "Name": "Building Science"
+  },
+  {
+    "Code": "EGSD1504",
+    "Name": "Engineering Science"
+  },
+  {
+    "Code": "BMQR1504",
+    "Name": "Descriptive Quantification 1"
+  },
+  {
+    "Code": "BMQD1504",
+    "Name": "Descriptive Quantification 1"
+  },
+  {
+    "Code": "BMQR2604",
+    "Name": "Descriptive Quantification 2N"
+  },
+  {
+    "Code": "BMQD2604",
+    "Name": "Descriptive Quantification 2N"
+  },
+  {
+    "Code": "BMQR3706",
+    "Name": "Descriptive Quantification 3N"
+  },
+  {
+    "Code": "BMQD3706",
+    "Name": "Descriptive Quantification 3N"
+  },
+  {
+    "Code": "SURV2622",
+    "Name": "Land Surveying"
+  },
+  {
+    "Code": "AGEG2624",
+    "Name": "Engineering Principles in Agriculture Practices"
+  },
+  {
+    "Code": "AGEG3714",
+    "Name": "Hydraulics"
+  },
+  {
+    "Code": "AGEG3724",
+    "Name": "Irrigation Systems and Irrigation Surveying"
+  },
+  {
+    "Code": "AGRI1534",
+    "Name": "Chemical Principles in Agricultural"
+  },
+  {
+    "Code": "AGRI1554",
+    "Name": "Physical and Mechanised Principles in Agriculture"
+  },
+  {
+    "Code": "CLIM3724",
+    "Name": "Climate Change and Variability"
+  },
+  {
+    "Code": "CLIM3764",
+    "Name": "Climate Change and Variability"
+  },
+  {
+    "Code": "CLIM2614",
+    "Name": "Fundamentals of Agrometeorology"
+  },
+  {
+    "Code": "CLIM3734",
+    "Name": "Micrometeorology"
+  },
+  {
+    "Code": "CLIM4874",
+    "Name": "Advanced Instrumentation in Agrometeorology"
+  },
+  {
+    "Code": "CLIM6874",
+    "Name": "Advanced Instrumentation in Agrometeorology"
+  },
+  {
+    "Code": "CLIM4834",
+    "Name": "Physics and Dynamics of The Atmosphere"
+  },
+  {
+    "Code": "CLIM4864",
+    "Name": "Tropical Meteorology"
+  },
+  {
+    "Code": "CLIM4844",
+    "Name": "Weather Analysis and Forecasting"
+  },
+  {
+    "Code": "CROP2614",
+    "Name": "Concepts in crop production"
+  },
+  {
+    "Code": "CROP4814",
+    "Name": "Crop Physiology"
+  },
+  {
+    "Code": "CROP4824",
+    "Name": "Role of Nutrition in Crop Development"
+  },
+  {
+    "Code": "CROP3714",
+    "Name": "Summer Grain, Oil and Protein-Rich Crops"
+  },
+  {
+    "Code": "CROP3754",
+    "Name": "Summer Grain, Oil and Protein-Rich Crops"
+  },
+  {
+    "Code": "CROP3754",
+    "Name": "Summer Grain, Oil and Protein-Rich Crops"
+  },
+  {
+    "Code": "CROP4834",
+    "Name": "Water Dynamics in Crop Production"
+  },
+  {
+    "Code": "CROP4844",
+    "Name": "Weed Control"
+  },
+  {
+    "Code": "CROP3764",
+    "Name": "Small grain, Industrial and Diverse Crops"
+  },
+  {
+    "Code": "CROP3744",
+    "Name": "Small grain, Industrial and Diverse Crops"
+  },
+  {
+    "Code": "CROP3764",
+    "Name": "Small grain, Industrial and Diverse Crops"
+  },
+  {
+    "Code": "HORT3724",
+    "Name": "Applied Fruit Production"
+  },
+  {
+    "Code": "HORT3764",
+    "Name": "Applied Fruit Production"
+  },
+  {
+    "Code": "HORT3734",
+    "Name": "Fruit Production"
+  },
+  {
+    "Code": "HORT3774",
+    "Name": "Fruit Production"
+  },
+  {
+    "Code": "HORT3754",
+    "Name": "Vegetable Crops"
+  },
+  {
+    "Code": "HORT3714",
+    "Name": "Vegetable Crops"
+  },
+  {
+    "Code": "SCCS2624",
+    "Name": "Crop Development"
+  },
+  {
+    "Code": "SCCS1624",
+    "Name": "Introduction to Soil, Crop and Climate Sciences"
+  },
+  {
+    "Code": "SCCS3724",
+    "Name": "Research Methodologies in Soil Crop and Climate Science"
+  },
+  {
+    "Code": "SCCS2684",
+    "Name": "Sustainable Soil and Water Management"
+  },
+  {
+    "Code": "SCCS6824",
+    "Name": "Modelling Soil, Crop and Cilmate Interactions"
+  },
+  {
+    "Code": "SOIL4844",
+    "Name": "Soil Biological Principles and Applications"
+  },
+  {
+    "Code": "SOIL6844",
+    "Name": "Soil Biological Principles and Applications"
+  },
+  {
+    "Code": "SOIL4814",
+    "Name": "Soil Chemical Principles and Applications"
+  },
+  {
+    "Code": "SOIL6814",
+    "Name": "Soil Chemical Principles and Applications"
+  },
+  {
+    "Code": "SOIL4834",
+    "Name": "Soil Classification Principles and Applications"
+  },
+  {
+    "Code": "SOIL6834",
+    "Name": "Soil Classification Principles and Applications"
+  },
+  {
+    "Code": "SOIL3774",
+    "Name": "Soil Classification, Evaluation, and Land Use Planning"
+  },
+  {
+    "Code": "SOIL3754",
+    "Name": "Soil Classification, Evaluation, and Land Use Planning"
+  },
+  {
+    "Code": "SOIL3724",
+    "Name": "Soil Contaminants and Management"
+  },
+  {
+    "Code": "SOIL3744",
+    "Name": "Soil Contaminants and Management"
+  },
+  {
+    "Code": "SOIL3744",
+    "Name": "Soil Contaminants and Management"
+  },
+  {
+    "Code": "SOIL2674",
+    "Name": "Soil Fertility and Fertilization"
+  },
+  {
+    "Code": "SOIL4824",
+    "Name": "Soil Physical Principles and Applications"
+  },
+  {
+    "Code": "SOIL6824",
+    "Name": "Soil Physical Principles and Applications"
+  },
+  {
+    "Code": "ACSF1613",
+    "Name": "Actuarial Financial Management"
+  },
+  {
+    "Code": "ACSF1623",
+    "Name": "Actuarial Financial Reporting"
+  },
+  {
+    "Code": "ACSF2716",
+    "Name": "Introductory Financial Mathematics"
+  },
+  {
+    "Code": "ACSF2746",
+    "Name": "Advanced Financial Mathematics"
+  },
+  {
+    "Code": "ACSM3708",
+    "Name": "Actuarial Mathematics II"
+  },
+  {
+    "Code": "ACSG1614",
+    "Name": "Introduction to Actuarial Science"
+  },
+  {
+    "Code": "ACSS3708",
+    "Name": "Actuarial Statistics II"
+  },
+  {
+    "Code": "EBCS1514",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "EBCS1524",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "STSA1624",
+    "Name": "Introduction to Statistics"
+  },
+  {
+    "Code": "STSA2616",
+    "Name": "Multiple Regression Analysis and Time Series Analysis"
+  },
+  {
+    "Code": "STSA2626",
+    "Name": "Multiple Regression: Variance and Time Series Analysis"
+  },
+  {
+    "Code": "STSA3716",
+    "Name": "Probability I"
+  },
+  {
+    "Code": "STSA3726",
+    "Name": "Probability II"
+  },
+  {
+    "Code": "STSA3732",
+    "Name": "Applied Statistics I"
+  },
+  {
+    "Code": "STSA3742",
+    "Name": "Applied Statistics II"
+  },
+  {
+    "Code": "STSM1614",
+    "Name": "Introductory Statistics"
+  },
+  {
+    "Code": "STSM1624",
+    "Name": "Introductory Probability Theory"
+  },
+  {
+    "Code": "STSM2616",
+    "Name": "Sample Distribution Theory and Inference"
+  },
+  {
+    "Code": "STSM2626",
+    "Name": "Inference I"
+  },
+  {
+    "Code": "STSM2634",
+    "Name": "Statistical Programming"
+  },
+  {
+    "Code": "STSM3714",
+    "Name": "Inference"
+  },
+  {
+    "Code": "STSM3764",
+    "Name": "Generalised Linear Models"
+  },
+  {
+    "Code": "STSM3734",
+    "Name": "Causal inference: ANOVA, regression, and the potential outcomes approach"
+  },
+  {
+    "Code": "STSM3744",
+    "Name": "Time Series Analysis and Glms"
+  },
+  {
+    "Code": "EBCS1514",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "EBCS1524",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "EBCS1514",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "EBCS1524",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "ECPM1514",
+    "Name": "Calculations for Public Managers"
+  },
+  {
+    "Code": "EFBC2514",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "EFBC2524",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "STSA1624",
+    "Name": "Introduction to Statistics"
+  },
+  {
+    "Code": "EFBC2514",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "EFBC2524",
+    "Name": "Business Calculations"
+  },
+  {
+    "Code": "BLGY1663",
+    "Name": "Introduction to Zoology and Entomology"
+  },
+  {
+    "Code": "ENTO2614",
+    "Name": "Introduction to Morphology, Anatomy and Bio-Ecology of Insects"
+  },
+  {
+    "Code": "ENTO2616",
+    "Name": "Functional Morphology and Evolutionary Biology of Insects"
+  },
+  {
+    "Code": "ENTO2626",
+    "Name": "Ecophysiology of Insects"
+  },
+  {
+    "Code": "ENTO3714",
+    "Name": "Advanced Insect Ecology"
+  },
+  {
+    "Code": "ENTO3724",
+    "Name": "Applied Insect Pest Management"
+  },
+  {
+    "Code": "ENTO3734",
+    "Name": "Advanced Medical & Veterinary Entomology"
+  },
+  {
+    "Code": "ENTO3744",
+    "Name": "Applied Insect Biochemistry and Pharmacology"
+  },
+  {
+    "Code": "ZLGY2616",
+    "Name": "Animals of Medical and Veterinary Importance"
+  },
+  {
+    "Code": "ZLGY2626",
+    "Name": "Vertebrate Life and Evolution"
+  },
+  {
+    "Code": "ZLGY3714",
+    "Name": "Marine and Freshwater Ecology"
+  },
+  {
+    "Code": "ZLGY3724",
+    "Name": "Life Strategies in Arid Environment"
+  },
+  {
+    "Code": "ZLGY3734",
+    "Name": "Conservation Ecology"
+  },
+  {
+    "Code": "ZLGY3744",
+    "Name": "Animal Behaviour"
+  },
+  {
+    "Code": "BIOL1504",
+    "Name": "Lower Life and Molecular Biology"
+  },
+  {
+    "Code": "BIOL1514",
+    "Name": "Lower Life and Molecular Biology"
+  },
+  {
+    "Code": "BIOL1644",
+    "Name": "Animal Biology"
+  },
+  {
+    "Code": "BIOL2614",
+    "Name": "Evolution, Genetics and Diversity"
+  },
+  {
+    "Code": "BIOL3714",
+    "Name": "Human Ecological Footprint"
+  },
+  {
+    "Code": "BIOL3724",
+    "Name": "Macroevolution and Speciation"
+  },
+  {
+    "Code": "UNIR2624",
+    "Name": "Insect Ecophysiology"
+  },
+  {
+    "Code": "UNIR3724",
+    "Name": "Applied Entomology"
+  },
+  {
+    "Code": "UNIR3734",
+    "Name": "Medical, Veterinary and Forensic Entomology"
+  },
+  {
+    "Code": "UNIR3744",
+    "Name": "Insect Biochemistry and Pharmacology"
+  },
+  {
+    "Code": "ZOOL2614",
+    "Name": "Basic Entomology"
+  },
+  {
+    "Code": "ZOOL2634",
+    "Name": "Invertebate Biodiversity"
+  },
+  {
+    "Code": "ZOOL2664",
+    "Name": "African Vertebrates"
+  },
+  {
+    "Code": "ZOOL2684",
+    "Name": "Introduction to Parasitology"
+  },
+  {
+    "Code": "ZOOL3714",
+    "Name": "Introduction to Animal Behaviour"
+  },
+  {
+    "Code": "ZOOL3714",
+    "Name": "Introduction to Animal Behaviour"
+  },
+  {
+    "Code": "ZOOL3724",
+    "Name": "Ecotoxicology"
+  },
+  {
+    "Code": "ZOOL3734",
+    "Name": "Insect Ecophysiology"
+  },
+  {
+    "Code": "ZOOL3744",
+    "Name": "Molecular Parasitology"
+  },
+  {
+    "Code": "ZOOL3754",
+    "Name": "Freshwater and Marine Ecology"
+  },
+  {
+    "Code": "BLGY1623",
+    "Name": "Introduction to Genetics"
+  },
+  {
+    "Code": "FORS2616",
+    "Name": "Introductory Forensic Science"
+  },
+  {
+    "Code": "FORS2626",
+    "Name": "Crime Scene Management"
+  },
+  {
+    "Code": "FORS3714",
+    "Name": "Trace and Impression Evidence"
+  },
+  {
+    "Code": "FORS3734",
+    "Name": "Forensic Entomology"
+  },
+  {
+    "Code": "FORS3744",
+    "Name": "Forensic Genetics"
+  },
+  {
+    "Code": "FORS3724",
+    "Name": "Forensic Chemistry"
+  },
+  {
+    "Code": "GENE2616",
+    "Name": "Human Genetics"
+  },
+  {
+    "Code": "GENE2626",
+    "Name": "Molecular Genetics"
+  },
+  {
+    "Code": "GENE3713",
+    "Name": "Genomics"
+  },
+  {
+    "Code": "GENE3733",
+    "Name": "Behavioural Genetics"
+  },
+  {
+    "Code": "GENE3743",
+    "Name": "Population and Conservation Genetics"
+  },
+  {
+    "Code": "GENE3703",
+    "Name": "Applied Genetics"
+  },
+  {
+    "Code": "GENE3764",
+    "Name": "Genetics in Practice"
+  },
+  {
+    "Code": "HMBG2614",
+    "Name": "Human Molecular Biology of Dietetics"
+  },
+  {
+    "Code": "HMBG3744",
+    "Name": "Human Molecular Biology of Immunology and Haemostasis"
+  },
+  {
+    "Code": "CNCC1612",
+    "Name": "Clothing Construction I"
+  },
+  {
+    "Code": "CNCC1622",
+    "Name": "Clothing Construction II"
+  },
+  {
+    "Code": "CNCC2612",
+    "Name": "Clothing Construction III"
+  },
+  {
+    "Code": "CNCC2622",
+    "Name": "Clothing Construction IV"
+  },
+  {
+    "Code": "CNCC3712",
+    "Name": "Clothing Construction V"
+  },
+  {
+    "Code": "CNCC3722",
+    "Name": "Clothing Construction VI"
+  },
+  {
+    "Code": "CNCD3732",
+    "Name": "Community Development"
+  },
+  {
+    "Code": "CNCR3764",
+    "Name": "Research Methodology Consumer Science"
+  },
+  {
+    "Code": "CNCS4809",
+    "Name": "Research Project"
+  },
+  {
+    "Code": "CNCS4814",
+    "Name": "The Early History of Textiles, Clothing, Interiors Or Foods"
+  },
+  {
+    "Code": "CNCS4824",
+    "Name": "The Recent History of Textiles, Clothing, Interiors Or Foods"
+  },
+  {
+    "Code": "CNSF1614",
+    "Name": "Introductory Food I"
+  },
+  {
+    "Code": "CNSF2624",
+    "Name": "Food Preparation I"
+  },
+  {
+    "Code": "CNSF3724",
+    "Name": "Food Preservation"
+  },
+  {
+    "Code": "CNSF3744",
+    "Name": "Meal Planning"
+  },
+  {
+    "Code": "CNFD4808",
+    "Name": "Consumer Analysis of Foods"
+  },
+  {
+    "Code": "CNSF2613",
+    "Name": "Food Security I"
+  },
+  {
+    "Code": "CNFS2623",
+    "Name": "Food Security II"
+  },
+  {
+    "Code": "CNFS3714",
+    "Name": "Food Security III"
+  },
+  {
+    "Code": "CNFS3724",
+    "Name": "Food Security IV"
+  },
+  {
+    "Code": "CNOT2614",
+    "Name": "Skills"
+  },
+  {
+    "Code": "CNSB1614",
+    "Name": "Consumer Behaviour I"
+  },
+  {
+    "Code": "CNSB1624",
+    "Name": "Consumer Behaviour II"
+  },
+  {
+    "Code": "CNSB2614",
+    "Name": "Cosumer Behaviour III"
+  },
+  {
+    "Code": "CNSB2624",
+    "Name": "Consumer Behaviour IV"
+  },
+  {
+    "Code": "CNSB3714",
+    "Name": "Consumer Behaviour V"
+  },
+  {
+    "Code": "CNSB3724",
+    "Name": "Consumer Behaviour VI"
+  },
+  {
+    "Code": "CNSF2614",
+    "Name": "Food III"
+  },
+  {
+    "Code": "CNSF3714",
+    "Name": "Food V"
+  },
+  {
+    "Code": "CNSF3724",
+    "Name": "Food VI"
+  },
+  {
+    "Code": "CNSI1612",
+    "Name": "Interior I"
+  },
+  {
+    "Code": "CNSI1622",
+    "Name": "Interior II"
+  },
+  {
+    "Code": "CNSI2612",
+    "Name": "Interior III"
+  },
+  {
+    "Code": "CNSI2622",
+    "Name": "Interior IV"
+  },
+  {
+    "Code": "CNSI3712",
+    "Name": "Interior V"
+  },
+  {
+    "Code": "CNSI3722",
+    "Name": "Interior VI"
+  },
+  {
+    "Code": "CNST3734",
+    "Name": "Apparel Industry"
+  },
+  {
+    "Code": "CNST4814",
+    "Name": "Clothing Industry"
+  },
+  {
+    "Code": "CNST4824",
+    "Name": "Quality Management in The Clothing Industry"
+  },
+  {
+    "Code": "CNST4834",
+    "Name": "Social Aspects of Clothing"
+  },
+  {
+    "Code": "CNST4844",
+    "Name": "Psychological Aspects of Clothing"
+  },
+  {
+    "Code": "CNST4854",
+    "Name": "Natural Textile Fibres"
+  },
+  {
+    "Code": "CNST4864",
+    "Name": "Finishes for Natural Textile Fibres"
+  }
+]
