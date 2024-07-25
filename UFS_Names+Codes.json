@@ -1,0 +1,2108 @@
+[
+  {
+    "Code": "BLGY 1513 Introduction to Biology"
+  },
+  {
+    "Code": "CLNS 3702 Natural Science Education Community Service Learning"
+  },
+  {
+    "Code": "MATD 1400 Introduction to Mathematics"
+  },
+  {
+    "Code": "MATD 1544 Introduction to University Mathematics"
+  },
+  {
+    "Code": "MTDA 1508 Mathematics Literacy in Agriculture"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH 1508 Mathematical Literacy"
+  },
+  {
+    "Code": "MTDL 1508 Mathematical Literacy for Law Students"
+  },
+  {
+    "Code": "QALC 1513 Academic Literacy, Language and Communication"
+  },
+  {
+    "Code": "QCIV 3624 Civil Engineering"
+  },
+  {
+    "Code": "QCLO 3714 Computer Logic"
+  },
+  {
+    "Code": "QEDR 1524 Engineering Drawings"
+  },
+  {
+    "Code": "QEFO 1520 Engineering Forum"
+  },
+  {
+    "Code": "QELT 2723 Electrotechnique"
+  },
+  {
+    "Code": "QENV 3724 Holistic Engineering Design"
+  },
+  {
+    "Code": "QFLO 3714 Fluid Mechanics"
+  },
+  {
+    "Code": "QMAD 3623 Machine Design"
+  },
+  {
+    "Code": "QMAT 2613 Engineering Materials"
+  },
+  {
+    "Code": "QMPR 3724 Microprocessors"
+  },
+  {
+    "Code": "QMSC 2613 Material Science"
+  },
+  {
+    "Code": "QPOW 3724 Electrical Power Systems"
+  },
+  {
+    "Code": "QSIG 3714 Signal Theory"
+  },
+  {
+    "Code": "QSTR 2624 Strength of Materials I"
+  },
+  {
+    "Code": "QSTR 3714 Strength of Materials II"
+  },
+  {
+    "Code": "QSTR 3724 Strength of Materials III"
+  },
+  {
+    "Code": "QTHE 3724 Engineering Thermodynamics"
+  },
+  {
+    "Code": "QVAC 3520 Practical Engineering Experience"
+  },
+  {
+    "Code": "SCNS 1508 Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "BIOL 2674 Biostatistics"
+  },
+  {
+    "Code": "MATD 1534 Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD 1554 Basic Mathematics"
+  },
+  {
+    "Code": "MATD 1564 Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD 1584 Mathematics for Ems"
+  },
+  {
+    "Code": "MTDA 1508 Mathematics Literacy in Agriculture"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH 1508 Mathematical Literacy"
+  },
+  {
+    "Code": "SCNS 1508 Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "MTDH 1508 Mathematical Literacy"
+  },
+  {
+    "Code": "MATD 1554 Basic Mathematics"
+  },
+  {
+    "Code": "MATD 1584 Mathematics for Ems"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MATD 1554 Basic Mathematics"
+  },
+  {
+    "Code": "MATD 1584 Mathematics for Ems"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH 1508 Mathematical Literacy"
+  },
+  {
+    "Code": "MATD 1554 Basic Mathematics"
+  },
+  {
+    "Code": "MATD 1564 Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD 1584 Mathematics for Ems"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH 1508 Mathematical Literacy"
+  },
+  {
+    "Code": "SCNS 1508 Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "BLGY 1513 Introduction to Biology"
+  },
+  {
+    "Code": "MATD 1400 Introduction to Mathematics"
+  },
+  {
+    "Code": "MATD 1534 Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD 1544 Introduction to University Mathematics"
+  },
+  {
+    "Code": "MATD 1554 Basic Mathematics"
+  },
+  {
+    "Code": "MATD 1564 Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD 1584 Mathematics for Ems"
+  },
+  {
+    "Code": "MTDA 1508 Mathematics Literacy in Agriculture"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH 1508 Mathematical Literacy"
+  },
+  {
+    "Code": "MTDL 1508 Mathematical Literacy for Law Students"
+  },
+  {
+    "Code": "SCNS 1508 Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "MATD 1544 Introduction to University Mathematics"
+  },
+  {
+    "Code": "MATD 1554 Basic Mathematics"
+  },
+  {
+    "Code": "MATD 1564 Introduction to University Mathematics 1"
+  },
+  {
+    "Code": "MATD 1584 Mathematics for EMS"
+  },
+  {
+    "Code": "MTDE 1508 Mathematical Literacy for Business Study"
+  },
+  {
+    "Code": "MTDH 1508 Mathematical Literacy"
+  },
+  {
+    "Code": "SCNS 1508 Preparatory Learning for Natural Sciences"
+  },
+  {
+    "Code": "AGEC 1514 Introduction to Agricultural Economics"
+  },
+  {
+    "Code": "AGEC 1624 Agricultural Finance"
+  },
+  {
+    "Code": "AGEC 1634 Business Functions for Agribusiness"
+  },
+  {
+    "Code": "AGEC 2614 Farm Planning and Management"
+  },
+  {
+    "Code": "AGEC 2624 Introduction to Agricultural Marketing"
+  },
+  {
+    "Code": "AGEC 3714 Managerial Economics"
+  },
+  {
+    "Code": "AGEC 3721 Agricultural Economics Seminar"
+  },
+  {
+    "Code": "AGEC 3724 Resource Economics"
+  },
+  {
+    "Code": "AGEC 3734 Agribusiness Management"
+  },
+  {
+    "Code": "AGEC 3744 Agricultural Policy and Development"
+  },
+  {
+    "Code": "AGMA 3714 Business Management and Entrepreneurship"
+  },
+  {
+    "Code": "AGMA 3724 Innovation Management"
+  },
+  {
+    "Code": "AGMA 3734 Farm Tax"
+  },
+  {
+    "Code": "AGMA 3744 Strategic Agricultural Management"
+  },
+  {
+    "Code": "AGMA 3762 Seminar: Integrated Agricultural Management"
+  },
+  {
+    "Code": "AGEC 1514 Introduction to Agricultural Economics"
+  },
+  {
+    "Code": "AGEC 1624 Agricultural Finance"
+  },
+  {
+    "Code": "AGRI 1664 Microbiological Principles in Agriculture"
+  },
+  {
+    "Code": "AGRI 1514 Biological Principles in Agriculture"
+  },
+  {
+    "Code": "AGRI 1624 Mathematical and Biometrical Principles in Agriculture"
+  },
+  {
+    "Code": "ANIB 2624 Introduction to Animal and Plant Breeding"
+  },
+  {
+    "Code": "ANIB 3714 Theory of Animal Breeding"
+  },
+  {
+    "Code": "ANIB 3724 Molecular Animal Breeding"
+  },
+  {
+    "Code": "ANIB 4814 Animal Breeding: Mixed Model Theory"
+  },
+  {
+    "Code": "ANIB 6814 Animal Breeding: Mixed Model Theory"
+  },
+  {
+    "Code": "ANIB 4824 Animal Breeding: Practical Application"
+  },
+  {
+    "Code": "ANIB 6824 Animal Breeding: Practical Application"
+  },
+  {
+    "Code": "ANIF 2624 Animal Fibre Production"
+  },
+  {
+    "Code": "ANIG 1624 Introduction to Animal, Wildlife and Grassland Science"
+  },
+  {
+    "Code": "ANIG 2602 Animal Production Practical"
+  },
+  {
+    "Code": "ANIG 2613 Introductory Ruminant Production"
+  },
+  {
+    "Code": "ANIG 2623 Introductory Monogastric Production"
+  },
+  {
+    "Code": "ANIG 3713 Cattle Production Systems"
+  },
+  {
+    "Code": "ANIG 3723 Sheep and Goat Production Systems"
+  },
+  {
+    "Code": "ANIG 3733 Poultry Production Systems"
+  },
+  {
+    "Code": "ANIG 3743 Pig Production Systems"
+  },
+  {
+    "Code": "ANIG 4808 Research Project Animal Sciences"
+  },
+  {
+    "Code": "ANIG 6808 Research Project Animal Sciences"
+  },
+  {
+    "Code": "ANIN 3734 Fundamental and Experimental Animal Nutrition"
+  },
+  {
+    "Code": "ANIN 3744 Properties of Feeds Balancing Rations and Fodder Flow Planning"
+  },
+  {
+    "Code": "ANIN 4834 Applied Monogastric Nutrition"
+  },
+  {
+    "Code": "ANIN 6834 Applied Monogastric Nutrition"
+  },
+  {
+    "Code": "ANIN 4864 Applied Ruminant Nutrition"
+  },
+  {
+    "Code": "ANIN 6864 Applied Ruminant Nutrition"
+  },
+  {
+    "Code": "ANIP 2614 Anatomy and Physiology of Body Compartments"
+  },
+  {
+    "Code": "ANIP 3714 Animal Anatomy and Physiology of Growth in Farm Animals"
+  },
+  {
+    "Code": "ANIP 3724 Animal Health"
+  },
+  {
+    "Code": "ANIP 4814 Applied Reproduction Physiology in Farm Animals"
+  },
+  {
+    "Code": "ANIP 6814 Applied Reproduction Physiology in Farm Animals"
+  },
+  {
+    "Code": "ANIP 4824 Meat, Dairy and Egg Science"
+  },
+  {
+    "Code": "ANIP 6824 Meat, Dairy and Egg Science"
+  },
+  {
+    "Code": "DATA 2614 Agricultural Datametry"
+  },
+  {
+    "Code": "DATA 2624 Agricultural Datametry"
+  },
+  {
+    "Code": "DATA 3712 Statistical Analysis"
+  },
+  {
+    "Code": "GRAS 2614 Grassland Ecology"
+  },
+  {
+    "Code": "GRAS 3724 Intensive Pasture Production"
+  },
+  {
+    "Code": "GRAS 4808 Research Project Grassland Science"
+  },
+  {
+    "Code": "GRAS 4814 Production and Utilisation Ecology"
+  },
+  {
+    "Code": "GRAS 4824 Advanced Veld Management"
+  },
+  {
+    "Code": "GRAS 4834 Defoliation Phenology and Physiology"
+  },
+  {
+    "Code": "GRAS 4844 Advanced Fodder Plant Evaluation"
+  },
+  {
+    "Code": "WDMT 2624 Game and Natural Environment Interaction"
+  },
+  {
+    "Code": "WDMT 3714 Applied Game Farm Management"
+  },
+  {
+    "Code": "WILD 3723 Wildlife Research and Monitoring"
+  },
+  {
+    "Code": "WILD 3764 Applied Nutrition of  Wild Herbivores and Carnivores"
+  },
+  {
+    "Code": "WILD 4826 Integrated Planning and Practical Environmental Management Practices"
+  },
+  {
+    "Code": "AGRI 1514 Biological Principles in Agriculture"
+  },
+  {
+    "Code": "ANIG 1624 Introducing to Animal, Wildlife and Grassland Science"
+  },
+  {
+    "Code": "ANIB 4823 Animal Breeding: Practical Application"
+  },
+  {
+    "Code": "ANIF 4824 Meat Science"
+  },
+  {
+    "Code": "ANIF 4864 Dairy Science"
+  },
+  {
+    "Code": "ANIG 3754 Monogastric Production Systems"
+  },
+  {
+    "Code": "ANIG 3754 Monogastric Production Systems"
+  },
+  {
+    "Code": "ANIG 4808 Research Project Animal Sciences"
+  },
+  {
+    "Code": "ANIN 4834 Applied monogastric nutrition"
+  },
+  {
+    "Code": "ANIN 4864 Applied runimant nutrition"
+  },
+  {
+    "Code": "ANIP 4814 Applied Reproduction Physiology of Farm Animals"
+  },
+  {
+    "Code": "CROP 3744 Small grain, industrial and diverse crops"
+  },
+  {
+    "Code": "GRAS 3763 Applied rangeland and pasture management"
+  },
+  {
+    "Code": "GRAS 4814 Production and Utilisation Ecology"
+  },
+  {
+    "Code": "GRAS 4808 Research Project Grassland Sciences"
+  },
+  {
+    "Code": "GRAS 4824 Advanced Veld Management"
+  },
+  {
+    "Code": "WDMT 3723 Applied Game Farm Management"
+  },
+  {
+    "Code": "WILD 4814 Veld and Game Ecology"
+  },
+  {
+    "Code": "WILD 6814 Veld and Game Ecology"
+  },
+  {
+    "Code": "XXX ARCR 2602 Architectural Representation 2"
+  },
+  {
+    "Code": "CONS 1506 Construction I"
+  },
+  {
+    "Code": "CONS 2600 Construction II"
+  },
+  {
+    "Code": "CONS 3700 Construction III"
+  },
+  {
+    "Code": "DESN 1500 Design I"
+  },
+  {
+    "Code": "DESN 2600 Design II"
+  },
+  {
+    "Code": "DESN 3700 Design III"
+  },
+  {
+    "Code": "HTRC 1506 Histories and Theories of Architecture I"
+  },
+  {
+    "Code": "HTRC 2606 Histories and Theories of Architecture II"
+  },
+  {
+    "Code": "HTRC 3706 Histories and Theories of Architecture III"
+  },
+  {
+    "Code": "XXX ARCR 1506 Architectural Representation I"
+  },
+  {
+    "Code": "AGEX 2614 Extension With The Agricultural Innovation System"
+  },
+  {
+    "Code": "AGEX 2624 Communication for Innovation"
+  },
+  {
+    "Code": "AGEX 3714 Facilitation for Development"
+  },
+  {
+    "Code": "AGEX 3724 Extension Programme Management"
+  },
+  {
+    "Code": "AGEX 3734 Community Mobilization and Local Organizational Development"
+  },
+  {
+    "Code": "AGEX 3744 Management of Change and Adaptation"
+  },
+  {
+    "Code": "AGEX 3754 Agricultural Entrepreneurship and Value Chains"
+  },
+  {
+    "Code": "AGEX 3764 Adult Learning, Behavioural Change & Gender"
+  },
+  {
+    "Code": "CNCC 1612 Clothing Construction I"
+  },
+  {
+    "Code": "CNCC 1622 Clothing Construction Ii"
+  },
+  {
+    "Code": "CNCC 2612 Clothing Construction Iii"
+  },
+  {
+    "Code": "CNCC 2622 Clothing Construction Iv"
+  },
+  {
+    "Code": "CNCC 3712 Clothing Construction V"
+  },
+  {
+    "Code": "CNCC 3722 Clothing Construction Vi"
+  },
+  {
+    "Code": "CNCD 3732 Community Development"
+  },
+  {
+    "Code": "CNSF 1614 Introductory Food I"
+  },
+  {
+    "Code": "CNSF 2624 Food Preparation I"
+  },
+  {
+    "Code": "CNSF 3724 Food Preservation"
+  },
+  {
+    "Code": "CNSF 2613 Food Security I"
+  },
+  {
+    "Code": "CNFS 2623 Food Security Ii"
+  },
+  {
+    "Code": "CNFS 3714 Food Security Iii"
+  },
+  {
+    "Code": "CNFS 3724 Food Security Iv"
+  },
+  {
+    "Code": "CNOT 2614 Skills"
+  },
+  {
+    "Code": "CNSB 1614 Consumer Behaviour I"
+  },
+  {
+    "Code": "CNSB 1624 Consumer Behaviour II"
+  },
+  {
+    "Code": "CNSB 2614 Cosumer Behaviour III"
+  },
+  {
+    "Code": "CNSB 2624 Consumer Behaviour IV"
+  },
+  {
+    "Code": "CNSB 3714 Consumer Behaviour V"
+  },
+  {
+    "Code": "CNSB 3724 Consumer Behaviour VI"
+  },
+  {
+    "Code": "CNSF 2614 Food III"
+  },
+  {
+    "Code": "CNSF 3714 Food V"
+  },
+  {
+    "Code": "CNSF 3724 Food VVIi"
+  },
+  {
+    "Code": "CNSI 1612 Interior I"
+  },
+  {
+    "Code": "CNSI 1622 Interior II"
+  },
+  {
+    "Code": "CNSI 2612 Interior III"
+  },
+  {
+    "Code": "CNSI 2622 Interior IV"
+  },
+  {
+    "Code": "CNSI 3712 Interior V"
+  },
+  {
+    "Code": "CNSI 3722 Interior VI"
+  },
+  {
+    "Code": "FSCS 2634 Food systems for consumer science"
+  },
+  {
+    "Code": "CHEM 1513 Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM 1551 Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM 1623 Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM 1643 Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM 1661 Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM 2611 Physical Chemistry Practicals"
+  },
+  {
+    "Code": "CHEM 2613 Physical Chemistry Theory"
+  },
+  {
+    "Code": "CHEM 2621 Organic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM 2623 Organic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM 2631 Analytical Chemistry Practical II"
+  },
+  {
+    "Code": "CHEM 2633 Analytical Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM 2641 Inorganic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM 2643 Inorganic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM 3711 Analytical Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM 3713 Analytical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 3721 Inorganic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM 3723 Inorganic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 3731 Physical Chemistry Practical"
+  },
+  {
+    "Code": "CHEM 3733 Physical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 3741 Organic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM 3743 Organic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 1513 Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM 1562 Organic Chemistry"
+  },
+  {
+    "Code": "CHEM 1551 Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM 1552 Introduction to Chemistry - Development Module"
+  },
+  {
+    "Code": "CHEM 1622 Physical Chemistry"
+  },
+  {
+    "Code": "CHEM 1623 Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM 1632 Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM 1643 Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM 1661 Physical and Organic Chemistry"
+  },
+  {
+    "Code": "CHEM 2611 Physical Chemistry Practicals"
+  },
+  {
+    "Code": "CHEM 2613 Physical Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM 2621 Organic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM 2623 Organic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM 2631 Analytical Chemistry Practical II"
+  },
+  {
+    "Code": "CHEM 2633 Analytical Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM 2641 Inorganic Chemistry Practicals II"
+  },
+  {
+    "Code": "CHEM 2643 Inorganic Chemistry Theory II"
+  },
+  {
+    "Code": "CHEM 3711 Analytical Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM 3713 Analytical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 3721 Inorganic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM 3723 Inorganic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 3731 Physical Chemistry Practical III"
+  },
+  {
+    "Code": "CHEM 3733 Physical Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 3741 Organic Chemistry Practicals III"
+  },
+  {
+    "Code": "CHEM 3743 Organic Chemistry Theory III"
+  },
+  {
+    "Code": "CHEM 1562 Organic Chemistry I"
+  },
+  {
+    "Code": "CHEM 1551 Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM 1552 Introduction to Chemistry - Development Module"
+  },
+  {
+    "Code": "CHEM 1622 Physical Chemistry I"
+  },
+  {
+    "Code": "CHEM 1632 Inorganic and Analytical Chemistry"
+  },
+  {
+    "Code": "CHEM 1661 Physical and Organic Chemistry"
+  },
+  {
+    "Code": "BCIS 1513 Introduction to Information Systems"
+  },
+  {
+    "Code": "BCIS 1623 Introduction to Software Design"
+  },
+  {
+    "Code": "BCIS 2614 Systems Analysis & Design"
+  },
+  {
+    "Code": "BCIS 2624 Systems Infrastructure & Integration"
+  },
+  {
+    "Code": "BCIS 3714 Information Systems in Organisations"
+  },
+  {
+    "Code": "CSIE 2613 Data Structures and Algorithms for Engineers"
+  },
+  {
+    "Code": "CSIE 1606 Object Oriented Programming for Engineers"
+  },
+  {
+    "Code": "CSIL 1511 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL 1521 Computer Literacy: Part 2"
+  },
+  {
+    "Code": "CSIS 1534 Introduction to Programming: Part 1"
+  },
+  {
+    "Code": "CSIS 1553 Introduction to Computer Hardware"
+  },
+  {
+    "Code": "CSIS 1614 Programming and Problem Solving: Part 1"
+  },
+  {
+    "Code": "CSIS 1624 Programming and Problem Solving: Part 2"
+  },
+  {
+    "Code": "CSIS 1644 Introduction to Programming: Part 2"
+  },
+  {
+    "Code": "CSIS 1664 Introduction to The Internet and Web Page Development"
+  },
+  {
+    "Code": "CSIS 1683 Visual Basic for Applications (Vba) With The Focus On Excel"
+  },
+  {
+    "Code": "CSIS 2614 Data Structures and Advanced Programming"
+  },
+  {
+    "Code": "CSIS 2624 Human-Computer Interaction"
+  },
+  {
+    "Code": "CSIS 2634 Introduction to Databases and Database Management Systems: Part 1"
+  },
+  {
+    "Code": "CSIS 2642 Information Technology Service Learning"
+  },
+  {
+    "Code": "CSIS 2664 Software Design"
+  },
+  {
+    "Code": "CSIS 3714 Introduction to Databases and Database Management Systems: Part 2"
+  },
+  {
+    "Code": "CSIS 3724 Software Engineering"
+  },
+  {
+    "Code": "CSIS 3734 Internet Programming"
+  },
+  {
+    "Code": "CSIS 3744 Computer Networks"
+  },
+  {
+    "Code": "CSIS 3754 Data Science"
+  },
+  {
+    "Code": "CSIS 3784 Computer Science and Informatics Work Integrated Learning"
+  },
+  {
+    "Code": "CSIQ 1512 Computer Literacy for Computer Science"
+  },
+  {
+    "Code": "CSIQ 1531 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIQ 1533 Introduction to Software Development Concepts"
+  },
+  {
+    "Code": "CSIQ 1541 Computer Literacy: Part 2"
+  },
+  {
+    "Code": "CSIQ 1553 Introduction to Computer Hardware"
+  },
+  {
+    "Code": "CSIQ 1614 Programming and Problem Solving: Part 1"
+  },
+  {
+    "Code": "CSIQ 1623 Introduction to Computer Networks"
+  },
+  {
+    "Code": "CSIQ 1624 Programming and Problem Solving: Part 2"
+  },
+  {
+    "Code": "CSIQ 1681 Introduction to Software Development Part 2"
+  },
+  {
+    "Code": "CSIQ 2614 Data Structures and Advanced Programming"
+  },
+  {
+    "Code": "CSIQ 2624 Human-Computer Interaction"
+  },
+  {
+    "Code": "CSIQ 2634 Introduction to Databases and Database Management Systems: Part 1"
+  },
+  {
+    "Code": "CSIQ 2642 Information Technology Service Learning"
+  },
+  {
+    "Code": "CSIQ 2644 Mobile Development"
+  },
+  {
+    "Code": "CSIQ 2654 Introduction to Website Development"
+  },
+  {
+    "Code": "CSIQ 3714 Introduction to Databases and Database Management Systems: Part 2"
+  },
+  {
+    "Code": "CSIQ 3724 Software Engineering"
+  },
+  {
+    "Code": "CSIQ 3734 Internet Programming"
+  },
+  {
+    "Code": "CSIQ 3784 Software Development Project"
+  },
+  {
+    "Code": "CSIL 1511 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL 1561 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL 1561 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL 1561 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL 1501 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "CSIL 1561 Computer Literacy: Part 1"
+  },
+  {
+    "Code": "GEOH 1614 Introduction to Human Geography"
+  },
+  {
+    "Code": "GERS 1624 Introduction to Geoinformatics Systems and Remote Sensing"
+  },
+  {
+    "Code": "GEOH 2614 Urban Geography"
+  },
+  {
+    "Code": "GEOH 3714 Applied Urban Development and Spatial Transformation"
+  },
+  {
+    "Code": "GEOH 3724 Rural Geography"
+  },
+  {
+    "Code": "GEOP 1624 Introduction to Physical Geography"
+  },
+  {
+    "Code": "GEOP 2614 Process Geomorphology"
+  },
+  {
+    "Code": "GEOP 2624 Environment and Climate Studies"
+  },
+  {
+    "Code": "GEOP 3714 Environmental Geomorphology"
+  },
+  {
+    "Code": "GEOP 3724 Environmental Management and Analysis"
+  },
+  {
+    "Code": "GERS 2624 Introduction to Geographical Information Science"
+  },
+  {
+    "Code": "GISC 3704 Professional Practice, Ethics and Legal Aspects of Geographical Information Science"
+  },
+  {
+    "Code": "GISC 3724 Introduction to Geographical Information Science"
+  },
+  {
+    "Code": "GEOE 1514 Introduction to Physical Geography"
+  },
+  {
+    "Code": "GEOE 1624 Introduction to Human Geography"
+  },
+  {
+    "Code": "GEOG 1512 Essential Skills For Geographers"
+  },
+  {
+    "Code": "GEOG 1513 Essential Skills For Geographers"
+  },
+  {
+    "Code": "GEOG 1514 Introduction to Physical Geography"
+  },
+  {
+    "Code": "GEOG 1624 Introduction to Human Geography"
+  },
+  {
+    "Code": "GEOG 2614 Process Geomorpholgy"
+  },
+  {
+    "Code": "GEOG 2624 Environment and Climate Studies"
+  },
+  {
+    "Code": "GEOG 2634 Housing and Urban Development"
+  },
+  {
+    "Code": "GEOG 2644 Biogeography and Climate of Southern Africa"
+  },
+  {
+    "Code": "GEOG 3714 Environmental Geomorphology"
+  },
+  {
+    "Code": "GEOG 3724 Rural Geography"
+  },
+  {
+    "Code": "GEOG 3734 Applied Urban Development and Spatial Transformation"
+  },
+  {
+    "Code": "GEOG 3744 Environmental Management and Analysis"
+  },
+  {
+    "Code": "GEOG 3754 Economic Geography"
+  },
+  {
+    "Code": "GEOG 3764 Ethical Debates in Geography"
+  },
+  {
+    "Code": "GISS 2614 Introduction to Remote Sensing"
+  },
+  {
+    "Code": "GISS 2624 Introduction to Geographical Information Science"
+  },
+  {
+    "Code": "GISS 3724 Geographic Information Science"
+  },
+  {
+    "Code": "GLGY 1614 Introduction to Geology"
+  },
+  {
+    "Code": "GLGY 1624 General Geology and South African Stratigraphy"
+  },
+  {
+    "Code": "GLGY 2612 Practical Mineralogy"
+  },
+  {
+    "Code": "GLGY 2614 Mineralogy"
+  },
+  {
+    "Code": "GLGY 2626 Sedimentology Principles and Applications"
+  },
+  {
+    "Code": "GLGY 2632 Geological  Field Techniques"
+  },
+  {
+    "Code": "GLGY 2641 Geology for Engineers"
+  },
+  {
+    "Code": "GLGY 2643 Environmental Geology"
+  },
+  {
+    "Code": "GLGY 2646 Environmental Geology: Principles and Practical"
+  },
+  {
+    "Code": "GLGY 2652 Geological Structures and Maps"
+  },
+  {
+    "Code": "GLGY 2662 Field School"
+  },
+  {
+    "Code": "GLGY 3714 Igneous Petrology"
+  },
+  {
+    "Code": "GLGY 3724 Economic Geology"
+  },
+  {
+    "Code": "GLGY 3734 Structural Geology"
+  },
+  {
+    "Code": "GLGY 3744 Metamorphic Petrology"
+  },
+  {
+    "Code": "GLGY 3754 Introduction to Geochemistry"
+  },
+  {
+    "Code": "GLGY 3764 Exploration Geology"
+  },
+  {
+    "Code": "GLGY 3774 Analytical Geochemistry"
+  },
+  {
+    "Code": "GLGY 3784 Environmental Geochemistry"
+  },
+  {
+    "Code": "MATA 1684 Engineering Statics"
+  },
+  {
+    "Code": "MATA 2674 Engineering Dynamics"
+  },
+  {
+    "Code": "MATA 2684 Dynamics of Rigid Bodies"
+  },
+  {
+    "Code": "MATA 2664 Introduction to Mathematical Modeling"
+  },
+  {
+    "Code": "MATA 2654 Ordinary Differential Equations"
+  },
+  {
+    "Code": "MATA 2754 Scientific Computing"
+  },
+  {
+    "Code": "MATA 3764 Industrial Mathematics"
+  },
+  {
+    "Code": "MATA 3774 Numerical Analysis"
+  },
+  {
+    "Code": "MATA 3784 Dynamical Systems"
+  },
+  {
+    "Code": "MATM 1534 Calculus"
+  },
+  {
+    "Code": "MATM 1542 Introductory Calculus and Statics"
+  },
+  {
+    "Code": "MATM 1644 Calculus and Algebra"
+  },
+  {
+    "Code": "MATM 1622 Introduction to Advanced Mathematics"
+  },
+  {
+    "Code": "MATM 2614 Vector Analysis"
+  },
+  {
+    "Code": "MATM 2624 Linear Algebra"
+  },
+  {
+    "Code": "MATM 2664 Sequences and Series"
+  },
+  {
+    "Code": "MATM 3714 Complex Analysis"
+  },
+  {
+    "Code": "MATM 3724 Real Analysis"
+  },
+  {
+    "Code": "MATM 3734 Discrete Mathematics"
+  },
+  {
+    "Code": "MATM 3744 Algebra"
+  },
+  {
+    "Code": "MATR 1534 Calculus"
+  },
+  {
+    "Code": "MATM 1502 Introductory Calculus and Statics"
+  },
+  {
+    "Code": "MATA 2634 Ordinary Differential Equations"
+  },
+  {
+    "Code": "MATM 1534 Calculus"
+  },
+  {
+    "Code": "MATM 1644 Calculus and Algebra"
+  },
+  {
+    "Code": "MATM 2614 Vector Analysis"
+  },
+  {
+    "Code": "MATM 2624 Linear Algebra"
+  },
+  {
+    "Code": "MATM 2664 Sequences and Series"
+  },
+  {
+    "Code": "XXX MATM 3764 Complex Analysis"
+  },
+  {
+    "Code": "MATM 3754 Real Analysis"
+  },
+  {
+    "Code": "MATM 3734 Discrete Mathematics"
+  },
+  {
+    "Code": "MATM 3744 Algebra"
+  },
+  {
+    "Code": "BLGY 1683 Introductory Biochemistry and Microbiology"
+  },
+  {
+    "Code": "BOCB 2616 Biochemistry of Biological Compounds"
+  },
+  {
+    "Code": "BOCE 2626 Enzymology and Introductory Metabolism"
+  },
+  {
+    "Code": "BOCE 3714 Advanced Enzyme Kinetics and Metabolism"
+  },
+  {
+    "Code": "BOCH 2614 Biochemistry for Agriculture and Health Sciences"
+  },
+  {
+    "Code": "BOCM 3714 Molecular Biology"
+  },
+  {
+    "Code": "BOCP 3724 Protein Biochemistry"
+  },
+  {
+    "Code": "BOCS 3724 Cell Membranes, Signal Transduction and Immunology"
+  },
+  {
+    "Code": "MCBC 3724 Microbial Genomics, Genetics and Biotechnology"
+  },
+  {
+    "Code": "MCBE 3714 Microbial Ecology and Environmental Microbiology"
+  },
+  {
+    "Code": "MCBG 3714 Growth, Nutrition and Death of Microoganisms"
+  },
+  {
+    "Code": "MCBH 2614 Introduction to Microbiology for Health and Consumer Sciences"
+  },
+  {
+    "Code": "MCBH 2624 Introduction to Microbial Pathogenicity for Health and Consumer Sciences"
+  },
+  {
+    "Code": "MCBP 2616 The Basic Principles of Microbiology"
+  },
+  {
+    "Code": "MCBP 2626 Microbial Evolution and Diversity"
+  },
+  {
+    "Code": "MCBP 3724 Pathogens and Immunity"
+  },
+  {
+    "Code": "PHYA 1554 Introductory Astronomy"
+  },
+  {
+    "Code": "PHYA 1664 Principles and Practice of Observational Astronomy"
+  },
+  {
+    "Code": "PHYA 2614 Astrophysics"
+  },
+  {
+    "Code": "PHYA 2624 Astrophysics"
+  },
+  {
+    "Code": "PHYA 3709 Astronomy Practical"
+  },
+  {
+    "Code": "PHYA 3772 Radiative Processes I"
+  },
+  {
+    "Code": "PHYA 3782 Radiative Processes Ii"
+  },
+  {
+    "Code": "PHYC 2623 Introduction to Numerical Analysis and Quantitative Methods"
+  },
+  {
+    "Code": "PHYM 2613 Analytical Mechanics for Physicists and Engineers"
+  },
+  {
+    "Code": "PHYS 1512 Physics for Building Science Students"
+  },
+  {
+    "Code": "PHYS 1514 Mechanics, Optics and Electricity"
+  },
+  {
+    "Code": "PHYS 1534 Mechanics, Optics, Electricity and Biological and Medical Relevant Topics"
+  },
+  {
+    "Code": "PHYS 1543 Physics for Physiotherapists"
+  },
+  {
+    "Code": "PHYS 1624 Mechanics, Thermodynamics, Electricity and Magnetism"
+  },
+  {
+    "Code": "PHYS 1644 Electricity, Magnetism, Biologically and Medically Relevant Topics"
+  },
+  {
+    "Code": "PHYS 2614 Mechanics, Waves and Optics"
+  },
+  {
+    "Code": "PHYS 2624 Electronics"
+  },
+  {
+    "Code": "PHYS 2632 Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS 2642 Electromagnetism"
+  },
+  {
+    "Code": "PHYS 2654 Ophthalmic Optics/Visual Optics"
+  },
+  {
+    "Code": "PHYS 2664 Special Ophthalmic Optics"
+  },
+  {
+    "Code": "PHYS 3714 Modern Physics"
+  },
+  {
+    "Code": "PHYS 3724 Solid State Physics"
+  },
+  {
+    "Code": "PHYS 3732 Statistical Physics I"
+  },
+  {
+    "Code": "PHYS 3742 Statistical Physics Ii"
+  },
+  {
+    "Code": "PHYS 3752 Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS 3762 Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS 1502 Physics for Building Science Students"
+  },
+  {
+    "Code": "PHYS 1512 Physics for Building Science Students"
+  },
+  {
+    "Code": "PHYS 1514 Mechanics, Optics and Electricity"
+  },
+  {
+    "Code": "PHYS 1534 Mechanics, Optics, Electricity and Biological and Medical Relevant Topics"
+  },
+  {
+    "Code": "PHYS 1624 Mechanics, Thermodynamics, Electricity and Magnetism"
+  },
+  {
+    "Code": "PHYS 1644 Electricity, Magnetism, Biologically and Medically Relevant Topics"
+  },
+  {
+    "Code": "PHYS 2614 Mechanics, Waves and Optics"
+  },
+  {
+    "Code": "PHYS 2624 Electronics"
+  },
+  {
+    "Code": "PHYS 2632 Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS 2642 Electromagnetism"
+  },
+  {
+    "Code": "PHYS 3714 Modern Physics"
+  },
+  {
+    "Code": "PHYS 3724 Solid State Physics"
+  },
+  {
+    "Code": "PHYS 3732 Statistical Physics I"
+  },
+  {
+    "Code": "PHYS 3742 Statistical Physics Ii"
+  },
+  {
+    "Code": "PHYS 3752 Practical Work: Physics"
+  },
+  {
+    "Code": "PHYS 3762 Practical Work: Physics"
+  },
+  {
+    "Code": "BLGY 1643 The Interdependence of Plants and Life On Earth"
+  },
+  {
+    "Code": "BTNY 2616 Plant Adaptations for Survival On Land"
+  },
+  {
+    "Code": "BTNY 2621 Field Excursion 1"
+  },
+  {
+    "Code": "BTNY 2626 Introductory Plant Development and Biotechnology"
+  },
+  {
+    "Code": "BTNY 3712 Field Excursion 2"
+  },
+  {
+    "Code": "BTNY 3714 Diversity and Systematics of Higher Plants"
+  },
+  {
+    "Code": "BTNY 3724 Carbon Metabolism in Plants"
+  },
+  {
+    "Code": "BTNY 3734 Vegetation Science and Environmental Management"
+  },
+  {
+    "Code": "BTNY 3744 Plant Defence and Biotechnology"
+  },
+  {
+    "Code": "BTNY 3754 Plant Molecular Biotechnology"
+  },
+  {
+    "Code": "BTNY 3764 Ecophysiology: Soil-Plant-Water Interactions"
+  },
+  {
+    "Code": "PLTB 2613 Theoretical Principles of Plant Breeding"
+  },
+  {
+    "Code": "PLTB 2623 Applied Principles of Plant Breeding"
+  },
+  {
+    "Code": "PLTB 3714 Principles of Quantitative Genetics in Plant Breeding"
+  },
+  {
+    "Code": "PLTB 3724 Breeding for Abiotic Stress Tolerance"
+  },
+  {
+    "Code": "PLTB 3744 Advanced Breeding Techniques"
+  },
+  {
+    "Code": "PLTB 4808 Research Project Plant Breeding"
+  },
+  {
+    "Code": "PLTB 4814 Advanced Quantitative Genetics in Plant Breeding"
+  },
+  {
+    "Code": "PLTB 4816 Literature Review Plant Breeding"
+  },
+  {
+    "Code": "PLTB 4824 Quality and Stress Tolerance Breeding"
+  },
+  {
+    "Code": "PLTB 4834 Marker-Assisted Plant Breeding"
+  },
+  {
+    "Code": "PLTB 4854 Statistics in Plant Sciences"
+  },
+  {
+    "Code": "PPLG 2624 Principles of Plant Pathology"
+  },
+  {
+    "Code": "PPLG 3714 Mycological Plant Pathology"
+  },
+  {
+    "Code": "PPLG 3724 Plant Disease Management"
+  },
+  {
+    "Code": "PPLG 3734 Bacterial and Viral Diseases of Plants"
+  },
+  {
+    "Code": "PPLG 3744 Ecology of Plant Pathogens"
+  },
+  {
+    "Code": "PPLG 4808 Plant Pathology Research Report"
+  },
+  {
+    "Code": "PPLG 4816 Literature Review Plant Pathology"
+  },
+  {
+    "Code": "PPLG 4824 Plant-Pathogen Interactions"
+  },
+  {
+    "Code": "PPLG 4834 Epidemiology and control of plant diseases"
+  },
+  {
+    "Code": "PPLG 4844 Molecular Plant Pathology"
+  },
+  {
+    "Code": "BIOL 1624 Plant Biology"
+  },
+  {
+    "Code": "BIOL 2644 The Physical Environment: Natural Resources, Ecology and Sustainability"
+  },
+  {
+    "Code": "BOTA 2654 Introduction to Plant Anatomy and Morphology"
+  },
+  {
+    "Code": "BOTA 2684 Plant Physiology and Biotechnology"
+  },
+  {
+    "Code": "BOTA 3724 Plant Metabolism and The Environment"
+  },
+  {
+    "Code": "BOTA 3734 Introduction to Plant Systematics"
+  },
+  {
+    "Code": "BOTA 3744 Ethnobotany and Plant Defence"
+  },
+  {
+    "Code": "BOTA 3754 Vegetation Ecology"
+  },
+  {
+    "Code": "BLGY 1643 The Interdependence of Plants and Life On Earth"
+  },
+  {
+    "Code": "BARR 1512 Architecture"
+  },
+  {
+    "Code": "BBER 1524 Building Economics 1"
+  },
+  {
+    "Code": "BBER 2612 Building Economics"
+  },
+  {
+    "Code": "BBER 2622 Building Economics"
+  },
+  {
+    "Code": "BBSD 2614 Building Sciences 2"
+  },
+  {
+    "Code": "BBSD 3712 Building Science 3"
+  },
+  {
+    "Code": "BBSR 2614 Building Sciences 2"
+  },
+  {
+    "Code": "BCSR 2612 Construction Science"
+  },
+  {
+    "Code": "BCSR 2622 Construction Science 2"
+  },
+  {
+    "Code": "BDQR 1504 Descriptive Quantification 1"
+  },
+  {
+    "Code": "BDQR 2604 Descriptive Quantification"
+  },
+  {
+    "Code": "BPDR 1522 Property Development 1"
+  },
+  {
+    "Code": "BPDR 2614 Property Development Economics"
+  },
+  {
+    "Code": "BPDR 2624 Property Development"
+  },
+  {
+    "Code": "SURV 2622 Land Surveying"
+  },
+  {
+    "Code": "BARD 1522 Architecture"
+  },
+  {
+    "Code": "BBED 1524 Building Economics I"
+  },
+  {
+    "Code": "BBSD 1504 Building Science I"
+  },
+  {
+    "Code": "BCCR 3712 Construction Law"
+  },
+  {
+    "Code": "BCCR 3722 Construction Law"
+  },
+  {
+    "Code": "BDQD 1504 Descriptive Quantification I"
+  },
+  {
+    "Code": "BPDD 1522 Property Development I"
+  },
+  {
+    "Code": "BBSD 2604 Building Science"
+  },
+  {
+    "Code": "EGSD 1504 Engineering Science"
+  },
+  {
+    "Code": "BMQR 1504 Descriptive Quantification 1"
+  },
+  {
+    "Code": "BMQD 1504 Descriptive Quantification 1"
+  },
+  {
+    "Code": "BMQR 2604 Descriptive Quantification 2N"
+  },
+  {
+    "Code": "BMQD 2604 Descriptive Quantification 2N"
+  },
+  {
+    "Code": "BMQR 3706 Descriptive Quantification 3N"
+  },
+  {
+    "Code": "BMQD 3706 Descriptive Quantification 3N"
+  },
+  {
+    "Code": "SURV 2622 Land Surveying"
+  },
+  {
+    "Code": "AGEG 2624 Engineering Principles in Agriculture Practices"
+  },
+  {
+    "Code": "AGEG 3714 Hydraulics"
+  },
+  {
+    "Code": "AGEG 3724 Irrigation Systems and Irrigation Surveying"
+  },
+  {
+    "Code": "AGRI 1534 Chemical Principles in Agricultural"
+  },
+  {
+    "Code": "AGRI 1554 Physical and Mechanised Principles in Agriculture"
+  },
+  {
+    "Code": "CLIM 3724 Climate Change and Variability"
+  },
+  {
+    "Code": "CLIM 3764 Climate Change and Variability"
+  },
+  {
+    "Code": "CLIM 2614 Fundamentals of Agrometeorology"
+  },
+  {
+    "Code": "CLIM 3734 Micrometeorology"
+  },
+  {
+    "Code": "CLIM 4874 Advanced Instrumentation in Agrometeorology"
+  },
+  {
+    "Code": "CLIM 6874 Advanced Instrumentation in Agrometeorology"
+  },
+  {
+    "Code": "CLIM 4834 Physics and Dynamics of The Atmosphere"
+  },
+  {
+    "Code": "CLIM 4864 Tropical Meteorology"
+  },
+  {
+    "Code": "CLIM 4844 Weather Analysis and Forecasting"
+  },
+  {
+    "Code": "CROP 2614 Concepts in crop production"
+  },
+  {
+    "Code": "CROP 4814 Crop Physiology"
+  },
+  {
+    "Code": "CROP 4824 Role of Nutrition in Crop Development"
+  },
+  {
+    "Code": "CROP 3714 Summer Grain, Oil and Protein-Rich Crops"
+  },
+  {
+    "Code": "CROP 3754 Summer Grain, Oil and Protein-Rich Crops"
+  },
+  {
+    "Code": "CROP 3754 Summer Grain, Oil and Protein-Rich Crops"
+  },
+  {
+    "Code": "CROP 4834 Water Dynamics in Crop Production"
+  },
+  {
+    "Code": "CROP 4844 Weed Control"
+  },
+  {
+    "Code": "CROP 3764 Small grain, Industrial and Diverse Crops"
+  },
+  {
+    "Code": "CROP 3744 Small grain, Industrial and Diverse Crops"
+  },
+  {
+    "Code": "CROP 3764 Small grain, Industrial and Diverse Crops"
+  },
+  {
+    "Code": "HORT 3724 Applied Fruit Production"
+  },
+  {
+    "Code": "HORT 3764 Applied Fruit Production"
+  },
+  {
+    "Code": "HORT 3734 Fruit Production"
+  },
+  {
+    "Code": "HORT 3774 Fruit Production"
+  },
+  {
+    "Code": "HORT 3754 Vegetable Crops"
+  },
+  {
+    "Code": "HORT 3714 Vegetable Crops"
+  },
+  {
+    "Code": "SCCS 2624 Crop Development"
+  },
+  {
+    "Code": "SCCS 1624 Introduction to Soil, Crop and Climate Sciences"
+  },
+  {
+    "Code": "SCCS 3724Research Methodologies in Soil Crop and Climate Science"
+  },
+  {
+    "Code": "SCCS 2684 Sustainable Soil and Water Management"
+  },
+  {
+    "Code": "SCCS 6824Modelling Soil, Crop and Cilmate Interactions"
+  },
+  {
+    "Code": "SOIL 4844 Soil Biological Principles and Applications"
+  },
+  {
+    "Code": "SOIL 6844 Soil Biological Principles and Applications"
+  },
+  {
+    "Code": "SOIL 4814 Soil Chemical Principles and Applications"
+  },
+  {
+    "Code": "SOIL 6814 Soil Chemical Principles and Applications"
+  },
+  {
+    "Code": "SOIL 4834 Soil Classification Principles and Applications"
+  },
+  {
+    "Code": "SOIL 6834 Soil Classification Principles and Applications"
+  },
+  {
+    "Code": "SOIL 3774 Soil Classification, Evaluation, and Land Use Planning"
+  },
+  {
+    "Code": "SOIL 3754 Soil Classification, Evaluation, and Land Use Planning"
+  },
+  {
+    "Code": "SOIL 3724 Soil Contaminants and Management"
+  },
+  {
+    "Code": "SOIL 3744 Soil Contaminants and Management"
+  },
+  {
+    "Code": "SOIL 3744 Soil Contaminants and Management"
+  },
+  {
+    "Code": "SOIL 2674 Soil Fertility and Fertilization"
+  },
+  {
+    "Code": "SOIL 4824 Soil Physical Principles and Applications"
+  },
+  {
+    "Code": "SOIL 6824 Soil Physical Principles and Applications"
+  },
+  {
+    "Code": "ACSF 1613 Actuarial Financial Management"
+  },
+  {
+    "Code": "ACSF 1623 Actuarial Financial Reporting"
+  },
+  {
+    "Code": "ACSF 2716 Introductory Financial Mathematics"
+  },
+  {
+    "Code": "ACSF 2746 Advanced Financial Mathematics"
+  },
+  {
+    "Code": "ACSM 3708 Actuarial Mathematics II"
+  },
+  {
+    "Code": "ACSG 1614 Introduction to Actuarial Science"
+  },
+  {
+    "Code": "ACSS 3708 Actuarial Statistics II"
+  },
+  {
+    "Code": "EBCS 1514 Business Calculations"
+  },
+  {
+    "Code": "EBCS 1524 Business Calculations"
+  },
+  {
+    "Code": "STSA 1624 Introduction to Statistics"
+  },
+  {
+    "Code": "STSA 2616 Multiple Regression Analysis and Time Series Analysis"
+  },
+  {
+    "Code": "STSA 2626 Multiple Regression: Variance and Time Series Analysis"
+  },
+  {
+    "Code": "STSA 3716 Probability I"
+  },
+  {
+    "Code": "STSA 3726 Probability II"
+  },
+  {
+    "Code": "STSA 3732 Applied Statistics I"
+  },
+  {
+    "Code": "STSA 3742 Applied Statistics II"
+  },
+  {
+    "Code": "STSM 1614 Introductory Statistics"
+  },
+  {
+    "Code": "STSM 1624 Introductory Probability Theory"
+  },
+  {
+    "Code": "STSM 2616 Sample Distribution Theory and Inference"
+  },
+  {
+    "Code": "STSM 2626 Inference I"
+  },
+  {
+    "Code": "STSM 2634 Statistical Programming"
+  },
+  {
+    "Code": "STSM 3714 Inference"
+  },
+  {
+    "Code": "STSM 3764 Generalised Linear Models"
+  },
+  {
+    "Code": "STSM 3734 Causal inference: ANOVA, regression, and the potential outcomes approach"
+  },
+  {
+    "Code": "STSM 3744 Time Series Analysis and Glms"
+  },
+  {
+    "Code": "EBCS 1514 Business Calculations"
+  },
+  {
+    "Code": "EBCS 1524 Business Calculations"
+  },
+  {
+    "Code": "EBCS 1514 Business Calculations"
+  },
+  {
+    "Code": "EBCS 1524 Business Calculations"
+  },
+  {
+    "Code": "ECPM 1514 Calculations for Public Managers"
+  },
+  {
+    "Code": "EFBC 2514 Business Calculations"
+  },
+  {
+    "Code": "EFBC 2524 Business Calculations"
+  },
+  {
+    "Code": "STSA 1624 Introduction to Statistics"
+  },
+  {
+    "Code": "EFBC 2514 Business Calculations"
+  },
+  {
+    "Code": "EFBC 2524 Business Calculations"
+  },
+  {
+    "Code": "BLGY 1663 Introduction to Zoology and Entomology"
+  },
+  {
+    "Code": "ENTO 2614 Introduction to Morphology, Anatomy and Bio-Ecology of Insects"
+  },
+  {
+    "Code": "ENTO 2616 Functional Morphology and Evolutionary Biology of Insects"
+  },
+  {
+    "Code": "ENTO 2626 Ecophysiology of Insects"
+  },
+  {
+    "Code": "ENTO 3714 Advanced Insect Ecology"
+  },
+  {
+    "Code": "ENTO 3724 Applied Insect Pest Management"
+  },
+  {
+    "Code": "ENTO 3734 Advanced Medical & Veterinary Entomology"
+  },
+  {
+    "Code": "ENTO 3744 Applied Insect Biochemistry and Pharmacology"
+  },
+  {
+    "Code": "ZLGY 2616 Animals of Medical and Veterinary Importance"
+  },
+  {
+    "Code": "ZLGY 2626 Vertebrate Life and Evolution"
+  },
+  {
+    "Code": "ZLGY 3714 Marine and Freshwater Ecology"
+  },
+  {
+    "Code": "ZLGY 3724 Life Strategies in Arid Environment"
+  },
+  {
+    "Code": "ZLGY 3734 Conservation Ecology"
+  },
+  {
+    "Code": "ZLGY 3744 Animal Behaviour"
+  },
+  {
+    "Code": "BIOL 1504 Lower Life and Molecular Biology"
+  },
+  {
+    "Code": "BIOL 1514 Lower Life and Molecular Biology"
+  },
+  {
+    "Code": "BIOL 1644 Animal Biology"
+  },
+  {
+    "Code": "BIOL 2614 Evolution, Genetics and Diversity"
+  },
+  {
+    "Code": "BIOL 3714 Human Ecological Footprint"
+  },
+  {
+    "Code": "BIOL 3724 Macroevolution and Speciation"
+  },
+  {
+    "Code": "UNIR 2624 Insect Ecophysiology"
+  },
+  {
+    "Code": "UNIR 3724 Applied Entomology"
+  },
+  {
+    "Code": "UNIR 3734 Medical, Veterinary and Forensic Entomology"
+  },
+  {
+    "Code": "UNIR 3744 Insect Biochemistry and Pharmacology"
+  },
+  {
+    "Code": "ZOOL 2614 Basic Entomology"
+  },
+  {
+    "Code": "ZOOL 2634 Invertebate Biodiversity"
+  },
+  {
+    "Code": "ZOOL 2664 African Vertebrates"
+  },
+  {
+    "Code": "ZOOL 2684 Introduction to Parasitology"
+  },
+  {
+    "Code": "ZOOL 3714 Introduction to Animal Behaviour"
+  },
+  {
+    "Code": "ZOOL 3714 Introduction to Animal Behaviour"
+  },
+  {
+    "Code": "ZOOL 3724 Ecotoxicology"
+  },
+  {
+    "Code": "ZOOL 3734 Insect Ecophysiology"
+  },
+  {
+    "Code": "ZOOL 3744 Molecular Parasitology"
+  },
+  {
+    "Code": "ZOOL 3754 Freshwater and Marine Ecology"
+  },
+  {
+    "Code": "BLGY 1623 Introduction to Genetics"
+  },
+  {
+    "Code": "FORS 2616 Introductory Forensic Science"
+  },
+  {
+    "Code": "FORS 2626 Crime Scene Management"
+  },
+  {
+    "Code": "FORS 3714 Trace and Impression Evidence"
+  },
+  {
+    "Code": "FORS 3734 Forensic Entomology"
+  },
+  {
+    "Code": "FORS 3744 Forensic Genetics"
+  },
+  {
+    "Code": "FORS 3724 Forensic Chemistry"
+  },
+  {
+    "Code": "GENE 2616 Human Genetics"
+  },
+  {
+    "Code": "GENE 2626 Molecular Genetics"
+  },
+  {
+    "Code": "GENE 3713 Genomics"
+  },
+  {
+    "Code": "GENE 3733 Behavioural Genetics"
+  },
+  {
+    "Code": "GENE 3743 Population and Conservation Genetics"
+  },
+  {
+    "Code": "GENE 3703 Applied Genetics"
+  },
+  {
+    "Code": "GENE 3764 Genetics in Practice"
+  },
+  {
+    "Code": "HMBG 2614 Human Molecular Biology of Dietetics"
+  },
+  {
+    "Code": "HMBG 3744 Human Molecular Biology of Immunology and Haemostasis"
+  },
+  {
+    "Code": "CNCC 1612 Clothing Construction I"
+  },
+  {
+    "Code": "CNCC 1622 Clothing Construction II"
+  },
+  {
+    "Code": "CNCC 2612 Clothing Construction III"
+  },
+  {
+    "Code": "CNCC 2622 Clothing Construction IV"
+  },
+  {
+    "Code": "CNCC 3712 Clothing Construction V"
+  },
+  {
+    "Code": "CNCC 3722 Clothing Construction VI"
+  },
+  {
+    "Code": "CNCD 3732 Community Development"
+  },
+  {
+    "Code": "CNCR 3764 Research Methodology Consumer Science"
+  },
+  {
+    "Code": "CNCS 4809 Research Project"
+  },
+  {
+    "Code": "CNCS 4814 The Early History of Textiles, Clothing, Interiors Or Foods"
+  },
+  {
+    "Code": "CNCS 4824 The Recent History of Textiles, Clothing, Interiors Or Foods"
+  },
+  {
+    "Code": "CNSF 1614 Introductory Food I"
+  },
+  {
+    "Code": "CNSF 2624 Food Preparation I"
+  },
+  {
+    "Code": "CNSF 3724 Food Preservation"
+  },
+  {
+    "Code": "CNSF 3744 Meal Planning"
+  },
+  {
+    "Code": "CNFD 4808 Consumer Analysis of Foods"
+  },
+  {
+    "Code": "CNSF 2613 Food Security I"
+  },
+  {
+    "Code": "CNFS 2623 Food Security II"
+  },
+  {
+    "Code": "CNFS 3714 Food Security III"
+  },
+  {
+    "Code": "CNFS 3724 Food Security IV"
+  },
+  {
+    "Code": "CNOT 2614 Skills"
+  },
+  {
+    "Code": "CNSB 1614 Consumer Behaviour I"
+  },
+  {
+    "Code": "CNSB 1624 Consumer Behaviour II"
+  },
+  {
+    "Code": "CNSB 2614 Cosumer Behaviour III"
+  },
+  {
+    "Code": "CNSB 2624 Consumer Behaviour IV"
+  },
+  {
+    "Code": "CNSB 3714 Consumer Behaviour V"
+  },
+  {
+    "Code": "CNSB 3724 Consumer Behaviour VI"
+  },
+  {
+    "Code": "CNSF 2614 Food III"
+  },
+  {
+    "Code": "CNSF 3714 Food V"
+  },
+  {
+    "Code": "CNSF 3724 Food VI"
+  },
+  {
+    "Code": "CNSI 1612 Interior I"
+  },
+  {
+    "Code": "CNSI 1622 Interior II"
+  },
+  {
+    "Code": "CNSI 2612 Interior III"
+  },
+  {
+    "Code": "CNSI 2622 Interior IV"
+  },
+  {
+    "Code": "CNSI 3712 Interior V"
+  },
+  {
+    "Code": "CNSI 3722 Interior VI"
+  },
+  {
+    "Code": "CNST 3734 Apparel Industry"
+  },
+  {
+    "Code": "CNST 4814 Clothing Industry"
+  },
+  {
+    "Code": "CNST 4824 Quality Management in The Clothing Industry"
+  },
+  {
+    "Code": "CNST 4834 Social Aspects of Clothing"
+  },
+  {
+    "Code": "CNST 4844 Psychological Aspects of Clothing"
+  },
+  {
+    "Code": "CNST 4854 Natural Textile Fibres"
+  },
+  {
+    "Code": "CNST 4864 Finishes for Natural Textile Fibres"
+  }
+]

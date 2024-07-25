@@ -1,0 +1,2303 @@
+FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024127Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+OFFICE OF THE DEAN (98)
+Code: 023969 BLGY 1513 Introduction to Biology 098 MAIN BFN 12 BLGY1513: NSC Life Science Level 5 
+Code: 025479 CLNS 3702Natural Science Education Community Service 
+Learning098 MAIN BFN 8 None
+Code: 025830 MATD 1400 Introduction to Mathematics 098 MAIN BFN 48MATD1400: Student must have passed NSC Mathematics on performance 
+level 2 or Mathematical Literacy level 5 in order to continue with this module.
+Code: 023978 MATD 1544 Introduction to University Mathematics 098 MAIN BFN 16 MATD1544: MATD1534
+Code: 022686 MTDA 1508 Mathematics Literacy in Agriculture 098 MAIN BFN 32 None
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 MAIN BFN 32 None
+Code: 021246 MTDH 1508 Mathematical Literacy 098 MAIN BFN 32 None
+Code: 021247 MTDL 1508 Mathematical Literacy for Law Students 098 MAIN BFN 32 None
+Code: 026031 QALC 1513 Academic Literacy, Language and Communication 098 MAIN BFN 12 None
+Code: 023965 QCIV 3624 Civil Engineering 098 MAIN BFN 16 None
+Code: 026186 QCLO 3714 Computer Logic 098 MAIN BFN 16QCLO3714; Student must have passed QELT2723 in order to continue with 
+module.
+Code: 023946 QEDR 1524 Engineering Drawings 098 MAIN BFN 16 None
+Code: 023947 QEFO 1520 Engineering Forum 098 MAIN BFN 0 none
+Code: 026922 QELT 2723 Electrotechnique 098 MAIN BFN 12QELT2723: Co-requisite: PHYS2624 and PHYS2642 must be registered 
+simultaneously.
+Code: 023936 QENV 3724 Holistic Engineering Design 098 MAIN BFN 16QENV3724: Student must have passed QSTR2624  in order to continue with 
+module.
+Code: 023949 QFLO 3714 Fluid Mechanics 098 MAIN BFN 16QFLO3714: Student must have passed PHYS2614 in order to continue with 
+module.
+Code: 027033 QMAD 3623 Machine Design 098 MAIN BFN 12QMAD3623: Student must have passed QSTR2624 or must have obtained a 
+minimum of 45% semester mark to continue with module.
+Code: 023951 QMAT 2613 Engineering Materials 098 MAIN BFN 12 None
+Code: 023913 QMPR 3724 Microprocessors 098 MAIN BFN 16QMPR3724; Student must have passed QCLO3714  in order to continue with 
+module.
+Code: 023952 QMSC 2613 Material Science 098 MAIN BFN 12 None
+Code: 023953 QPOW 3724 Electrical Power Systems 098 MAIN BFN 16QPOW3724 : Student must have passed QELT2723 and QSIG3714 in order 
+to continue with module.
+Code: 023954 QSIG 3714 Signal Theory 098 MAIN BFN 16QSIG3714: Student must have passed QELT2723 or must have obtained a 
+minimum of 45% semester mark in order to continue with module.
+Code: 027176 QSTR 2624 Strength of Materials I 098 MAIN BFN 16QSTR2624: Student must have passed PHYS1514 and MATM1534 and 
+MATA1684 (or must have obtained a minimum of 45% semester mark) in 
+order to continue with module.
+Code: 023963 QSTR 3714 Strength of Materials II 098 MAIN BFN 16QSTR3714: Student must have passed QSTR2624 or  must have obtained a 
+minimum of 45% semester mark to continue with module.
+Code: 023964 QSTR 3724 Strength of Materials III 098 MAIN BFN 16QSTR3724: Student  must have passed QSTR2624 in order to continue with 
+module.
+Code: 023966 QTHE 3724 Engineering Thermodynamics 098 MAIN BFN 16QTHE3724: Student must have passed  PHYS2614 in order to continue with 
+module.
+Code: 027312 QVAC 3520 Practical Engineering Experience 098 MAIN BFN 0 None
+Code: 023222 SCNS 1508 Preparatory Learning for Natural Sciences 098 MAIN BFN 32 None
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 MAIN OUDTSHOORN 32 None
+Code: 024678 BIOL 2674 Biostatistics 098 QWA QWAQWA 16 None
+Code: 023977 MATD 1534 Introduction to University Mathematics 1 098 QWA QWAQWA 16MATD1534: Student must have passed NSC Mathematics on performance 
+level 4 in order to continue with this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024128Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 020151 MATD 1554 Basic Mathematics 098 QWA QWAQWA 16MATD1554: Student must have passed NSC Mathematics on performance 
+level 3 in order to continue with this module.
+Code: 025831 MATD 1564 Introduction to University Mathematics 1 098 QWA QWAQWA 16MATD1564: Student must have passed NSC Mathematics on performance 
+level 4 in order to continue with this module.
+Code: 025832 MATD 1584 Mathematics for Ems 098 QWA QWAQWA 16 MATD1584: Student must have passed MATD1554
+Code: 022686 MTDA 1508 Mathematics Literacy in Agriculture 098 QWA QWAQWA 32 None
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 QWA QWAQWA 32 None
+Code: 021246 MTDH 1508 Mathematical Literacy 098 QWA QWAQWA 32 None
+Code: 023222 SCNS 1508 Preparatory Learning for Natural Sciences 098 QWA QWAQWA 32 None
+Code: 021246 MTDH 1508 Mathematical Literacy 098 SOUTH BETHLEHEM 32 None
+Code: 020151 MATD 1554 Basic Mathematics 098 SOUTH MOTHEO 16MATD1554: Student must have passed NSC Mathematics on performance 
+level 3 in order to continue with this module.
+Code: 025832 MATD 1584 Mathematics for Ems 098 SOUTH MOTHEO 16 MATD1584: Student must have passed MATD1554
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 SOUTH MOTHEO 32 None
+Code: 020151 MATD 1554 Basic Mathematics 098 SOUTH OUDTSHOORN 16MATD1554: Student must have passed NSC Mathematics on performance 
+level 3 in order to continue with this module.
+Code: 025832 MATD 1584 Mathematics for Ems 098 SOUTH OUDTSHOORN 16 MATD1584: Student must have passed MATD1554
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 SOUTH OUDTSHOORN 32 None
+Code: 021246 MTDH 1508 Mathematical Literacy 098 SOUTH PHUTHADITJ 32 None
+Code: 020151 MATD 1554 Basic Mathematics 098 SOUTH SASOLBURG 16MATD1554: Student must have passed NSC Mathematics on performance 
+level 3 in order to continue with this module.
+Code: 025831 MATD 1564 Introduction to University Mathematics 1 098 SOUTH SASOLBURG 16MATD1564: Student must have passed NSC Mathematics on performance 
+level 4 or MATD1554 in order to continue with this module.
+Code: 025832 MATD 1584 Mathematics for Ems 098 SOUTH SASOLBURG 16 MATD1584: Student must have passed MATD1554
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 SOUTH SASOLBURG 32 None
+Code: 021246 MTDH 1508 Mathematical Literacy 098 SOUTH SASOLBURG 32 None
+Code: 023222 SCNS 1508 Preparatory Learning for Natural Sciences 098 SOUTH SASOLBURG 32 None
+Code: 023969 BLGY 1513 Introduction to Biology 098 SOUTH SOUTH 12 BLGY1513: NSC Life Science Level 3 or Physical Science  level 3
+Code: 025830 MATD 1400 Introduction to Mathematics 098 SOUTH SOUTH 48MATD1400: Student must have passed NSC Mathematics on performance 
+level 2 or mathematical Literacy level 5 in order to continue with this module.
+Code: 023977 MATD 1534 Introduction to University Mathematics 1 098 SOUTH SOUTH 16MATD1564: Student must have passed NSC Mathematics on performance 
+level 4 or MATD1554 in order to continue with this module.
+Code: 023978 MATD 1544 Introduction to University Mathematics 098 SOUTH SOUTH 16 MATD1544: MATD1534
+Code: 020151 MATD 1554 Basic Mathematics 098 SOUTH SOUTH 16MATD1554: Student must have passed NSC Mathematics on performance 
+level 3 in order to continue with this module.
+Code: 025831 MATD 1564 Introduction to University Mathematics 1 098 SOUTH SOUTH 16MATD1564: Student must have passed Grade 12 Mathematics on 
+performance level 4 (50%) or have passed MATD1554 in order to register for 
+this module.
+Code: 025832 MATD 1584 Mathematics for Ems 098 SOUTH SOUTH 16 MATD1584: Student must have passed MATD1554
+Code: 022686 MTDA 1508 Mathematics Literacy in Agriculture 098 SOUTH SOUTH 32 None
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 SOUTH SOUTH 32 None
+Code: 021246 MTDH 1508 Mathematical Literacy 098 SOUTH SOUTH 32 None
+Code: 021247 MTDL 1508 Mathematical Literacy for Law Students 098 SOUTH SOUTH 32 None
+Code: 023222 SCNS 1508 Preparatory Learning for Natural Sciences 098 SOUTH SOUTH 32 None
+Code: 023978 MATD 1544 Introduction to University Mathematics 098 SOUTH WELKOM 16
+Code: 020151 MATD 1554 Basic Mathematics 098 SOUTH WELKOM 16MATD1554: Student must have passed NSC Mathematics on performance 
+level 3 in order to continue with this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024129Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 025831 MATD 1564 Introduction to University Mathematics 1 098 SOUTH WELKOM 16MATD1564: Student must have passed Grade 12 Mathematics on 
+performance level 4 (50%) or have passed MATD1554 in order to register for 
+this module.
+Code: 025832 MATD 1584 Mathematics for EMS 098 SOUTH WELKOM 16 MATD1584: Student must have passed MATD1554
+Code: 021245 MTDE 1508 Mathematical Literacy for Business Study 098 SOUTH WELKOM 32 None
+Code: 021246 MTDH 1508 Mathematical Literacy 098 SOUTH WELKOM 32 none
+Code: 023222 SCNS 1508 Preparatory Learning for Natural Sciences 098 SOUTH WELKOM 32 None
+DEPARTMENT OF AGRICULTURAL ECONOMICS (99)
+Code: 008113 AGEC 1514 Introduction to Agricultural Economics 099 MAIN BFN 16AGEC1514: Student must have passed Mathematics on performance level 3 
+or Mathematical Literacy Level 6 or Maths Level 3 or Mathematical Literacy 
+Level 6 and MTDA1508 in order to continue with this module.
+Code: 008117 AGEC 1624 Agricultural Finance 099 MAIN BFN 16AGEC1624: Student must have passed AGEC1514 in order to continue with 
+this module.
+Code: 008118 AGEC 1634 Business Functions for Agribusiness 099 MAIN BFN 16AGEC1634: Student must have passed NSC Maths Level 3 or Mathematical 
+Literacy Level 6 and MTDA1508.
+Code: 008124 AGEC 2614 Farm Planning and Management 099 MAIN BFN 16AGEC2614: Student must have passed AGEC1514 in order to continue with 
+this module.
+Code: 008128 AGEC 2624 Introduction to Agricultural Marketing 099 MAIN BFN 16AGEC2624: Student must have passed AGEC1514  in order to continue with 
+this module.
+Code: 008137 AGEC 3714 Managerial Economics 099 MAIN BFN 16AGEC3714: Student must have passed AGEC2614  in order to continue with 
+this module.
+Code: 025408 AGEC 3721 Agricultural Economics Seminar 099 MAIN BFN 4 None
+Code: 008140 AGEC 3724 Resource Economics. 099 MAIN BFN 16AGEC3724: Student must have passed AGEC1514 or EBUS1514 and 
+MATM1534 in order to continue with this module.
+Code: 025062 AGEC 3734 Agribusiness Management. 099 MAIN BFN 16AGEC3734: Student must have passed AGEC1514  in order to continue with 
+this module.
+Code: 008146 AGEC 3744 Agricultural Policy and Development 099 MAIN BFN 16AGEC3744: Student must have passed AGEC1514 in order to continue with 
+this module.
+Code: 025078 AGMA 3714 Business Management and Entrepreneurship. 099 MAIN BFN 16AGMA3714: Student must have passed :AGEC1514 in order to continue with 
+this module.
+Code: 025763 AGMA 3724 Innovation Management. 099 MAIN BFN 16AGMA3724 : Student need to complete AGEC1514 in order to continue with 
+this module.
+Code: 025061 AGMA 3734 Farm Tax 099 MAIN BFN 16AGEC3734: Student must have passed AGEC1624  in order to continue with 
+this module.
+Code: 008068 AGMA 3744 Strategic Agricultural Management. 099 MAIN BFN 16AGMA3744 : Student must have passed AGEC1514 in order to continue with 
+this module.
+Code: 008069 AGMA 3762 Seminar: Integrated Agricultural Management. 099 MAIN BFN 8AGMA3762: Student must have passed AGEC1624 in order to continue with 
+the module.
+Code: 008113 AGEC 1514 Introduction to Agricultural Economics 099 SOUTH SOUTH 16AGEC1514: Student must have passed Mathematics on performance level 3 
+or Mathematical Literacy Level 6  or   Maths Level 3 or Mathematical Literacy 
+Level 6 and MTDA1508 in order to continue with this module
+Code: 008117 AGEC 1624 Agricultural Finance 099 SOUTH SOUTH 16AGEC1624: Student must have passed AGEC1514  in order to continue with 
+this module.
+PGRD YR 026025 AGEC 6800 Research Report Agricultural Economics 099 MAIN BFN 40 Selection for BScHons majoring in Agricultural Economics
+PGRD YR 025195 AGEC 6808 Research Project in Agricultural Economics. 099 MAIN BFN 32 Selection for BScHons majoring in Agricultural Economics
+PGRD S1 027234 AGEC 6815Advanced Production and Natural Resource 
+Economics099 MAIN BFN 20 Selection for BScHons majoring in Agricultural Economics
+PGRD S2 027364 AGEC 6825 Agribusiness Management and Marketing 099 MAIN BFN 20 Selection for BScHons majoring in Agricultural Economics
+PGRD S1 027365 AGEC 6835 Macro Economics and Finance 099 MAIN BFN 20 Selection for BScHons majoring in Agricultural Economics
+PGRD S2 027235 AGEC 6845 Agricultural Policy and Development 099 MAIN BFN 20 Selection for BScHons majoring in Agricultural EconomicsFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024130Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 027236 AGEC 6865 Operational Research 099 MAIN BFN 20 Selection for BScHons majoring in Agricultural Economics
+PGRD YR 008215 AGEC 7902 Environmental Economics 099 MAIN BFN 8
+PGRD YR 025064 AGEC 8900 Agricultural Economics Extended Dissertation 099 MAIN BFN 180 BSc Honors in relevant discipline, Selection MSc. 
+PGRD YR 008218 AGEC 9100 Agricultural Economics Thesis 099 MAIN BFN 360 M.Agric in relevant discipline. Selection for PhD. 
+PGRD YR 026983 AGEM 8900 Dissertation Agricultural Economics 099 MAIN BFN 180 BSc Honors in relevant discipline, Selection MSc. 
+PGRD YR 020682 AGEN 7902 Land Valiation and Business Plans 099 MAIN BFN 8
+PGRD YR 027237 AGMA 6800 Research Report Agricultural Management 099 MAIN BFN 40 Selection for BScHons majoring in Agricultural Economics
+PGRD S1 027366 AGMA 6815 Farm and Agribusiness Management 099 MAIN BFN 20 Selection for BAgricHons majoring in Agricultural Management
+PGRD S2 027298 AGMA 6825 Marketing and Human Resource Management. 099 MAIN BFN 20 Selection for BAgricHons majoring in Agricultural Management
+PGRD S1 027299 AGMA 6835 Macroeconomics and Financial Management 099 MAIN BFN 20 Selection for BAgricHons majoring in Agricultural Management
+PGRD S2 027367 AGMA 6845 Production and Project Management 099 MAIN BFN 20 Selection for BAgricHons majoring in Agricultural Management
+PGRD YR 008088 AGMA 8900 Agricultural Management Dissertation 099 MAIN BFN 180 BSc Honors in relevant discipline, Selection MSc. 
+PGRD YR 008094 AGMA 9100 Agricultural Management Thesis 099 MAIN BFN 360 M.Agric in relevant discipline. Selection for PhD. 
+ANIMAL, WILDLIFE AND GRASSLAND SCIENCES (100)
+Code: 025172 AGRI 1664 Microbiological Principles in Agriculture 112 MAIN BFN 16 None
+Code: 008564 AGRI 1514 Biological Principles in Agriculture 100 MAIN BFN 16 None
+Code: 025169 AGRI 1624Mathematical and Biometrical Principles in 
+Agriculture100 MAIN BFN 16AGRI1624: Student must have passed NCS Maths Level 3 with AP of 30, or 
+Mathslit Level 7 with AP 32, or BAgric ext/UAP Agric first year completed.
+Code: 024379 ANIB 2624 Introduction to Animal and Plant Breeding 100 MAIN BFN 16
+Code: 025106 ANIB 3714 Theory of Animal Breeding 100 MAIN BFN 16
+Code: 003267 ANIB 3724 Molecular Animal Breeding 100 MAIN BFN 16
+Code: 025520 ANIB 4814/ 6814 Animal Breeding: Mixed Model Theory 100 MAIN BFN 16ANIB4814: Student must have passed ANIB3714 in order to continue with this 
+module.
+Code: 025524 ANIB 4824/ 6824 Animal Breeding: Practical Application 100 MAIN BFN 16
+Code: 028635 ANIF 2624 Animal Fibre Production 100 MAIN BFN 16
+Code: 023750 ANIG 1624Introduction to Animal, Wildlife and Grassland 
+Science100 MAIN BFN 16
+Code: 028147 ANIG 2602 Animal Production Practical 100 MAIN BFN 16
+Code: 015936 ANIG 2613 Introductory Ruminant Production 100 MAIN BFN 16
+Code: 015941 ANIG 2623 Introductory Monogastric Production 100 MAIN BFN 16
+Code: 022523 ANIG 3713 Cattle Production Systems 100 MAIN BFN 16
+Code: 025402 ANIG 3723 Sheep and Goat Production Systems 100 MAIN BFN 16
+Code: 025403 ANIG 3733 Poultry Production Systems 100 MAIN BFN 16
+Code: 015956 ANIG 3743 Pig Production Systems 100 MAIN BFN 16
+Code: 025535 ANIG 4808/ 6808 Research Project Animal Sciences 100 MAIN BFN 32
+Code: 023660 ANIN 3734 Fundamental and Experimental Animal Nutrition 100 MAIN BFN 16ANIN3734: Student must have passed BOCH2614 in order to continue with 
+this module.
+Code: 022524 ANIN 3744Properties of Feeds Balancing Rations and Fodder 
+Flow Planning100 MAIN BFN 16 None
+Code: 025232 ANIN 4834/ 6834 Applied Monogastric Nutrition 100 MAIN BFN 16
+Code: 025459 ANIN 4864/ 6864 Applied Ruminant Nutrition 100 MAIN BFN 16
+Code: 027244 ANIP 2614 Anatomy and Physiology of Body Compartments 100 MAIN BFN 16
+Code: 025066 ANIP 3714Animal Anatomy and Physiology of Growth in Farm 
+Animals100 MAIN BFN 16ANIP3714: Student must have passed ANIP2614 in order to continue with this 
+module.
+Code: 025065 ANIP 3724 Animal Health 100 MAIN BFN 16FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024131Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 025071 ANIP 4814/ 6814 Applied Reproduction Physiology in Farm Animals 100 MAIN BFN 16
+Code: 025152 ANIP 4824/ 6824 Meat, Dairy and Egg Science 100 MAIN BFN 16
+Code: 002987 DATA 2614 Agricultural Datametry 100 MAIN BFN 16DATA2614: Student must have passed Mathematics on performance level 3 in 
+order to continue with this module.
+Code: 025687 DATA 2624 Agricultural Datametry 100 MAIN BFN 16
+Code: 022236 DATA 3712 Statistical Analysis 100 MAIN BFN 8DATA3712: Student must have passed Mathematics on performance level 3 in 
+order to continue with this module.
+Code: 024737 GRAS 2614 Grassland Ecology 100 MAIN BFN 16
+Code: 016570 GRAS 3724 Intensive Pasture Production 100 MAIN BFN 16
+Code: 026743 GRAS 4808 Research Project Grassland Science 100 MAIN BFN 32
+Code: 025725 GRAS 4814 Production and Utilisation Ecology 100 MAIN BFN 16
+Code: 016581 GRAS 4824 Advanced Veld Management 100 MAIN BFN 16
+Code: 025549 GRAS 4834 Defoliation Phenology and Physiology 100 MAIN BFN 16
+Code: 025334 GRAS 4844 Advanced Fodder Plant Evaluation 100 MAIN BFN 16
+Code: 026495 WDMT 2624 Game and Natural Environment Interaction 100 MAIN BFN 16WDMT2624: Student must have passed ANIG1624 in order to continue with 
+this module.
+Code: 026928 WDMT 3714 Applied Game Farm Management 100 MAIN BFN 16
+Code: 028639 WILD 3723 Wildlife Research and Monitoring 100 MAIN BFN 16 None
+Code: 018040 WILD 3764 Applied Nutrition of  Wild Herbivores and Carnivores 100 MAIN BFN 16
+Code: 027222 WILD 4826Integrated Planning and Practical Environmental 
+Management Practices100 MAIN BFN 24
+Code: 008564 AGRI 1514 Biological Principles in Agriculture 100 SOUTH SOUTH 16
+Code: 023750 ANIG 1624Introducing to Animal, Wildlife and Grassland 
+Science100 SOUTH SOUTH 16
+Code: 028652 ANIB 4823 Animal Breeding: Practical Application 100 MAIN BFN 12
+Code: 016506 ANIF 4824 Meat Science 100 MAIN BFN 16FSCM4814 Prerequisite: Students must have passed FSCA3714 in order to 
+register for this module.
+Code: 025092 ANIF 4864 Dairy Science 100 MAIN BFN 16FSCD4814 Prerequisite: Students must have passed FSCA3714 (VWS314) in 
+order to register for this module.
+Code: 028452 ANIG 3754 Monogastric Production Systems 100 MAIN BFN 16
+Code: 028452 ANIG 3754 Monogastric Production Systems 100 MAIN BFN 16
+Code: 025535 ANIG 4808 Research Project Animal Sciences 100 MAIN BFN 32
+Code: 025232 ANIN 4834 Applied monogastric nutrition 100 MAIN BFN 16
+Code: 025459 ANIN 4864 Applied runimant nutrition 100 MAIN BFN 16ANIN4864 Prerequisite: Students must have passed ANIN3734 (DVL334) in 
+order to continue with this module.
+Code: 025536 ANIP 4814 Applied Reproduction Physiology of Farm Animals 100 MAIN BFN 16
+Code: 028935 CROP 3744 Small grain, industrial and diverse crops 100 MAIN BFN 16
+Code: 029124 GRAS 3763 Applied rangeland and pasture management 100 MAIN BFN 12
+Code: 025725 GRAS 4814 Production and Utilisation Ecology 100 MAIN BFN 16GRAS4814 Prerequisite: Students must have passed GRAS3714 (WDK314) 
+in order to continue with this module.
+Code: 026743 GRAS 4808 Research Project Grassland Sciences 100 MAIN BFN 32
+Code: 016581 GRAS 4824 Advanced Veld Management 100 MAIN BFN 16GRAS4824 Prerequisite: Students must have passed GRAS3714 (WDK314) 
+in order to continue with this module.
+Code: 029017 WDMT 3723 Applied Game Farm Management 100 MAIN BFN 12WDMT3723 Prerequisite: Student must have passed ANIG2613+ANIG2623 in 
+order to continue with the module.
+Code: 025656 WILD4814/
+6814Veld and Game Ecology 100 MAIN BFN 16FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024132Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 025459 ANIN 6864 Applied runimant nutrition 100 MAIN BFN 16ANIN6864 Prerequisite: Students must have passed ANIN3734 (DVL334) in 
+order to continue with this module.
+PGRD S1 025725 GRAS 6814 Production and Utilisation Ecology 100 MAIN BFN 16GRAS6814 Prerequisite: Students must have passed GRAS3714 (WDK314) 
+in order to continue with this module.
+PGRD YR 026743 GRAS 6808 Research Project Grassland Sciences 100 MAIN BFN 32
+PGRD S2 016581 GRAS 6824 Advanced Veld Management 100 MAIN BFN 16GRAS6824 Prerequisite: Students must have passed GRAS3714 (WDK314) 
+in order to continue with this module.
+PGRD YR 027238 AGRI 6808 Research Project Animal Production 100 MAIN BFN 32 Selection BAgricHons majoring in Animal Production Management
+PGRD S1 027239 AGRI 6814 Advanced Cattle Production Systems 100 MAIN BFN 16 Selection BAgricHons majoring in Animal Production Management
+PGRD S2 027240 AGRI 6824 Advanced Sheep and Goat Production Systems 100 MAIN BFN 16 Selection BAgricHons majoring in Animal Production Management
+PGRD S2 027300 AGRI 6844 Advanced Dairy Production Systems 100 MAIN BFN 16 Selection BAgricHons majoring in Animal Production Management
+PGRD S2 027241 AGRI 6864 Advanced Pig Production Systems 100 MAIN BFN 16 Selection BAgricHons majoring in Animal Production Management
+PGRD S2 027242 AGRI 6834 Advanced Poultry Production Systems 100 MAIN BFN 16 Selection BAgricHons majoring in Animal Production Management
+PGRD YR 027243 AGRI 8900 Animal Production Dissertation 100 MAIN BFN 180AGRI8900 Prerequisite student must have passed BAgric Honors with 65% in 
+order to continue with this course.
+PGRD YR 027243 AGRI 9100 Animal Production Thesis 100 MAIN BFN 360 AGRI9100 Selection for PhD
+PGRD S1 026405 ANIB 6814 Animal Breeding: Mixed Model Theory 100 MAIN BFN 16 Selection BScAgricHons 
+PGRD S2 026407 ANIB 6826 Applied Animal Breeding 100 MAIN BFN 24 Selection BScAgricHons 
+PGRD S2 025310 ANIB 8900 Animal Breeding Dissertation 100 MAIN BFN 180 Selection MScAgric 
+PGRD YR 025312 ANIG 8900 Animal Science Dissertation 100 MAIN BFN 180 Selection MScAgric in Animal Science
+PGRD YR 025203 ANIG 9100 Animal Science General Thesis 100 MAIN BFN 360 Selection for PhD
+PGRD S1 003377 ANIN 6815 Fundamental Animal Nutrition 100 MAIN BFN 20 Selection BScAgricHons 
+PGRD S2 003378 ANIN 6835 Experimental Animal Nutrition 100 MAIN BFN 20 Selection BScAgricHons 
+PGRD S2 026269 ANIN 6844 Applied Monogastric Nutrition 100 MAIN BFN 16 Selection BScAgricHons 
+PGRD YR 025311 ANIN 8900 Animal Nutrition Dissertation 100 MAIN BFN 180 Selection MScAgric in Animal Science
+PGRD YR 025202 ANIN 9100 Animal Nutrition Thesis 100 MAIN BFN 360 Selection for PhD
+PGRD S1 025536 ANIP 6814 Applied Reproduction Physiology 100 MAIN BFN 16 Selection Hons
+PGRD YR 026479 ANIP 8900 Animal Physiology Dissertation 100 MAIN BFN 180 Selection MScAgric in Animal Science
+PGRD YR 026480 ANIP 9100 Animal Science Physiology Thesis 100 MAIN BFN 360 Selection for PhD
+PGRD YR 027068 GRAS 6805 Intensive Pasture Production 100 MAIN BFN 20
+PGRD S1 025627 GRAS 6814 Production and Utilisation Ecology 100 MAIN BFN 16
+PGRD S2 025335 GRAS 6824 Advanced Veld Management 100 MAIN BFN 16
+PGRD S1 025336 GRAS 6834 Defoliation Phenology and Physiology 100 MAIN BFN 16
+PGRD S2 025337 GRAS 6844 Advanced Fodder Plant Evaluation 100 MAIN BFN 16
+PGRD YR 025548 GRAS 8900 Grassland Science  Dissertation 100 MAIN BFN 180
+PGRD YR 025412 GRAS 9100 Grassland Science Thesis 100 MAIN BFN 360
+PGRD YR 025948 WDMT 6808 Research Essay Wildlife Management 100 MAIN BFN 32 Selection for BAgricHons majoring in Agricultural Management
+PGRD S1 010673 WDMT 6816 Veld and Game Ecology 100 MAIN BFN 24 Selection for BAgricHons majoring in Agricultural Management
+PGRD S2 010681 WDMT 6826 Applied Habitat Evaluation 100 MAIN BFN 24 Selection for BAgricHons majoring in Agricultural Management
+PGRD S2 010675 WDMT 6846 Applied Wildlife Management 100 MAIN BFN 24 Selection for BAgricHons majoring in Agricultural Management
+PGRD YR 025942 WDMT 8900 Wildlife Management Dissertation 100 MAIN BFN 180 Selection for Magric majoring in Agricultural Management
+PGRD YR 025943 WDMT 9100 Wildlife Management Thesis 100 MAIN BFN 360 Selection PhD majoring in Agricultural Management 
+PGRD YR 025900 WILD 4808 Research Report Wildlife 100 MAIN BFN 32
+PGRD S2 026496 WILD 4826Integrated Planning and Practical Environmental 
+Management Practices100 MAIN BFN 24FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024133Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 027047 WILD 4856 Applied Habitat Evaluation and Game Nutrition 100 MAIN BFN 24
+PGRD YR 025944 WILD 6806 Habitat Evaluation and Monitoring 100 MAIN BFN 24
+PGRD YR 025744 WILD 6808 Research Report Wildlife 100 MAIN BFN 32
+PGRD S1 025891 WILD 6814 Veld and Game Ecology 100 MAIN BFN 16
+PGRD S1 025907 WILD 6816 Habitat Preferences and Diet Selection of Game 100 MAIN BFN 24
+PGRD S2 026496 WILD 6826Integrated Planning and Practical Environmental 
+Management Practices100 MAIN BFN 24
+PGRD S2 010682 WILD 6846 Applied Wildlife Management 100 MAIN BFN 24
+PGRD S1 010680 WILD 6856 Applied Habitat Evaluation and Game Nutrition 100 MAIN BFN 24
+PGRD YR 025409 WILD 8900 Wildlife Dissertation 100 MAIN BFN 180
+PGRD YR 025935 WILD 9100 Wldlife Thesis 100 MAIN BFN 360
+PGRD S2 025935 WILD 9100 Wldlife Thesis 100 MAIN BFN 360
+ARCHITECTURE (101)
+Code: XXX ARCR 2602 Architectural Representation 2 101 MAIN BFN 8ARCR2602: Student must have passed CONS1506 and  DESN1500, in order 
+to continue with this module.
+Code: 001945 CONS 1506 Construction I 101 MAIN BFN 24 None
+Code: 027538 CONS 2600 Construction II 101 MAIN BFN 40CONS2600: Student must have passed CONS1506 and DESN1500 in order 
+to continue with module.
+Code: 027370 CONS 3700 Construction III 101 MAIN BFN 40CONS3700: Student must have passed CONS2600, DESN2600, in order to 
+continue with this module.
+Code: 011130 DESN 1500 Design I 101 MAIN BFN 48 None
+Code: 011132 DESN 2600 Design II 101 MAIN BFN 48DESN2600: Student must have passed CONS1506, DESN1500 in order to 
+continue with this module.
+Code: 011134 DESN 3700 Design III 101 MAIN BFN 48DESN3700: Student must have passed CONS2600, DESN2600 and 
+HTRC2606 in order to continue with this module.
+Code: 024732 HTRC 1506 Histories and Theories of Architecture I 101 MAIN BFN 24 None
+Code: 024733 HTRC 2606 Histories and Theories of Architecture II 101 MAIN BFN 24 None
+Code: 011024 HTRC 3706 Histories and Theories of Architecture III 101 MAIN BFN 24 None
+Code: XXX ARCR 1506 Architectural Representation I 101 MAIN BFN 24 None
+PGRD YR 026270 ARCD 8900 Architecture Dissertation With Design 101 MAIN BFN 180 Selection
+PGRD YR 027487 ARCD 9100 Architecture Thesis With Design 101 MAIN BFN 360 Selection
+PGRD YR 026270 ARCH 8900 Architecture Dissertation 101 MAIN BFN 180 Selection
+PGRD YR 026271 ARCH 9100 Architecture Thesis 101 MAIN BFN 360 Selection
+PGRD YR 024728 ATRE 7904 Architectural Treatise 101 MAIN BFN 16 Selection
+PGRD YR 017733 CONS 6808 Construction IV 101 MAIN BFN 32 Selection
+PGRD YR 021330 CONS 7908 Construction V 101 MAIN BFN 32 Selection
+PGRD YR 020660 DDIS 7900 Design Mini-Dissertation 101 MAIN BFN 100 Selection
+PGRD YR 018785 DESN 6800 Design IV 101 MAIN BFN 48 Selection
+PGRD S1 023665 DRET 6804 Design and Research Methods in Architecture 101 MAIN BFN 16 Selection
+PGRD YR 025742 HURB 6804 History of Urban Settlement 101 MAIN BFN 16 Selection
+PGRD YR 024735 PARC 7904 Professional Architect Practice 101 MAIN BFN 16 Selection
+PGRD YR 025947 RARC 6808 Research in Theory of Architecture 101 MAIN BFN 32 Selection
+SUSTAINABLE FOOD SYSTEMS AND DEVELOPMENT (102)
+Code: 026218 AGEX 2614 Extension With The Agricultural Innovation System 102 MAIN BFN 16 SelectionFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024134Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 026219 AGEX 2624 Communication for Innovation 102 MAIN BFN 16 None
+Code: 026220 AGEX 3714 Facilitation for Development 102 MAIN BFN 16 None
+Code: 026221 AGEX 3724 Extension Programme Management 102 MAIN BFN 16 None
+Code: 026222 AGEX 3734Community Mobilization and Local Organizational 
+Development102 MAIN BFN 16 None
+Code: 026984 AGEX 3744 Management of Change and Adaptation 102 MAIN BFN 16 None
+Code: 026223 AGEX 3754 Agricultural Entrepreneurship and Value Chains 102 MAIN BFN 16 None
+Code: 026224 AGEX 3764 Adult Learning, Behavioural Change & Gender 102 MAIN BFN 16 None
+PGRD YR 025646 SADR 9100 Sustainable Agriculture Thesis 102 MAIN BFN 360 Selection
+PGRD S2 025646 SADR 9100 Sustainable Agriculture Thesis 102 MAIN BFN 360 Selection
+PGRD YR 027342 SAEC 5806 Economics for Sustainable Agriculture 102 MAIN BFN 24 Selection
+PGRD YR 027344 SAEC 7906 Advanced Economics for Sustainable Agriculture 102 MAIN BFN 24 Selection
+PGRD YR 027343 SAEX 5806 Extension for Sustainability 102 MAIN BFN 24 Selection
+PGRD YR 027341 SAEX 7906Sustainable Agriculture and Extension: Theory and 
+Practice102 MAIN BFN 24 Selection
+PGRD S1 026007 SAEX 7916 Rural Agricultural Extension; Issues and Concepts 102 MAIN BFN 24 Selection
+PGRD S1 027340 SAIT 5814 Introduction to Sustainable Agriculture 102 MAIN BFN 16 Selection
+PGRD YR 027339 SALS 5806 Livestock Production for Sustainable Agriculture 102 MAIN BFN 24 Selection
+PGRD YR 027338 SALS 7906Advanced Livestock Production for Sustainable 
+Agriculture102 MAIN BFN 24 Selection
+PGRD YR 027337 SANR 5806 Assessment and Management of Natural Resources 102 MAIN BFN 24 Selection
+PGRD YR 027336 SANR 7906 Assessment and Management of Natural Resources 102 MAIN BFN 24 Selection
+PGRD S2 027335 SARP 5826 Research Methods for Sustainable Agriculture 102 MAIN BFN 24 Selection
+PGRD YR 027334 SARP 7900 Mini-Dissertation Sustainable Agriculture 102 MAIN BFN 60 Selection
+PGRD YR 027714 SARS 7906Research Methodology and Methods for Sustainable 
+Agriculture102 MAIN BFN 0 Selection
+Code: 027325 CNCC 1612 Clothing Construction I 125 MAIN BFN 8 None
+Code: 027326 CNCC 1622 Clothing Construction Ii 125 MAIN BFN 8 None
+Code: 027327 CNCC 2612 Clothing Construction Iii 125 MAIN BFN 8 None
+Code: 027521 CNCC 2622 Clothing Construction Iv 125 MAIN BFN 8 None
+Code: 027522 CNCC 3712 Clothing Construction V 125 MAIN BFN 8 None
+Code: 027523 CNCC 3722 Clothing Construction Vi 125 MAIN BFN 8 None
+Code: 027524 CNCD 3732 Community Development 125 MAIN BFN 8 None
+Code: 027328 CNSF 1614 Introductory Food I 125 MAIN BFN 16 None
+Code: 023985 CNSF 2624 Food Preparation I 125 MAIN BFN 16 None
+Code: 025143 CNSF 3724 Food Preservation 125 MAIN BFN 12 None
+Code: 027330 CNSF 2613 Food Security I 125 MAIN BFN 12 None
+Code: 027525 CNFS 2623 Food Security Ii 125 MAIN BFN 12CNFS2623: Student must have passed AGEC1514 in order to continue with 
+module.
+Code: 027526 CNFS 3714 Food Security Iii 125 MAIN BFN 16CNFS3714: Student must have passed CNFS2613 and CNFS2623 in order to 
+continue with module.
+Code: 027527 CNFS 3724 Food Security Iv 125 MAIN BFN 16CNFS3724: Student must have passed CNFS2613 and CNFS2623 in order to 
+continue with module.
+Code: 025808 CNOT 2614 Skills 125 MAIN BFN 16 None
+Code: 027528 CNSB 1614 Consumer Behaviour I 125 MAIN BFN 16 None
+Code: 027529 CNSB 1624 Consumer Behaviour II 125 MAIN BFN 16 NoneFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024135Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 027530 CNSB 2614 Cosumer Behaviour III 125 MAIN BFN 16CNSB2614: Student must have passed CNSB1614 and CNSB1624 in order to 
+continue with module.
+Code: 023981 CNSB 2624 Consumer Behaviour IV 125 MAIN BFN 16
+Code: 027531 CNSB 3714 Consumer Behaviour V 125 MAIN BFN 16CNSB3714: Student must have passed CNSB2614 in order to continue with 
+module.
+Code: 025087 CNSB 3724 Consumer Behaviour VI 125 MAIN BFN 16CNSB3724: Student must have passed CNSB3714 in order to continue with 
+this module.
+Code: 023983 CNSF 2614 Food III 125 MAIN BFN 16CNSF2614: Student must have passed CNSF1614 and CNSF1624 in order to 
+continue with module.
+Code: 027532 CNSF 3714 Food V 125 MAIN BFN 16CNSF3714: Student must have passed CNSF2614 and CNSF2624 in order to 
+continue with module.
+Code: 027533 CNSF 3724 Food VVIi 125 MAIN BFN 16 None
+Code: 027534 CNSI 1612 Interior I 125 MAIN BFN 8 None
+Code: 027535 CNSI 1622 Interior II 125 MAIN BFN 16 None
+Code: 027536 CNSI 2612 Interior III 125 MAIN BFN 8 None
+Code: 027537 CNSI 2622 Interior IV 125 MAIN BFN 8 None
+Code: 025110 CNSI 3712 Interior V 125 MAIN BFN 8 None
+Code: 025111 CNSI 3722 Interior VI 125 MAIN BFN 8 None
+PGRD YR 025196 CNCS 6809 Research Report in Consumer Science 125 MAIN BFN 36 None
+UGRD S 1 SFIF 1513 Introduction to Food Systems 102 MAIN BFN 12 None
+UGRD S 1 SFFS 1513 Food Safety: Fundamental Food Compliance 102 MAIN BFN 12 None
+UGRD S 1 SFNH 1513 Food Systems for Nutrition and Health 102 MAIN BFN 12 None
+UGRD S 1 SFCF 1513 Introduction to the Components of Food 102 MAIN BFN 12 None
+UGRD S 1 SFEC 1513 The Economics of Sustainable Food Systems 102 MAIN BFN 12 None
+UGRD S 2 SFSF 1523 Sustainable Food Systems 102 MAIN BFN 12 SFIF1513
+UGRD S 2 SFPP 1623Sustainable Food Production: Processes and 
+Principles I102 MAIN BFN 12 None
+UGRD S 2 SFHN 1523 Human Nutrition 102 MAIN BFN 12 SFNH1513
+UGRD S 2 SFFD 1623 Food Dispersions 102 MAIN BFN 12 SFCF1513
+UGRD S 2 SFFO 1523 Food Operations and Supply Chain Management 102 MAIN BFN 12 None
+UGRD S 1 SFFS 2613 Food and Nutrition Security 102 MAIN BFN 12 SFIF1513 and SFSF1523
+UGRD S 1 SFPP 2613Sustainable Food Production: Processes and 
+Principles II102 MAIN BFN 12 SFPP1623
+UGRD S 1 SFPV 2613 Food Processing I 102 MAIN BFN 12 SFCF1513 and SFCF1513 and SFFS1513
+UGRD S 1 SFMB 2613 Food Marketing and Branding 102 MAIN BFN 12 None
+UGRD S 1 SFAI 2613 Agricultural Innovation Systems (AIG) 102 MAIN BFN 12 None
+UGRD S 2 SFSS 2623 Food Security and Sustainability 102 MAIN BFN 12 SFFS2613
+UGRD S 2 SFPT 2623 Food Production Processes and Technology 102 MAIN BFN 12 SFPP1623, SFPP2613
+UGRD S 2 SFPD 2623 Food Processing II 102 MAIN BFN 12 SFPV2613
+UGRD S 2 SFAP 2623 Food and Agriculture Policy 102 MAIN BFN 12 None
+UGRD S 2 SFCF 2623Communication and Facilitation of Sustainable 
+Development102 MAIN BFN 12 None
+UGRD S 1 SFRF 3713 Regenerative Food Systems 102 MAIN BFN 12 None
+UGRD S 1 SFPD 3713Food Product Development, Sensory Analysis and 
+Gastronomy102 MAIN BFN 12 SFFD1613, SFPT2623
+UGRD S 1 SFPM 3713 Food Processing III 102 MAIN BFN 12 SPPD2623
+UGRD S 1 SFCB 3713 Consumer Behaviour and Food Consumption Trends 102 MAIN BFN 12 NoneFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024136Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+UGRD S 1 SFMC 3713 Management of Change and Adaptation 102 MAIN BFN 12 None
+UGRD S 2 SFES 3723 Environmental Sustainability of Food Systems 102 MAIN BFN 12 None
+UGRD S 2 SFIP 3726Integrated Project Applied to Sustainable Food 
+Systems: New Product Development/ New Venture 
+Creation102 MAIN BFN 24Students must pass all the modules in the first two years of study , and first 
+semester of the third year to enrol for the module.
+UGRD S 2 SFQA 3723 Quality Assurance and the Food Value Chain 102 MAIN BFN 12 None
+UGRD S 2 SFMV 3723Managing the Food Value Chain: Logistics and 
+Distribution102 MAIN BFN 12 None
+PGRD S1 026418 CNCS 6814The Early History of Textiles, Clothing, Interior Or 
+Foods125 MAIN BFN 16 Selection BScHons 
+PGRD S2 025525 CNCS 8900 Consumer Science Dissertation 125 MAIN BFN 180 Selection MSc
+PGRD YR 025086 CNCS 9100 Consumer Sciences Thesis 125 MAIN BFN 360 Selection PhD
+PGRD S2 026422 CNST 6824 Quality Management in Clothing 125 MAIN BFN 16 Selection BScHons
+PGRD S1 026423 CNST 6834 Social Aspects of Clothing 125 MAIN BFN 16 Selection BScHons
+PGRD S2 026424 CNST 6844 Psychological Aspects of Clothing 125 MAIN BFN 16 Selection BScHons
+PGRD S1 026425 CNST 6854 From Natural Fibre to Textile 125 MAIN BFN 16 Selection BScHons
+PGRD S2 026426 CNST 6864 Natural Textile Fibres Finishings 125 MAIN BFN 16 Selection BScHons
+PGRD S2 026561 FSCG 6826 Product Development and Sensory Analysis 112 MAIN BFN 24 Selection BScHons 
+PGRD S1 025720 FSCD 6814 Dairy Science 112 MAIN BFN 16 Selection BScHons 
+PGRD S2 026561 FSCG 6826 Product Development and Sensory Analysis 112 MAIN BFN 24 Selection BScHons 
+PGRD YR 025326 FSCI 8900 Food Science Dissertation 112 MAIN BFN 180 Selection MSc
+PGRD YR 025142 FSCI 9100 Food Science Thesis 112 MAIN BFN 360 Selection PhD
+PGRD YR 026569 FSCL 6806 Food Science Literature Study 112 MAIN BFN 24 Selection BScHons 
+PGRD S1 026455 FSCM 6814 Meat Science 112 MAIN BFN 16 Selection BScHons 
+PGRD S1 026474 FSCP 6814 Food Products From Plants 112 MAIN BFN 16 Selection BScHons 
+PGRD YR 026525 FSCR 6808 Research Project Food Science 112 MAIN BFN 32 Selection BScHons 
+Code: 027826 FSCS 2634 Food systems for consumer science 102 MAIN BFN 16
+CHEMISTRY (103)
+Code: 002354 CHEM 1513 Inorganic and Analytical Chemistry (Mainstream) 103 MAIN BFN 12 CHEM1513: NSC Physical Sciences L4 (50%)
+Code: 022800 CHEM 1551 Inorganic and Analytical Chemistry (Practical) 103 MAIN BFN 4CHEM1551: Co-register with CHEM1513 or after CHEM1552+CHEM1632 is 
+passed
+Code: 025182 CHEM 1623 Physical and Organic Chemistry (Mainstream) 103 MAIN BFN 12CHEM1623: Student must have passed CHEM1513 + CHEM1501 in order to 
+continue with this module.
+Code: 025678 CHEM 1643 Physical and Organic Chemistry 103 MAIN BFN 12CHEM1643: Student must have passed CHEM1513 + CHEM1501 in order to 
+continue with this module.
+Code: 026881 CHEM 1661 Physical and Organic Chemistry (Practical) 103 MAIN BFN 4CHEM1661: Student must have passed (CHEM1513 or CHEM1552+1632) 
++CHEM1501 in order to continue with module.
+Code: 026990 CHEM 2611 Physical Chemistry Practicals 103 MAIN BFN 4CHEM2611/CHEM2601: Student must have passed [CHEM1623 or 
+(CHEM1552 + CHEM1632 + CHEM1622 + CHEM1562)] and  CHEM1661 and 
+MATM1534 in order to register for this module.
+Code: 026882 CHEM 2613 Physical Chemistry Theory 103 MAIN BFN 12CHEM2613: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and CHEM1661 and MATM1534 in 
+order to register for this module.
+Code: 026991 CHEM 2621 Organic Chemistry Practicals II 103 MAIN BFN 4CHEM2621: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and [CHEM1661] and MATM1534 in 
+order to register for this module.
+Code: 027034 CHEM 2623 Organic Chemistry Theory II 103 MAIN BFN 12CHEM2623: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and [( CHEM1661] and MATM1534 
+in order to register for this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024137Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 026992 CHEM 2631 Analytical Chemistry Practical II 103 MAIN BFN 4CHEM2631/CHEA2601: Student must have passed [(CHEM1623) or 
+(CHEM1552 + CHEM1632 + CHEM1622 + CHEM1562)] and [(CHEM1661] 
+and MATM1534 in order to register for this module.
+Code: 026883 CHEM 2633 Analytical Chemistry Theory II 103 MAIN BFN 12CHEM2633: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and ( CHEM1661) and MATM1534 
+in order to register for this module.
+Code: 027035 CHEM 2641 Inorganic Chemistry Practicals II 103 MAIN BFN 4CHEM2641: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and ( CHEM1661) and MATM1534 
+in order to register for this module.
+Code: 026884 CHEM 2643 Inorganic Chemistry Theory II 103 MAIN BFN 12CHEM2643: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and ( CHEM1661) and MATM1534 
+in order to register for this module.
+Code: 026885 CHEM 3711 Analytical Chemistry Practicals III 103 MAIN BFN 4CHEM3711/CHEM3701 : Student must have passed CHEM2633 & 
+CHEM2631/CHEA2601, MATM1644 in order to continue with this module.
+Code: 026886 CHEM 3713 Analytical Chemistry Theory III 103 MAIN BFN 12CHEM3713: Student must have passed CHEM2633 & CHEM2631/
+CHEA2601, MATM1644 in order to continue with this module.
+Code: 026993 CHEM 3721 Inorganic Chemistry Practicals III 103 MAIN BFN 4CHEM3721: Student must have passed CHEM2641 & CHEM2643, 
+MATM1644 in order to continue with this module.
+Code: 026887 CHEM 3723 Inorganic Chemistry Theory III 103 MAIN BFN 12CHEM3723: Student must have passed CHEM2641 & CHEM2643, 
+MATM1644 in order to continue with this module.
+Code: 026888 CHEM 3731 Physical Chemistry Practical 103 MAIN BFN 4CHEM3731/CHEB3701: Student must have passed CHEM2613 and 
+CHEM2611/CHEM2601 and MATM1644 in order to continue with module.
+Code: 026889 CHEM 3733 Physical Chemistry Theory III 103 MAIN BFN 12CHEM3733 : Student must have passed CHEM2613 and CHEM2611/ 
+CHEM2601 and MATM1644 in order to continue with module.
+Code: 026890 CHEM 3741 Organic Chemistry Practicals III 103 MAIN BFN 4CHEM3741: Student must have passed CHEM2623 and CHEM2621 in order 
+to continue with this module.
+Code: 026891 CHEM 3743 Organic Chemistry Theory III 103 MAIN BFN 12CHEM3743: Student must have passed CHEM2623 and CHEM2621 in order 
+to continue with this module.
+Code: 002354 CHEM 1513 Inorganic and Analytical Chemistry (Mainstream) 103 QWA QWAQWA 12 CHEM1513: NSC Physical Sciences L4 (50%)
+Code: 022487 CHEM 1562 Organic Chemistry 103 QWA QWAQWA 8CHEM1562: Student must have passed CHEM1552 and CHEM1632 in order 
+to continue with this module.
+Code: 022800 CHEM 1551 Inorganic and Analytical Chemistry (Practical) 103 QWA QWAQWA 4CHEM1551: Co-register with CHEM1513 or(CHEM1552 and CHEM1632)  
+after CHEM1552+CHEM1642 is passed
+Code: 002429 CHEM 1552 Introduction to Chemistry- Development Module 103 QWA QWAQWA 8CHEM1552: NSC Math Level 3 (40%) or Maths HG F or SG E, or Physical or 
+Biological Sciences L3 (40%)
+Code: 022486 CHEM 1622 Physical Chemistry 103 QWA QWAQWA 8 CHEM1622: Student must have passed CHEM1552 + CHEM1632
+Code: 025182 CHEM 1623 Physical and Organic Chemistry (Mainstream) 103 QWA QWAQWA 12CHEM1623: Student must have passed CHEM1513 + CHEM1501 in order to 
+continue with this module.
+Code: 022485 CHEM 1632 Inorganic and Analytical Chemistry 103 QWA QWAQWA 8CHEM1632: NSC Math Level 3 (40%) or Maths HG F or SG E, or Physical or 
+Biological Sciences L3 (40%)
+Code: 025678 CHEM 1643 Physical and Organic Chemistry 103 QWA QWAQWA 12CHEM1643: Student must have passed CHEM1513 + CHEM1501 in order to 
+continue with this module.
+Code: 026881 CHEM 1661 Physical and Organic Chemistry (Practical) 103 QWA QWAQWA 4CHEM1661: Student must have passed (CHEM1513 or 
+CHEM1552+CHEM1632) + CHEM1501 in order to continue with module.
+Code: 026990 CHEM 2611 Physical Chemistry Practicals 103 QWA QWAQWA 4CHEM2611/CHEM2601: Student must have passed [CHEM1623 or 
+(CHEM1552 + CHEM1632 + CHEM1622 + CHEM1562)] and  CHEM1661 and 
+MATM1534 in order to register for this module.
+Code: 026882 CHEM 2613 Physical Chemistry Theory II 103 QWA QWAQWA 12CHEM2613: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and CHEM1661 and MATM1534 in 
+order to register for this module.
+Code: 026991 CHEM 2621 Organic Chemistry Practicals II 103 QWA QWAQWA 4CHEM2621: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and [CHEM1661] and MATM1534 in 
+order to register for this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024138Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 027034 CHEM 2623 Organic Chemistry Theory II 103 QWA QWAQWA 12CHEM2623: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and [( CHEM1661] and MATM1534 
+in order to register for this module.
+Code: 026992 CHEM 2631 Analytical Chemistry Practical II 103 QWA QWAQWA 4CHEM2631/CHEA2601: Student must have passed [(CHEM1623) or 
+(CHEM1552 + CHEM1632 + CHEM1622 + CHEM1562)] and [(CHEM1661] 
+and
+MATM1534 in order to register for this module.
+Code: 026883 CHEM 2633 Analytical Chemistry Theory II 103 QWA QWAQWA 12CHEM2633: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and ( CHEM1661) and MATM1534 
+in order to register for this module.
+Code: 027035 CHEM 2641 Inorganic Chemistry Practicals II 103 QWA QWAQWA 4CHEM2641: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and ( CHEM1661) and MATM1534 
+in order to register for this module.
+Code: 026884 CHEM 2643 Inorganic Chemistry Theory II 103 QWA QWAQWA 12CHEM2643: Student must have passed [(CHEM1623) or (CHEM1552 + 
+CHEM1632 + CHEM1622 + CHEM1562)] and ( CHEM1661) and MATM1534 
+in order to register for this module.
+Code: 026885 CHEM 3711 Analytical Chemistry Practicals III 103 QWA QWAQWA 4CHEM3711/CHEM3701: Student must have passed CHEM2633 & 
+CHEM2631/CHEA2601, MATM1644 in order to continue with this module.
+Code: 026886 CHEM 3713 Analytical Chemistry Theory III 103 QWA QWAQWA 12CHEM3713: Student must have passed CHEM2633 & CHEM2631/
+CHEA2601, MATM1644 in order to continue with this module.
+Code: 026993 CHEM 3721 Inorganic Chemistry Practicals III 103 QWA QWAQWA 4CHEM3721: Student must have passed CHEM2641 & CHEM2643, 
+MATM1644 in order to continue with this module.
+Code: 026887 CHEM 3723 Inorganic Chemistry Theory III 103 QWA QWAQWA 12CHEM3723: Student must have passed CHEM2641 & CHEM2643, 
+MATM1644 in order to continue with this module.
+Code: 026888 CHEM 3731 Physical Chemistry Practical III 103 QWA QWAQWA 4CHEM3731/CHEB3701: Student must have passed CHEM2613 and 
+CHEM2611/CHEM2601 and MATM1644 in order to continue with module.
+Code: 026889 CHEM 3733 Physical Chemistry Theory III 103 QWA QWAQWA 12CHEM3733 rerequisite: Student must have passed CHEM2613 and 
+CHEM2601 and MATM1644 in order to continue with module.
+Code: 026890 CHEM 3741 Organic Chemistry Practicals III 103 QWA QWAQWA 4CHEM3741: Prerequisite Student must have passed CHEM2623 and 
+CHEM2621 in order to continue with this module.
+Code: 026891 CHEM 3743 Organic Chemistry Theory III 103 QWA QWAQWA 12CHEM3743: Prerequisite Student must have passed CHEM2623 and 
+CHEM2621 in order to continue with this module.
+Code: 022487 CHEM 1562 Organic Chemistry I 103 SOUTH SOUTH 8CHEM1632: Student must have passed CHEM1552 and CHEM1632 in order 
+to continue with this module.
+Code: 022800 CHEM 1551 Inorganic and Analytical Chemistry (Practical) 103 SOUTH SOUTH 4CHEM1501: Co-register with CHEM1513 or(CHEM1552 and CHEM1632)  
+after CHEM1552+CHEM1642 is passed
+Code: 002429 CHEM 1552 Introduction to Chemistry - Development Module 103 SOUTH SOUTH 8CHEM1552: NSC Math Level 3 (40%) or Maths HG F or SG E, or Physical or 
+Biological Sciences L3 (40%)
+Code: 022486 CHEM 1622 Physical Chemistry I 103 SOUTH SOUTH 8 CHEM1622: Student must have passed CHEM1632 + CHEM1552
+Code: 022485 CHEM 1632 Inorganic and Analytical Chemistry 103 SOUTH SOUTH 8CHEM1632: NSC Math Level 3 (40%) or Maths HG F or SG E, or Physical or 
+Biological Sciences L3 (40%)
+Code: 026881 CHEM 1661 Physical and Organic Chemistry (Practical) 103 SOUTH SOUTH 4CHEM1661: Student must have passed (CHEM1513 or 
+CHEM1552+CHEM1632) + CHEM1501 in order to continue with module.
+PGRD YR 026893 CHEM 6808 Research Report Chemistry 103 MAIN BFN 32 Selection for BScHons majoring in Chemistry
+PGRD S1 026994 CHEM 6813 Inorganic Chemistry I 103 MAIN BFN 12 Selection for BScHons majoring in Chemistry
+PGRD S2 026995 CHEM 6823 Inorganic Chemistry II 103 MAIN BFN 12 Selection for BScHons majoring in Chemistry
+PGRD S1 026996 CHEM 6833 Physical Chemistry I 103 MAIN BFN 12 Selection for BScHons majoring in Chemistry
+PGRD S2 026982 CHEM 6843 Physical Chemistry II 103 MAIN BFN 12 Selection for BScHons majoring in Chemistry
+PGRD S1 026997 CHEM 6853 Organic Chemistry I 103 MAIN BFN 12 Selection for BScHons majoring in Chemistry
+PGRD S2 026998 CHEM 6863 Organic Chemistry II 103 MAIN BFN 12 Selection for BScHons majoring in Chemistry
+PGRD S1 026999 CHEM 6873 Analytical Chemistry I 103 MAIN BFN 12 Selection for BScHons majoring in Chemistry
+PGRD S2 027000 CHEM 6883 Analytical Chemistry II 103 MAIN BFN 12 Selection for BScHons majoring in ChemistryFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024139Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 025316 CHEM 8900 Chemistry Dissertation 103 MAIN BFN 180 Selection for MSc majoring in Chemistry
+PGRD S2 025316 CHEM 8900 Chemistry Dissertation 103 MAIN BFN 180 Selection for MSc majoring in Chemistry
+PGRD YR 002411 CHEM 9100 Chemistry Thesis 103 MAIN BFN 360 Selection for PhD majoring in Chemistry
+PGRD YR 027186 NSCH 7900 Advanced Nanochemistry 103 MAIN BFN 48 Selection for MSc majoring in Nano-Chemistry
+PGRD S1 027206 NSCH 7914 Experimental Techniques in Nano-Chemistry 103 MAIN BFN 16 Selection for MSc majoring in Nano-Chemistry
+PGRD YR 025316 CHEM 8900 Chemistry Dissertation 103 QWA QWAQWA 180 Selection for MSc majoring in Chemistry
+PGRD S1 020163 CMPA 6814 Polymer Testing and Characterisation I 103 QWA QWAQWA 16 Selection for BScHons majoring in Polymer Science
+PGRD S2 020164 CMPA 6824 Applied Polymer Science 103 QWA QWAQWA 16 Selection for BScHons majoring in Polymer Science
+PGRD S2 020166 CMPB 6824 Polymer Blends, Composites and Nanocomposites 103 QWA QWAQWA 16 Selection for BScHons majoring in Polymer Science
+PGRD S2 020165 CMPC 6824 Polymer Testing and Characterization Ii 103 QWA QWAQWA 16 Selection for BScHons majoring in Polymer Science
+PGRD S1 020160 CMPO 6814 Polymers and Polymerization 103 QWA QWAQWA 16 Selection for BScHons majoring in Polymer Science
+PGRD S1 020161 CMPP 6814 Physical Polymer Science 103 QWA QWAQWA 16 Selection for BScHons majoring in Polymer Science
+PGRD YR 026583 CMPR 6808 Research Project 103 QWA QWAQWA 32 Selection for BScHons majoring in Polymer Science
+PGRD S1 020162 CMPR 6814 Polymers and Polymer Reactions 103 QWA QWAQWA 16 Selection for BScHons majoring in Polymer Science
+PGRD YR 026018 PLSC 8900 Polymer Science 103 QWA QWAQWA 180 Selection for MSc majoring in Polymer Science
+PGRD YR 025639 PLYS 9100 Polymer Science Thesis 103 QWA QWAQWA 360 Selection for PhD majoring in Polymer Science
+COMPUTER SCIENCE AND INFORMATICS (104)
+Code: 025160 BCIS 1513 Introduction to Information Systems 104 MAIN BFN 12 None
+Code: 025049 BCIS 1623 Introduction to Software Design 104 MAIN BFN 12 None
+Code: 025116 BCIS 2614 Systems Analysis & Design 104 MAIN BFN 16 None
+Code: 025115 BCIS 2624 Systems Infrastructure & Integration 104 MAIN BFN 16 None
+Code: 025770 BCIS 3714 Information Systems in Organisations 104 MAIN BFN 16 None
+Code: 023911 CSIE 2613 Data Structures and Algorithms for Engineers 104 MAIN BFN 12CSIE2613: Student must have passed CSIE1606 in order to continue with this 
+module.
+Code: 023910 CSIE 1606 Object Oriented Programming for Engineers 104 MAIN BFN 16 None
+Code: 002010 CSIL 1511 Computer Literacy: Part 1 104 MAIN BFN 4 None
+Code: 002012 CSIL 1521 Computer Literacy: Part 2 104 MAIN BFN 4CSIL1521: Student must have passed CSIL1511, CSIL1531, CSIL1551, 
+CSIL1561 or CSIL1501 in order to register for this module.
+Code: 012684 CSIS 1534 Introduction to Programming: Part 1 104 MAIN BFN 16CSIS1534: Student must have passed CSIL1511, CSIL1531, CSIL1551, 
+CSIL1561 or CSIL1501 or register for CSIL1511 simultaneously with 
+CSIS1534.
+Code: 025158 CSIS 1553 Introduction to Computer Hardware 104 MAIN BFN 12 None.
+Code: 012681 CSIS 1614 Programming and Problem Solving: Part 1 104 MAIN BFN 16CSIS1614: Student must have passed CSIL1511, CSIL1531, CSIL1551, 
+CSIL1561 or CSIL1501 or register for CSIL1511 simultaneously with 
+CSIS1614.
+Code: 012683 CSIS 1624 Programming and Problem Solving: Part 2 104 MAIN BFN 16CSIS1624: Student must have passed CSIS1614 or CSIS1644 in order to 
+continue with this module.
+Code: 025374 CSIS 1644 Introduction to Programming: Part 2 104 MAIN BFN 16CSIS1644: Student must have passed CSIS1534 in order to continue with this 
+module.
+Code: 021275 CSIS 1664Introduction to The Internet and Web Page 
+Development104 MAIN BFN 16CSIS1664: Student must have passed CSIS1614 or CSIS1644 OR obtained 
+at least 60% for NSC IT(Grade 12) in order to register for this module.
+Code: 026272 CSIS 1683Visual Basic for Applications (Vba) With The Focus 
+On Excel104 MAIN BFN 12CSIS1683: Student must have passed CSIL1511, CSIL1531, CSIL1551, 
+CSIL1561 or CSIL1501 in order to register for this module.
+Code: 012688 CSIS 2614 Data Structures and Advanced Programming 104 MAIN BFN 16CSIS2614: Student must have passed CSIS1624 or obtained at least 65% for 
+CSIE1606 in order to register for this module.
+Code: 025369 CSIS 2624 Human-Computer Interaction 104 MAIN BFN 16CSIS2624: Student must have passed CSIS1614 or CSIS1644 in order to 
+register for this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024140Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 025547 CSIS 2634Introduction to Databases and Database 
+Management Systems: Part 1104 MAIN BFN 16CSIS2634: Student must have passed CSIS1624 or CSIS1644 in order to 
+register for this module.
+Code: 025711 CSIS 2642 Information Technology Service Learning 104 MAIN BFN 8CSIS2642: Student must have passed CSIL1521 in order to register for this 
+module.
+Code: 025685 CSIS 2664 Software Design 104 MAIN BFN 16CSIS2664: Student must have passed CSIS2614 in order to register for this 
+module.
+Code: 012697 CSIS 3714Introduction to Databases and Database 
+Management Systems: Part 2104 MAIN BFN 16CSIS3714: Student must have passed CSIS2634 in order to register for this 
+module.
+Code: 012699 CSIS 3724 Software Engineering 104 MAIN BFN 16CSIS3724: Student must have passed CSIS2634 in order to register for this 
+module.
+Code: 025372 CSIS 3734 Internet Programming 104 MAIN BFN 16CSIS3734: Student must have passed CSIS1664 and CSIS2664 in order to 
+register for this module.
+Code: 012702 CSIS 3744 Computer Networks 104 MAIN BFN 16CSIS3744: Student must have passed CSIS1624 or CSIE1606 in order to 
+register this module.
+Code: 028156 CSIS 3754 Data Science 104 MAIN BFN 16CSIS3754: Student must have passed CSIS1624, STSM1624 and MATM1644 
+in order to register for this module.
+Code: 029020 CSIS 3784Computer Science and Informatics Work Integrated 
+Learning104 MAIN BFN 16 CSIS3784: Selection
+Code: 024706 CSIQ 1512 Computer Literacy for Computer Science 104 QWA QWAQWA 8 CSIQ1512: Student must do the module with CSIQ1533 or CSIQ1614.
+Code: 023305 CSIQ 1531 Computer Literacy: Part 1 104 QWA QWAQWA 4 None
+Code: 025681 CSIQ 1533 Introduction to Software Development Concepts 104 QWA QWAQWA 12 CSIQ1533: Student must do the module with CSIQ1512.
+Code: 023306 CSIQ 1541 Computer Literacy: Part 2 104 QWA QWAQWA 4CSIQ1541: Student must have passed CSIQ1531 to continue with this 
+module.
+Code: 025157 CSIQ 1553 Introduction to Computer Hardware 104 QWA QWAQWA 12 None
+Code: 026896 CSIQ 1614 Programming and Problem Solving: Part 1 104 QWA QWAQWA 16 CSIQ1614: Student must do the module with CSIQ1512 or CSIQ1531.
+Code: 025159 CSIQ 1623 Introduction to Computer Networks 104 QWA QWAQWA 8CSIQ1623: Student must have passed CSIQ1553 + (CSIQ1512 or CSIQ1531) 
+in order to continue with this module.
+Code: 026897 CSIQ 1624 Programming and Problem Solving: Part 2 104 QWA QWAQWA 16CSIQ1624: Student must have passed (CSIQ1614 or (CSIQ1533 + 
+CSIQ1681) + (CSIQ1512 or CSIQ1531) to continue with this module.
+Code: 027179 CSIQ 1681 Introduction to Software Development Part 2 104 QWA QWAQWA 4CSIQ1681: Student must have passed CSIQ1533 + (CSIQ1512 or CSIQ1531) 
+in order to continue with this module.
+Code: 025123 CSIQ 2614 Data Structures and Advanced Programming 104 QWA QWAQWA 16CSIQ2614: Student must have passed CSIQ1624 + CSIQ1623 to continue 
+with this module.
+Code: 012691 CSIQ 2624 Human-Computer Interaction 104 QWA QWAQWA 16CSIQ2624: Student must have passed CSIQ1624 + CSIQ1623 to continue 
+with this module.
+Code: 024381 CSIQ 2634Introduction to Databases and Database 
+Management Systems: Part 1104 QWA QWAQWA 16CSIQ2634: Student must have passed CSIQ1624 in order to register for this 
+module.
+Code: 021284 CSIQ 2642 Information Technology Service Learning 104 QWA QWAQWA 8CSIQ2642: Student must have passed CSIQ1624 to continue with this 
+module.
+Code: 025122 CSIQ 2644 Mobile Development 104 QWA QWAQWA 16CSIQ2644: Student must have passed CSIQ2654 + CSIQ2634 to continue 
+with this module.
+Code: 012696 CSIQ 2654 Introduction to Website Development 104 QWA QWAQWA 16CSIQ2654: Student must have passed CSIQ1624 + CSIQ1623 to continue 
+with this module.
+Code: 027163 CSIQ 3714Introduction to Databases and Database 
+Management Systems: Part 2104 QWA QWAQWA 16CSIQ3714: Student must have passed CSIQ2634 to continue with this 
+module.
+Code: 027180 CSIQ 3724 Software Engineering 104 QWA QWAQWA 16CSIQ3724: Student must have passed CSIQ3734 + CSIQ2624 to continue 
+with this module.
+Code: 012701 CSIQ 3734 Internet Programming 104 QWA QWAQWA 16CSIQ3734: Student must have passed CSIQ2614 + CSIQ2654 + CSIQ2634 to 
+continue with this module.
+Code: 027064 CSIQ 3784 Software Development Project 104 QWA QWAQWA 16CSIQ3784: Student must have passed CSIQ3734 + CSIQ2644 + CSIQ2624 to 
+continue with this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024141Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: /S2002010/ 
+022029CSIL1511/
+1561Computer Literacy: Part 1 104 SOUTH BETHLEHEM 4 None
+Code: /S2002010/ 
+022029CSIL 1561 Computer Literacy: Part 1 104 SOUTH PHUTHADITJ 4 None
+Code: /S2002010/ 
+022029CSIL 1561 Computer Literacy: Part 1 104 SOUTH SASOLBURG 4 None
+Code: 028416 CSIL 1501 Computer Literacy: Part 1 104 SOUTH SOUTH 4 None
+Code: /S2002010/ 
+022029CSIL 1561 Computer Literacy: Part 1 104 SOUTH WELKOM 4 None
+PGRD S1 028529 CSIA 6813 Advanced Data Science 104 MAIN BFN 12 Selection Hons
+PGRD S2 029032 CSIA 6823 Advanced Data Science 104 MAIN BFN 12 Selection Hons
+PGRD S1 028833 CSIA 6833 Analytic Programming 104 MAIN BFN 12 Selection Hons
+PGRD S2 028552 CSIA 6843 Analytic Programming 104 MAIN BFN 12 Selection Hons
+PGRD S1 025072 CSIC 6813 Artificial Intelligence 104 MAIN BFN 12 Selection Hons
+PGRD S2 025073 CSIC 6823 Artificial Intelligence 104 MAIN BFN 12 Selection Hons
+PGRD S1 025244 CSIC 6833 Robotics 104 MAIN BFN 12 Selection Hons
+PGRD S2 025166 CSIC 6843 Robotics 104 MAIN BFN 12 Selection Hons
+PGRD S1 025773 CSIC 6853 Capita Selecta 104 MAIN BFN 12 Selection Hons
+PGRD S2 025746 CSIC 6863 Capita Selecta 104 MAIN BFN 12 Selection Hons
+PGRD S1 012714 CSID 6813 Business Intelligence 104 MAIN BFN 12 Selection Hons
+PGRD S2 012714 CSID 6823 Business Intelligence 104 MAIN BFN 12 Selection Hons
+PGRD S1 025490 CSID 6833 Advanced Databasis 104 MAIN BFN 12 Selection Hons
+PGRD S2 025344 CSID 6843 Advanced Databases 104 MAIN BFN 12 Selection Hons
+PGRD S1 025358 CSID 6853 Data Warehousing 104 MAIN BFN 12 Selection Hons
+PGRD S2 012728 CSID 6863 Data Warehousing 104 MAIN BFN 12 Selection Hons
+PGRD S1 012713 CSIE 6813 Knowledge-Based Systems 104 MAIN BFN 12 Selection Hons
+PGRD S2 012713 CSIE 6823 Knowledge-Based Systems 104 MAIN BFN 12 Selection Hons
+PGRD S1 012716 CSIE 6833 Management Information Systems 104 MAIN BFN 12 Selection Hons
+PGRD S1 025079 CSIE 6853 It Project Management 104 MAIN BFN 12 Selection Hons
+PGRD S2 025155 CSIE 6863 It Project Management 104 MAIN BFN 12 Selection Hons
+PGRD S1 012718 CSIE 6873 Decision Support Systems 104 MAIN BFN 12 Selection Hons
+PGRD S2 025352 CSIE 6883 Decision Support Systems 104 MAIN BFN 12 Selection Hons
+PGRD S1 012708 CSII 6813 Information Security 104 MAIN BFN 12 Selection Hons
+PGRD S2 025371 CSII 6823 Information Security 104 MAIN BFN 12 Selection Hons
+PGRD S1 012719 CSII 6833 Advanced Human-Computer Interaction 104 MAIN BFN 12 Selection Hons
+PGRD S2 025365 CSII 6843 Advanced Human-Computer Interaction 104 MAIN BFN 12 Selection Hons
+PGRD S1 025748 CSII 6853 Computer Ethics 104 MAIN BFN 12 Selection Hons
+PGRD S2 025749 CSII 6863 Computer Ethics 104 MAIN BFN 12 Selection Hons
+PGRD S2 027010 CSII 6883 Digital Forensic Science 104 MAIN BFN 12 Selection Hons
+PGRD S1 012710 CSIM 6813 Theory of Algorithms 104 MAIN BFN 12 Selection Hons
+PGRD S2 025386 CSIM 6823 Theory of Algorithms 104 MAIN BFN 12 Selection Hons
+PGRD S1 025075 CSIM 6833 Automata Theory and Applications 104 MAIN BFN 12 Selection Hons
+PGRD S2 025076 CSIM 6843 Automata Theory and Applications 104 MAIN BFN 12 Selection Hons
+PGRD S2 027011 CSIN 6823 Network Management 104 MAIN BFN 12 Selection Hons
+PGRD S1 025032 CSIN 6833 Advanced Computer Networks 104 MAIN BFN 12 Selection HonsFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024142Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 025054 CSIN 6843 Advanced Computer Networks 104 MAIN BFN 12 Selection Hons
+PGRD S1 025176 CSIP 6813 Object Design 104 MAIN BFN 12 Selection Hons
+PGRD S2 025177 CSIP 6823 Object Design 104 MAIN BFN 12 Selection Hons
+PGRD S1 025047 CSIP 6833 Advanced Internet Programming 104 MAIN BFN 12 Selection Hons
+PGRD S2 025048 CSIP 6843 Advanced Internet Programming 104 MAIN BFN 12 Selection Hons
+PGRD S1 025051 CSIP 6853 Advanced Programming I 104 MAIN BFN 12 Selection Hons
+PGRD S2 025245 CSIP 6863 Advanced Programming I 104 MAIN BFN 12 Selection Hons
+PGRD S1 025057 CSIP 6873 Advanced Programming II 104 MAIN BFN 12 Selection Hons
+PGRD S2 025050 CSIP 6883 Advanced Programming II 104 MAIN BFN 12 Selection Hons
+PGRD YR 028124 BCIS 6809 Computer Information Systems Research Project 104 MAIN BFN 36 Selection Hons
+PGRD YR 027082 CSIS 6809 Computer Science and Informatics Research Project 104 MAIN BFN 36 Selection Hons
+PGRD S1 012729 CSIS 6813 Introduction to Research 104 MAIN BFN 12 Selection Hons
+PGRD S2 025246 CSIS 6823 Introduction to Research 104 MAIN BFN 12 Selection Hons
+PGRD S1 022405 CSIS 6853 Capita Selecta 104 MAIN BFN 12 Selection Hons
+PGRD S1 012757 CSIS 7910 Extended Research Essay 104 MAIN BFN 120 Selection MSc
+PGRD S1 025248 CSIS 7915 Human-Computer Interaction 104 MAIN BFN 20 Selection MSc
+PGRD S2 025360 CSIS 7920 Extended Research Essay 104 MAIN BFN 120 Selection Hons
+PGRD S2 025154 CSIS 7925 Human-Computer Interaction 104 MAIN BFN 20 Selection MSc
+PGRD S1 025094 CSIS 7935 Data Warehousing 104 MAIN BFN 20 Selection MSc
+PGRD S2 025093 CSIS 7945 Data Warehousing 104 MAIN BFN 20 Selection MSc
+PGRD S1 025100 CSIS 7955 Educational Technology 104 MAIN BFN 20 Selection MSc
+PGRD S2 025101 CSIS 7965 Educational Technology 104 MAIN BFN 20 Selection MSc
+PGRD S1 025137 CSIS 7975 Eye-Tracking 104 MAIN BFN 20 Selection MSc
+PGRD S2 025138 CSIS 7985 Eye-Tracking 104 MAIN BFN 20 Selection MSc
+PGRD YR 025686 CSIS 8900 Computer Science and Informatics Dissertation 104 MAIN BFN 180 Selection MSc
+PGRD YR 025084 CSIS 9100 Computer Science and Informatics Thesis 104 MAIN BFN 360 Selection PhD
+PGRD YR 026898 CSIQ 6809 Computer Information Technology Research Project 104 QWA QWAQWA 36 Selection BScITHon 
+PGRD S2 027733 CSIQ 6823  Advanced Mobile Development 104 QWA QWAQWA 12 Selection BScITHon 
+PGRD S1 027065 CSIQ 6833 Human-Computer Interaction 104 QWA QWAQWA 12 Selection BScITHon 
+PGRD S2 028650 CSIQ 6843 Mobile Security 104 QWA QWAQWA 12 Selection BScITHon 
+PGRD S1 027539 CSIQ 6853 Gamification 104 QWA QWAQWA 12 Selection BScITHon 
+PGRD S2 027540 CSIQ 6863 It Project Management 104 QWA QWAQWA 12 Selection BScITHon 
+PGRD YR 027158 CSIQ 8900 Computer  Informatics Systems Dissertation 104 QWA QWAQWA 180 Selection MSc
+PGRD YR 027159 CSIQ 9100 Computer Informatics Systems Thesis 104 QWA QWAQWA 360 Selection PhD
+CENTRE FOR ENVIRONMENTAL MANAGEMENT (106)
+PGRD S1 027579 IWRM 5810 Introduction to Integrated Water Management 106 MAIN BFN 48 None
+PGRD S2 027580 IWRM 5820 Integrated Water Resources Science 106 Main BFN 48 None
+PGRD S2 027581 IWRM 5846Integrated Water Resource Management and 
+Legislation106 Main BFN 24 None
+PGRD YR 028894 CLIM 7905 Research Methods 106 MAIN BFN 20 None
+PGRD YR 028306 ENMT 7905 Research methods 106 MAIN BFN 20 None
+PGRD S1 028130 ENMT 7935 Introduction to Sustainability Science (Compulsory) 106 MAIN BFN 20 NoneFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024143Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S1 028191 ENMT 7965Environmental Impact Assessment 
+(Elective 1)106 MAIN BFN 20 Selection
+PGRD YR 028126 ENMT 7900 Mini-Dissertation Environmental Management 106 MAIN BFN 120 None
+PGRD YR 025135 ENMT 8900 Environmental Management Dissertation 106 MAIN BFN 180 None
+PGRD YR 025136 ENMT 9100 Environmental Management Thesis 106 MAIN BFN 360 None
+PGRD YR 028132 IWRR 7905 Research Methods 106 MAIN BFN 20 None
+PGRD S1 028193 IWRM 7935Water Resources and Environmental Change 
+(Compulsory)106 MAIN BFN 20 None
+PGRD S1 028195 IWRM 7965Water Resources Management in Arid Environments 
+(Elective 1)106 MAIN BFN 20 Selection
+PGRD YR 028131 IWRM 7900 Mini-Dissertation Integrated Water Management 106 MAIN BFN 120 None
+PGRD YR 028166 IWRM 8900 Integrated Water Management Dissertation 106 MAIN BFN 180 None
+PGRD YR 028197 IWRM 9100 Integrated Water Management  Thesis 106 MAIN BFN 360 None
+GEOGRAPHY (107)
+Code: 005333 GEOH 1614 Introduction to Human Geography 107 MAIN BFN 16GEOH1614: Student must co-register for GEOG1512 in order to continue with 
+module.
+Code: 029052 GERS 1624Introduction to Geoinformatics Systems and Remote 
+Sensing107 MAIN BFN 16GERS1624: Student must co-register for GEOG1512 in order to continue with 
+module.
+Code: 018365 GEOH 2614 Urban Geography 107 MAIN BFN 16GEOH2614: Student must have passed GEOH1614 in order to continue with 
+module.
+Code: 005345 GEOH 3714Applied Urban Development and Spatial 
+Transformation107 MAIN BFN 16GEOH3714: Student must have passed GEOH2614 in order to continue with 
+module.  
+Code: 023870 GEOH 3724 Rural Geography 107 MAIN BFN 16GEOH3724: Student must have passed GEOH2614 in order to register for this 
+module.
+Code: 005332 GEOP 1624 Introduction to Physical Geography 107 MAIN BFN 16GEOP1524: Student must have passed GEOH1614 and GEOG1512 in order 
+to continue with this module.
+Code: 020083 GEOP 2614 Process Geomorphology 107 MAIN BFN 16GEOP2614: Student need to have passed GEOP1524/1624 or GLGY1614 in 
+order to continue with module.
+Code: 020082 GEOP 2624 Environment and Climate Studies 107 MAIN BFN 16GEOP2624: Student must have passed GEOP1524 in order to continue with 
+this module.
+Code: 005353 GEOP 3714 Environmental Geomorphology 107 MAIN BFN 16GEOP3714: Student must have passed GEOP2614 in order to continue with 
+module.
+Code: 018366 GEOP 3724 Environmental Management and Analysis 107 MAIN BFN 16GEOP3724: Student must have passed GEOP2624 in order to continue with  
+module.
+Code: 020213 GERS 2624 Introduction to Geographical Information Science 107 MAIN BFN 16GERS2624: Student must have passed GEOP1524/1624 and GEOH1614 or 
+GLGY1614 and GLGY1624 in order to continue with module or 
+Code: 024729 GISC 3704Professional Practice, Ethics and Legal Aspects of 
+Geographical Information Science107 MAIN BFN 16GISC3704: Student must have passed GERS2624 in order to continue with 
+module.
+Code: 020216 GISC 3724 Introduction to Geographical Information Science 107 MAIN BFN 16 Student must have passed GISC3724 in order to continue with module
+Code: 027067 GEOE 1514 Introduction to Physical Geography 107 QWA QWAQWA 16
+Code: 027162 GEOE 1624 Introduction to Human Geography 107 QWA QWAQWA 16 Student must have passed GEOE1514 in order to continue with this module
+Code: 029116 GEOG 1512 Essential Skills For Geographers 107 MAIN BFN 8GEOP1512 Prerequisite: Student must have passed Math level 3 in order to 
+continue with the module
+Code: 029117 GEOG 1513 Essential Skills For Geographers 107 QWA QwaQwa 8GEOP1512 Prerequisite: Student must have passed Math level 3 in order to 
+continue with the module
+Code: 026190 GEOG 1514 Introduction to Physical Geography 107 QWA QWAQWA 16
+Code: 026191 GEOG 1624 Introduction to Human Geography 107 QWA QWAQWA 16 Student must have passed GEOG1514 in order to continue with this module
+Code: 026273 GEOG 2614 Process Geomorpholgy 107 QWA QWAQWA 16Student must have passed GEOG1514 or GEOE1514 in order to continue 
+with this moduleFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024144Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 026274 GEOG 2624 Environment and Climate Studies 107 QWA QWAQWA 16 Student must have passed GEOG1624 in order to continue with this module
+Code: 026431 GEOG 2634 Housing and Urban Development 107 QWA QWAQWA 16GEOG2634: Student must have passed GEOG1624 in order to continue with 
+this module.
+Code: 026227 GEOG 2644 Biogeography and Climate of Southern Africa 107 QWA QWAQWA 16Student must have passed GEOG1514 or GEOE1514 in order to continue 
+with this module
+Code: 026275 GEOG 3714 Environmental Geomorphology 107 QWA QWAQWA 16 Student must have passed GEOG2614 in order to continue with this module
+Code: 026432 GEOG 3724 Rural Geography 107 QWA QWAQWA 16GEOG3724: Student must have passed GEOG3734 in order to continue with 
+this module.
+Code: 026433 GEOG 3734Applied Urban Development and Spatial 
+Transformation107 QWA QWAQWA 16GEOG3734: Student must have passed GEOG2624 in order to continue with 
+this module.
+Code: 026554 GEOG 3744 Environmental Management and Analysis 107 QWA QWAQWA 16 Student must have passed GEOG3734 in order to continue with this module
+Code: 026228 GEOG 3754 Economic Geography 107 QWA QWAQWA 16 Student must have passed GEOG3734 in order to continue with this module
+Code: 026229 GEOG 3764 Ethical Debates in Geography 107 QWA QWAQWA 16 Student must have passed GEOG3734 in order to continue with this module
+Code: 026236 GISS 2614 Introduction to Remote Sensing 107 QWA QWAQWA 16Student must have passed GEOG1514 or GEOE1514 in orrder to continue 
+with this module
+Code: 026442 GISS 2624 Introduction to Geographical Information Science 107 QWA QWAQWA 16 Student must have passed GERS2614 in order to continue with this module
+Code: 026443 GISS 3724 Geographic Information Science 107 QWA QWAQWA 16GISS3724: Student must have passed GERS2624 in order to continue with 
+this module.
+PGRD S2 027250 BIOG 6826 Biogeography 107 MAIN BFN 24 Selection BSc Hons
+PGRD S1 027638 ENVG 6816 Environmental Policy and Practice 107 MAIN BFN 24 Selection BSc Hons
+PGRD S2 005566 ENVG 6846 Integrated Environmental Management 107 MAIN BFN 24 Selection BSc Hons
+PGRD YR 025715 ENVR 8900 Environmental Science 107 MAIN BFN 180 Selection for M.Sc
+PGRD YR 025471 ENVR 9100 Environmental Science Thesis 107 MAIN BFN 360 Selection of PhD
+PGRD S1 005375 GEOF 6816 Theoretical Foundations of Geography 107 MAIN BFN 24 Selection BSc Hons
+PGRD S1 005563 GEOH 6816 Urban Geography 107 MAIN BFN 24 Selection BSc Hons
+PGRD S1 025134 GEOH 6836 Rural Geography 107 MAIN BFN 24 Selection BSc Hons
+PGRD S1 027639 GEOP 6826 Applied Geomorphology 107 MAIN BFN 24 Selection BSc Hons
+PGRD YR 005388 GEOR 6808 Geography Research Report 107 MAIN BFN 32 Selection BSc Hons
+PGRD YR 025331 GEOR 8900 Geography Disseration 107 MAIN BFN 180 Selection MSc
+PGRD YR 025149 GEOR 9100 Geography Thesis 107 MAIN BFN 360 Selection PhD
+PGRD S1 025387 GISC 6816 Spatial Analysis and Modelling 107 MAIN BFN 24 Selection BSc Hons
+PGRD YR 027024 GISC 8900 Geographical Informatic Sience Disseration 107 MAIN BFN 180 Selection MSc
+PGRD YR 025413 GISC 9100 Geography Thesis 107 MAIN BFN 360 Selection PhD
+PGRD S2 019938 GISR 6826 Remote Sensing and Image Processing 107 MAIN BFN 24 Selection BSc Hons.
+PGRD S1 005375 GEOG 6816 Theoretical Foundations of Geography 107 QWA QWAQWA 24 Selection BSc Hons
+PGRD YR 026434 GEOG 6808 Research Report in Geography 107 QWA QWAQWA 32 Selection BSc Hons
+PGRD S1 026435 GEOG 6814 Intermediate Geographic Information Systems 107 QWA QWAQWA 16 Selection BSc Hons
+PGRD S1 026436 GEOG 6816 Theoretical Foundations of Geography 107 QWA QWAQWA 24 Selection BSc Hons
+PGRD S2 026437 GEOG 6826 Environmental Policy and Practice 107 QWA QWAQWA 24 Selection BSc Hons
+PGRD S1 026438 GEOG 6836 Applied Geomorphology 107 QWA QWAQWA 24 Selection BSc Hons
+PGRD S2 026439 GEOG 6846 Integrated Environmental Management 107 QWA QWAQWA 24 Selection BSc Hons
+PGRD YR 026440 GEOG 8900 Geography : Disseration 107 QWA QWAQWA 180 Selection MSc
+PGRD S2 026440 GEOG 8900 Geography : Disseration 107 QWA QWAQWA 180 Selection MSc
+PGRD YR 026482 GEOG 9100 Geography Thesis 107 QWA QWAQWA 360 Selection PhD
+PGRD S2 026482 GEOG 9100 Geography Thesis 107 QWA QWAQWA 360 Selection PhDFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024145Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 025181 GEOG 9100 Geography Thesis 107 QWA QWAQWA 360 Selection PhD
+PGRD YR 025331 GEOG 8900 Geography Disseration 107 QWA QWAQWA 180 Selection MSc
+PGRD S1 026444 GISS 6816 Spatial Analysis and Modelling 107 QWA QWAQWA 24 Selection BSc Hons
+GEOLOGY (108)
+Code: 005846 GLGY 1614 Introduction to Geology 108 MAIN BFN 16GLGY1614: Student must have passed Mathematics and physical science on 
+performance level 5 and an AP score of more than 30.
+Code: 005848 GLGY 1624 General Geology and South African Stratigraphy 108 MAIN BFN 16GLGY1624: Student must have passed GLGY1614 in order to continue with 
+this module.
+Code: 005852 GLGY 2612 Practical Mineralogy 108 MAIN BFN 8GLGY2612: Student must have passed GLGY1614; GLGY1624 and 
+CHEM1513 in order to register for this module.
+Code: 005853 GLGY 2614 Mineralogy 108 MAIN BFN 16GLGY2614: Student must have passed GLGY1614; GLGY1624 and 
+CHEM1513 in order to register for this module.
+Code: 027561 GLGY 2626 Sedimentology Principles and Applications 108 MAIN BFN 24GLGY2626: Student must have passed GLGY1614; GLGY1624 and 
+CHEM1513 in order to register for this module.
+Code: 005860 GLGY 2632 Geological  Field Techniques 108 MAIN BFN 8GLGY2632: Student must have passed GLGY1614; GLGY1624 and 
+CHEM1513 in order to register for this module.
+Code: 025769 GLGY 2641 Geology for Engineers (Practical) 108 MAIN BFN 4 BSc majoring in Physics and Engineering subjects
+Code: 025768 GLGY 2643 Environmental Geology 108 MAIN BFN 12GLGY2643: Student must have passed GEOP1524/1624 and GEOH1614 or 
+BSc Majoring in Physics and Engineering Subjects.
+Code: 027437 GLGY 2646 Environmental Geology: Principles and Practical 108 MAIN BFN 24GLGY2646: Student must have passed GLGY1614; GLGY1624 and 
+CHEM1513 in order to register for this module.
+Code: 005863 GLGY 2652 Geological Structures and Maps 108 MAIN BFN 8GLGY2652: Student must have passed GLGY1614; GLGY1624 and 
+CHEM1513 in order to register for this module.
+Code: 026483 GLGY 2662 Field School 108 MAIN BFN 8GLGY2662: Student must have passed GLGY1614, GLGY1624 and 
+CHEM1513 in order to continue with this module.
+Code: 005865 GLGY 3714 Igneous Petrology 108 MAIN BFN 16GLGY3714: Student must have passed GLGY2614 and GLGY2612 in order to 
+continue with module.
+Code: 005867 GLGY 3724 Economic Geology 108 MAIN BFN 16GLGY3724: Student must have passed GLGY3714 and GLGY2626 in order to 
+continue with module.
+Code: 005869 GLGY 3734 Structural Geology 108 MAIN BFN 16GLGY3734: Student must have passed GLGY2652, GLGY2626, GLGY2662 
+and GLGY2632 in order to continue with module.
+Code: 005870 GLGY 3744 Metamorphic Petrology 108 MAIN BFN 16GLGY3744: Students must have passed GLGY3714 in order to register for 
+this module.
+Code: 005872 GLGY 3754 Introduction to Geochemistry 108 MAIN BFN 16GLGY3754: Student must have passed GLGY2614 in order to continue with 
+this module.
+Code: 005873 GLGY 3764 Exploration Geology 108 MAIN BFN 16GLGY3764: Student must have passed GLGY3714 in order to continue with 
+module. GLGY3724 is a co-requisite in order to register for this modules.
+Code: 005874 GLGY 3774 Analytical Geochemistry 108 MAIN BFN 16GLGY3774: Student must have passed GLGY2614 in order to continue with 
+module.
+Code: 005875 GLGY 3784 Environmental Geochemistry 108 MAIN BFN 16GLGY3784: Student must have passed GLGY2614 and GLGY2646 in order to 
+continue with module.
+PGRD YR 027867 GLGY 6801Skills Development and Ethics for Geoscience 
+Professionals108 MAIN BFN 4 Selection for BSc Hons
+PGRD YR 025327 GECE 8900 Geochemistry Dissertation 108 MAIN BFN 180 GECE8900: Selection MSc geochemistry
+PGRD YR 025148 GECE 9100 Geochemistry Thesis 108 MAIN BFN 360 GECE9100: Selection PhD geochemistry
+PGRD S1 005913 GLGA 7913Overview of Geology, Mining, Metallurgy and 
+Business Processes108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025262 GLGA 7923Overview of Geology, Mining, Metallurgy and 
+Business Processes108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005914 GLGA 7933 Mineral Resource Management I (Methodology) 108 MAIN BFN 12 Selection MSc MRMFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024146Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 025465 GLGA 7943 Mineral Resource Management I (Methodology) 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005915 GLGA 7953 Applied Geology 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025147 GLGA 7963 Applied Geology 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005916 GLGA 7973 Applied Mining 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025464 GLGA 7983 Applied Mining 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005917 GLGB 7913 Applied Metallurgy 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025724 GLGB 7923 Applied Metallurgy 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005918 GLGC 7913 MRM Implementation Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025495 GLGC 7923 MRM Implementation Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005919 GLGC 7933 MRM Information Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025463 GLGC 7943 MRM Information Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005920 GLGC 7953 MRM Organizational Change Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025488 GLGC 7963 MRM Organizational Change Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 025814 GLGC 7973 Virtual Mining: Simulation and Optimisation 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025478 GLGC 7983 Virtual Mining: Simulation and Optimisation 108 MAIN BFN 12 Selection MSc MRM
+PGRD YR 005931 GLGD 7900 Mineral Resource Management  Mini Dissertation 108 MAIN BFN 60GLGD7900:  Student must have passed GLGA7913/23, GLGA7933/43, 
+GLGA7953/63, GLGA7973/83, GLGB7913/23 in order to continue with the 
+module. GLGD7913/7923 (co-requisite) 
+PGRD S1 025263 GLGD 7913 Mineral Resource Management II (Advanced) 108 MAIN BFN 12GLGD7913:  Student must have passed GLGA7933/GLGA7943 in order to 
+continue with the module 
+PGRD S2 025477 GLGD 7923 Mineral Resource Management II (Advanced) 108 MAIN BFN 12GLGD7923:  Student must have passed GLGA7933/GLGA7943 in order to 
+continue with the module 
+PGRD S1 005923 GLGD 7933 Geological Modelling and Applied Geo-Statistics 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025489 GLGD 7943 Geological Modelling and Applied Geo-Statistics 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005924 GLGE 7913 Capita Selecta 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025462 GLGE 7923 Capita Selecta (Course Place Holder) 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005925 GLGE 7933 Mining Throughput Accounting and Modelling 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025522 GLGE 7943 Mining Throughput Accounting and Modelling 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005926 GLGE 7953 MRM Risk Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025460 GLGE 7963 MRM Risk Practices 108 MAIN BFN 12 Selection MSc MRM
+PGRD S1 005927 GLGE 7973 Modern Mining Supply Chain Principles 108 MAIN BFN 12 Selection MSc MRM
+PGRD S2 025756 GLGE 7983 Modern Mining Supply Chain Principles 108 MAIN BFN 12 Selection MSc MRM
+PGRD YR 025332 GLGE 8900 Environmental Geology Dissertation 108 MAIN BFN 180 Selection MSc
+PGRD YR 025103 GLGE 9100 Environmental Geology Thesis 108 MAIN BFN 360 Selection PhD
+PGRD YR 027266 GLGY 6808 Research Report 108 MAIN BFN 32 Selection for BScHons
+PGRD S1 005886 GLGY 6816 Plate Tectonics 108 MAIN BFN 24 Selection for BScHons
+PGRD S2 005890 GLGY 6823 Advanced Sedimentology 108 MAIN BFN 12 Selection for BScHons
+PGRD S2 005893 GLGY 6863 Advanced Economic and Exploration Geology 108 MAIN BFN 24 Selection for BScHons
+PGRD S1 005894 GLGY 6836 Advanced and Applied Mineralogy 108 MAIN BFN 24 Selection for BScHons
+PGRD S2 021328 GLGY 6843 Advanced Geochemistry 108 MAIN BFN 24 Selection for BScHons
+PGRD S1 005896 GLGY 6853 Advanced Igneous Petrology 108 MAIN BFN 12GLGY6853: Student must have passed GLGY3714 and GLGY3754 in order to 
+register for this module. Selection for BScHons.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024147Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S1 005897 GLGY 6856 Advanced Structural Geology 108 MAIN BFN 24GLGY6856: Student must have passed GLGY3714 and GLGY3734. in order 
+to register for this module or Selection for BScHons.
+PGRD S1 005899 GLGY 6873 Advanced Environmental Geochemistry 108 MAIN BFN 12GLGY6873: Student must have passed GLGY3784 in order to continue with 
+this module or Selection for BScHons.
+PGRD S2 005900 GLGY 6883 Capita Selecta Geology 108 MAIN BFN 12 Selection for BScHons
+PGRD YR 025333 GLGY 8900 Geology Dissertation 108 MAIN BFN 180 Selection MSc
+PGRD YR 025053 GLGY 9100 Geology Thesis 108 MAIN BFN 360 Selection PhD
+PGRD YR 025873 MRTM 8900Mineral Resource Throughput Management 
+Dissertation108 MAIN BFN 180 Selection MSc
+INSTITUTE FOR GROUNDWATER STUDIES (109)
+PGRD YR 027378 GEHR 6808 Research Report Geohydrology 109 MAIN BFN 32 Selection for Honours 
+PGRD YR 026908 GEHI 8900 Geohydrology Interdisciplinary Dissertation 109 MAIN BFN 180 Selection
+PGRD YR 027022 GEHI 9100 Thesis Geohydrology Interdisciplinary 109 MAIN BFN 360 Selection
+PGRD YR 025328 GEHR 8900 Geohydrology Dissertation 109 MAIN BFN 180 Selection
+PGRD YR 026475 GEHR 9100 Geohydrology Thesis 109 MAIN BFN 360 Selection
+PGRD S1 005657 GEOH 6815 Groundwater Hydraulics 109 MAIN BFN 20 Selection for Honours
+PGRD S2 025151 GEOH 6825 Groundwater Modelling 109 MAIN BFN 20 Selection for Honours
+PGRD S1 005658 GEOH 6835 Hydrochemistry and Pollution 109 MAIN BFN 20 Selection for Honours
+PGRD S2 025174 GEOH 6845 Mining Geohydrology and Hydrology 109 MAIN BFN 20 Selection for Honours
+PGRD S1 025150 GEOH 6855 Groundwater Geophysics 109 MAIN BFN 20 Selection for Honours
+PGRD S2 005664 GEOH 6865 Groundwater Management 109 MAIN BFN 20 Selection for Honours
+MATHEMATICS AND APPLIED MATHEMATICS (111)
+Code: 028070 MATA 1684 Engineering Statics 111 MAIN BFN 16MATA1684: Students must have passed Grade 12 Mathematics with Level 
+5  or must have passed MATD1534 or MATD1564 or MATM1584 in order to 
+register this module
+Code: 028071 MATA 2674 Engineering Dynamics 111 MAIN BFN 16MATA2674: Student must have passed MATA1614/1684 + (MATM1644/1544 
+or MATM1624) in order to register for this module.
+Code: 028072 MATA 2684 Dynamics of Rigid Bodies 111 MAIN BFN 16MATA2684: Student must have passed MATA2674 or MATA1624 in order to 
+register for this module.
+Code: 028074 MATA 2664 Introduction to Mathematical Modeling 111 MAIN BFN 16MATA2664: Student must have (60% in MATM1644/1544) or MATM1624 in 
+order to register for this module.
+Code: 028073 MATA 2654 Ordinary Differential Equations 111 MAIN BFN 16MATA2654: Student must have (60% in MATM1644/1544) or MATM1624 in 
+order to register for this module.
+Code: 027869 MATA 2754 Scientific Computing 111 MAIN BFN 16MATA2754: Student must have (60% in MATM1644/1544) or MATM1624 in 
+order to register for this module.
+Code: 016904 MATA 3764 Industrial Mathematics 111 MAIN BFN 16MATA3764: Student must have passed MATA2754 and MATA2634/2664 in 
+order to register for this module.
+Code: 016905 MATA 3774 Numerical Analysis 111 MAIN BFN 16 MATA3774 : Student must have passed MATM2614 and MATA2754.
+Code: 016906 MATA 3784 Dynamical Systems 111 MAIN BFN 16 MATA3784: Student must have passed MATM2614 and MATA2654.
+Code: 016887 MATM 1534 Calculus 111 MAIN BFN 16MATM1534: Student must have passed Grade 12 Maths HG E, or SG 
+C or Performance Level 5 or WTW/WTV164 (MATD1564) or WTW184 
+(MATM1584) in order to register for this module.
+Code: 025834 MATM 1542 Introductory Calculus and Statics 111 MAIN BFN 8MATM1542: Student must have passed Grade 12 Mathematics on 
+performance Level 5 or 70% in  MATD1534/1564 in order to register with this 
+module.
+Code: 027883 MATM 1644 Calculus and Algebra 111 MAIN BFN 16MATM1644: Student must have passed MATM1534/1614 in order to register 
+for this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024148Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 027883 MATM 1622 Introduction to Advanced Mathematics 111 MAIN BFN 16MATM1622: Student must have 60% pass in either MATM1534 or MATM1644 
+in order to register for this module.
+Code: 025835 MATM 2614 Vector Analysis 111 MAIN BFN 16MATM2614: Student must have passed (MATM1544/1644 and MATM1622) or 
+MATM1624 in order to register for this module.
+Code: 025836 MATM 2624 Linear Algebra 111 MAIN BFN 16MATM2624: Student must have passed (MATM1544/1644 and MATM1622) or 
+MATM1624 in order to register for this module.
+Code: 025837 MATM 2664 Sequences and Series 111 MAIN BFN 16MATM2664: Student must have passed (MATM1544/1644 and MATM1622) or 
+MATM1624 in order to register for this module.
+Code: 016899 MATM 3714 Complex Analysis 111 MAIN BFN 16MATM3714: Student must have passed MATM2614 + MATM2664 in order to 
+register for this module.
+Code: 016900 MATM 3724 Real Analysis 111 MAIN BFN 16MATM3724: Student must have passed MATM2614 + MATM2664 in order to 
+register for this module.
+Code: 016901 MATM 3734 Discrete Mathematics 111 MAIN BFN 16MATM3734: Student must have passed MATM2624 + MATM2664 in order to 
+register for this module.
+Code: 016902 MATM 3744 Algebra 111 MAIN BFN 16MATM3744 : Student must have passed MATM2624 in order to register for 
+this module.
+Code: 025080 MATR 1534 Calculus 111 MAIN BFN 16MATR1534: This module is intended for students who have fail MATM1534 
+or fail to meet the required 60% in MATM1534 to continue with 2nd semester 
+mathematics modules. It will be offered in the 2nd semester (starting from 
+this 2023), . Information will be disseminated to students upon registration in 
+MATM1534 and in class during the 1st semester by lecturers (MATM1534).
+Code: 026477 MATM 1502 Introductory Calculus and Statics 111 MAIN BUILDSC 8MATM1502: Student must have passed Grade 12 Mathematics on 
+performance Level 5 or 70% in MATD1534/1564 in order to register with this 
+module.
+Code: 016895 MATA 2634 Ordinary Differential Equations 111 QWA QWAQWA 16MATA2664: Student must have 60% pass in MATM1644 in order to register for 
+this module.
+Code: 016887 MATM 1534 Calculus 111 QWA QWAQWA 16MATM1534: Student must have passed Grade 12 Maths HG E, or SG C or 
+Performance Level 5 or WTW/WTV164 (MATD1564) or WTW184 (MATD1584) 
+in order to register for this module.
+Code: 019761 MATM 1644 Calculus and Algebra 111 QWA QWAQWA 16MATM1644: Student must have passed MATM1534/1614 in order to register 
+for this module.
+Code: 025835 MATM 2614 Vector Analysis 111 QWA QWAQWA 16MATM2614: Student must have passed (MATM1544/1644 and MATM1622) or 
+MATM1624 in order to register for this module.
+Code: 025836 MATM 2624 Linear Algebra 111 QWA QWAQWA 16MATM2624: Student must have passed (MATM1544/1644 and MATM1622) or 
+MATM1624 in order to register for this module.
+Code: 025837 MATM 2664 Sequences and Series 111 QWA QWAQWA 16MATM2664: Student must have passed (MATM1544/1644 and MATM1622) or 
+MATM1624 in order to register for this module.
+Code: XXX MATM 3764 Complex Analysis 111 QWA QWAQWA 16MATM3764 : Student must have passed MATM2614 + MATM2664 in order to 
+register for this module.
+Code: 016900 MATM 3754 Real Analysis 111 QWA QWAQWA 16MATM3754 : Student must have passed MATM2614 + MATM2664 in order to 
+register for this module.
+Code: 016901 MATM 3734 Discrete Mathematics 111 QWA QWAQWA 16MATM3734 : Student must have passed MATM2624 + MATM2664 in order to 
+register for this module.
+Code: 016902 MATM 3744 Algebra 111 QWA QWAQWA 16MATM3744 : Student must have passed MATM2624 in order to register for 
+this module.
+PGRD S1 021332 MATA 6814 Algebra 111 MAIN BFN 16 Selection for BScHons majoring in Mathematics and Applied Mathematics 
+PGRD S2 025343 MATA 6824 Algebra 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021931 MATA 7914 Algebra 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025346 MATA 7924 Algebra 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD YR 025339 MATA 8900 Mathematics Dissertation 111 MAIN BFN 180 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD YR 025201 MATA 9100 Applied Mathematics Thesis 111 MAIN BFN 360 Selection for PhD majoring in Mathematics and Applied Mathematics 
+PGRD S1 025629 MATB 6814 Galois Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024149Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 021125 MATB 6824 Galois Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021932 MATB 7914 Galois Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025363 MATB 7924 Galois Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025366 MATC 6814 Introduction to Topology 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 021357 MATC 6824 Introduction to Topology 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021933 MATC 7914 Introduction to Topology 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025370 MATC 7924 Introduction to Topology 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 016907 MATD 6814 Modern Topology 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025380 MATD 6824 Modern Topology 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 016937 MATD 7914 Modern Topology 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025381 MATD 7924 Modern Topology 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025259 MATE 6814 Analysis 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025260 MATE 6824 Analysis 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021934 MATE 7914 Analysis 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025347 MATE 7924 Analysis 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 016908 MATF 6814 Measure and Integration Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025376 MATF 6824 Measure and Integration Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 016938 MATF 7914 Measure and Integration Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025377 MATF 7924 Measure and Integration Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021365 MATG 6814 Codingtheory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025351 MATG 6824 Codingtheory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021937 MATG 7914 Coding Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025350 MATG 7924 Coding Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025261 MATH 6814 Discrete Mathematics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 026021 MATH 6824 Discrete Mathematics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 016939 MATH 7914 Discrete Mathematics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025356 MATH 7924 Discrete Mathematics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021366 MATI 6814 Set Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025345 MATI 6824 Set Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021768 MATI 7914 Set Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025385 MATI 7924 Set Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025368 MATJ 6814 Group Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 022392 MATJ 6824 Group Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021938 MATJ 7914 Group Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025364 MATJ 7924 Group Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021402 MATK 6814 Ring Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025383 MATK 6824 Ring Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021939 MATK 7914 Ring Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025384 MATK 7924 Ring Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021403 MATL 6814 Category Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025362 MATL 6824 Category Theory 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021940 MATL 7914 Category Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025428 MATL 7924 Category Theory 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024150Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S1 021404 MATM 6814 Methods of Mathematics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025523 MATM 6818 Research Report 111 MAIN BFN 32 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025838 MATM 6819 Research Report Mathematics 111 MAIN BFN 36 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025378 MATM 6824 Methods of Mathematics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025264 MATM 6828 Mini Dissertation 111 MAIN BFN 32 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025839 MATM 6829 Research Report Mathematics 111 MAIN BFN 36 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025503 MATM 7910 Mini Dissertation 111 MAIN BFN 60 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021941 MATM 7914 Methods of Mathematics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 021378 MATM 7920 Mini Dissertation 111 MAIN BFN 48 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025379 MATM 7924 Methods of Mathematics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 026911 MATM 7930 Mini Dissertation Mathematics 111 MAIN BFN 84 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 026912 MATM 7940 Mini Dissertation Mathematics 111 MAIN BFN 84 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD YR 025355 MATM 8900 Mathematics Dissertation 111 MAIN BFN 180 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD YR 025068 MATM 9100 Mathematics Thesis 111 MAIN BFN 360 Selection for PhD majoring in Mathematics and Applied Mathematics 
+PGRD S1 016910 MATN 6814 Digital Image Processing 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025353 MATN 6824 Digital Image Processing 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 016940 MATN 7914 Digital Image Processing 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025354 MATN 7924 Digital Image Processing 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025388 MATO 6814 Numerical Linear Algebra 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 021405 MATO 6824 Numerical Linear Algebra 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 021956 MATO 7914 Numerical Linear Algebra 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025392 MATO 7924 Numerical Linear Algebra 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 016911 MATP 6814 Numerical Solution of Differential Equations 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025382 MATP 6824 Numerical Solution of Differential Equations 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 016941 MATP 7914 Numerical Solution of Differential Equations 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025265 MATP 7924 Numerical Solution of Differential Equations 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025266 MATQ 6814 Optimisation 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025267 MATQ 6824 Optimisation 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025268 MATQ 7914 Optimisation 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025269 MATQ 7924 Optimisation 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025270 MATR 6814 Cryptography 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025271 MATR 6824 Cryptography 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025272 MATR 7914 Cryptography 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025273 MATR 7924 Cryptography 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025274 MATS 6814 Partial Differential Equations 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025275 MATS 6824 Partial Differential Equations 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025276 MATS 7914 Partial Differential Equations 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025277 MATS 7924 Partial Differential Equations 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025278 MATT 6814 Fluid Mechanics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025279 MATT 6824 Fluid Mechanics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025280 MATT 7914 Fluid Mechanics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 021959 MATT 7924 Fluid Mechanics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025281 MATU 6814 Biological Modelling 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024151Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 025282 MATU 6824 Biological Modelling 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025285 MATU 7914 Biological Modelling 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025283 MATU 7924 Biological Modelling 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021407 MATV 6814 Fractional Calculus 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025284 MATV 6824 Fractional Calculus 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025286 MATV 7914 Fractional Calculus 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025340 MATV 7924 Fractional Calculus 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021255 MATW 6814 Financial Mathematics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025287 MATW 6824 Financial Mathematics 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025288 MATW 7914 Financial Mathematics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025289 MATW 7924 Financial Mathematics 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 016913 MATX 6814 Graph Theory 111 MAIN BFN 16MATX6814: Student must have passed MATM3734 and obtained at least 40% 
+in MATM3744 in order to register for this module.
+PGRD S2 025393 MATX 6824 Graph Theory 111 MAIN BFN 16MATX6824: Student must have passed MATM3734 and obtained at least 40% 
+in MATM3744 in order to register for this module.
+PGRD S1 016943 MATX 7914 Graph Theory 111 MAIN BFN 16MATX7914: Student must have passed MATM3734 and obtained at least 40% 
+in MATM3744 in order to register for this module.
+PGRD S2 025840 MATY 7924 Graph Theory 111 MAIN BFN 16MATX7924: Student must have passed MATM3734 and obtained at least 40% 
+in MATM3744 in order to register for this module.
+PGRD S1 022393 MATY 6814 Asymptotic Methods 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025841 MATY 6824 Asymptotic Methods 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 026022 MATY 7914 Asymptotic Methods 111 MAIN BFN 16MATY7914: Student must have passed MATY6814 or MATY6824 in order to 
+register for this module.
+PGRD S2 026023 MATY 7924 Asymptotic Methods 111 MAIN BFN 16MATX7924: Student must have passed MATY6814 or MATY6824 in order to 
+continue with this module.
+PGRD S1 025842 MATZ 6814 Capita Selecta 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025843 MATZ 6824 Capita Selecta 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025844 MATZ 6834 Capita Selecta 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025290 MATZ 6844 Capita Selecta 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 016920 MATZ 6854 Capita Selecta 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S2 025411 MATZ 6864 Capita Selecta 111 MAIN BFN 16 Selection for BScHons in Mathematics and Applied Mathematics 
+PGRD S1 025291 MATZ 7914 Capita Selecta 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025292 MATZ 7924 Capita Selecta 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 021962 MATZ 7934 Capita Selecta 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S2 025293 MATZ 7944 Capita Selecta 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 025294 MATZ 7954 Capita Selecta 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+PGRD S1 016950 MATZ 7964 Capita Selecta 111 MAIN BFN 16 Selection for MSc majoring in Mathematics and Applied Mathematics 
+MICROBIOLOGY AND BIOCHEMISTRY (112)
+Code: 023974 BLGY 1683 Introductory Biochemistry and Microbiology 112 MAIN BFN 12BLGY1683: Student must have passed BLGY1513 in order to register for this 
+module.
+Code: 001789 BOCB 2616 Biochemistry of Biological Compounds 112 MAIN BFN 24BOCB2616: Student must have passed BLGY1683 AND CHEM1623 OR 
+CHEM1643 OR [CHEM1562 AND CHEM1622] AND CHEM1661
+Code: 001794 BOCE 2626 Enzymology and Introductory Metabolism 112 MAIN BFN 24BOCE2626: Student must have passed BOCB2616 in order to continue with 
+this module.
+Code: 025994 BOCE 3714 Advanced Enzyme Kinetics and Metabolism 112 MAIN BFN 16BOCE3714: Student must have passed BOCE2626 in order to continue with 
+this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024152Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 020204 BOCH 2614 Biochemistry for Agriculture and Health Sciences 112 MAIN BFN 16 None
+Code: 020058 BOCM 3714 Molecular Biology 112 MAIN BFN 16BOCM3714: Student must have passed BOCE2626 in order to continue with 
+this module.
+Code: 025190 BOCP 3724 Protein Biochemistry 112 MAIN BFN 16BOCP3724: Student must have passed BOCE2626 in order to continue with 
+this module.
+Code: 025081 BOCS 3724Cell Membranes, Signal Transduction and 
+Immunology112 MAIN BFN 16BOCS3724: Student must have passed BOCE2626 in order to continue with 
+this module.
+Code: 009550 MCBC 3724 Microbial Genomics, Genetics and Biotechnology 112 MAIN BFN 16MCBC3724: Student must have passed MCBP2626 in order to continue with 
+this module.
+Code: 027265 MCBE 3714 Microbial Ecology and Environmental Microbiology 112 MAIN BFN 16MCBE3714: Student must have passed MCBP2626 in order to continue with 
+this module.
+Code: 020060 MCBG 3714 Growth, Nutrition and Death of Microoganisms 112 MAIN BFN 16MCBG3714: Student must have passed MCBP2626 in order to continue with 
+module.
+Code: 019676 MCBH 2614Introduction to Microbiology for Health and 
+Consumer Sciences112 MAIN BFN 16 None
+Code: 019677 MCBH 2624Introduction to Microbial Pathogenicity for Health and 
+Consumer Sciences112 MAIN BFN 16MCBH2624: Student must have passed MCBH2614 in order to register for this 
+module.
+Code: 009514 MCBP 2616 The Basic Principles of Microbiology 112 MAIN BFN 24MCBP2616: Student must have passed BLGY1683 in order to continue with 
+module.
+Code: 009520 MCBP 2626 Microbial Evolution and Diversity 112 MAIN BFN 24MCBP2626: Student must have passed MCBP2616 in order to continue with 
+this module.
+Code: 009547 MCBP 3724 Pathogens and Immunity 112 MAIN BFN 16MCBP3724: Student must have passed MCBP2626 in order to continue with 
+module.
+PGRD YR 027210 BOCB 6804 Bioinformatics and Omics Sciences 112 MAIN BFN 16 Selection BScHons 
+PGRD YR 025077 BOCD 9100 Biochemistry Thesis 112 MAIN BFN 360 Selection PhD
+PGRD S2 027211 BOCE 6844 Enzyme Structure and Catalysis 112 MAIN BFN 16 Selection BScHons 
+PGRD S2 020686 BOCL 6826 Research: Literature Study 112 MAIN BFN 24 Selection BScHons 
+PGRD YR 001842 BOCM 6804 Advanced Molecular Biology 112 MAIN BFN 16 Selection BScHons 
+PGRD YR 001848 BOCM 8900 Biochemistry Dissertation 112 MAIN BFN 180 Selection MSc
+PGRD S2 025069 BOCO 6822 Biochemistry Oral Examination 112 MAIN BFN 8 Selection BScHons 
+PGRD S2 025235 BOCR 6828 Research Essay 112 MAIN BFN 32 Selection BScHons 
+PGRD YR 025113 BOCT 6804 Techniques in Biochemistry 112 MAIN BFN 16 Selection BScHons 
+PGRD YR 025630 MBBT 8900 Microbial Biotechnology Dissertation 112 MAIN BFN 180 Selection MSc
+PGRD YR 025171 MBBT 9100 Microbial Biotechnology Thesis 112 MAIN BFN 360 Selection PhD
+PGRD YR 002154 MCBC 6804 Continuous and Batch Cultivation of Microorganisms 112 MAIN BFN 16 Selection BScHons 
+PGRD S1 025847 MCBD 6824 Microbial Diversity 112 MAIN BFN 16 Selection BScHons 
+PGRD S2 020685 MCBL 6826 Research : Literature Study 112 MAIN BFN 24 Selection BScHons 
+PGRD YR 009567 MCBM 6804 Microbial Molecular Biology 112 MAIN BFN 16 Selection BScHons 
+PGRD S2 009562 MCBO 6822 Oral Examination in Microbiology 112 MAIN BFN 8 Selection BScHons 
+PGRD S2 025848 MCBP 6814 Applied Microbial Physiology 112 MAIN BFN 16 Selection BScHons 
+PGRD S2 009569 MCBR 6828 Research Report 112 MAIN BFN 32 Selection BScHons 
+PGRD YR 009561 MCBT 6804 Techniques in Microbiology 112 MAIN BFN 16 Selection BScHons 
+PGRD YR 025341 MCBT 8900 Microbiology Dissertation 112 MAIN BFN 180 Selection MSc
+PGRD YR 025173 MCBT 9100 Microbiology Thesis 112 MAIN BFN 360 Selection PhD
+PHYSICS (113)
+Code: 004921 PHYA 1554 Introductory Astronomy 113 MAIN BFN 16 NoneFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024153Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 004922 PHYA 1664 Principles and Practice of Observational Astronomy 113 MAIN BFN 16PHYA1664: Student must have passed PHYA1554 in order to continue with 
+this module.
+Code: 027564 PHYA 2614 Astrophysics 113 MAIN BFN 16PHYA2614: Student must have passed PHYS1514, PHYS1624, PHYA1554 
+and PHYA1664 and MATM1534 and MATM1644 in order to continue with this 
+module. 
+Code: 027763 PHYA 2624 Astrophysics 113 MAIN BFN 16PHYA2624: Student must have passed PHYA1554 and PHYA1664 and 
+PHYA2614 in order to continue with module
+Code: 027565 PHYA 3709 Astronomy Practical 113 MAIN BFN 36PHYA3709 :Student must have passed PHYA2614 and PHYA2624 in order to 
+continue with this module.
+Code: 025198 PHYA 3772 Radiative Processes I 113 MAIN BFN 8PHYA3772: Student must have passed PHYS2614 and PHYS2642 and 
+PHYA2614 in order to continue with this module.
+Code: 022235 PHYA 3782 Radiative Processes Ii 113 MAIN BFN 8PHYA3782: Student must have passed PHYS3714 and PHYS3732 and 
+PHYA3772 and PHYA2614 in order to continue with this module.
+Code: 027566 PHYC 2623Introduction to Numerical Analysis and Quantitative 
+Methods113 MAIN BFN 12PHYC2623: Student must have passed PHYS1514, PHYS1624, PHYA1554 
+and PHYA1664 and MATM1534 and MATM1644 in order to continue with this 
+module.
+Code: 027603 PHYM 2613 Analytical Mechanics for Physicists and Engineers 113 MAIN BFN 12PHYM2613: Student must have passed PHYS1514, PHYS1624, PHYA1554 
+and PHYA1664 and MATM1534 and MATM1644 in order to continue with this 
+module.
+Code: 004913 PHYS 1512 Physics for Building Science Students 113 MAIN BFN 8 None
+Code: 004914 PHYS 1514 Mechanics, Optics and Electricity 113 MAIN BFN 16PHYS1514: Student must have passed MATM1534 previously or register 
+simultaneously for MATM1534 and PHYS1514 in order to continue with this 
+module.
+Code: 004919 PHYS 1534Mechanics, Optics, Electricity and Biological and 
+Medical Relevant Topics113 MAIN BFN 16 None
+Code: 023869 PHYS 1543 Physics for Physiotherapists 113 MAIN BFN 12PHYS1543: Student must have passed PHYS1534 in order to continue with 
+this module.
+Code: 004917 PHYS 1624Mechanics, Thermodynamics, Electricity and 
+Magnetism113 MAIN BFN 16PHYS1624: Student must have passed (PHYS1514 or 60 % PHYS1534) and 
+MATM1534 in order to continue with this module.
+Code: 004920 PHYS 1644Electricity, Magnetism, Biologically and Medically 
+Relevant Topics113 MAIN BFN 16 None
+Code: 004924 PHYS 2614 Mechanics, Waves and Optics 113 MAIN BFN 16PHYS2614: Student must have passed (PHYS1514 or 60% PHYS1534) and 
+(PHYS1624 or 60% PHYS1644) and MATM1534 and MATM1644 in order to 
+continue with this module.
+Code: 004927 PHYS 2624 Electronics 113 MAIN BFN 16PHYS2624: Student must have passed (PHYS1514 or 60% PHYS1534) and 
+(PHYS1624 or 60% PHYS1644) and MATM1534 and MATM1644 in order to 
+continue with this module.
+Code: 004930 PHYS 2632 Practical Work: Physics 113 MAIN BFN 8PHYS2632: The student must have passed PHYS2614 previously or register 
+simultaneously for PHYS2614 and PHYS2632 to continue with this module.
+Code: 004933 PHYS 2642 Electromagnetism 113 MAIN BFN 8PHYS2642: The student must have passed PHYS2614 to continue with this 
+module.
+Code: 004935 PHYS 2654 Ophthalmic Optics/Visual Optics 113 MAIN BFN 16PHYS2654: Student must have passed (PHYS1514 or PHYS1534) and 
+(PHYS1624 or PHYS1644) in order to register for this module. This module is 
+only for Optometry students .
+Code: 022361 PHYS 2664 Special Ophthalmic Optics 113 MAIN BFN 16PHYS2664: Student must have passed (PHYS1514 or PHYS1534) and 
+PHYS2654 and (PHYS1624 or PHYS1644) in order to continue with this 
+module. This module is only for Optometry students.
+Code: 004938 PHYS 3714 Modern Physics 113 MAIN BFN 16PHYS3714:Student must have passed PHYS2614 in order to continue with 
+this module.
+Code: 004940 PHYS 3724 Solid State Physics 113 MAIN BFN 16PHYS3724: Student must have passed PHYS3714 in order to continue with 
+this module.
+Code: 004942 PHYS 3732 Statistical Physics I 113 MAIN BFN 8PHYS3732: Student must have passed PHYS2614 in order to continue with 
+this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024154Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 004944 PHYS 3742 Statistical Physics Ii 113 MAIN BFN 8PHYS3742: Student must have passed PHYS3732 in order to continue with 
+this module.
+Code: 004947 PHYS 3752 Practical Work: Physics 113 MAIN BFN 8PHYS3752: Student must have passed PHYS2632 and co-requisite: register 
+simultaneously with PHYS3714 and PHYS3732 in order to register for this 
+module.
+Code: 004948 PHYS 3762 Practical Work: Physics 113 MAIN BFN 8PHYS3762: Student must have passed PHYS2632 and register 
+simultaneously for PHYS3724 and PHYS3742 in order to register for this 
+module.
+Code: 026489 PHYS 1502 Physics for Building Science Students 113 MAIN BUILDSC 8 None
+Code: 004913 PHYS 1512 Physics for Building Science Students 113 MAIN BUILDSC 8 None
+Code: 004914 PHYS 1514 Mechanics, Optics and Electricity 113 QWA QWAQWA 16PHYS1514: Student must have passed MATM1534 previously or register 
+simultaneously for MATM1534 and PHYS1514 in order to continue with this 
+module.
+Code: 004919 PHYS 1534Mechanics, Optics, Electricity and Biological and 
+Medical Relevant Topics113 QWA QWAQWA 16 None
+Code: 004917 PHYS 1624Mechanics, Thermodynamics, Electricity and 
+Magnetism113 QWA QWAQWA 16PHYS1624: Student must have passed (PHYS1514 or PHYS1534) and 
+MATM1534 in order to continue with this module.
+Code: 004920 PHYS 1644Electricity, Magnetism, Biologically and Medically 
+Relevant Topics113 QWA QWAQWA 16 None
+Code: 004924 PHYS 2614 Mechanics, Waves and Optics 113 QWA QWAQWA 16PHYS2614: Student must have passed (PHYS1514 or 60% PHYS1534) and 
+(PHYS1624 or 60% PHYS1644) and MATM1534 and MATM1644 in order to 
+continue with this module.
+Code: 004927 PHYS 2624 Electronics 113 QWA QWAQWA 16PHYS2624: Student must have passed (PHYS1514 or 60% PHYS1534) and 
+(PHYS1624 or 60% PHYS1644) and MATM1534 and MATM1644 in order to 
+continue with this module.
+Code: 004930 PHYS 2632 Practical Work: Physics 113 QWA QWAQWA 8PHYS2632: The student must have passed PHYS2614 previously or register 
+simultaneously for PHYS2614 and PHYS2632 to continue with this module.
+Code: 004933 PHYS 2642 Electromagnetism 113 QWA QWAQWA 8PHYS2642: The student must have passed PHYS2614 to continue with this 
+module.
+Code: 004938 PHYS 3714 Modern Physics 113 QWA QWAQWA 16PHYS3714:Student must have passed PHYS2614 in order to continue with 
+this module.
+Code: 004940 PHYS 3724 Solid State Physics 113 QWA QWAQWA 16PHYS3724: Student must have passed PHYS3714 in order to continue with 
+this module.
+Code: 004942 PHYS 3732 Statistical Physics I 113 QWA QWAQWA 8PHYS3732: Student must have passed PHYS2614 in order to continue with 
+this module.
+Code: 004944 PHYS 3742 Statistical Physics Ii 113 QWA QWAQWA 8PHYS3742: Student must have passed PHYS3732 in order to continue with 
+this module.
+Code: 004947 PHYS 3752 Practical Work: Physics 113 QWA QWAQWA 8PHYS3752: Student must have passed PHYS2632 and co-requisite: register 
+simultaneously with PHYS3714 and PHYS3732 in order to register for this 
+module.
+Code: 004948 PHYS 3762 Practical Work: Physics 113 QWA QWAQWA 8PHYS3762: Student must have passed PHYS2632 and register 
+simultaneously for PHYS3724 and PHYS3742 in order to register for this 
+module.
+PGRD YR 023891 NSAP 7900 Advanced Nanophysics 113 MAIN BFN 48 Selection MSc Nano Science
+PGRD YR 023888 NSCC 7911 Central Concepts in Nanoscience 113 MAIN BFN 4 Selection MSc Nano Science
+PGRD YR 023887 NSFB 7911Foundations of Nano-Biomedical Sciences for Non-
+Biologists113 MAIN BFN 4 Selection MSc Nano Science
+PGRD YR 023885 NSFC 7911 Foundations of Nanochemistry for Non-Chemists 113 MAIN BFN 4 Selection MSc Nano Science
+PGRD S1 027185 NSFP 7911 Foundations of Nanophysics for Non-Physicists 113 MAIN BFN 4 Selection MSc Nano Science
+PGRD YR 023886 NSMN 7911 Management for Nanoscientists 113 MAIN BFN 4 Selection MSc Nano Science
+PGRD YR 023889 NSRP 7900 Nanoscience Research Project 113 MAIN BFN 100 Selection MSc Nano Science
+PGRD YR 023890 NSTP 7914 Experimental Techniques in Nanophysics 113 MAIN BFN 16 Selection MSc Nano ScienceFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024155Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 025779 PHYA 6808 Astrophysics Research Essay 113 MAIN BFN 32 Selection BScHons 
+PGRD S1 004964 PHYA 6814 Astrophysics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025636 PHYA 6824 Astrophysics 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004966 PHYA 6834 General Relativity and Cosmology 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025761 PHYA 6844 General Relativity and Cosmology 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004965 PHYA 6854 Astrophysical Fluid Dynamics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025774 PHYA 6864 Astrophysical Fluid Dynamics 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 025766 PHYA 6874 High Energy Astrophysics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025758 PHYA 6884 High Energy Astrophysics 113 MAIN BFN 16 Selection BScHons 
+PGRD YR 004979 PHYA 7900 Astrophysics Mini-Dissertation 113 MAIN BFN 100 Selection BScHons 
+PGRD S1 020736 PHYA 7970 Astrophysics and Space Science 113 MAIN BFN 80 Selection BScHons 
+PGRD YR 025313 PHYA 8900 Astrophysics Dissertation 113 MAIN BFN 180 Selection BScHons 
+PGRD YR 025633 PHYA 9100 Physics Thesis 113 MAIN BFN 360 Selection BScHons 
+PGRD S1 025765 PHYC 6814 Capita Selecta I 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 025937 PHYC 6834 Capita Selecta Ii 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025922 PHYC 6844 Capita Selecta Iv 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 025936 PHYE 6814 Electrodynamics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 004960 PHYE 6824 Electrodynamics 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 025394 PHYE 6834 Electronics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 004963 PHYE 6844 Electronics 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004959 PHYI 6814 Statistical Physics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025662 PHYI 6824 Statistical Physics 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004961 PHYI 6834 Material Science I 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025889 PHYI 6844 Material Science I 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004962 PHYI 6854 Material Science Ll 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025890 PHYI 6864 Material Science Ll 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004958 PHYI 6874 Semi-Conductors 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025663 PHYI 6884 Semi-Conductors 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004955 PHYR 6814 Research Techniques 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025664 PHYR 6824 Research Techniques 113 MAIN BFN 16 Selection BScHons 
+PGRD YR 025893 PHYS 6808 Practicals 113 MAIN BFN 32 Selection BScHons 
+PGRD S1 004953 PHYS 6814 Quantum Mechanics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025389 PHYS 6824 Quantum Mechanics 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004954 PHYS 6834 Solid State Physics I 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025660 PHYS 6844 Solid State Physics I 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004956 PHYS 6854 Computational Methods of Physics 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025659 PHYS 6864 Computational Methods of Physics 113 MAIN BFN 16 Selection BScHons 
+PGRD S1 004957 PHYS 6874 Solid State Physics Ii 113 MAIN BFN 16 Selection BScHons 
+PGRD S2 025658 PHYS 6884 Solid State Physics Ii 113 MAIN BFN 16 Selection BScHons 
+PGRD YR 025637 PHYS 8900 Physics Dissertation 113 MAIN BFN 180 Selection BScHons 
+PGRD S2 025637 PHYS 8900 Physics Dissertation 113 MAIN BFN 180 Selection BScHons 
+PGRD YR 025184 PHYS 9100 Physics Thesis 113 MAIN BFN 360 Selection BScHons FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024156Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S1 025765 PHYC 6814 Capita Selecta I 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025922 PHYC 6844 Capita Selecta Iv 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 025936 PHYE 6814 Electrodynamics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 004960 PHYE 6824 Electrodynamics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 025394 PHYE 6834 Electronics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 004963 PHYE 6844 Electronics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 004959 PHYI 6814 Statistical Physics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025662 PHYI 6824 Statistical Physics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 004961 PHYI 6834 Material Science I 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025889 PHYI 6844 Material Science I 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 004958 PHYI 6874 Semi-Conductors 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025663 PHYI 6884 Semi-Conductors 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 004955 PHYR 6814 Research Techniques 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025664 PHYR 6824 Research Techniques 113 QWA QWAQWA 16 Selection BScHons 
+PGRD YR 025893 PHYS 6808 Practicals 113 QWA QWAQWA 32 Selection BScHons 
+PGRD S1 004953 PHYS 6814 Quantum Mechanics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025389 PHYS 6824 Quantum Mechanics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 004954 PHYS 6834 Solid State Physics I 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025660 PHYS 6844 Solid State Physics I 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 004956 PHYS 6854 Computational Methods of Physics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025659 PHYS 6864 Computational Methods of Physics 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 004957 PHYS 6874 Solid State Physics Ii 113 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025658 PHYS 6884 Solid State Physics Ii 113 QWA QWAQWA 16 Selection BScHons 
+PGRD YR 025637 PHYS 8900 Physics Dissertation 113 QWA QWAQWA 180 Selection MSc
+PGRD S2 025637 PHYS 8900 Physics Dissertation 113 QWA QWAQWA 180 Selection MSc
+PGRD YR 025184 PHYS 9100 Physics Thesis 113 QWA QWAQWA 360 Selection MSc
+PGRD S2 025184 PHYS 9100 Physics Thesis 113 QWA QWAQWA 360 Selection MSc
+PLANT SCIENCE (114)
+Code: 023973 BLGY 1643 The Interdependence of Plants and Life On Earth 114 MAIN BFN 12BLGY1643: Student must have passed BLGY1513 in order to continue with 
+this module.
+Code: 025052 BTNY 2616 Plant Adaptations for Survival On Land 114 MAIN BFN 24BTNY2616: Student must have passed BLGY1643 in order to continue with 
+this module.
+Code: 026182 BTNY 2621 Field Excursion 1 114 MAIN BFN 8BTNY2621: Student must have passed Min. BTNY2616 (45%) in order to 
+continue with this module. Only compulsory for BSc and BSc Agric students. 
+Code: 025163 BTNY 2626 Introductory Plant Development and Biotechnology 114 MAIN BFN 24BTNY2626: Student must have passed Min. BTNY2616 (45%) in order to 
+continue with this module. BTNY2621 must be taken in the same year .
+Code: 025236 BTNY 3712 Field Excursion 2 114 MAIN BFN 8BTNY3712: Student  must have passed BTNY2616  in order to continue with 
+this module.
+Code: 020065 BTNY 3714 Diversity and Systematics of Higher Plants 114 MAIN BFN 16BTNY3714: Student must have passed BTNY2616 in order to continue with 
+this module. BTNY3712 must be taken in the same year of study.
+Code: 011803 BTNY 3724 Carbon Metabolism in Plants 114 MAIN BFN 16BTNY3724: Student must have passed BTNY2626 in order to continue with 
+this module.
+Code: 011806 BTNY 3734 Vegetation Science and Environmental Management 114 MAIN BFN 16BTNY3734: Student must have passed  BTNY2616 in order to continue with 
+this module. BTNY3712 must be taken in the same year of study.
+Code: 020044 BTNY 3744 Plant Defence and Biotechnology 114 MAIN BFN 16BTNY3744: Student must have passed  BTNY2626 in order to continue with 
+this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024157Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 021239 BTNY 3754 Plant Molecular Biotechnology 114 MAIN BFN 16BTNY3754: Student must have passed BTNY2616 in order to continue with 
+this module.
+Code: 027253 BTNY 3764 Ecophysiology: Soil-Plant-Water Interactions 114 MAIN BFN 16BTNY3764: Student must have passed BTNY2626 in order to continue with 
+this module.
+Code: 025107 PLTB 2613 Theoretical Principles of Plant Breeding 114 MAIN BFN 12 None
+Code: 025070 PLTB 2623 Applied Principles of Plant Breeding 114 MAIN BFN 12PLTB2623: Student must have passed PLTB2613 in order to continue with this 
+module.
+Code: 011881 PLTB 3714 Principles of Quantitative Genetics in Plant Breeding 114 MAIN BFN 16PLTB3714: Student must have passed PLTB2613 and PLTB2623 in order to 
+continue with this module.
+Code: 025300 PLTB 3724 Breeding for Abiotic Stress Tolerance 114 MAIN BFN 16PLTB3724: Student must have passed PLTB2613 and PLTB2623 in order to 
+continue with this module.
+Code: 025996 PLTB 3744 Advanced Breeding Techniques 114 MAIN BFN 16PLTB3744: Student must have passed PLTB2613 and PLTB2623 in order to 
+continue with this module.
+Code: 025899 PLTB 4808 Research Project Plant Breeding 114 MAIN BFN 32PLTB4808: Student must have passed all PLTB modules up to 3rd year in 
+order to continue with this module.
+Code: 019703 PLTB 4814 Advanced Quantitative Genetics in Plant Breeding 114 MAIN BFN 16PLTB4814: Student must have passed PLTB3714 in order to continue with this 
+module.
+Code: 028203 PLTB 4816 Literature Review Plant Breeding 114 MAIN BFN 24PLTB4816: Student must have passed all PLTB modules up to 3rd year in 
+order to continue with this module.
+Code: 025301 PLTB 4824 Quality and Stress Tolerance Breeding 114 MAIN BFN 16PLTB4824: Student must have passed PLTB3724 in order to continue with this 
+module.
+Code: 019704 PLTB 4834 Marker-Assisted Plant Breeding 114 MAIN BFN 16 None
+Code: 011894 PLTB 4854 Statistics in Plant Sciences 114 MAIN BFN 16PLTB4854: Student must have passed PLTB3714 in order to continue with this 
+module.
+Code: 024836 PPLG 2624 Principles of Plant Pathology 114 MAIN BFN 16PPLG2624: Student must have passed BLGY1643 and one of Min. BLGY1643 
+or Min. BLGY1683 in  order to continue with this module.
+Code: 012101 PPLG 3714 Mycological Plant Pathology 114 MAIN BFN 16PPLG3714: Student must have passed PPLG2624 in order to continue with 
+this module.
+Code: 012091 PPLG 3724 Plant Disease Management 114 MAIN BFN 16PPLG3724: Student must have passed PPLG2624 in order to continue with 
+this module.
+Code: 025885 PPLG 3734 Bacterial and Viral Diseases of Plants 114 MAIN BFN 16PPLG3734: Student must have passed PLG2624 in order to continue with this 
+module.
+Code: 025305 PPLG 3744 Ecology of Plant Pathogens 114 MAIN BFN 16PPLG3744: Student must have passed PPLG2624 in order to continue with 
+this module.
+Code: 024837 PPLG 4808 Plant Pathology Research Report 114 MAIN BFN 32PPLG4808: Student must have passed all undergraduate PPLG modules in 
+order to proceed.
+Code: 028214 PPLG 4816 Literature Review Plant Pathology 114 MAIN BFN 24PPLG4816: Student must have passed all undergraduate PPLG modules in 
+order to proceed.
+Code: 025183 PPLG 4824 Plant-Pathogen Interactions 114 MAIN BFN 16PPLG4824: Student must have passed all undergraduate PPLG modules in 
+order to proceed.
+Code: 025886 PPLG 4834 Epidemiology and control of plant diseases 114 MAIN BFN 16PPLG4834: Student must have passed all undergraduate PPLG modules in 
+order to proceed.
+Code: 025887 PPLG 4844 Molecular Plant Pathology 114 MAIN BFN 16PPLG4844: Student must have passed all undergraduate PPLG modules in 
+order to proceed.
+Code: 024594 BIOL 1624 Plant Biology 114 QWA QWAQWA 16BIOL1624: Student must have passed BIOL1514 in order to continue with this 
+module.
+Code: 024704 BIOL 2644The Physical Environment: Natural Resources, 
+Ecology and Sustainability114 QWA QWAQWA 16BIOL2644: Student must have passed BIOL2614 in order to continue with this 
+module.
+Code: 024597 BOTA 2654 Introduction to Plant Anatomy and Morphology 114 QWA QWAQWA 16BOTA2654: Student must have passed two of BIOL1514 or BIOL1644 or 
+BIOL1624 in order to continue with this module.
+Code: 024679 BOTA 2684 Plant Physiology and Biotechnology 114 QWA QWAQWA 16BOTA2684: Student must have passed BIOL1514 in order to continue with this 
+module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024158Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 024685 BOTA 3724 Plant Metabolism and The Environment 114 QWA QWAQWA 16BOTA3724: Student must have passed BIOL2684 in order to continue with this 
+module.
+Code: 024686 BOTA 3734 Introduction to Plant Systematics 114 QWA QWAQWA 16BOTA3734: Student must have passed BIOL2644 in order to continue with this 
+module.
+Code: 024687 BOTA 3744 Ethnobotany and Plant Defence 114 QWA QWAQWA 16BOTA3744: Student must have passed BIOL2684 in order to continue with this 
+module.
+Code: 024688 BOTA 3754 Vegetation Ecology 114 QWA QWAQWA 16BOTA3754: Student must have passed BIOL2684 in order to continue with this 
+module.
+Code: 023973 BLGY 1643 The Interdependence of Plants and Life On Earth 114 SOUTH SOUTH 12BLGY1643: Student must have passed BLGY1513 in order to continue with 
+this module.
+PGRD YR 025805 BOTA 8900 Botany Dissertation 114 QWA QWAQWA 180 Selection MSc
+PGRD YR 011853 BTNY 6806 Literature Review 114 MAIN BFN 24 Selection BScHons 
+PGRD YR 011855 BTNY 6808 Research Project Botany 114 MAIN BFN 32 Selection BScHons 
+PGRD S1 011830 BTNA 6804 Advanced Plant Ecology 114 MAIN BFN 16 Selection BScHons 
+PGRD S1 027358 BTNY 6816 Literature Review Botany 114 MAIN BFN 24 Selection BScHons 
+PGRD S1 027368 BTNY 6818 Botany Research Project 114 MAIN BFN 32 Selection BScHons 
+PGRD S2 029014 BTNA 6824 Conservation Biology 114 MAIN BFN 16 Selection BScHons
+PGRD S2 027369 BTNY 6826 Literature Review Botany 114 MAIN BFN 24 Selection BScHons 
+PGRD S2 026879 BTNY 6828 Research Report Botany 114 MAIN BFN 32 Selection BScHons 
+PGRD S1 011841 BTND 6804 Plant Molecular Systematics 114 MAIN BFN 16 Selection BScHons 
+PGRD S2 011843 BTNY 6844 Plant Physiology  II ( Plant Defence and Applications) 114 MAIN BFN 16 Selection BScHons 
+PGRD S1 011845 BTNB 6804 Advanced Plant Taxonomy 114 MAIN BFN 16 Selection BScHons 
+PGRD S2 011846 BTNY 6864 Ecosystem Management and Restoration 114 MAIN BFN 16 Selection BScHons 
+PGRD S1 011848 BTNC 6804 Advanced Plant Molecular Biotechnology 114 MAIN BFN 16 Selection BScHons 
+PGRD S2 011850 BTNY 6884 Plant Analytical Biochemistry 114 MAIN BFN 16 Selection BScHons 
+PGRD S1 027254 BTNE 6804 Methods in Palaeo-Ecology 114 MAIN BFN 16 Selection BScHons 
+PGRD YR 025238 BTNY 8900 Botany Dissertation 114 MAIN BFN 180 Selection MSc
+PGRD YR 011857 BTNY 9100 Botany Thesis 114 MAIN BFN 360 Selection PhD
+PGRD YR 025726 PHEC 8900 Plant Health Ecology Dissertation 114 MAIN BFN 180 Selection MSc
+PGRD YR 024958 PHEC 9100 Plant Health Ecology Thesis 114 MAIN BFN 360 Selection PhD
+PGRD YR 025923 PLTB 6806 Literature Review 114 MAIN BFN 24 Selection BScHons 
+PGRD YR 025923 PLTB 6808 Plant Breeding Research Report 114 MAIN BFN 32 Selection BScHons 
+PGRD S1 025924 PLTB 6814 Advanced Quantitative Genetics in Plant Breeding 114 MAIN BFN 16 Selection BScHons 
+PGRD S1 027567 PLTB 6816 Literature Review Plant Breeding 114 MAIN BFN 24 Selection BScHons 
+PGRD S2 025302 PLTB 6824 Quality and Stress Tolerance Breeding 114 MAIN BFN 16 Selection BScHons 
+PGRD S2 027568 PLTB 6828 Literature Review Plant Breeding 114 MAIN BFN 24 Selection BScHons 
+PGRD YR 025895 PLTB 6818 Plant Breeding Research Report 114 MAIN BFN 32 Selection BScHons 
+PGRD S2 027568 PLTB 6828 Plant Breeding Research Report 114 MAIN BFN 32 Selection BScHons 
+PGRD S1 025780 PLTB 6834 Marker-Assisted Plant Breeding 114 MAIN BFN 16 Selection BScHons 
+PGRD S1 024840 PLTB 6854 Statistics in Plant Sciences 114 MAIN BFN 16 Selection BScHons 
+PGRD S1 025060 PLTB 6874 Advanced Statistics in Plant Sciences 114 MAIN BFN 16 Selection BScHons 
+PGRD YR 025349 PLTB 8900 Dissertation Plant Breeding 114 MAIN BFN 180 Selection MSc
+PGRD S2 025638 PLTB 9100 Plant Breeding Thesis 114 MAIN BFN 360 Selection PhD
+PGRD YR 025303 PLTI 8900 Interdisciplinary Plant Breeding Dissertation 114 MAIN BFN 180 Selection MSc
+PGRD YR 025304 PLTI 9100 Interdisciplinary Thesis Plant Breeding 114 MAIN BFN 360 Selection PhDFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024159Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 019712 PPLG 6806 Literature Review 114 MAIN BFN 24 Selection BScHons 
+PGRD YR 019713 PPLG 6808 Plant Pathology Research Report 114 MAIN BFN 32 Selection BScHons 
+PGRD S1 027516 PPLG 6816 Literature Review Plant Pathology 114 MAIN BFN 24 Selection BScHons 
+PGRD S1 027516 PPLG 6818 Plant Pathology Research Report 114 MAIN BFN 32 Selection BScHons 
+PGRD S2 025888 PPLG 6824 Plant-Pathogen Interactions 114 MAIN BFN 16 Selection BScHons 
+PGRD S2 027515 PPLG 6826 Literature Review Plant Pathology 114 MAIN BFN 24 Selection BScHons 
+PGRD S2 027516 PPLG 6818 Plant Pathology Research Report 114 MAIN BFN 32 Selection BScHons 
+PGRD S1 025892 PPLG 6834 Epidemiology and Control of Plant Diseases 114 MAIN BFN 16 Selection BScHons 
+PGRD S2 025894 PPLG 6844 Molecular Plant Pathology 114 MAIN BFN 16 Selection BScHons 
+PGRD YR 025640 PPLG 8900 Dissertation Plant Pathology 114 MAIN BFN 180 Selection MSc
+PGRD YR 025641 PPLG 9100 Thesis Plant Pathology 114 MAIN BFN 360 Selection PhD
+PGRD YR 027026 PPLI 8900 Interdisciplinary Plant Pathology Dissertation 114 MAIN BFN 180 Selection MSc
+PGRD YR 027260 PPLI 9100 Interdisciplinary Plant Pathology Thesis 114 MAIN BFN 360 Selection PhD
+PGRD YR 026411 BOTA 6808 Botany Research Project 114 QWA QWAQWA 32 Selection BScHons 
+PGRD S1 024690 BOTA 6814 Restoration Ecology 114 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 024691 BOTA 6824 Plant Ecophysiology 114 QWA QWAQWA 16BOTA6824: Student must have passed BOTA3764 in order to continue with 
+this module.
+PGRD S2 026412 BOTA 6844 Plant Biotechnology 114 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 024692 BOTA 6864 Phytomedicine 114 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025805 BOTA 8900 Botany Dissertation 114 QWA QWAQWA 180 Selection MSc
+PGRD YR 025806 BOTA 9100 Botany Thesis (Phd) 114 QWA QWAQWA 360 Selection PhD
+CONSTRUCTION ECONOMICS AND MANAGEMENT (115)
+Code: 026985 BARR 1512 Architecture 115 MAIN BFN 8 None
+Code: 001850 BBER 1524 Building Economics 1 115 MAIN BFN 16
+Code: 027245 BBER 2612 Building Economics 115 MAIN BFN 8 None
+Code: 027268 BBER 2622 Building Economics 115 MAIN BFN 8 None
+Code: 027488 BBSD 2614 Building Sciences 2 115 MAIN BFN 16 None
+Code: 027489 BBSD 3712 Building Science 3 115 MAIN BFN 8 None
+Code: 027270 BBSR 2614 Building Sciences 2 115 MAIN BFN 16 None
+Code: 027271 BCSR 2612 Construction Science 115 MAIN BFN 8 None
+Code: 027302 BCSR 2622 Construction Science 2 115 MAIN BFN 8 None
+Code: 001529 BDQR 1504 Descriptive Quantification 1 115 MAIN BFN 16
+Code: 001531 BDQR 2604 Descriptive Quantification 115 MAIN BFN 16 None
+Code: 026878 BPDR 1522 Property Development 1 115 MAIN BFN 8 None
+Code: 025298 BPDR 2614 Property Development Economics 115 MAIN BFN 16 None
+Code: 027519 BPDR 2624 Property Development 115 MAIN BFN 16 None
+Code: 025759 SURV 2622 Land Surveying 115 MAIN BFN 8 None
+Code: 027200 BARD 1522 Architecture 115 MAIN BUILDSC 8 None
+Code: 027049 BBED 1524 Building Economics I 115 MAIN BUILDSC 16 None
+Code: 026986 BBSD 1504 Building Science I 115 MAIN BUILDSC 16 None
+Code: 027247 BCCR 3712 Construction Law 115 MAIN BFN 8 None
+Code: 027248 BCCR 3722 Construction Law 115 MAIN BFN 8 None
+Code: 026987 BDQD 1504 Descriptive Quantification I 115 MAIN BUILDSC 16 NoneFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024160Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 026989 BPDD 1522 Property Development I 115 MAIN BUILDSC 8 None
+Code: 019523 BBSD 2604 Building Science 115 MAIN BUILDSC 16 None
+Code: 003572 EGSD 1504 Engineering Science 115 MAIN BUILDSC 16 None
+PGRD YR 026033 ANDC 7904 Advanced Property Development 115 MAIN BFN 8 None
+PGRD S2 026981 BCFR 6822 Construction Finance 115 MAIN BFN 8 None
+PGRD YR 026988 BIPR 6804Integrated Project Quantity Surveying and 
+Construction Management115 MAIN BFN 16 None
+PGRD YR 026034 PVPE 7902 Building Economics for Mprop 115 MAIN BFN 8 None
+PGRD S1 025635 BPDR 6812 Property Development Iv 115 MAIN BFN 8 None
+PGRD YR 027060 BPMR 6804 Project Management 115 MAIN BFN 16 None
+PGRD S1 026745 BPPR 6812 Professional Practice 115 MAIN BFN 8 None
+PGRD S2 027115 BPQR 6822 Professional Practice 115 MAIN BFN 8 None
+PGRD YR 007632 CFNR 6804 Construction Finance 115 MAIN BFN 16 None
+PGRD YR 003106 DPRP 7902 Dispute Resolution 115 MAIN BFN 8 None
+PGRD YR 026428 DQFR 9100 Quantity Surveying Thesis 115 MAIN BFN 360 None
+PGRD YR 025323 ENDR 7900 Research Essay  : Property Development 115 MAIN BFN 60ENDR7900: Student must have passed INDR7902 in order to register for this 
+module.
+PGRD YR 025161 INDR 7902 Introduction to Research 115 MAIN BFN 8 None
+PGRD YR 026505 IPMP 7903 Integrated Project 115 MAIN BFN 16 None
+PGRD YR 020719 LSFP 7902Life Cycle Cost , Facility Evaluation and 
+Management115 MAIN BFN 8 None
+PGRD YR 026037 PPYC 7901 Professional Practice 115 MAIN BFN 4 None
+PGRD YR 025318 PQMR 8900 Construction Management Dissertation 115 MAIN BFN 180 None
+PGRD YR 025680 PQMR 9100 Construction Management Thesis 115 MAIN BFN 360 None
+PGRD YR 025764 PROP 8900 Property Sciences Dissetation 115 MAIN BFN 180 None
+PGRD YR 025644 PROP 9100 Property Development Thesis 115 MAIN BFN 360 None
+PGRD YR 020251 PVPR 6804 Property Valuation Practice 115 MAIN BFN 16 None
+PGRD S1 027031 QBER 6812 Building Economics 115 MAIN BFN 8 None
+PGRD S2 027032 QBER 6822 Building Economics 115 MAIN BFN 8 None
+PGRD YR 001536 QDQR 6804 Descriptive Quantification Iv 115 MAIN BFN 16 None
+PGRD YR 027114 QRPR 6808 Quantity Surveying Research Report 115 MAIN BFN 32 None
+PGRD YR 027075 BIPD 6804Integrated Project Quantity Surveying and 
+Construction Management115 MAIN BUILDSC 16 None
+PGRD S2 027195 BPCD 6822 Professional Practice 115 MAIN BUILDSC 8 None
+PGRD S1 027050 BPDD 6812 Property Development Iv 115 MAIN BUILDSC 8 None
+PGRD YR 027076 BPMD 6804 Project Management 115 MAIN BUILDSC 16 None
+PGRD S1 027059 BPPD 6812 Professional Practice Iv 115 MAIN BUILDSC 8 None
+PGRD S2 027197 BPQD 6822 Professional Practice 115 MAIN BUILDSC 8 None
+PGRD YR 025661 INPD 6803 Integrated Project 115 MAIN BUILDSC 12 None
+PGRD YR 020246 PVPD 6804 Property Valuation Practice 115 MAIN BUILDSC 16 None
+Code: 029118BMQD/
+BMQR1504 Descriptive Quantification 1 115 MAIN BFN 16
+Code: 029119BMQD/
+BMQR2604 Descriptive Quantification 2N 115 MAIN BFN 16
+Code: 029120BMQD/
+BMQR3706 Descriptive Quantification 3N 115 MAIN BFN 24FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024161Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 025759 SURV 2622 Land Surveying 115 MAIN BFN 8
+PGRD YR 028961 PMCM 7905 Construction Management Principles and Practices 115 MAIN BFN 20
+PGRD YR 028960 PVPO 7905 Property Valuation 1 115 MAIN BFN 20
+SOIL, CROP AND CLIMATE SCIENCES (116)
+Code: 025519 AGEG 2624 Engineering Principles in Agriculture Practices 099 MAIN BFN 16AGEG2624: students must have passed AGRI1554 or MATM1534 or 
+AGRI1624.
+Code: 008407 AGEG 3714 Hydraulics 099 MAIN BFN 16AGEG3714: Student must have passed AGEG2624  in order to continue with 
+this module.
+Code: 008409 AGEG 3724 Irrigation Systems and Irrigation Surveying 099 MAIN BFN 16AGEG3724: Student must have passed AGEG3714  in order to continue with 
+this module.
+Code: 008572 AGRI 1534 Chemical Principles in Agricultural 116 MAIN BFN 16AGRI1534: Student must have passed Mathematics on level 3 in order to 
+continue with this module.
+Code: 008578 AGRI 1554 Physical and Mechanised Principles in Agriculture 116 MAIN BFN 16AGRI1554:  Student must have passed Mathematics on level 3 in order to 
+continue with this module.
+Code: 008625 CLIM 3724 Climate Change and Variability 116 MAIN BFN 16 NONE
+Code: 027820 CLIM 3764 Climate Change and Variability 116 MAIN BFN 16 NONE
+Code: 008606 CLIM 2614 Fundamentals of Agrometeorology 116 MAIN BFN 16CLIM2614: Students must have passed SCCS1624 or PHYS1534 or 
+PHYS1514 or AGRI1554 in order to continue with the module.
+Code: 029129 CLIM 3734 Micrometeorology 116 MAIN BFN 16CLIM3734: Student must have passed CLIM2614 in order to continue with this 
+module.
+Code: 028637 CLIM 4874 Advanced Instrumentation in Agrometeorology 116 MAIN BFN 16CLIM4874: Student must have passed CLIM3734 in order to continue with this 
+module
+Code: 028637 CLIM 6874 Advanced Instrumentation in Agrometeorology 116 MAIN BFN 16CLIM6874: Student must have passed CLIM3734 in order to continue with this 
+module
+Code: 008639 CLIM 4834 Physics and Dynamics of The Atmosphere 116 MAIN BFN 16CLIM4834: Student must have passed CLIM2614 in order to continue with this 
+module.
+Code: 027062 CLIM 4864 Tropical Meteorology 116 MAIN BFN 16CLIM4864: Student must have obtained a minimum mark for CLIM4834 in 
+order to continue with this module
+Code: 008641 CLIM 4844 Weather Analysis and Forecasting 116 MAIN BFN 16CLIM4844: Student must have obtained a minimum mark for CLIM4834 in 
+order to continue with this module
+Code: 024384 CROP 2614 Concepts in crop production 116 MAIN BFN 16CROP2614: Students must have passed SCCS1624 in order to continue with 
+this module.
+Code: 025091 CROP 4814 Crop Physiology 116 MAIN BFN 16CROP4814: Students must have passed SCCS2624 or HORT3754 or 
+HORT3724 in order to continue with this module.
+Code: 025089 CROP 4824 Role of Nutrition in Crop Development 116 MAIN BFN 16CROP4824: Students must have passed SCCS2624 and CROP3714 or 
+CROP3724 in order to continue with this module
+Code: 025117 CROP3714/
+3754Summer Grain, Oil and Protein-Rich Crops 116 MAIN BFN 16CROP3714/3754: Students must have passed CROP2614 in order to continue 
+with this module.
+Code: 029121 CROP 3754 Summer Grain, Oil and Protein-Rich Crops 116 MAIN BFN 16CROP3714/3754: Students must have passed CROP2614 in order to continue 
+with this module.
+Code: 025090 CROP 4834 Water Dynamics in Crop Production 116 MAIN BFN 16CROP4834: Students must have passed CROP3714 or CROP3724 or 
+HORT3754 or HORT3724  in order to continue with this module.
+Code: 025031 CROP 4844 Weed Control 116 MAIN BFN 16CROP4844: Students must have passed SCCS2624 and CROP4814 and 
+CROP3714 or CROP3724 or HORT3754 or HORT3724 in order to continue 
+with this module.
+Code: 029122 CROP 3764 Small grain, Industrial and Diverse Crops 116 MAIN BFN 16CROP3764: Student must have passed CROP2614 in order to continue with 
+this module.
+Code: 028935 CROP3744/
+3764Small grain, Industrial and Diverse Crops 116 MAIN BFN 16CROP3744/3764: Students must have past CROP2614 in order to continue 
+with this module.
+Code: 028640 HORT3724/
+3764Applied Fruit Production 116 MAIN BFN 16HORT3724/3764:Student must have passed CROP2614 and HORT3734/3774 
+in order to continue with this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024162Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: HORT 3734 Fruit Production 116 MAIN BFN 16HORT3734:Student must have passed CROP2614 in order to continue with 
+this module.
+Code: 029127 HORT 3774 Fruit Production 116 MAIN BFN 16HORT3774:Student must have passed CROP2614 in order to continue with 
+this module.
+Code: 025118 HORT 3754 Vegetable Crops 116 MAIN BFN 16HORT3754: Students must have passed CROP2614 in order to continue with 
+this module.
+Code: 029221 HORT 3714 Vegetable Crops 116 MAIN BFN 16HORT3754: Students must have passed CROP2614 in order to continue with 
+this module.
+Code: 028561 SCCS 2624 Crop Development 116 MAIN BFN 16SCCS2624: Students must have passed SCCS1624 in order to continue with 
+the module.
+Code: 025165 SCCS 1624 Introduction to Soil, Crop and Climate Sciences 116 MAIN BFN 16None. Only a total number of 120 students per language group will be 
+accommodated.
+Code: 028642 SCCS 3724Research Methodologies in Soil Crop and Climate 
+Science116 Main BFN 16 None
+Code: 025132 SCCS 2684 Sustainable Soil and Water Management 116 MAIN BFN 16SCCS2684: Students must have passed SCCS 1624 in order to register for 
+this module
+Code: 25307SCCS      
+48244824/
+6824Modelling Soil, Crop and Cilmate Interactions 116 MAIN BFN 16 None
+Code: 025308 SOIL4844/ 
+6844Soil Biological Principles and Applications 116 MAIN BFN 16 SOIL4844/6844: Student must have passed SOIL2674 and SOIL4814/6814
+Code: 025128 SOIL4814/ 
+6814Soil Chemical Principles and Applications 116 MAIN BFN 16SOIL4814:  Students must have passed SOIL 2674/3714 in order to register 
+for this module.
+Code: 025131 SOIL4834/ 
+6834Soil Classification Principles and Applications 116 MAIN BFN 16SOIL4834: Student must have passed SOIL3774 in order to register for this 
+module.
+Code: 028643 SOIL 3774Soil Classification, Evaluation, and Land Use  
+Planning.116 MAIN BFN 16 SOIL3774: Student must have passed SCCS1624
+Code: SOIL 3754Soil Classification, Evaluation, and Land Use  
+Planning.116 MAIN BFN 16 SOIL3754: Student must have passed SCCS1624
+Code: 025129 SOIL 3724/ 3744 Soil Contaminants and Management 116 MAIN BFN 16 SOIL3724/3744: Student must have passed SOIL2674
+Code: 028023 SOIL 3744 Soil Contaminants and Management 116 MAIN BFN 16SOIL3724 Prerequisite: Students must have passed SOIL3714/3734 in order 
+to register for this module.
+Code: 028959 SOIL 2674 Soil Fertility and Fertilization 116 MAIN BFN 16 SOIL2674: Students should have passed SCCS1624
+Code: 025121 SOIL 4824/ 6824 Soil Physical Principles and Applications 116 MAIN BFN 16 SOIL4824/6824: Student must have passed SCCS2864
+PGRD S1 028551 CCSA 7910 Climate change and variability 116 MAIN BFN 20 Selection for Master
+PGRD S2 028895 CCSC 7900 Climate modelling and quantitative analysis 116 MAIN BFN 40 Selection for Master
+PGRD S2 028896 CCSD 7900Policy, educational and economic aspects of climate 
+change116 MAIN BFN 40 Selection for Master
+PGRD S1 029126 CLIM 4854 Agrometeorological Services for Extension 116 MAIN BFN 16CLIM4854: Student must have passed CLIM2614 in order to continue with this 
+module.
+PGRD S1 027061 CLIM 6854 Agrometeorological Services for Extension 116 MAIN BFN 16CLIM6854: Student must have passed CLIM2614 in order to continue with this 
+module.
+PGRD YR 025679 CLIM 8900 Agrometeorology Dissertation 116 MAIN BFN 180 Selection
+PGRD YR 025521 CLIM 9100 Agrometeorology Thesis 116 MAIN BFN 180 Selection
+PGRD YR 028566 CLIM 7900 Mini dissertation in Climate change 116 MAIN BFN 120 Selection for Master
+PGRD S1 026414 CLIM 6834 116 MAIN BFN 16CLIM6834: Student must have passed CLIM2614 in order to continue with this 
+module.
+PGRD S1 028894 CLIM 7905 Research methodologies 116 MAIN BFN 20 Selection for Master
+PGRD S1 028551 CLIM 7908Sustainability and climate change adaptation of 
+agricultural systems116 MAIN BFN 20 Selection for Master
+PGRD S2 027062 CLIM 6864 Tropical Meteorology 116 MAIN BFN 16CLIM6864: Students must have obtained a minimum mark for CLIM6834/4834 
+in order to continue with this moduleFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024163Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 025242 CLIM 6844 Weather Analysis and Forecasting 116 MAIN BFN 16CLIM6844: Student must have obtained a minimum mark for CLIM6834 in 
+order to continue with this module.
+PGRD YR 026415 CLMI 8900 Agrometeorology Interdisciplinary Dissertation 116 MAIN BFN 180 Selection
+PGRD YR 026416 CLMI 9100 Agrometeorology Interdisciplinary Thesis 116 MAIN BFN 360 Selection
+PGRD YR 022369 CROI 8900 Agronomy Interdisciplinary Dissertation 116 MAIN BFN 180 Selection
+PGRD YR 022373 CROI 9100 Agronomy Interdisciplinary Thesis 116 MAIN BFN 360 Selection
+PGRD YR 025543 CROP 8900 Agronomy Dissertation 116 MAIN BFN 180 Selection
+PGRD YR 025405 CROP 9100 Agronomy Thesis 116 MAIN BFN 360 Selection
+PGRD S1 025475 CROP 6814 Crop Physiology 116 MAIN BFN 16 Selection
+PGRD S2 025321 CROP 6824 Role of Nutrition in Crop Development 116 MAIN BFN 16 Selection
+PGRD S1 025474 CROP 6834 Water Dynamics in Crop Production 116 MAIN BFN 16 Selection
+PGRD S2 026427 CROP 6844 Weed Control 116 MAIN BFN 16 Selection
+PGRD S1 002022 IRRI 6816 Evaluation of Soil and Water for Irrigation Suitability 116 MAIN BFN 24 Selection
+PGRD S2 002023 IRRI 6826 Evaluation of Soil Fertility and Pest Control 116 MAIN BFN 24 Selection
+PGRD S2 002024 IRRI 6846 Irrigation Design 116 MAIN BFN 24 Selection
+PGRD YR 026277 IRRI 8900 Irrigation Science Dissertation 116 MAIN BFN 180 Selection
+PGRD YR 026278 IRRI 9100 Irrigation Science Thesis 116 MAIN BFN 360 Selection
+PGRD YR 025338 IRRI 6808 Research Project in Irrigation Management 116 MAIN BFN 32 Selection
+PGRD S2 025648 SCCS 6824 Modelling Soil, Crop and Cilmate Interactions 116 MAIN BFN 16 None
+PGRD YR 025751 SCCS 6808 Research Project in Soil, Crop and Climate Sciences 116 MAIN BFN 32SCCS6808: Students should pass all assessments in order to pass the 
+module
+PGRD YR 027774 SCCS 4808/ 6808 Research Project in Soil, Crop and Climate Sciences 116 MAIN BFN 32SCCS4808: Students should pass all assessments in order to pass the 
+module.
+PGRD YR 026491 SOII 8900 Soil Science Interdisciplinary Dissertation 116 MAIN BFN 180 Selection
+PGRD YR 027036 SOII 9100 Soil Science Interdisciplinary Thesis 116 MAIN BFN 360 Selection
+PGRD YR 025650 SOIL 7904 Land Evaluation 116 MAIN BFN 16 Selection
+PGRD S2 026450 SOIL 6844 Soil Biological Principles and Applications 116 MAIN BFN 16SOIL6844:  Students have to pass SOIL6814 in order to continue with this 
+module.
+PGRD S1 025902 SOIL 6814 Soil Chemical Principles and Applications 116 MAIN BFN 16 Selection
+PGRD S1 026449 SOIL 6834 Soil Classification Principles and Applications 116 MAIN BFN 16 Selection
+PGRD S2 025903 SOIL 6824 Soil Physical Principles and Applications 116 MAIN BFN 16 Selection
+PGRD YR 025651 SOIL 8900 Soil Science Dissertation 116 MAIN BFN 180 Selection
+PGRD YR 025652 SOIL 9100 Soil Science Thesis 116 MAIN BFN 360 Selection
+MATHEMATICAL STATISTICS AND ACTUARIAL SCIENCE (117)
+Code: 027232 ACSF 1613 Actuarial Financial Management 117 MAIN BFN 12ACSF1613 Prerequisite:National Senior Certificate (NCS) Mathematics on 
+performance level 5 (60%) or MATD1564 OR MATD1534 OR MATM1584
+Code: 027233 ACSF 1623 Actuarial Financial Reporting 117 MAIN BFN 12ACSF 1623 Prerequisite:National Senior Certificate (NCS) Mathematics on 
+performance level 5 (60%) or MATD1564 OR MATD1534 OR MATM1584
+Code: 025223 ACSF 2716 Introductory Financial Mathematics 117 MAIN BFN 24ACSF2716: Students must have passed STSM1624 and MATM1622 and 
+MATM1644 in order to continue with this module.
+Code: 025225 ACSF 2746 Advanced Financial Mathematics 117 MAIN BFN 24ACSF2746: Student must have passed ACSF2716 with 60% in order to 
+register for this module.
+Code: 023662 ACSM 3708 Actuarial Mathematics II 117 MAIN BFN 24ACSM3708: Student must have passed MATM2614 + MATA2654 + 
+ACSF2746 in order to register this module.
+Code: 026003 ACSG 1614 Introduction to Actuarial Science 117 MAIN BFN 16ACSG1614: National Senior Certificate (NCS) Mathematics on performance 
+level 5 (60%) MATD1564 OR MATD1534 OR MATM1584FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024164Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 025227 ACSS 3708 Actuarial Statistics II 117 MAIN BFN 24ACSS3708: Student must have passed ACSF2746 and STSMS2626 in order 
+to register for this module.
+Code: 023583 EBCS 1514 Business Calculations 117 MAIN BFN 16EBCS1514: Student must have passed Grade 12 Maths on performance level 
+3 (40%) in order to register for this module.
+Code: 023596 EBCS 1524 Business Calculations 117 MAIN BFN 16EBCS1524: Student must have passed Grade 12 Maths on performance level 
+3 (40%) in order to register for this module.
+Code: 025999 STSA 1624 Introduction to Statistics 117 MAIN BFN 16National Senior Certificate (NCS) Mathematics on performance level 5 (60%) 
+or MATD1564 OR MATD1534 OR MATM1584
+Code: 014057 STSA 2616Multiple Regression Analysis and Time Series 
+Analysis117 MAIN BFN 24STSA2616: Student must have passed STSA1624 or EBCS1524 or 
+EFBC2524 in order to continue with this module.
+Code: 014061 STSA 2626Multiple Regression: Variance and Time Series 
+Analysis117 MAIN BFN 24STSA2626 : Student must have passed STSA2616 in order to register for this 
+module.
+Code: 014068 STSA 3716 Probability I 117 MAIN BFN 24STSA3716 : Student must have passed MATM1534 and STSA1624 / 
+EBCS1524 / EFBC2524 in order to continue with this module.
+Code: 014071 STSA 3726 Probability II 117 MAIN BFN 24STSA3726: Student must have passed STSA3716 in order to continue with 
+this module.
+Code: 023851 STSA 3732 Applied Statistics I 117 MAIN BFN 8STSA3732: Student must have passed STSA2626 in order to continue with 
+this module.
+Code: 023852 STSA 3742 Applied Statistics II 117 MAIN BFN 8STSA3742: Student must have passed STSA3732 in order to continue with 
+this module.
+Code: 016783 STSM 1614 Introductory Statistics 117 MAIN BFN 16STSM1614: NCS Mathematics level 6 (70%) or at least 60% in MATD1564/
+MATD1534 or a pass in MATM1584 or MATM1534
+Code: 016787 STSM 1624 Introductory Probability Theory 117 MAIN BFN 16STSM1624: Student must have passed STSM1614+ 60% in MATM1534 in 
+order to continue with this module.
+Code: 016790 STSM 2616 Sample Distribution Theory and Inference 117 MAIN BFN 24STSM2616: Student must have been passed STSM1624 in order to continue 
+with this module.
+Code: 016792 STSM 2626 Inference I 117 MAIN BFN 24STSM2626: Student must have passed STSM2616 in order to register for this 
+module.
+Code: STSM 2634 Statistical Programming 117 MAIN BFN 16STSM2634: Student must have passed STSM1624 in order to register for this 
+module.
+Code: 016795 STSM 3714 Inference 117 MAIN BFN 16STSM3714: Student must have passed MATM1644 and MATM1622 and 
+STSM2626 in order to continue with this module.
+Code: 016797 STSM 3764 Generalised Linear Models 117 MAIN BFN 16STSM3764: Student must have passed STSM3714 + STSM3734 in order to 
+continue with this module.
+Code: 026004 STSM 3734Causal inference: ANOVA, regression, and the 
+potential outcomes approach117 MAIN BFN 16STSM3734: Student must have passed MATM1644 and MATM1622 and 
+STSM2626 in order to continue with this module.
+Code: 025653 STSM 3744 Time Series Analysis and Glms 117 MAIN BFN 16STSM3744: Student must have passed STSM3714 + STSM3734 in order to 
+register for this module.
+Code: 023583 EBCS 1514 Business Calculations 117 MAIN EOFF 16EBCS1514: Student must have passed Grade 12 Maths on performance level 
+3 (40%) in order to register for this module.
+Code: 023596 EBCS 1524 Business Calculations 117 MAIN EOFF 16EBCS1524: Student must have passed Grade 12 Maths on performance level 
+3 (40%) in order to register for this module.
+Code: 023583 EBCS 1514 Business Calculations 117 QWA QWAQWA 16EBCS1514: Student must have passed Grade 12 Maths on performance level 
+3 (40%) in order to register for this module.
+Code: 023596 EBCS 1524 Business Calculations 117 QWA QWAQWA 16EBCS1524: Student must have passed Grade 12 Maths on performance level 
+3 (40%) in order to register for this module.
+Code: 023592 ECPM 1514 Calculations for Public Managers 117 QWA QWAQWA 16ECPM1514: National Senior Certificate (NCS) Mathematics on performance 
+level 3 (40%) for the 4-year curriculum, or performance level 4 (50%) for the 
+3-year curriculum in order to register for this module
+Code: 023597 EFBC 2514 Business Calculations 117 QWA QWAQWA 16EFBC2514: National Senior Certificate (NCS) Mathematics on performance 
+level 3 (40%) for the 4-year curriculum, or performance level 4 (50%) for the 
+3-year curriculum in order to register for this moduleFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024165Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 023598 EFBC 2524 Business Calculations 117 QWA QWAQWA 16EFBC2524: National Senior Certificate (NCS) Mathematics on performance 
+level 3 (40%) for the 4-year curriculum, or performance level 4 (50%) for the 
+3-year curriculum in order to register for this module
+Code: 025999 STSA 1624 Introduction to Statistics 117 QWA QWAQWA 16National Senior Certificate (NCS) Mathematics on performance level 5 (60%) 
+or MATD1564 OR MATD1534 OR MATM1584
+Code: 023597 EFBC 2514 Business Calculations 117 SOUTH SOUTH 16EFBC2514: National Senior Certificate (NCS) Mathematics on performance 
+level 3 (40%) for the 4-year curriculum, or performance level 4 (50%) for the 
+3-year curriculum in order to register for this module.
+Code: 023598 EFBC 2524 Business Calculations 117 SOUTH SOUTH 16EFBC2524: National Senior Certificate (NCS) Mathematics on performance 
+level 3 (40%) for the 4-year curriculum, or performance level 4 (50%) for the 
+3-year curriculum in order to register for this module.
+PGRD YR 025420 ACSD 7900 Dissertation 117 MAIN BFN 120 Selection for MSc Majoring in Actuarial Science
+PGRD YR 023669 ACSG 6800 Actuarial Asset and Liability Management 117 MAIN BFN 60 ACSG6800:  5 exemptions from Actuarial Society of South Africa subjects
+PGRD YR 027157 ACSG 6890Introduction to Actuarial Asset and Liability 
+Management117 MAIN BFN 30 ACSG6890: 4 exemptions from Actuarial Society of South Africa subjects
+PGRD S1 001075 ACSL 6816 Actuarial Contingencies 117 MAIN BFN 24 ACSL6816: 4 exemptions from Actuarial Society of South Africa subjects
+PGRD YR 025226 ACSR 6808 Actuarial Modelling and Literature Study 117 MAIN BFN 32 ACSR6808: Selection for BScHons majoring in Actuarial Science
+PGRD YR 025396 ACST 8900 Actuarial Science Dissertation 117 MAIN BFN 180 ACST8900: Selection for MSc majoring in Actuarial Science 
+PGRD YR 024878 ACST 9100 Actuarial Science Thesis 117 MAIN BFN 360 ACST9100: Selection for PhD majoring in Actuarial Science 
+PGRD YR 025342 RSAN 8900 Risk Analysis Dissertation 117 MAIN BFN 180 Selection for MSc majoring in Risk Analysis
+PGRD YR 025191 RSAN 9100 Risk Analysis Theses 117 MAIN BFN 360 Selection for PhD majoring in Risk Analysis
+PGRD S1 027864 STSA 6816 Multivariate Analysis 117 24 Selection for Honors majoring in Statistics
+PGRD S1 022927 STSA 6823 Multivariate Methods 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD YR 026445 STSA 8900 Statistics Dissertation 117 MAIN BFN 180 STSA8900: Selection for MSc majoring in Applied Statistics 
+PGRD YR 026454 STSA 9100 Statistics Thesis 117 MAIN BFN 360 STSA9100: Selection for PhD majoring in Applied Statistics 
+PGRD S1 027160 STSB 6816 Bayes Analysis 117 MAIN BFN 24Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S1 027943 STSD 6823 Big Data 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S2 STSD 6843 Spatial Statistics 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S1 025896 STSE 6813 Modelling Extremal Events 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S1 022828 STSF 6813 Financial Times Series 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S2 022935 STSF 6823 Risk Analysis 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD YR 022951 STSM 8900 Mathematical Statistics Dissertation 117 MAIN BFN 180STSM 8900: Selection for MSc majoring in Applied Statistics or Mathematical 
+Statistics or Risk Analysis.
+PGRD YR 025168 STSM 9100 Mathematical Statistics Thesis 117 MAIN BFN 360 STSM9100: Selection for PhD Mathematical Statistics
+PGRD S1 025905 STSP 6813 Stochastic Processes 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD YR 022950 STSR 6808 Statistical Modelling and Literature Study 117 MAIN BFN 32Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S1 027161 STSS 6813 Stochastic Simulation 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S2 024879 STSS 6833 Sampling Techniques 117 MAIN BFN 12Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024166Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD S2 025898 STSX 6825 Capita Selecta 117 MAIN BFN 20Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+PGRD S1 STSX 6815 Capita Selecta 117 MAIN BFN 20Selection for BScHons (Actuarial Science/Applied Science/Risk Analysis/
+Mathematical Statistics).
+URBAN AND REGIONAL PLANNING (118)
+PGRD YR 025906 UMRD 8900 Urban and Regional Planning Dissertation 118 MAIN BFN 180 Selection for Hons
+PGRD YR 027389 URBP 6805 Basic Practice in Urban and Regional Planning 118 MAIN BFN 20 Selection for Hons
+PGRD YR 024738 URBP 6806 Basic Practice in Urban and Regional Planning 118 MAIN BFN 24 Selection for Hons
+PGRD S1 024739 URCS 6812 Capita Selecta in Planning 118 MAIN BFN 8 Selection for Hons
+PGRD S1 024762 URCS 6814 Capita Selecta in Planning 118 MAIN BFN 16 Selection for Hons
+PGRD S1 024757 URCS 7912 Capita Selecta in Planning 118 MAIN BFN 8 Selection for Master
+PGRD S1 024764 URCS 7913 Capita Selecta in Planning 118 MAIN BFN 12 Selection for Master
+PGRD S1 024741 URCS 7914 Capita Selecta in Planning 118 MAIN BFN 16 Selection for Master
+PGRD S1 024766 URCS 7916 Capita Selecta in Planning 118 MAIN BFN 24 Selection for Master
+PGRD S2 024758 URCS 7922 Capita Selecta in Planning 118 MAIN BFN 8 Selection for Master
+PGRD S2 024742 URCS 7924 Capita Selecta in Planning 118 MAIN BFN 16 Selection for Master
+PGRD S1 023867 URDP 7912 Research Proposal 118 MAIN BFN 8 Selection for Master
+PGRD S2 024759 URDP 7922Dissertation Proposal in Urban and Regional 
+Planning118 MAIN BFN 8 Selection for Master
+PGRD S1 027388 UREP 6813 Research in Environmental Planning 118 MAIN BFN 12 Selection for Hons
+PGRD S1 024743 UREP 6814 Research in Environmental Planning 118 MAIN BFN 16 Selection for Hons
+PGRD S2 027387 UREP 6823 Research in Environmental Planning 118 MAIN BFN 12 Selection for Hons
+PGRD S1 023221 URFP 7912 Futurology for Planning 118 MAIN BFN 8 Selection for Master
+PGRD S2 025654 URFP 7922 Futurology for Planning 118 MAIN BFN 8 Selection for Master
+PGRD YR 024760 URGI 7904 Geographic Information Systems for Planners 118 MAIN BFN 16 Selection for Master
+PGRD YR 026283 URHA 6804 Human Settlement Management and Administration 118 MAIN BFN 16 Selection for Hons
+PGRD S1 027402 URHS 6813 Housing for Planners 118 MAIN BFN 12 Selection for Hons
+PGRD S1 027297 URHS 6814 Human Settlements Planning 118 MAIN BFN 16 Selection for Hons
+PGRD S1 024768 URHS 7913 Housing for Planners 118 MAIN BFN 12 Selection for Master
+PGRD S2 024769 URHS 7923 Housing for Planners 118 MAIN BFN 12 Selection for Master
+PGRD YR 023443 URHS 8900 Dissertation  in Housing 118 MAIN BFN 180
+PGRD S2 023443 URHS 8900 Dissertation  in Housing 118 MAIN BFN 180
+PGRD YR 025750 URHS 9100 Urban and Regional Planning Thesis 118 MAIN BFN 360 Selection PhD
+PGRD YR 026284 URHT 6804 Human Settlements Theory 118 MAIN BFN 16 Selection for Hons
+PGRD S1 020406 URID 7912 Integrated Development Planning 118 MAIN BFN 8 Selection for Master
+PGRD S2 025667 URID 7922 Integrated Development Planning 118 MAIN BFN 8 Selection for Master
+PGRD S1 027386 URLM 6813 Land Use Management 118 MAIN BFN 12 Selection for Hons
+PGRD S1 024745 URLM 6814 Land Use Management 118 MAIN BFN 16 Selection for Hons
+PGRD S2 024746 URLM 6824 Land Use Management 118 MAIN BFN 16 Selection for Hons
+PGRD S1 020402 URLM 7912 Planning Management 118 MAIN BFN 8 Selection for Master
+PGRD S2 025655 URLM 7922 Planning Management 118 MAIN BFN 8 Selection for Master
+PGRD YR 027385 URMD 6808 Urban and Regional Planning Research Report 118 MAIN BFN 32 Selection for Hons
+PGRD YR 024770 URMD 7900 Extended Research Essay 118 MAIN BFN 88 Selection for MasterFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024167Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 025666 URMD 8900 Dissertation 118 MAIN BFN 180
+PGRD YR 025665 URPD 9100 Urban and Regional Planning Thesis 118 MAIN BFN 360 Selection PhD
+PGRD S2 025665 URPD 9100 Urban and Regional Planning Thesis 118 MAIN BFN 360 Selection PhD
+PGRD S1 024771 URPP 7914Professional Practice in Urban and Regional 
+Planning118 MAIN BFN 16 Selection for Master
+PGRD S2 024772 URPP 7924Professional Practice in Urban and Regional 
+Planning118 MAIN BFN 16 Selection for Master
+PGRD YR 024747 URPT 6804 Research in Theory of Planning 118 MAIN BFN 16 Selection for Hons
+PGRD YR 027384 URPT 7904 Research in Theory of Planning 118 MAIN BFN 16 Selection for Master
+PGRD S1 021088 URRA 7912 Planning for Rural Areas 118 MAIN BFN 8 Selection for Master
+PGRD S2 025668 URRA 7922 Planning for Rural Areas 118 MAIN BFN 8 Selection for Master
+PGRD S1 027383 URRE 6813 Research in Economics for Planners 118 MAIN BFN 12 Selection for Hons
+PGRD S1 024748 URRE 6814 Research in Economics for Planners 118 MAIN BFN 16 Selection for Hons
+PGRD S2 027401 URRE 6823 Research in Economics for Planners 118 MAIN BFN 12 Selection for Hons
+PGRD S2 024749 URRE 6824 Research in Economics for Planners 118 MAIN BFN 16 Selection for Hons
+PGRD S1 024773 URRM 7914 Research Methodologies for Planners 118 MAIN BFN 16 Selection for Master
+PGRD S2 024774 URRM 7924 Research Methodologies for Planners 118 MAIN BFN 16 Selection for Master
+PGRD YR 007014 URRP 7902 Introductory Studies in Regional Planning 118 MAIN BFN 8 Selection for Master
+PGRD YR 024756 URRP 7906 Applied Regional Planning Project 118 MAIN BFN 24 Selection for Master
+PGRD YR 026494 URRR 6800 Research Essay in Human Settlements 118 MAIN BFN 40 Selection for Hons
+PGRD YR 027382 URRT 6803 Research in Regional Planning Theory 118 MAIN BFN 12 Selection for Hons
+PGRD YR 024750 URRT 6805 Research in Regional Planning Theory 118 MAIN BFN 20 Selection for Hons
+PGRD S1 027381 URSC 6813 Research in Socio-Cultural Aspects in Planning 118 MAIN BFN 12 Selection for Hons
+PGRD S1 024751 URSC 6814 Research in Socio-Cultural Aspects in Planning 118 MAIN BFN 16 Selection for Hons
+PGRD S2 027400 URSC 6823 Research in Socio-Cultural Aspects in Planning 118 MAIN BFN 12 Selection for Hons
+PGRD S2 024752 URSC 6824 Research in Socio-Cultural Aspects in Planning 118 MAIN BFN 16 Selection for Hons
+PGRD S1 020415 URTD 7912 Planning for Tourism 118 MAIN BFN 8 Selection for Master
+PGRD S2 025669 URTD 7922 Planning for Tourism 118 MAIN BFN 8 Selection for Master
+PGRD S1 020419 URTP 7912 Transportation Planning for Planners 118 MAIN BFN 8 Selection for Master
+PGRD S2 025723 URTP 7922 Transportation Planning for Planners 118 MAIN BFN 8 Selection for Master
+PGRD YR 024753 URUP 7906 Urban Research Project 118 MAIN BFN 24 Selection for Master
+PGRD YR 027380 URUT 6803 Research in Urban Development Theory 118 MAIN BFN 12 Selection for Hons
+PGRD YR 024754 URUT 6804 Research in Urban Development Theory 118 MAIN BFN 16 Selection for Hons
+PGRD S1 025504 URUT 7912 Geography for Planners 118 MAIN BFN 8 Selection for Master
+PGRD S2 020405 URUT 7922 Geography for Planners 118 MAIN BFN 8 Selection for Master
+PGRD S2 023241 VMB  614 Urbanisation 118 MAIN BFN 16
+ZOOLOGY AND ENTOMOLOGY (119)
+Code: 023972 BLGY 1663 Introduction to Zoology and Entomology 119 MAIN BFN 12BLGY1663: Student must have passed BLGY1513 in order to continue with 
+this module.
+Code: 024755 ENTO 2614Introduction to Morphology, Anatomy and Bio-
+Ecology of Insects119 MAIN BFN 16ENTO2614: Student must have completed the first year of BAgric or BScAgric 
+to continue with this module..
+Code: 004168 ENTO 2616Functional Morphology and Evolutionary Biology of 
+Insects119 MAIN BFN 24ENTO2616: Student must have passed BLGY1513 and BLGY1663 (only 
+relevant to BSc students) in order to continue with this module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024168Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 004171 ENTO 2626 Ecophysiology of Insects 119 MAIN BFN 24ENTO2626: Student must have passed ENTO2616 or ENTO2614 in order to 
+continue with this module.
+Code: 020061 ENTO 3714 Advanced Insect Ecology 119 MAIN BFN 16ENTO3714: Student must have passed ENTO2626 in order to continue with 
+this module.
+Code: 020052 ENTO 3724 Applied Insect Pest Management 119 MAIN BFN 16ENTO3724: Student must have passed ENTO3714 or ENTO2614 in order to 
+continue with this module.
+Code: 004185 ENTO 3734 Advanced Medical & Veterinary Entomology 119 MAIN BFN 16ENTO3734: Student must have passed ENTO2626 in order to continue with 
+this module.
+Code: 004187 ENTO 3744 Applied Insect Biochemistry and Pharmacology 119 MAIN BFN 16ENTO3744: Student must have passed ENTO3714 in order to continue with 
+this module.
+Code: 003133 ZLGY 2616 Animals of Medical and Veterinary Importance 119 MAIN BFN 24ZLGY2616: Student must have passed BLGY1513 and BLGY1663 in order to 
+continue with this module.
+Code: 003136 ZLGY 2626 Vertebrate Life and Evolution 119 MAIN BFN 24ZLGY2626: Student must have passed Min. ZLGY2616 (45%) in order to 
+continue with this module.
+Code: 020054 ZLGY 3714 Marine and Freshwater Ecology 119 MAIN BFN 16ZLGY3714: Student must have passed ZLGY2626 in order to continue with 
+this module.
+Code: 020063 ZLGY 3724 Life Strategies in Arid Environment 119 MAIN BFN 16ZLGY3724: Student must have passed ZLGY2626 in order to continue with 
+this module.
+Code: 003151 ZLGY 3734 Conservation Ecology 119 MAIN BFN 16ZLGY3734 : Student must have passed ZLGY2626 in order to continue with 
+this module.
+Code: 003154 ZLGY 3744 Animal Behaviour 119 MAIN BFN 16ZLGY3744: Student must have passed ZLGY2626 in order to continue with 
+this module.
+Code: 027156 BIOL 1504 Lower Life and Molecular Biology 119 QWA QWAQWA 16
+Code: 024562 BIOL 1514 Lower Life and Molecular Biology 119 QWA QWAQWA 16
+Code: 024563 BIOL 1644 Animal Biology 119 QWA QWAQWA 16BIOL1644: Student must have passed BIOL1514 in order to continue with this 
+module.
+Code: 024595 BIOL 2614 Evolution, Genetics and Diversity 119 QWA QWAQWA 16BIOL2614: Student must have passed BIOL1624 and BIOL1644 in order to 
+continue with this module.
+Code: 024680 BIOL 3714 Human Ecological Footprint 119 QWA QWAQWA 16
+Code: 024681 BIOL 3724 Macroevolution and Speciation 119 QWA QWAQWA 16BIOL3724: Student must have passed BIOL2614 in order to continue with this 
+module.
+Code: 024599 UNIR 2624 Insect Ecophysiology 119 QWA QWAQWA 16
+Code: 024601 UNIR 3724 Applied Entomology 119 QWA QWAQWA 16
+Code: 024701 UNIR 3734 Medical, Veterinary and Forensic Entomology 119 QWA QWAQWA 16UNIR3734: Student must have passed UNIR2624 in order to continue with this 
+module.
+Code: 024702 UNIR 3744 Insect Biochemistry and Pharmacology 119 QWA QWAQWA 16
+Code: 024700 ZOOL 2614 Basic Entomology 119 QWA QWAQWA 16
+Code: 024596 ZOOL 2634 Invertebate Biodiversity 119 QWA QWAQWA 16
+Code: 024598 ZOOL 2664 African Vertebrates 119 QWA QWAQWA 16BIOL2664: Student must have passed BIOL1514 in order to continue with this 
+module.
+Code: 024761 ZOOL 2684 Introduction to Parasitology 119 QWA QWAQWA 16ZOOL2684: Student must have passed BIOL2614 in order to continue with 
+this module.
+Code: 024695 ZOOL 3714 Introduction to Animal Behaviour 119 QWA QWAQWA 16ZOOL3764: Student must have passed BIOL2644 in order to continue with 
+this module.
+Code: 024695 ZOOL 3714 Introduction to Animal Behaviour 119 QWA QWAQWA 16ZOOL3764: Student must have passed BIOL2644 in order to continue with 
+this module.
+Code: 026555 ZOOL 3724 Ecotoxicology 119 QWA QWAQWA 16ZOOL3724: Student must hav epassed BIOL2634 in order to continue with 
+this module.
+Code: 024600 ZOOL 3734 Insect Ecophysiology 119 QWA QWAQWA 16UNIR3714: Student must have passed UNIR2624 in order to continue with this 
+module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024169Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 024693 ZOOL 3744 Molecular Parasitology 119 QWA QWAQWA 16ZOOL3744: Student must have passed ZOOL2684 in order to continue with 
+this module.
+Code: 024694 ZOOL 3754 Freshwater and Marine Ecology 119 QWA QWAQWA 16ZOOL3754: Student must have passed BIOL2644 in order to continue with 
+this module.
+PGRD YR 020717 ENTO 6808 Research Project Entomology 119 MAIN BFN 32 Selection BScHons 
+PGRD S1 025714 ENTO 6814Research Techniques, Scientific Methodology and 
+Communication119 MAIN BFN 16 Selection BScHons 
+PGRD S1 ENTO 6834 Chemical Ecology 119 MAIN BFN 16 Selection BScHons 
+PGRD S2 004204 ENTO 6842 The Environment 119 MAIN BFN 8 Selection BScHons 
+PGRD S2 027768 ENTO 6844 Capita Selecta in Entomology 119 MAIN BFN 16 Selection BScHons 
+PGRD S1 027769 ENTO 6852 Quantitative Ecology 119 MAIN BFN 8 Selection BScHons 
+PGRD S1 004205 ENTO 6854 Insect-Plant Interactions 119 MAIN BFN 16 Selection BScHons 
+PGRD S2 027765 ENTO 6862 Biodiversity, Evolution & Biogeography 119 MAIN BFN 8 Selection BScHons 
+PGRD S2 004206 ENTO 6864 Medical and Veterinary Entomology 119 MAIN BFN 16 Selection BScHons 
+PGRD S2 004208 ENTO 6884 Advanced Pest Management 119 MAIN BFN 16ENTO6884: Selection BScHons/ or student must have passed ENTO2614 or 
+ENTO3724 or equivalent module to continue with this module.
+PGRD YR 025324 ENTO 8900 Entomology Dissertation 119 MAIN BFN 180 Selection MSc.
+PGRD YR 025415 ENTO 9100 Entomology Thesis 119 MAIN BFN 360 Selection PhD.
+PGRD YR 020641 ZLGY 6808 Zoology Research Project 119 MAIN BFN 32 Selection BScHons 
+PGRD S1 003168 ZLGY 6814Research Techniques, Scientific Methodology and 
+Communication119 MAIN BFN 16 Selection BScHons 
+PGRD S1 023318 ZLGY 6834 Wetland Ecology 119 MAIN BFN 16 Selection BScHons 
+PGRD S2 003172 ZLGY 6842 The Environment 119 MAIN BFN 8 Selection BScHons 
+PGRD S2 027767 ZLGY 6844 Capita Selecta in Zoology 119 MAIN BFN 16 Selection BScHons 
+PGRD S2 003169 ZLGY 6852 Quantitative Ecology 119 MAIN BFN 8 Selection BScHons 
+PGRD S1 003173 ZLGY 6854 Veterinary Ectoparasitology 119 MAIN BFN 16 Selection BScHons 
+PGRD S1 003171 ZLGY 6862 Biodiversity, Evolution & Biogeography 119 MAIN BFN 8 Selection BScHons 
+PGRD S2 003174 ZLGY 6864 Animal Behaviour 119 MAIN BFN 16 Selection BScHons 
+PGRD S1 003175 ZLGY 6874 Aquatic Parasitology 119 MAIN BFN 16 Selection BScHons 
+PGRD S2 003176 ZLGY 6824 Conservation Ecology 119 MAIN BFN 16 Selection BScHons 
+PGRD YR 026453 ZLGY 8900 Zoology Dissertation 119 MAIN BFN 180 Selection MSc 
+PGRD YR 026027 ZLGY 9100 Zoology Thesis 119 MAIN BFN 360 Selection PhD
+PGRD YR 025424 ZOOL 8900 Zoology Dissertation 119MAIN/
+QWABFN 180 Selection MSc
+PGRD YR 024682 BIOL 6808 Research Essay 119 QWA QWAQWA 32 Selection BScHons 
+PGRD S1 026029 BIOL 6814 Scientific Methodology and Communication 119 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 024683 BIOL 6824 Current Events in Science 119 QWA QWAQWA 16BIOL6824: Student must have passed BIOL3714 in order to continue with this 
+module.
+PGRD S1 024684 BIOL 6834 Advanced Biostatistics 119 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 025430 BIOL 6844 Advanced Biostatistics 119 QWA QWAQWA 16 Selection BScHons 
+PGRD YR 025439 LFSC 8900 Life Science  Dissertation 119 QWA QWAQWA 180 Selection MSc
+PGRD YR 025767 LFSC 9100 Life Sciences Thesis 119 QWA QWAQWA 360 Selection PhD
+PGRD YR 026446 ZOOL 6808 Entomology Research Project 119 QWA QWAQWA 32 Selection BScHons 
+PGRD S1 024703 ZOOL 6814 Science Reading Course 119 QWA QWAQWA 16UNIR6814: Student must have passed UNIR3714 in order to continue with this 
+module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024170Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 026447 UNIR 8900 Entomology Dissertation 119 QWA QWAQWA 180 Selection MSc
+PGRD YR 026448 UNIR 9100 Entomology Thesis 119 QWA QWAQWA 360 Selection PhD
+PGRD YR 026451 ZOOL 6808 Zoology Research Report 119 QWA QWAQWA 32 Selection BScHons 
+PGRD S1 024696 ZOOL 6814 Applied Behavioural Ecology 119 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 024697 ZOOL 6824 Veterinary Parasitology 119 QWA QWAQWA 16 Selection BScHons 
+PGRD S2 024698 ZOOL 6844 Biosystematics 119 QWA QWAQWA 16 Selection BScHons 
+PGRD S1 024699 ZOOL 6854 Immunology 119 QWA QWAQWA 16 Selection BScHons 
+PGRD YR 025424 ZOOL 8900 Zoology Dissertation 119 QWA QWAQWA 180 Selection MSc
+PGRD YR 026452 ZOOL 9100 Zoology Thesis 119 QWA QWAQWA 360 Selection PhD
+DISASTER MANAGEMENT TRAINING AND EDUCATION CENTRE FOR AFRICA (123)
+PGRD S1 027070 DIMD 7910Ecosystem-Based Disaster Risk Reduction And 
+Climate Change Adaptation (Eco-DRR)123 MAIN BFN 60
+PGRD S1 025322 DIME 7910 Ethnic, Cultural Conduct and Indigenous Knowledge 123 MAIN BFN 30
+PGRD YR 025550 DIMG 7900 Information Management Disaster Management 123 MAIN BFN 30
+PGRD S1 027071 DIMH 7910 Crisis Intervention and Trauma Management 123 MAIN BFN 30
+PGRD S1 027139 DIMI 5810 Introduction to Disaster Management 123 MAIN BFN 15
+PGRD S1 025258 DIMI 7910 Disaster Risk and Impact Assessment 123 MAIN BFN 60
+PGRD S1 027080 DIML 5810Legal and institutional arrangements for disaster 
+managers123 MAIN BFN 15
+PGRD S1 002839 DIMM 5810 Theoretical Models for Disaster Risk Reduction 123 MAIN BFN 15
+PGRD S1 025688 DIMM 7910Ethnic, Cultural Conduct and Indigenous Knowledge 
+Systems 123 MAIN BFN 30
+PGRD S2 002844 DIMN 5820 Management of Natural and Human-Made Disasters 123 MAIN BFN 15
+PGRD S2 002843 DIMP 5820 Public Health in Disaster Managament 123 MAIN BFN 15
+PGRD YR 027083 DIMP 7900 Political Strategic Planning 123 MAIN BFN 30
+PGRD S1 027084 DIMR 5800 Research Design and Methodology 123 MAIN BFN 15
+PGRD YR 027066 DIMR 7900 Disaster Management Mini-Dissertation 123 MAIN BFN 120
+PGRD S2 027085 DIMS 5825 Strategic Disaster Management 123 MAIN BFN 20
+PGRD S2 027086 DIMT 5820 Information Technology in Disaster Management 123 MAIN BFN 15
+PGRD YR 025097 DSMT 9100 Disaster Management Thesis 123 MAIN BFN 360
+PGRD S2 025097 DSMT 9100 Disaster Management Thesis 123 MAIN BFN 360
+GENETICS (124)
+Code: 023971 BLGY 1623 Introduction to Genetics 124 MAIN BFN 12 BLGY1623: Student must have passed BLGY1513
+Code: 023975 FORS 2616 Introductory Forensic Science 124 MAIN BFN 24FORS2616: Student must have passed BLGY1513, BLGY1623, in order to 
+register this module.
+Code: 023976 FORS 2626 Crime Scene Management 124 MAIN BFN 24FORS2626: Student must have passed BLGY1513, BLGY1623, in order to 
+register for this module.
+Code: 024992 FORS 3714 Trace and Impression Evidence 124 MAIN BFN 16FORS3714: Student must have passed FORS2616 and FORS2626 in order to 
+register this module.
+Code: 024994 FORS 3734 Forensic Entomology 124 MAIN BFN 16FORS3734: Student must have passed BLGY1663 and FORS2616 in order to 
+register this module.
+Code: 024995 FORS 3744 Forensic Genetics 124 MAIN BFN 16FORS3744: Student must have passed FORS2616 or GENE2626 with 60% in 
+order to continue with module.
+Code: 024993 FORS 3724 Forensic Chemistry 124 MAIN BFN 16FORS3724: Student must have passed FORS2626 in order to register this 
+module.FACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024171Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 024996 GENE 2616 Human Genetics 124 MAIN BFN 24GENE2616: Student must have passed BLGY1513 and BLGY1623 and one of 
+(MATM1534 or STSA1624) in order to continue with module.
+Code: 022469 GENE 2626 Molecular Genetics 124 MAIN BFN 24GENE2626: Student must have passed GENE2616 in order to continue with 
+module.
+Code: 024959 GENE 3713 Genomics 124 MAIN BFN 12GENE3713: Student must have passed GENE2616 and GENE2626 in order 
+to continue with module.
+Code: 021238 GENE 3733 Behavioural Genetics 124 MAIN BFN 12GENE3733: Student must have passed GENE2616 and GENE2626 in order 
+to continue with module.
+Code: 005292 GENE 3743 Population and Conservation Genetics 124 MAIN BFN 12GENE3743: Student must have passed GENE2616 and GENE2626 in order 
+to continue with module.
+Code: GENE 3703 Applied Genetics 124 MAIN BFN 12GENE3703: Student must have passed GENE2616 and GENE2626 in order 
+to continue with this module.
+Code: 026441 GENE 3764 Genetics in Practice 124 MAIN BFN 16GENE3764: Student must have passed GENE2616 and GENE2626 in order 
+to continue with this module.
+Code: 020443 HMBG 2614 Human Molecular Biology of Dietetics 124 MAIN BFN 16HMBG2614: Student must have passed BLGY1513 in order to continue with 
+module (with Dietetics)
+Code: 022509 HMBG 3744Human Molecular Biology of Immunology and 
+Haemostasis124 MAIN BFN 16HMBG3744: Student must have passed GENE2616 and GENE2626 with an 
+average of 60% in order to continue with module. 
+PGRD YR 028467 FORA 6804 Forensic Chemistry: Literature Review 124 MAIN BFN 16 Selection BScHons
+PGRD YR 028303 FORC 6804 Sport Doping 124 MAIN BFN 16 Selection BScHons
+PGRD YR 026461 FORC 6808 Research Essay: Forensic Chemistry 124 MAIN BFN 32 Selection BScHons 
+PGRD S1 025772 FORC 6814 Advanced Forensic Techniques 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 024961 FORC 6824 Advanced Forensic Techniques 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 025423 FORC 8900 Forensic Chemistry Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD S2 025423 FORC 8900 Forensic Chemistry Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD YR 024954 FORC 9100 Forensic Chemistry Thesis 124 MAIN BFN 360 Selection PhD
+PGRD YR 025425 FORE 8900 Forensic Entomology Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD YR 024955 FORE 9100 Forensic Entomology Thesis 124 MAIN BFN 360 Selection PhD
+PGRD YR 022956 FORG 6808 Forensic Genetics: Research Essay 124 MAIN BFN 32 Selection BScHons 
+PGRD S1 025716 FORG6814/
+FORX6804Research: Literature Study 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 025716 FORG 6814 Forensic Genetics: Literature Study 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 022955 FORG6816/
+6806Forensic Genetics: Research Techniques 124 MAIN BFN 24 Selection BScHons 
+PGRD S2 025717 FORG 6824 Research: Literature Study 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 022958 FORG 6834 Forensic Dna Typing and Quality Assurance 124 MAIN BFN 16 Selection BScHons 
+PGRD S2 025450 FORG6844/
+FORZ6804Forensic Dna Typing and Quality Assurance 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 025499 FORG6854/
+6804Crime Scene Investigation and The Juctice System 124 MAIN BFN 16 Selection BScHons 
+PGRD S2 022959 FORG 6864 Crime Scene Management and The Justice System 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 022961 FORG 6874 Capita Selecta in Forensic Genetics 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 025562 FORG 8900 Forensic Genetics Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD S1 026005 FORG 9100 Forensic Genetics Thesis 124 MAIN BFN 360 Selection PhD
+PGRD YR 026005 FORG 9100 Forensic Genetics Thesis 124 MAIN BFN 360 Selection PhD
+PGRD YR 025426 FORI 8900 Forensic Sciences Interdisciplinary Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD YR 025325 FORI 9100 Forensic Sciences Interdisciplinary Thesis 124 MAIN BFN 360 Selection PhDFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024172Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+PGRD YR 025461 FORS 6808 Forensics Science: Research Report 124 MAIN BFN 32 Selection BScHons
+PGRD S1 024960 FORS 6814 Forensics Science: Literature Study 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 025718 FORS6816/
+6806Research Techniques Forensic Science 124 MAIN BFN 24 Selection BScHons 
+PGRD S2 025771 FORS6824/
+6804Research: Literature Review 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 024966 FORS 6874 Capita Selecta in Forensic Sciences 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 025719 FORS 6884 Capita Selecta in Forensic Sciences 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 024965 FORS 6893 Research: Literature Review 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 025427 FORS 8900 Forensic Sciences Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD S2 025427 FORS 8900 Forensic Sciences Dissertation 124 MAIN BFN 180 Selection PhD
+PGRD S1 025429 FORS 9100 Forensic Science Thesis 124 MAIN BFN 360 Selection PhD
+PGRD YR 025429 FORS 9100 Forensic Science Thesis 124 MAIN BFN 360 Selection MSc
+PGRD S1 025468 GENB 6814 Advanced Behavioural Genetics 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 022520 GENB 8900 Behavioural Genetics Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD YR 022521 GENB 9100 Behavioural Genetics Thesis 124 MAIN BFN 360 Selection PhD
+PGRD YR 020664 GENE 6808 Research Report Genetics 124 MAIN BFN 32 Selection BScHons 
+PGRD S1 025625 GENE 6814 Research Genetics: Literature Review 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 025776 GENE 6816 Research Techniques 124 MAIN BFN 24 Selection BScHons 
+PGRD S2 025721 GENE 6824 Research: Literature Study 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 026502 GENE 6834 Capita Selecta: Genetics 124 MAIN BFN 16 Selection BScHons 
+PGRD S2 022396 GENE 6844 Capita Selecta: Genetics 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 025777 GENE 8900 Genetics Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD YR 025552 GENE 9100 Genetics Thesis 124 MAIN BFN 360 Selection PhD
+PGRD S1 005627 GENH 6814 Advanced Human Genetics 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 025329 GENH 8900 Human Genetics Disseration 124 MAIN BFN 180 Selection MSc
+PGRD YR 024956 GENH 9100 Human Molecular Genetics Thesis 124 MAIN BFN 360 Selection PhD
+PGRD YR 025330 GENI 8900 Genetics Interdisciplinary Dissertation 124 MAIN BFN 180 Selection MSc
+PGRD YR 025416 GENI 9100 Genetics Interdisciplinary Thesis 124 MAIN BFN 360 Selection PhD
+PGRD S1 025466 GENM 6814 Recombinant Dna Technology 124 MAIN BFN 16 Selection BScHons 
+PGRD YR 028374 GENP 6804 Applied Conservation Genetics 124 MAIN BFN 16
+PGRD S2 025501 GENP 6824 Applied Population and Conservation Genetics 124 MAIN BFN 16 Selection BScHons 
+PGRD S1 025502 GENS 6814 Molecular Biosystematics 124 MAIN BFN 16 Selection BScHons 
+PGRD S2 018361 GENS 6824 Molecular Biosystematics 124 MAIN BFN 16 Selection BScHons 
+CONSUMER SCIENCE (102)
+Code: 027325 CNCC 1612 Clothing Construction I 125 MAIN BFN 8 None
+Code: 027326 CNCC 1622 Clothing Construction II 125 MAIN BFN 8 None
+Code: 027327 CNCC 2612 Clothing Construction III 125 MAIN BFN 8 None
+Code: 027521 CNCC 2622 Clothing Construction IV 125 MAIN BFN 8 None
+Code: 027522 CNCC 3712 Clothing Construction V 125 MAIN BFN 8 None
+Code: 027523 CNCC 3722 Clothing Construction VI 125 MAIN BFN 8 None
+Code: 027524 CNCD 3732 Community Development 125 MAIN BFN 8 NoneFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024173Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 019441 CNCR 3764 Research Methodology Consumer Science 125 MAIN BFN 16 None
+Code: 025196 CNCS 4809 Research Project 125 MAIN BFN 36 None
+Code: 025109 CNCS 4814The Early History of Textiles, Clothing, Interiors Or 
+Foods125 MAIN BFN 16 None
+Code: 025108 CNCS 4824The Recent History of Textiles, Clothing, Interiors Or 
+Foods125 MAIN BFN 16 None
+Code: 027328 CNSF 1614 Introductory Food I 125 MAIN BFN 16 None
+Code: 023985 CNSF 2624 Food Preparation I 125 MAIN BFN 16 None
+Code: 025143 CNSF 3724 Food Preservation 125 MAIN BFN 12 None
+Code: 025170 CNSF 3744 Meal Planning 125 MAIN BFN 16 None
+Code: 025085 CNFD 4808 Consumer Analysis of Foods 125 MAIN BFN 32 None
+Code: 027330 CNSF 2613 Food Security I 125 MAIN BFN 12 None
+Code: 027525 CNFS 2623 Food Security II 125 MAIN BFN 12CNFS2623: Student must have passed AGEC1514 in order to continue with 
+module.
+Code: 027526 CNFS 3714 Food Security III 125 MAIN BFN 16CNFS3714: Student must have passed CNFS2613 and CNFS2623 in order to 
+continue with module.
+Code: 027527 CNFS 3724 Food Security IV 125 MAIN BFN 16CNFS3724: Student must have passed CNFS2613 and CNFS2623 in order to 
+continue with module.
+Code: 025808 CNOT 2614 Skills 125 MAIN BFN 16 None
+Code: 027528 CNSB 1614 Consumer Behaviour I 125 MAIN BFN 16 None
+Code: 027529 CNSB 1624 Consumer Behaviour II 125 MAIN BFN 16 None
+Code: 027530 CNSB 2614 Cosumer Behaviour III 125 MAIN BFN 16CNSB2614: Student must have passed CNSB1614 and CNSB1624 in order to 
+continue with module.
+Code: 023981 CNSB 2624 Consumer Behaviour IV 125 MAIN BFN 16
+Code: 027531 CNSB 3714 Consumer Behaviour V 125 MAIN BFN 16CNSB3714: Student must have passed CNSB2614 in order to continue with 
+module.
+Code: 025087 CNSB 3724 Consumer Behaviour VI 125 MAIN BFN 16CNSB3724: Student must have passed CNSB3714 in order to continue with 
+this module.
+Code: 023983 CNSF 2614 Food III 125 MAIN BFN 16CNSF2614: Student must have passed CNSF1614 and CNSF1624 in order to 
+continue with module.
+Code: 027532 CNSF 3714 Food V 125 MAIN BFN 16CNSF3714: Student must have passed CNSF2614 and CNSF2624 in order to 
+continue with module.
+Code: 027533 CNSF 3724 Food VI 125 MAIN BFN 16 None
+Code: 027534 CNSI 1612 Interior I 125 MAIN BFN 8 None
+Code: 027535 CNSI 1622 Interior II 125 MAIN BFN 16CNSI1622: Student must have passed CNSI1612 in order tocontinue with 
+module.
+Code: 027536 CNSI 2612 Interior III 125 MAIN BFN 8
+Code: 027537 CNSI 2622 Interior IV 125 MAIN BFN 8CNSI2622: Student must have passed CNSI1622 in order to continue with 
+module.
+Code: 025110 CNSI 3712 Interior V 125 MAIN BFN 8CNSI3712: Student must have passed CNSI2622 in order to continue with 
+module.
+Code: 025111 CNSI 3722 Interior VI 125 MAIN BFN 8CNSI3722: Student must have passed CNSI3712 in order to continue with 
+module.
+Code: 025067 CNST 3734 Apparel Industry 125 MAIN BFN 16 None
+Code: 025083 CNST 4814 Clothing Industry 125 MAIN BFN 16 Selection BScHons
+Code: 025199 CNST 4824 Quality Management in The Clothing Industry 125 MAIN BFN 16 Selection BScHons
+Code: 025125 CNST 4834 Social Aspects of Clothing 125 MAIN BFN 16 Selection BScHonsFACULTY OF NATURAL AND AGRICULTURAL SCIENCES  |  RULE BOOK 2024174Career Session Course ID Module code Course Long TitleAcad 
+OrgCampus Location Credits Prerequisites
+Code: 025200 CNST 4844 Psychological Aspects of Clothing 125 MAIN BFN 16 Selection BScHons
+Code: 025175 CNST 4854 Natural Textile Fibres 125 MAIN BFN 16 Selection BScHons
+Code: 025141 CNST 4864 Finishes for Natural Textile Fibres 125 MAIN BFN 16 Selection BScHons
+PGRD S1 026418 CNCS 6814The Early History of Textiles, Clothing, Interior Or 
+Foods125 MAIN BFN 16 Selection BScHons 
+PGRD S2 025525 CNCS 8900 Consumer Science Dissertation 125 MAIN BFN 180 Selection MSc
+PGRD YR 025086 CNCS 9100 Consumer Sciences Thesis 125 MAIN BFN 360 Selection PhD
+PGRD S1 026423 CNST 6834 Social Aspects of Clothing 125 MAIN BFN 16 Selection BScHons
+PGRD S2 026424 CNST 6844 Psychological Aspects of Clothing 125 MAIN BFN 16 Selection BScHons
+PGRD S1 026425 CNST 6854 Natural Textile Fibres 125 MAIN BFN 16 Selection BScHons
+PGRD S2 026426 CNST 6864 Finishes for Natural Textile Fibres 125 MAIN BFN 16 Selection BScHons
