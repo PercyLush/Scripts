@@ -10,7 +10,7 @@ with open(path, "r", encoding="utf-8") as file1, open(path2, "r", encoding="utf-
     data2 = json.load(file2)
 
     # Create a lookup dictionary from the second file for quick access
-    code_to_name = {item2["Code"]: item2["Name"] for item2 in data2 if "Code" in item2 and "Name" in item2}
+    code_to_name = {item2["Code"]: item2["Name"] for item2 in data2 if ("Code" in item2 and "Name" in item2) or "Name" not in item}
 
     # Update the 'Name' field in the first file based on matching 'Code'
     for item in data:

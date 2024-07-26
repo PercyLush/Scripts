@@ -9,5 +9,7 @@ with open(path, "r", encoding="utf-8") as file1:
         if "Code" in item and "Name" in item:
             if item["Code"] == item["Name"]:
                 Text += f"{item['Code']}\n"
+        if "Name" not in item:
+            Text += f"{item['Code']} No Name\n"
 with open("C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\UFS_Duplicated_Codes+Names.txt", "w", encoding="utf-8") as file2:
     file2.write(Text)
