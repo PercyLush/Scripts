@@ -41,16 +41,12 @@ def read_json_files_from_folder(folder_path):
             data.extend(json.load(file))
     return data
 
-# Specify the folder containing the JSON files
 folder_path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final"
 
-# Read data from all JSON files in the folder
 data = read_json_files_from_folder(folder_path)
 
-# Validate the assessments
 invalid_assessments = assessment_validate(data)
 
-# Write the results to a text file
 output_file_path = "C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\Assessment_Validate.txt"
 with open(output_file_path, "a", encoding="utf-8") as file2:
     file2.write(invalid_assessments)
