@@ -1,0 +1,77 @@
+Code: SFIF 1513
+Name: Introduction to Food Systems
+
+Code: SFFS 1513
+Name: Food Safety: Fundamental Food Compliance
+
+Code: SFNH 1513
+Name: Food Systems for Nutrition and Health
+
+Code: SFCF 1513
+Name: Introduction to the Components of Food
+
+Code: SFEC 1513
+Name: The Economics of Sustainable Food Systems
+
+Code: SFSF 1523
+Name: Sustainable Food Systems
+
+Code: SFPP 1623
+Name: Sustainable Food Production: Processes and Principles I
+
+Code: SFHN 1523
+Name: Human Nutrition
+
+Code: SFFD 1623
+Name: Food Dispersions
+
+Code: SFFO 1523
+Name: Food Operations and Supply Chain Management
+
+Code: SFFS 2613
+Name: Food and Nutrition Security
+
+Code: SFPP 2613
+Name: Sustainable Food Production: Processes and Principles II
+
+Code: SFPV 2613
+Name: Food Processing I
+
+Code: SFMB 2613
+Name: Food Marketing and Branding
+
+Code: SFAI 2613
+Name: Agricultural Innovation Systems
+
+Code: SFSS 2623
+Name: Food Security and Sustainability
+
+Code: SFPT 2623
+Name: Food Production Processes and Technology
+
+Code: SFPD 2623
+Name: Food Processing II
+
+Code: SFAP 2623
+Name: Food and Agriculture Policy
+
+Code: SFCF 2623
+Name: Communication and Facilitation of Sustainable Development
+
+Code: SFRF 3713
+Name: Regenerative Food Systems
+
+Code: SFPD 3713
+Name: Food Product Development, Sensory Analysis and Gastronomy
+
+Code: SFPM 3713
+Name: Food Processing III
+
+Code: SFCB 3713
+Name: Consumer Behaviour and Food Consumption Trends
+
+Code: CNFS 2623
+Name: Food Security II
+
+Code: BARR 1512
+Name: Architecture

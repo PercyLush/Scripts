@@ -1,0 +1,360 @@
+Nelson Mandela Metropolitan University-ECC201 
+Nelson Mandela Metropolitan University-YMES100 
+North West University-IURI371 
+North West University-ECIE121 
+North West University-ECOA311 
+North West University-ECOO311 
+North West University-ECOT311 
+North West University-ECOX311 
+North West University-ALDE122 
+North West University-EAGR271 
+North West University-BMAN214 
+Rhodes University-HKE301 
+Rhodes University-HKE302 
+Rhodes University-STA1S1 
+Stellenbosch University-12084-114 
+University of Cape Town-AGE4000W Weight not available
+University of Cape Town-AGE4000W Weight not available
+University of Cape Town-AGE4000W Weight not available
+University of Cape Town-AGE4000W 
+University of Cape Town-CHE1005W 
+University of Cape Town-CHE3006F 
+University of Cape Town-CHE4049F 
+University of Cape Town-ACC1012S Weight not available
+University of Cape Town-ACC1012S 
+University of Cape Town-BUS4030H Weight not available
+University of Cape Town-BUS4030H 
+University of Cape Town-AGE4001W Weight not available
+University of Cape Town-AGE4001W Weight not available
+University of Cape Town-AGE4001W 
+University of Cape Town-BUS4006W Weight not available
+University of Cape Town-BUS4006W 
+University of Cape Town-CHE3008S 
+University of Cape Town-AST5000W 
+University of Cape Town-AST6000W 
+University of Cape Town-CHE3000X 
+University of Cape Town-CHE4036Z 
+University of Cape Town-AGE5000W 
+University of Cape Town-CHE2000X 
+University of Cape Town-CHE3007S 
+University of Cape Town-CHE4048F 
+University of Cape Town-AGE6000W 
+University of Cape Town-CHE2005W 
+University of Cape Town-CHE2006S 
+University of Cape Town-FIN2029F 
+University of Cape Town-EGS3021F 
+University of Cape Town-EEE2041F 
+University of Cape Town-MAM3041H Weight not available
+University of Cape Town-MAM3041H 
+University of Cape Town-MAM1031F 
+University of Cape Town-HUB2019F Weight not available
+University of Cape Town-HUB2019F 
+University of Cape Town-MAM2084S Weight not available
+University of Cape Town-MAM2084S Weight not available
+University of Cape Town-MAM2084S 
+University of Cape Town-MAM2085S Weight not available
+University of Cape Town-MAM2085S Weight not available
+University of Cape Town-MAM2085S 
+University of Cape Town-MAM2084F Weight not available
+University of Cape Town-MAM2084F Weight not available
+University of Cape Town-MAM2084F 
+University of Cape Town-MAM2083F Weight not available
+University of Cape Town-MAM2083F Weight not available
+University of Cape Town-MAM2083F 
+University of Cape Town-MAM2083S Weight not available
+University of Cape Town-MAM2083S Weight not available
+University of Cape Town-MAM2083S 
+University of Cape Town-MAM2085F Weight not available
+University of Cape Town-MAM2085F Weight not available
+University of Cape Town-MAM2085F 
+University of Cape Town-MUZ4378L Weight not available
+University of Cape Town-MUZ4378L 
+University of Cape Town-MUZ3370H Weight not available
+University of Cape Town-MUZ3370H 
+University of Cape Town-SLL3062F 
+University of Cape Town-SLL1060F 
+University of Cape Town-SLL2062F 
+University of Cape Town-SLL3073F 
+University of Cape Town-SWK3075S Weight not available
+University of Cape Town-SWK3075S 
+University of Cape Town-GSB3003F Weight not available
+University of Cape Town-GSB3003F 
+University of Cape Town-AHS1061F 
+University of Cape Town-GSB3006F Weight not available
+University of Cape Town-GSB3006F 
+University of Cape Town-GSB3007F Weight not available
+University of Cape Town-GSB3007F 
+University of Cape Town-MAM1032S 
+University of Cape Town-FCE6000W 
+University of Cape Town-AHS1060F 
+University of Cape Town-HSE4010Q/R Weight not available
+University of Cape Town-HSE4010Q/R 
+University of Cape Town-FCE6005W 
+University of Cape Town-AHS1032S 
+University of Cape Town-BUS4006W Weight not available
+University of Cape Town-BUS4006W 
+University of Cape Town-BUS4030H Weight not available
+University of Cape Town-BUS4030H 
+University of Cape Town-FIN2029F 
+University of Cape Town-HUB2019F Weight not available
+University of Cape Town-HUB2019F 
+University of Cape Town-MAM3041H Weight not available
+University of Cape Town-MAM3041H 
+University of Cape Town-MUZ4378L Weight not available
+University of Cape Town-MUZ4378L 
+University of Cape Town-MUZ3370H Weight not available
+University of Cape Town-MUZ3370H 
+University of Cape Town-SWK3075S Weight not available
+University of Cape Town-SWK3075S 
+University of Cape Town-GSB3007F Weight not available
+University of Cape Town-GSB3007F 
+University of Cape Town-GSB3006F Weight not available
+University of Cape Town-GSB3006F 
+University of Cape Town-SLL2062F 
+University of Cape Town-SLL3073F 
+University of Cape Town-GSB3003F Weight not available
+University of Cape Town-GSB3003F 
+University of Cape Town-SLL1060F 
+University of Cape Town-SLL3062F 
+University of Cape Town-AHS4066F Weight not available
+University of Cape Town-AHS4066F 
+University of Cape Town-AHS1064F 
+University of Cape Town-HSE1001F Weight not available
+University of Cape Town-HSE1001F 
+University of Cape Town-AHS1061F 
+University of Cape Town-AHS1060F 
+University of Cape Town-AHS1063F 
+University of Johannesburg-CMA03A3 
+University of Johannesburg-FNM03A3 
+University of Johannesburg-TOU22B2 
+University of Johannesburg-INL100 
+University of Johannesburg-CPSELA1 
+University of Johannesburg-CPSTRA1 
+University of Johannesburg-BHS3B01 Weight not available
+University of Johannesburg-BHS3B01 
+University of Johannesburg-EKA3B21 Weight not available
+University of Johannesburg-EKA3B21 
+University of Johannesburg-SIG3B01 Weight not available
+University of Johannesburg-SIG3B01 
+University of Johannesburg-SST3A11 Weight not available
+University of Johannesburg-SST3A11 
+University of Johannesburg-TEL3B01 Weight not available
+University of Johannesburg-TEL3B01 
+University of Johannesburg-BAAH7A2 Weight not available
+University of Johannesburg-BAAH7A2 
+University of Johannesburg-MFSPZY4 Weight not available
+University of Johannesburg-MFSPZY4 
+University of Johannesburg-MDG3BB3 
+University of Johannesburg-FAC11B1 Weight not available
+University of Johannesburg-FAC11B1 
+University of Johannesburg-GLG01A1 
+University of Johannesburg-GLG22A2 
+University of Johannesburg-GLG02B2 
+University of Johannesburg-GLG10A3 
+University of Johannesburg-GLG20A3 
+University of Johannesburg-STA01A1 
+University of Johannesburg-SOF1AA1 Weight not available
+University of Johannesburg-SOF1AA1 Weight not available
+University of Johannesburg-SOF1AA1 Weight not available
+University of Johannesburg-SOF1AA1 
+University of Johannesburg-ZUF1BB1 Weight not available
+University of Johannesburg-ZUF1BB1 Weight not available
+University of Johannesburg-ZUF1BB1 Weight not available
+University of Johannesburg-ZUF1BB1 
+University of Johannesburg-ZUF1AA1 Weight not available
+University of Johannesburg-ZUF1AA1 Weight not available
+University of Johannesburg-ZUF1AA1 Weight not available
+University of Johannesburg-ZUF1AA1 
+University of Johannesburg-SOF1BB1 Weight not available
+University of Johannesburg-SOF1BB1 Weight not available
+University of Johannesburg-SOF1BB1 Weight not available
+University of Johannesburg-SOF1BB1 
+University of Johannesburg-ZFP2AA2 Weight not available
+University of Johannesburg-ZFP2AA2 Weight not available
+University of Johannesburg-ZFP2AA2 Weight not available
+University of Johannesburg-ZFP2AA2 
+University of Johannesburg-SOF2AA2 Weight not available
+University of Johannesburg-SOF2AA2 Weight not available
+University of Johannesburg-SOF2AA2 Weight not available
+University of Johannesburg-SOF2AA2 
+University of Johannesburg-SZF2AA2 Weight not available
+University of Johannesburg-SZF2AA2 Weight not available
+University of Johannesburg-SZF2AA2 Weight not available
+University of Johannesburg-SZF2AA2 
+University of Johannesburg-ZSF2AA2 Weight not available
+University of Johannesburg-ZSF2AA2 Weight not available
+University of Johannesburg-ZSF2AA2 Weight not available
+University of Johannesburg-ZSF2AA2 
+University of Johannesburg-ZFP3AA3 Weight not available
+University of Johannesburg-ZFP3AA3 Weight not available
+University of Johannesburg-ZFP3AA3 Weight not available
+University of Johannesburg-ZFP3AA3 
+University of Johannesburg-SFP3AA3 Weight not available
+University of Johannesburg-SFP3AA3 Weight not available
+University of Johannesburg-SFP3AA3 Weight not available
+University of Johannesburg-SFP3AA3 
+University of Johannesburg-ZUF3AA3 Weight not available
+University of Johannesburg-ZUF3AA3 Weight not available
+University of Johannesburg-ZUF3AA3 Weight not available
+University of Johannesburg-ZUF3AA3 
+University of Johannesburg-SOF3AA3 Weight not available
+University of Johannesburg-SOF3AA3 Weight not available
+University of Johannesburg-SOF3AA3 Weight not available
+University of Johannesburg-SOF3AA3 
+University of Johannesburg-ZFP3BB3 Weight not available
+University of Johannesburg-ZFP3BB3 Weight not available
+University of Johannesburg-ZFP3BB3 Weight not available
+University of Johannesburg-ZFP3BB3 
+University of Johannesburg-SFP3BB3 Weight not available
+University of Johannesburg-SFP3BB3 Weight not available
+University of Johannesburg-SFP3BB3 Weight not available
+University of Johannesburg-SFP3BB3 
+University of Johannesburg-ZUF3BB3 Weight not available
+University of Johannesburg-ZUF3BB3 Weight not available
+University of Johannesburg-ZUF3BB3 Weight not available
+University of Johannesburg-ZUF3BB3 
+University of Johannesburg-SOF3BB3 Weight not available
+University of Johannesburg-SOF3BB3 Weight not available
+University of Johannesburg-SOF3BB3 Weight not available
+University of Johannesburg-SOF3BB3 
+University of Johannesburg-ZLU1AA1 Weight not available
+University of Johannesburg-ZLU1AA1 
+University of Johannesburg-SOI1AA1 Weight not available
+University of Johannesburg-SOI1AA1 
+University of Johannesburg-ZUI1BB1 Weight not available
+University of Johannesburg-ZUI1BB1 
+University of Johannesburg-SOI1BB1 Weight not available
+University of Johannesburg-SOI1BB1 
+University of Johannesburg-ZUI2AA2 Weight not available
+University of Johannesburg-ZUI2AA2 
+University of Johannesburg-SOI2AA2 Weight not available
+University of Johannesburg-SOI2AA2 
+University of Johannesburg-ZUI2BB2 Weight not available
+University of Johannesburg-ZUI2BB2 
+University of Johannesburg-SOIBB2 Weight not available
+University of Johannesburg-SOIBB2 
+University of Johannesburg-AFIAA2 Weight not available
+University of Johannesburg-AFIAA2 Weight not available
+University of Johannesburg-AFIAA2 Weight not available
+University of Johannesburg-AFIAA2 Weight not available
+University of Johannesburg-AFIAA2 
+University of Johannesburg-AFIBB2 Weight not available
+University of Johannesburg-AFIBB2 Weight not available
+University of Johannesburg-AFIBB2 Weight not available
+University of Johannesburg-AFIBB2 Weight not available
+University of Johannesburg-AFIBB2 
+University of Johannesburg-ZLU3BB3 Weight not available
+University of Johannesburg-ZLU3BB3 Weight not available
+University of Johannesburg-ZLU3BB3 Weight not available
+University of Johannesburg-ZLU3BB3 
+University of Johannesburg-SOI3BB3 Weight not available
+University of Johannesburg-SOI3BB3 Weight not available
+University of Johannesburg-SOI3BB3 Weight not available
+University of Johannesburg-SOI3BB3 
+University of Johannesburg-ZUI3AA3 Weight not available
+University of Johannesburg-ZUI3AA3 Weight not available
+University of Johannesburg-ZUI3AA3 Weight not available
+University of Johannesburg-ZUI3AA3 
+University of Johannesburg-SOI3AA3 Weight not available
+University of Johannesburg-SOI3AA3 Weight not available
+University of Johannesburg-SOI3AA3 Weight not available
+University of Johannesburg-SOI3AA3 
+University of Johannesburg-ZUI3BB3 Weight not available
+University of Johannesburg-ZUI3BB3 Weight not available
+University of Johannesburg-ZUI3BB3 Weight not available
+University of Johannesburg-ZUI3BB3 
+University of Johannesburg-AFIAA3 Weight not available
+University of Johannesburg-AFIAA3 Weight not available
+University of Johannesburg-AFIAA3 Weight not available
+University of Johannesburg-AFIAA3 Weight not available
+University of Johannesburg-AFIAA3 
+University of Johannesburg-AFIBB3 Weight not available
+University of Johannesburg-AFIBB3 Weight not available
+University of Johannesburg-AFIBB3 Weight not available
+University of Johannesburg-AFIBB3 Weight not available
+University of Johannesburg-AFIBB3 
+University of Johannesburg-TST00Y4 Weight not available
+University of Johannesburg-TST00Y4 
+University of Johannesburg-MOFPAY4 Weight not available
+University of Johannesburg-MOFPAY4 
+University of Johannesburg-MFSPAY4 Weight not available
+University of Johannesburg-MFSPAY4 
+University of Johannesburg-MOFPBY4 Weight not available
+University of Johannesburg-MOFPBY4 
+University of Johannesburg-MOFPCY4 Weight not available
+University of Johannesburg-MOFPCY4 
+University of Johannesburg-MOFPEY4 Weight not available
+University of Johannesburg-MOFPEY4 
+University of Johannesburg-MFSPTY4 Weight not available
+University of Johannesburg-MFSPTY4 
+University of Johannesburg-MFSPEY4 Weight not available
+University of Johannesburg-MFSPEY4 
+University of Johannesburg-MOFPGY4 Weight not available
+University of Johannesburg-MOFPGY4 
+University of Johannesburg-MOFPOY4 Weight not available
+University of Johannesburg-MOFPOY4 
+University of Johannesburg-MOFPHY4 Weight not available
+University of Johannesburg-MOFPHY4 
+University of Johannesburg-MFSPLY4 Weight not available
+University of Johannesburg-MFSPLY4 
+University of Johannesburg-MOFPLY4 Weight not available
+University of Johannesburg-MOFPLY4 
+University of Johannesburg-MFSPMY4 Weight not available
+University of Johannesburg-MFSPMY4 
+University of Johannesburg-MOFPPY4 Weight not available
+University of Johannesburg-MOFPPY4 
+University of Johannesburg-MOFPTY4 Weight not available
+University of Johannesburg-MOFPTY4 
+University of Johannesburg-MOFPVY4 Weight not available
+University of Johannesburg-MOFPVY4 
+University of Johannesburg-MOFPXY4 Weight not available
+University of Johannesburg-MOFPXY4 
+University of Johannesburg-MOFPSY4 Weight not available
+University of Johannesburg-MOFPSY4 
+University of Johannesburg-MOFPIY4 Weight not available
+University of Johannesburg-MOFPIY4 
+University of KwaZulu-Natal-ENAG1DE 
+University of KwaZulu-Natal-ENME1EM 
+University of KwaZulu-Natal-PHYS120 
+University of KwaZulu-Natal-ENME2WS 
+University of KwaZulu-Natal-ENME4VW 
+University of KwaZulu-Natal-LAWS4PT 
+University of KwaZulu-Natal-LAWS4RP Weight not available
+University of KwaZulu-Natal-LAWS4RP Weight not available
+University of KwaZulu-Natal-LAWS4RP Weight not available
+University of KwaZulu-Natal-LAWS4RP Weight not available
+University of KwaZulu-Natal-LAWS4RP 
+University of KwaZulu-Natal-LAWS2LR 
+University of KwaZulu-Natal-POLS206 Weight not available
+University of KwaZulu-Natal-POLS206 Weight not available
+University of KwaZulu-Natal-POLS206 
+University of KwaZulu-Natal-EDTP220 Weight not available
+University of KwaZulu-Natal-EDTP220 Weight not available
+University of KwaZulu-Natal-EDTP220 
+University of KwaZulu-Natal-EDGG201 
+University of KwaZulu-Natal-EDHS201 
+University of KwaZulu-Natal-EDHS301 
+University of KwaZulu-Natal-EDHS401 
+University of KwaZulu-Natal-EDCM101 
+University of Limpopo-SMIB022 
+University of Pretoria-TXA201 
+University of Pretoria-WST143 
+University of Pretoria-CPB410 Weight not available
+University of Pretoria-CPB410 Weight not available
+University of Pretoria-CPB410 Weight not available
+University of Pretoria-CPB410 
+University of Pretoria-TPE420 
+University of Pretoria-ZEN161 
+University of Pretoria-MDW420 
+University of South Africa-MNM2607 
+University of the Witwatersrand-MATH1036A 
+University of the Witwatersrand-EDUC4214A 
+University of the Witwatersrand-EDUC4266A 
+University of the Witwatersrand-PHYS1026A 
+University of Western Cape-HUM100 Weight not available
+University of Western Cape-HUM100 Weight not available
+University of Western Cape-HUM100 
+University of Western Cape-ECO152 
+University of Western Cape-FIA241 
+University of Western Cape-ESC111 
+University of Western Cape-MAT105 

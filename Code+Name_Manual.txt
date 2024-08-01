@@ -1,0 +1,435 @@
+Code: EECF1614
+Name: Economic Systems and Basic Microeconomics
+
+Code: EECF1624
+Name: Introduction to Macroeconomics
+
+Code: EECF1625
+Name: Introduction to Macroeconomics
+
+Code: EECP1514
+Name: Economics for Public Managers
+
+Code: EMIC2714
+Name: Microeconomics
+
+Code: EMAC2724
+Name: Macroeconomics
+
+Code: EINT3714
+Name: International Economics
+
+Code: EECT3724
+Name: South African Macroeconomic Policy Issues
+
+Code: EECM3714
+Name: Introduction to Mathematical Economics
+
+Code: EECM3724
+Name: Statistics for Economics
+
+Code: EFEF1624
+Name: Personal Finance
+
+Code: EFES2714
+Name: Money and Interest Rates
+
+Code: EFES2724
+Name: Financial Instruments, Markets and Institutions
+
+Code: EFET3714
+Name: Investment Management
+
+Code: EFET3724
+Name: Risk Management in Banking
+
+Code: EDEV3722
+Name: Development Economics
+
+Code: ELAB3712
+Name: Labour Economics 1
+
+
+Code: EBUS1514
+Name: Business Functions
+
+Code: EBMA1514
+Name: Introduction to Marketing
+
+Code: EBUS1624
+Name: General Management
+
+Code: EBUS1614
+Name: Business Dynamics
+
+Code: EBMA2624
+Name: Personal Selling
+
+Code: EFMA2614
+Name: Basic Financial Management
+
+Code: EBMA3725
+Name: Digital Marketing
+
+Code: EBMA3715
+Name: Strategic Marketing
+
+Code: EBMA3724
+Name: Relationship Marketing
+
+Code: ESBM2724
+Name: Small Business Management
+
+Code: EMAR3714
+Name: Market Research
+
+Code: EBUS2714
+Name: Entrepreneurship
+
+Code: EBUS2715
+Name: Strategic Management
+
+
+Code: EHRM1514
+Name: Introduction to Human Resources Management
+
+Code: EIOP1524
+Name: Introduction to Individual Differences
+
+Code: ECAP2614
+Name: Career Psychology
+
+Code: EIPS2624
+Name: Introduction to Psychometrics
+
+Code: ELRM2624
+Name: Labour Relations Management
+
+Code: EEBE3714
+Name: Business Ethics for HRM and IOP
+
+Code: ELED3714
+Name: Leadership in HR and IOP
+
+Code: EPFM3724
+Name: Performance and Talent Management
+
+Code: ESTT3724
+Name: Systems Thinking
+
+Code: EORG3715
+Name: Organisational Psychology
+
+Code: EARH3724
+Name: Applied Research for HRM and IOP
+
+
+Code: EACC1614
+Name: Accounting
+
+Code: EACC1624
+Name: Accounting
+
+Code: EACC2608
+Name: Accounting
+
+Code: EACC3708
+Name: Accounting
+
+Code: EMAF2614
+Name: Managerial Accounting
+
+Code: EMNF2624
+Name: Managerial Finance
+
+Code: EFIN1614
+Name: Financial Accounting
+
+Code: EFIN1624
+Name: Financial Accounting
+
+Code: EFIN2708
+Name: Financial Accounting
+
+Code: EFIN3708
+Name: Financial Accounting
+
+Code: EMAF3708
+Name: Managerial Accounting and Managerial Finance
+
+Code: EMFMF2708
+Name: Managerial Accounting and Financial Management
+
+Code: EMFM3708
+Name: Managerial Accounting and Financial Management
+
+Code: EOEC2614
+Name: Organisational Ethics and Citizenship
+
+Code: EACG2708
+Name: Auditing and Corporate Governance
+
+Code: EACG3708
+Name: Auditing and Corporate Governance
+
+Code: ESVC3712
+Name: Sustainable Value Creation
+
+Code: ETXN2624
+Name: Taxation
+
+Code: ETXN2708
+Name: Taxation
+
+Code: ETXN3708
+Name: Taxation
+
+Code: ETAX3708
+Name: Taxation
+
+Code: EIDE1624
+Name: Information and Digital Environment for Accounting
+
+Code: EIDE2724
+Name: Information and Digital Environment for Accounting
+
+Code: ERRK1624
+Name: Accounting for the Legal Profession
+
+
+Code: EPAM1514
+Name: Public Administration and Management Theories
+
+Code: EPAM1624
+Name: Public Administration and Management in Action
+
+Code: EPCS1514
+Name: Political Environment for Civil Servants
+
+Code: EPAM2614
+Name: Micro- and Macro-organisational Analysis
+
+Code: EMMA2624
+Name: The Local Government Policy and Legislative Environment
+
+Code: EMMA3714
+Name: Contemporary Issues in Local Government
+
+Code: EPAM3714
+Name: Public Financial Management
+
+Code: EMMA3725
+Name: Municipal Finances
+
+Code: EPAM3725
+Name: Public Policy Administration and Management
+
+Code: EPAL3714
+Name: Public Administration and Management Law
+
+Code: ESCM2714
+Name: Supply Chain Management
+
+Code: ESCM2724
+Name: Supply Chain Management
+
+Code: EMEP2624
+Name: Monitoring and Evaluation in the Public Sector
+
+
+Code: EBCS1514
+Name: Business Calculations
+
+Code: EBCS1524
+Name: Business Calculations
+
+Code: EQMB1514
+Name: Quantitative Methods for Business
+
+Code: EQMB1524
+Name: Quantitative Methods for Business
+
+Code: EDAB2714
+Name: Introduction to Data Analytics for Business
+
+Code: EDAB2724
+Name: Data Analytics for Business
+
+Code: UFSS1508
+Name: Undergraduate Core Curriculum
+
+
+
+Code: MPSY1513
+Name: Health Psychology
+
+Code: MDOC1513
+Name: The Doctor and the Environment
+
+Code: MCHD1513
+Name: Concepts of Health and Disease
+
+Code: MHIS1513
+Name: Tissues of the Body
+
+Code: MANA1513
+Name: Structure and Development of the Body
+
+Code: MGEN1513
+Name: General Skills
+
+Code: MMEM1620
+Name: Membranes, Receptors and Principles of Pharmacotherapy
+
+Code: MMEM2618
+Name: Membranes, Receptors and Principles of Pharmacotherapy
+
+Code: MANA1620
+Name: Structure and Development of the Body
+
+Code: MANA2618
+Name: Structure and Development of the Body
+
+Code: MMOL1620
+Name: Molecules of the Body Metabolism
+
+Code: MMOL2618
+Name: Molecules of the Body Metabolism
+
+Code: MDIS2614
+Name: Mechanisms of Disease
+
+Code: MINF2614
+Name: Infections and Antimicrobial Drugs
+
+Code: MSSM1620
+Name: Epidemiology, Biostatistics and Special Study Module (SSM)
+
+Code: MSSM2613
+Name: Epidemiology, Biostatistics and Special Study Module (SSM)
+
+Code: MURI2724
+Name: Urinary System
+
+Code: MHAE2724
+Name: Haematology and Immunology
+
+Code: MRES3714
+Name: Respiratory System
+
+Code: MHEA3714
+Name: Health and Disease in Populations
+
+Code: MCAR2724
+Name: Cardiovascular System
+
+Code: MNER3714
+Name: Nervous System
+
+Code: MGEN2724
+Name: Genital System
+
+Code: MEND3714
+Name: Endocrine System
+
+Code: MGAS2724
+Name: Gastrointestinal System
+
+Code: METH3714
+Name: Human Diversity, Human Rights and Legal Ethics
+
+Code: MSSM2720
+Name: Epidemiology, Biostat. and SSM
+
+Code: MSSM3712
+Name: Epidemiology, Biostat. and SSM
+
+Code: MCLI2720
+Name: Clinical Skills
+
+Code: MCLI2720
+Name: Clinical Skills
+
+Code: MHEL3823
+Name: Health Policy and Service Provision
+
+Code: MINT3820
+Name: Internal Medicine (Psychiatry)
+
+Code: MSUR3820
+Name: Surgery (Anaesthesiology)
+
+Code: MPAE3823
+Name: Paediatrics
+
+Code: MOBG3823
+Name: Obstetrics and Gynaecology
+
+Code: MPSY3820
+Name: Psychiatry
+
+Code: MINT4810
+Name: Internal Medicine
+
+Code: MSUR4810
+Name: Surgery (Otorhinolaryngology / Ophthalmology / Orthopaedics)
+
+Code: MPAE4818
+Name: Paediatrics
+
+Code: MOBG4818
+Name: Obstetrics and Gynaecology
+
+Code: MPSY4818
+Name: Psychiatry (Oncology)
+
+Code: MINT4820
+Name: Internal Medicine
+
+Code: MSUR4820
+Name: Surgery (Otorhinolaryngology / Ophthalmology / Orthopaedics)
+
+Code: MPAE4828
+Name: Paediatrics
+
+Code: MOBG4828
+Name: Obstetrics and Gynaecology
+
+Code: MPSY4828
+Name: Psychiatry (Oncology)
+
+Code: MIAM5810
+Name: Internal Medicine and Anaesthesiology
+
+Code: MSUR5810
+Name: Surgery (Orthopaedics, Urology and Trauma)
+
+Code: MPAE5816
+Name: Paediatrics
+
+Code: MOBG5816
+Name: Obstetrics and Gynaecology
+
+Code: MFAM5818
+Name: Family Medicine
+
+Code: MPSY5814
+Name: Psychiatry
+
+Code: MIAM5820
+Name: Internal Medicine and Anaesthesiology
+
+Code: MSUR5820
+Name: Surgery (Orthopaedics, Urology and Trauma)
+
+Code: MPAE5826
+Name: Paediatrics
+
+Code: MOBG5826
+Name: Obstetrics and Gynaecology
+
+Code: MFAM5828
+Name: Family Medicine
+
+Code: MPSY5824
+Name: Psychiatry
