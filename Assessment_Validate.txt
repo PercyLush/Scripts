@@ -1,3 +1,6 @@
+North West University-IURI413 
+North West University-IURA414 
+North West University-ECON314 
 University of Cape Town-AGE4000W Weight not available
 University of Cape Town-AGE4000W Weight not available
 University of Cape Town-AGE4000W Weight not available
@@ -133,5 +136,4 @@ University of KwaZulu-Natal-EDHS301
 University of KwaZulu-Natal-EDHS401 
 University of KwaZulu-Natal-EDCM101 
 University of Pretoria-RRP200 
-University of Pretoria-GNK683 
 University of South Africa-MNM2607 
