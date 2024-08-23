@@ -1,7 +1,7 @@
 import json
 import re
 
-path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University Of Pretoria.json"
+path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University of the Witwatersrand.json"
 
 with open(path, "r", encoding = "utf-8") as file1:
     data = json.load(file1)
@@ -13,21 +13,24 @@ with open(path, "r", encoding = "utf-8") as file1:
 
         if "DueDate" in assessment:
             pattern = r"(\d{4}-\d{2}-\d{2})"
-            match = re.search(pattern, assessment["DueDate"])
+            try:
+                match = re.search(pattern, assessment["DueDate"])
 
-            if match:
-                duedate = assessment["DueDate"].split("-")
-                year = duedate[0]
-                month = duedate[1]
-                day = duedate[2]
+                if match:
+                    duedate = assessment["DueDate"].split("-")
+                    year = duedate[0]
+                    month = duedate[1]
+                    day = duedate[2]
 
-                if year != "2024":  
-                    Text += f'{item["Code"]} - Year not 2024\n{assessment["Name"]}\n\n'
+                    if year != "2024":  
+                        Text += f'{item["Code"]} - Year not 2024\n{assessment["Name"]}\n\n'
 
-                if not (1 <= int(month) <= 12):
-                    Text += f"{item['Code']} - Invalid Month\n{assessment['Name']}\n\n"
-                if not (1 <= int(day) <= 31):
-                    Text += f"{item['Code']} - Invalid Day\n{assessment['Name']}\n\n"
+                    if not (1 <= int(month) <= 12):
+                        Text += f"{item['Code']} - Invalid Month\n{assessment['Name']}\n\n"
+                    if not (1 <= int(day) <= 31):
+                        Text += f"{item['Code']} - Invalid Day\n{assessment['Name']}\n\n"
+            except TypeError:
+                Text += f'{item["Code"]} - TypeError'
 
     for item in data:
         for key in ["Assessments", "Assessment1"]:
