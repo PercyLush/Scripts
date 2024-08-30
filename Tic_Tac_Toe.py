@@ -36,7 +36,7 @@ def display_board(board):
                 print("\n|", end="")
             print(f"       |", end="")
 
-display_board(board)
+#display_board(board)
 
 def victory_for(board, sign):
     # The function analyzes the board's status in order to check if 
@@ -90,7 +90,7 @@ def enter_move(board):
     if is_winner:
         print("\n\nPlayer Wins!!") 
 
-enter_move(board)
+#enter_move(board)
 
 def make_list_of_free_fields(board):
     # The function browses the board and builds a list of all the free squares; 
@@ -118,6 +118,8 @@ def make_list_of_free_fields(board):
 
 
 def draw_move(board):
+
+    avail_move = make_list_of_free_fields(board)
     # The function draws the computer's move and updates the board.
 
     # from random import randrange
