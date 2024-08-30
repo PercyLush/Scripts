@@ -35,7 +35,9 @@ def display_board(board):
             if xen2 == 0:
                 print("\n|", end="")
             print(f"       |", end="")
-#display_board(board)
+
+display_board(board)
+
 def victory_for(board, sign):
     # The function analyzes the board's status in order to check if 
     # the player using 'O's or 'X's has won the game 
@@ -52,6 +54,7 @@ def victory_for(board, sign):
         elif sign == board[0][num] and sign == board[1][num] and sign == board[2][num]:
             Win = True #Wins [1, 4, 7] [2, 5, 8] [3, 6, 9]
     return Win
+
 def enter_move(board):
     # The function accepts the board's current status, asks the user about their move, 
     # checks the input, and updates the board according to the user's decision.
@@ -86,23 +89,41 @@ def enter_move(board):
 
     if is_winner:
         print("\n\nPlayer Wins!!") 
-#enter_move(board)
+
+enter_move(board)
 
 def make_list_of_free_fields(board):
     # The function browses the board and builds a list of all the free squares; 
     # the list consists of tuples, while each tuple is a pair of row and column numbers.
-    pass
 
+    my_tuple = []
+
+    for num in range(len(board)):
+        for xen in board[num]:
+            subitem_tuple = ()
+            
+            if isinstance(xen, int):
+                if xen >= 1 and xen <= 3:
+                    subitem_tuple = (num, xen-1)
+                    
+                elif xen >= 4 and xen <= 6:
+                    subitem_tuple = (num, xen-4)
+                    
+                elif xen >= 7 and xen <= 9:
+                    subitem_tuple = (num, xen-7)
+
+                my_tuple.append(subitem_tuple)
+    return my_tuple
 
 
 
 def draw_move(board):
     # The function draws the computer's move and updates the board.
+
+    # from random import randrange
+
+    # for i in range(10):
+    #     print(randrange(8))
     pass
 
-
-# from random import randrange
-
-# for i in range(10):
-#     print(randrange(8))
 
