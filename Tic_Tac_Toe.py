@@ -119,7 +119,7 @@ def draw_move(board):
     avail_moves = make_list_of_free_fields(board)
     computer_moves = []
 
-    for num in range(3):
+    for num in range(3): #Only gives the computer the available moves
         if num == 0:
             for xen1 in range(3):
                 if (num, xen1) in avail_moves:
@@ -134,7 +134,8 @@ def draw_move(board):
             for xen3 in range(3):
                 if (num, xen3) in avail_moves:
                     computer_moves.append(xen3+7)
-    if len(computer_moves) > 0:
+
+    if len(computer_moves) > 0: #Ensures there are available moves to play
         move = random.choice(computer_moves)
 
     if len(computer_moves) > 0:
@@ -160,15 +161,13 @@ def draw_move(board):
                         if play3 == move:
                             board[2][play3 - 7] = "X"
 
-    computer_moves = [moves for moves in computer_moves if move != moves]
-
 
 
 win = False #Dummy to start the while loop
 
 while win == False:
     available_moves = make_list_of_free_fields(board)
-    if len(available_moves) < 1:
+    if len(available_moves) < 1: # Checks if there are moves left to play
         print("\nIt's a Tie!")
         win = True
 
@@ -182,9 +181,10 @@ while win == False:
         computer_wins = victory_for(board, "X")
         win = computer_wins
 
-display_board(board)
 if player_wins:
+    display_board(board)
     print("\n\nYou Win!!") 
 
 elif computer_wins:
+    display_board(board)
     print("\n\nYou Lose!!")
