@@ -134,8 +134,8 @@ def draw_move(board):
             for xen3 in range(3):
                 if (num, xen3) in avail_moves:
                     computer_moves.append(xen3+7)
-    
-    move = random.choice(computer_moves)
+    if len(computer_moves) > 0:
+        move = random.choice(computer_moves)
 
     if len(computer_moves) > 0:
         if move >= 1 and move <= 9:
@@ -167,22 +167,24 @@ def draw_move(board):
 win = False #Dummy to start the while loop
 
 while win == False:
-    if len(make_list_of_free_fields(board)) == 0:
+    available_moves = make_list_of_free_fields(board)
+    if len(available_moves) < 1:
+        print("\nIt's a Tie!")
         win = True
 
-    display_board(board)
-    enter_move(board)
-    player_wins = victory_for(board, "O")
-    win = player_wins
+    else:
+        display_board(board)
+        enter_move(board)
+        player_wins = victory_for(board, "O")
+        win = player_wins
 
-    draw_move(board)
-    display_board(board)
-    computer_wins = victory_for(board, "X")
-    win = computer_wins
+        draw_move(board)
+        computer_wins = victory_for(board, "X")
+        win = computer_wins
 
-
+display_board(board)
 if player_wins:
     print("\n\nYou Win!!") 
 
-if computer_wins:
+elif computer_wins:
     print("\n\nYou Lose!!")
