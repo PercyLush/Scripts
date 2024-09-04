@@ -167,19 +167,18 @@ win = False #Dummy to start the while loop
 
 while win == False:
     available_moves = make_list_of_free_fields(board)
-    if len(available_moves) < 1: # Checks if there are moves left to play
-        print("\nIt's a Tie!")
-        win = True
 
-    else:
+    if len(available_moves) > 0: #Checks if there are moves left to play
         display_board(board)
         enter_move(board)
         player_wins = victory_for(board, "O")
-        win = player_wins
 
         draw_move(board)
         computer_wins = victory_for(board, "X")
-        win = computer_wins
+        if player_wins | computer_wins:
+            break #Stops the loop if there is a winner
+    else:
+        print("\nIt's a Tie!")
 
 if player_wins:
     display_board(board)
