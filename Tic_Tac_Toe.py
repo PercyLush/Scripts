@@ -2,7 +2,7 @@ import random
 
 board = [
         [1, 2, 3],
-        [4, 5, 6],
+        [4, "X", 6],
         [7, 8, 9]
     ]
 
@@ -178,7 +178,9 @@ while win == False:
         if player_wins | computer_wins:
             break #Stops the loop if there is a winner
     else:
+        display_board(board)
         print("\nIt's a Tie!")
+        break
 
 if player_wins:
     display_board(board)
