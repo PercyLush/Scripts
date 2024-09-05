@@ -172,10 +172,12 @@ while win == False:
         display_board(board)
         enter_move(board)
         player_wins = victory_for(board, "O")
+        if player_wins:
+            break #Stops the loop if there is a winner
 
-        draw_move(board)
+        draw_move(board)    
         computer_wins = victory_for(board, "X")
-        if player_wins | computer_wins:
+        if computer_wins:
             break #Stops the loop if there is a winner
     else:
         display_board(board)
