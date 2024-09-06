@@ -1,7 +1,7 @@
 import json
 import re
 
-path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University of the Witwatersrand.json"
+path = "C:/Users/Bheki Lushaba/course-data/CourseData_Final/University of the Witwatersrand.json"
 
 with open(path, "r", encoding = "utf-8") as file1:
     data = json.load(file1)
@@ -42,5 +42,5 @@ with open(path, "r", encoding = "utf-8") as file1:
                         for subitem in assessment["Subitems"]:
                             validate(subitem)
 
-with open("C:\\Users\\Bheki Lushaba\\Desktop\\Scripts\\Invalid_DueDates.txt", "w", encoding="utf-8") as file2:
+with open("C:/Users/Bheki Lushaba/Desktop/Scripts/Invalid_DueDates.txt", "w", encoding="utf-8") as file2:
     file2.write(Text)

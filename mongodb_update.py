@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
-cluster = MongoClient("mongodb+srv://percybheki3:8cGbRGgs9FCPOwdA@isitthou.agweefv.mongodb.net/")
-db = cluster["RocketScience"]
+client = MongoClient("")
+db = client["RocketScience"]
 collection = db["ItIsNot"]
 
 user_name = "percybheki3"
@@ -15,3 +15,4 @@ if existing_user:
     print("Updated")
 else:
     print("Does not exist")
+client.close()

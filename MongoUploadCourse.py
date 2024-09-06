@@ -4,7 +4,7 @@ import re
 
 json_path = "C:\\Users\\Bheki Lushaba\\course-data\\CourseData_Final\\University Of Pretoria.json"
 
-Client = MongoClient("mongodb+srv://percybheki3:8cGbRGgs9FCPOwdA@isitthou.agweefv.mongodb.net/")
+Client = MongoClient("")
 db = Client["RocketScience"]
 collection = db["course"]
 

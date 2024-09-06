@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 import json
 
-Client = MongoClient("mongodb+srv://gradesmatch:gm55Y3nmoGdRFdd3s@gradesmatchdev.seham.mongodb.net/test?retryWrites=true&w=majority")
+Client = MongoClient("")
 db = Client["gradesmatch_core"]
 collection = db["user"]
 

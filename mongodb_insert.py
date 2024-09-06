@@ -5,7 +5,7 @@ name = input("enter user_name: ")
 password = getpass.getpass("enter password: ")
 service = input("serive/app name: ")
 
-client = MongoClient("mongodb+srv://percybheki3:8cGbRGgs9FCPOwdA@isitthou.agweefv.mongodb.net/")
+client = MongoClient("")
 db = client["RocketScience"]
 collection = db["ItIsNot"]
 
