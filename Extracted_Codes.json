@@ -1,0 +1,1646 @@
+[
+  {
+    "Code": "SCHB022",
+    "Institution": "University of Limpopo"
+  },
+  {
+    "Code": "SPHA022",
+    "Institution": "University of Limpopo"
+  },
+  {
+    "Code": "APPM221",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "JPO120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "JPO161",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CSC1B10",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "COMS3011A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "COMS3010A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "BUL41B12",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "MBY261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MBY262",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GTS261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PSMH3000A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "OCCT3002A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "PSYC2002A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "VKU224",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "VIM220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PSYC2009A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "SMO281",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "COS341",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "COS330",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CMPG122",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "KOR0000",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "FRK201",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PHYS1034A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "CHEM1051A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "PHYS1033A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "EBN122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INL120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INL140",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SLK120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "KRM120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ALL121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "AIM121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS124",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IHL422",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK382",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "LOG03B32",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "QMSMIB3",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "ENGL1001A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "CSC1B10",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "GOA200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "APPM172",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "NCHE172",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "MTHS172",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "NPHY172",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "EKN234",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "LEK220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EKN244",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MAT100",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "BCM252",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BCM261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ZEN161",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MBY261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SGM221",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FRK122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER210",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS210",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FIL251",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IAU200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ZEN261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PMY320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PSZ310",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PSC321",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EKN234",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EKN244",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PAD122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS124",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF164",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF112",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF171",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INL120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INL140",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CMP282",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GNK483",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EKN120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF164",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS330",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANA226",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "VDS121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK382",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EKN120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CDR300",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "RHC300",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "DIR300",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "RSC300",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STC122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STK353",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PBL320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BWR320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "RHP320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "WTW224",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STK353",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "WTW285",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "COS333",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "COS332",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MBB410",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEL200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EKN120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF112",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF183",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EIR221",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FLG222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FLG221",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SLK220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MCBG2037A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "BOK287",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "DLR320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MBY364",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EFIN1614",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "EFIN1624",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "EIDE1624",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "EQMB1514",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "PMT370S",
+    "Institution": "Cape Peninsula University of Technology"
+  },
+  {
+    "Code": "MES260S",
+    "Institution": "Cape Peninsula University of Technology"
+  },
+  {
+    "Code": "VDS121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SPR421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "APPM222",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "INGC221",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "BOK287",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF370",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "WTW264",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ACT02B2",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "STAT3015A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "STAT3021A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "STAT3021A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "STAT3010A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "SLK120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "KOB281",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS211",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEM212",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS212",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS214",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GMB252",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GMB253",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PVR420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANA121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SIP421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANA122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANA126",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SPR421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ALL124",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEM120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEL200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FAMH1001A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "PHSL2006A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "COMH2000A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "SCMD3000A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "BEL200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEL200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STAE1A1",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "PBL320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PBL320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "DLR320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANP210",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "RAN280",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF272",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF271",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF225",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STC122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FRK122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF112",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS124",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF171",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STC122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS326",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS330",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS370",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS226",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IAU300",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEL300",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IPL320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BDO329",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PAD322",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BDO224",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STC122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PHY141",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANA247",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EFIN1624",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "SIP421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PVR420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CLA420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PBL420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK287",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF183",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "LAWS4065A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "STFM224",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "STOM222",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "STK353",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEM120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GNK485",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STK320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GMB252",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANA247",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ECON324",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "EBUS1624",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "EALL1508",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "MPCA022",
+    "Institution": "University of Limpopo"
+  },
+  {
+    "Code": "AUD300",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "TAX300",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "FMA300",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "ANTH3010A",
+    "Institution": null
+  },
+  {
+    "Code": "ANTH3012A",
+    "Institution": null
+  },
+  {
+    "Code": "ANTH3001A",
+    "Institution": null
+  },
+  {
+    "Code": "ANTH3007A",
+    "Institution": null
+  },
+  {
+    "Code": "HNT220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MTHS129",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "BSCI121",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "GLGC1B1",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "SCA420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PSDE1624",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "CSIL1521",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "PHYE1B1",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "GTS261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "RSM01Y3",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "BUY321",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "TAX2AB00",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "AUD2B012",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "ESS400",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BSCI121",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "MTHS129",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "INF272",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF271",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CHEM2002A",
+    "Institution": null
+  },
+  {
+    "Code": "BCM261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INGM328",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "MCBG3030A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "PHIL1002A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "ANA324",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ANA347",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MDR420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CMPG321",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "CMPG322",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "CMPG323",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "CMPG324",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "SCOA032",
+    "Institution": "University of Limpopo"
+  },
+  {
+    "Code": "BCM261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STK353",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF272",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CSPM479",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "CMPG221",
+    "Institution": null
+  },
+  {
+    "Code": "IURE424",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "IURI424",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "IURI472",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "IURE427",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "MBB410",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IURI423",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "BCM261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "NUR220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF324",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FRK122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER210",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FRK122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF183",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK382",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OTX222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "CLW420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ESS400",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PBL420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PVR420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FRK122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF272",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "AIM121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ALL124",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "VHD320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "DATA2624",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "ODR320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS212",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "TBR420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK284",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INFO1003A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "COS214",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "COS284",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "WTW285",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "LSAE2623",
+    "Institution": "University of Free State"
+  },
+  {
+    "Code": "BOK382",
+    "Institution": null
+  },
+  {
+    "Code": "CMPG122",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "ECAM221",
+    "Institution": null
+  },
+  {
+    "Code": "BOK284",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "AUD300",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "EXE122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SSTA022",
+    "Institution": "University of Limpopo"
+  },
+  {
+    "Code": "SMTA022",
+    "Institution": "University of Limpopo"
+  },
+  {
+    "Code": "PMY121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BWT120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SKE120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GBD122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "HVH101",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ALL124",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STTN327",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "STTN326",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "EKRP321",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "INF261",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PRD270",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GNK483",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GNK485",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MBB410",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EIR221",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EXE121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "LAWS3044A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "CMY283",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEM120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "OBS220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK284",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK287",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MKM321",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MOW323",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BDO329",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IPL320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PRR400",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SPR421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "INF271",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FBS320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MOW323",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MKM321",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "JJHV202",
+    "Institution": "Nelson Mandela Metropolitan University"
+  },
+  {
+    "Code": "PBL420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SIP421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SPR421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EIL420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PVR420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK284",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FSG261",
+    "Institution": null
+  },
+  {
+    "Code": "OCX200",
+    "Institution": null
+  },
+  {
+    "Code": "OTX222",
+    "Institution": null
+  },
+  {
+    "Code": "CMP380",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ITH41B0",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "STFM125",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "EFIN2708",
+    "Institution": null
+  },
+  {
+    "Code": "EMFM2708",
+    "Institution": null
+  },
+  {
+    "Code": "COMS1018A",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "PBL320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BWIA324",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "WTW146",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "WTW148",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STC122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FRK122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BLW250S",
+    "Institution": "Cape Peninsula University of Technology"
+  },
+  {
+    "Code": "RFM260S",
+    "Institution": "Cape Peninsula University of Technology"
+  },
+  {
+    "Code": "LOG250S",
+    "Institution": "Cape Peninsula University of Technology"
+  },
+  {
+    "Code": "RBM260S",
+    "Institution": "Cape Peninsula University of Technology"
+  },
+  {
+    "Code": "ROM260S",
+    "Institution": "Cape Peninsula University of Technology"
+  },
+  {
+    "Code": "IAU200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BEL200",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BER220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "LMNM321",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "LMNM322",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "FLG221",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FLG222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "EXE122",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "BOK121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IHL322",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "NUR320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FRK143",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STK143",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "FLG222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SLK220",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MDB172",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SLK120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "MAT02B3",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "CSC3B10",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "SCL420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "TPI453",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SIP421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SPR421",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ESS400",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PRR400",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PBL420",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "TPI453",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "STK123",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GLY163",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "SLK120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "GMB254",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "IHL222",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "NUR120",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "PBL320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "VHD320",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ACCX171",
+    "Institution": "North-West University"
+  },
+  {
+    "Code": "BDO121",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "NSMS321",
+    "Institution": "North West University"
+  },
+  {
+    "Code": "BEM120",
+    "Institution": null
+  },
+  {
+    "Code": "SCOA032",
+    "Institution": "University of Limpopo"
+  },
+  {
+    "Code": "PFFCHB2",
+    "Institution": "University of Johannesburg"
+  },
+  {
+    "Code": "WST221",
+    "Institution": "University of Pretoria"
+  },
+  {
+    "Code": "ACCN3013A(FYR)",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "ACCN3001A(FYR)",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "ACCN3015A(FYR)",
+    "Institution": "University of the Witwatersrand"
+  },
+  {
+    "Code": "ACCN3007A(FYR)",
+    "Institution": "University of the Witwatersrand"
+  }
+]

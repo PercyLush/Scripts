@@ -109,29 +109,5 @@ University of Cape Town-HSE1001F
 University of Cape Town-AHS1061F 
 University of Cape Town-AHS1060F 
 University of Cape Town-AHS1063F 
-University of Free State-GEOH1614 
-University of KwaZulu-Natal-ENAG1DE 
-University of KwaZulu-Natal-ENME1EM 
-University of KwaZulu-Natal-PHYS120 
-University of KwaZulu-Natal-ENME2WS 
-University of KwaZulu-Natal-ENME4VW 
-University of KwaZulu-Natal-LAWS4PT 
-University of KwaZulu-Natal-LAWS4RP Weight not available
-University of KwaZulu-Natal-LAWS4RP Weight not available
-University of KwaZulu-Natal-LAWS4RP Weight not available
-University of KwaZulu-Natal-LAWS4RP Weight not available
-University of KwaZulu-Natal-LAWS4RP 
-University of KwaZulu-Natal-LAWS2LR 
-University of KwaZulu-Natal-POLS206 Weight not available
-University of KwaZulu-Natal-POLS206 Weight not available
-University of KwaZulu-Natal-POLS206 
-University of KwaZulu-Natal-EDTP220 Weight not available
-University of KwaZulu-Natal-EDTP220 Weight not available
-University of KwaZulu-Natal-EDTP220 
-University of KwaZulu-Natal-EDGG201 
-University of KwaZulu-Natal-EDHS201 
-University of KwaZulu-Natal-EDHS301 
-University of KwaZulu-Natal-EDHS401 
-University of KwaZulu-Natal-EDCM101 
 University of Pretoria-RRP200 
 University of South Africa-MNM2607 
