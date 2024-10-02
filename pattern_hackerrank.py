@@ -12,24 +12,49 @@
 # ------.|..|..|..|..|.------
 # ---------.|..|..|.---------
 # ------------.|.------------
+    
+# Size: 11 x 33
+# ---------------.|.---------------
+# ------------.|..|..|.------------
+# ---------.|..|..|..|..|.---------
+# ------.|..|..|..|..|..|..|.------
+# ---.|..|..|..|..|..|..|..|..|.---
+# -------------WELCOME-------------
+# ---.|..|..|..|..|..|..|..|..|.---
+# ------.|..|..|..|..|..|..|.------
+# ---------.|..|..|..|..|.---------
+# ------------.|..|..|.------------
+# ---------------.|.---------------
+
+# Size: 7 x 21 
+# ---------.|.---------
+# ------.|..|..|.------
+# ---.|..|..|..|..|.---
+# -------WELCOME-------
+# ---.|..|..|..|..|.---
+# ------.|..|..|.------
+# ---------.|.---------
 
 N = int(input())
 M = 3 * N
 
-if 5 < N < 101 and 15 < M < 303:
-    xenex = 1
-    for num in range(1, N + 1):
-        welcome = int(((N - 1)/2) +1)
-        for xen in range(1):
-            if num == welcome:
-                print("WELCOME")
+welcome_index = ((N - 1)/2) + 1
+welcome_dash = int((M - 7)/2)
+stick_num1 = 0
+counter = 0
+for num in range(1, N + 1):
 
-            else:
-                if num > welcome:
-                    print("-" * (M - xenex/2), ".|." * xenex, "-" * (M - xenex/2))
-                    xenex -= 2
-                else:
-                    print( "-" * (M - xenex/2), ".|." * xenex, "-" * (M - xenex/2))
-                    xenex += 2
+    if num < welcome_index:
+        #print("-", end="")
+        print(".|."*(num+stick_num1))
+        #print("-")
+        stick_num1 += 1
 
+    elif num == welcome_index:
+        print(f'{"-"*welcome_dash}{"WELCOME"}{"-"*welcome_dash}')
     
+    elif num > welcome_index:
+        #print("-", end="")
+        print(".|."*(num-counter))
+        #print("-")
+        counter += 3
